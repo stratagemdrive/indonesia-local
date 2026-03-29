@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia Encourages the Role of Multilateral Diplomacy in Iran-US Mediation Opportunities",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tcnmpc291/indonesia-dorong-peran-diplomasi-multilateral-dalam-peluang-mediasi-iranas",
+      "published_date": "2026-03-29T09:36:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Lessons from Mataram for a More Resilient Indonesia",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tclzyl451/pelajaran-dari-mataram-untuk-indonesia-yang-lebih-tangguh",
@@ -119,6 +126,27 @@
   ],
   "Economy": [
     {
+      "title": "Having Paid IDR 62 Thousand, Kramat Jati Main Market Traders' Trash Piles Up Up To 6 Meters",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcnsn2483/sudah-bayar-rp62-ribu-sampah-pedagang-pasar-induk-kramat-jati-menumpuk-hingga-6-meter",
+      "published_date": "2026-03-29T11:45:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Small Island with a Big Role for Migratory Birds and Water Birds Special Content",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tcnr911995798730/pulau-kecil-dengan-peran-besar-bagi-burung-migran-dan-burung-air-special-content",
+      "published_date": "2026-03-29T11:15:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Finance Approves MBG Efficiency As Long As It Doesn't Reduce Food Quality",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcnq2m483/menkeu-setujui-efisiensi-mbg-asal-tak-kurangi-kualitas-makanan",
+      "published_date": "2026-03-29T10:49:34+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Thousands of Jakarta Residents are Enthusiastic about Joining the Cheap Market at Monas During the Eid Holidays",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tcm8za375/ribuan-warga-jakarta-antusias-ikuti-pasar-murah-di-monas-saat-libur-lebaran",
@@ -127,6 +155,62 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "BRILiaN Tompobulu Village: Synergy of Local Potential and Digitalization to Drive a Sustainable Economy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcnspd472/desa-brilian-tompobulu-sinergi-potensi-lokal-dan-digitalisasi-dorong-ekonomi-berkelanjutan",
+      "published_date": "2026-03-29T11:46:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Central Java Regional Police Investigate Case of Alleged Sexual Harassment Involving PB HMI Management",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tcnsgj282/polda-jateng-dalami-kasus-dugaan-pelecehan-seksual-libatkan-pengurus-pb-hmi",
+      "published_date": "2026-03-29T11:41:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gold Price Fails to Reach IDR 3 Million Next Week, Here's the Reason",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcnrzs423/harga-emas-gagal-tembus-rp-3-juta-pekan-depan-ini-penyebabnya",
+      "published_date": "2026-03-29T11:31:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ambon Students Admit They Live Healthier Without Scrolling Social Media All Day",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcnp2x451/pelajar-ambon-akui-hidup-lebih-sehat-tanpa-scroll-medsos-seharian",
+      "published_date": "2026-03-29T11:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Provincial Government Allocates IDR 77.5 Billion for Revitalization of the Jakarta Pavilion at TMII",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcnpty484/pemprov-dki-alokasikan-rp-775-miliar-revitalisasi-anjungan-jakarta-di-tmii",
+      "published_date": "2026-03-29T10:44:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BGN Threatens to Stop Operations of Partners Performing Mark Up Prices for MBG Raw Materials",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcnp4j483/bgn-ancam-hentikan-operasional-mitra-pelaku-mark-up-harga-bahan-baku-mbg",
+      "published_date": "2026-03-29T10:29:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Kudus Residents 'Storm' Colo Village for Ketupat and Lepet",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcnofj451/ribuan-warga-kudus-serbu-desa-colo-demi-ketupat-dan-lepet",
+      "published_date": "2026-03-29T10:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "12 Year Old Boy Gives Surprising Answer When Asked by Deputy Minister About Social Media Restrictions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcno8m451/bocah-12-tahun-beri-jawaban-mengejutkan-saat-ditanya-wamen-soal-pembatasan-medsos",
+      "published_date": "2026-03-29T10:09:58+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Jorge Martin Takes Victory in the 2026 American MotoGP Sprint Race After a Hot Duel with Bagnaia",
       "source": "Republika English",
