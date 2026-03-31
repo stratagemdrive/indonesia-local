@@ -31,6 +31,13 @@
   ],
   "Military": [
     {
+      "title": "Two TNI Personnel Died in Explosion in Lebanon, Victim ZA from Kopassus",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcqj7q484/dua-personel-tni-gugur-kena-ledakan-di-lebanon-korban-za-dari-kopassus",
+      "published_date": "2026-03-30T23:14:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Collaborating with TNI, Muhammadiyah Campus Successfully Creates Anti-Aircraft War Missiles, Could Become Iron Domes",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tcpvou320/gendeng-tni-kampus-muhammadiyah-sukses-buat-rudal-perang-antipesawat-bisa-jadi-iron-dome",
@@ -131,6 +138,20 @@
   ],
   "Energy": [
     {
+      "title": "Angga Yunanda Becomes a Silver Man, Cleans His Paint Using Baby Oil for 1 Hour",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tcql11425/angga-yunanda-jadi-manusia-silver-bersihin-catnya-pakai-baby-oil-1-jam",
+      "published_date": "2026-03-30T23:53:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "BMKG Predicts 57.2 Percent of Areas in Indonesia Will Face Long Drought",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tcq7xr375/bmkg-prediksi-572-persen-wilayah-di-indonesia-akan-hadapi-kemarau-panjang",
+      "published_date": "2026-03-30T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamax price will increase to IDR 17 thousand? This is what Pertamina said",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tcpr6n502/harga-pertamax-akan-naik-jadi-rp17-ribu-ini-kata-pertamina",
@@ -150,16 +171,16 @@
       "url": "https://news.republika.co.id/berita/tcmfc84330000/bulog-tulungagung-siapkan-penyaluran-bantuan-pangan-usai-lebaran",
       "published_date": "2026-03-28T18:00:08+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Can Indonesia survive energy crisis as Iran war sends oil prices through the roof?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/can-indonesia-survive-energy-crisis-as-iran-war-sends-oil-prices-through-the-roof/",
-      "published_date": "2026-03-23T22:35:55+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Can the Red and White Cooperative Become Hope for Micro-Ultra Micro Enterprises?",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tcql7n458/mampukah-koperasi-merah-putih-jadi-harapan-bagi-usaha-mikroultra-mikro",
+      "published_date": "2026-03-30T23:57:23+00:00",
+      "category": "Economy"
+    },
     {
       "title": "New Industrial Area Opens in Lamongan, Encouraging Investment and Employment",
       "source": "Republika English",
@@ -204,6 +225,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Erick Thohir Praises the Indonesian National Team's Game Even though They Failed to Win the FIFA Series",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcqli3348/erick-thohir-puji-permainan-timnas-indonesia-walau-gagal-juara-fifa-series",
+      "published_date": "2026-03-31T00:03:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Candidates in Batang Undergo Fitness Tests Before Departing for the Holy Land",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tcq804375/calon-haji-di-batang-jalani-tes-kebugaran-sebelum-berangkat-ke-tanah-suci",
+      "published_date": "2026-03-31T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "His sincerity was praised by the Prophet",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcpoxf458/keikhlasannya-dipuji-rasulullah",
+      "published_date": "2026-03-30T23:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mario Aji Regrets the Mistake of Wasting the Opportunity Before His Eyes When He Had the Chance to Win Points in Moto2",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcqjfv348/mario-aji-sesali-kesalahan-buang-peluang-di-depan-mata-saat-punya-kesempatan-raih-poin-di-moto2",
+      "published_date": "2026-03-30T23:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Late goal brings Germany to beat Ghana 2-1, Deniz Undav: Perfect night",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcqj7b348/gol-telatnya-bawa-jerman-tundukkan-ghana-21-deniz-undav-malam-sempurna",
+      "published_date": "2026-03-30T23:13:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 World Cup Qualification Schedule: Last Six Tickets Up for grabs Starting Early Wednesday WIB",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcqitg348/jadwal-kualifikasi-piala-dunia-2026-enam-tiket-terakhir-diperebutkan-mulai-rabu-dini-hari-wib",
+      "published_date": "2026-03-30T23:05:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DHL Expansion in South Jakarta Strengthens MSME and E-Commerce Ecosystem",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcqit6370/ekspansi-dhl-di-jakarta-selatan-perkuat-ekosistem-umkm-dan-ecommerce",
+      "published_date": "2026-03-30T23:05:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why did the Koran come down gradually?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcpomv458/mengapa-alquran-turun-secara-berangsurangsur",
+      "published_date": "2026-03-30T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The president who cried wolf? Why Prabowo’s anti-foreign rhetoric is dangerous",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/the-president-who-cried-wolf-why-prabowos-anti-foreign-rhetoric-is-dangerous/",
+      "published_date": "2026-03-30T22:18:03+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Husband and Wife in the World, Will They Get Together Again in the Afterlife?",
       "source": "Republika English",
@@ -279,69 +363,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcoap88630000/pemprov-kalbar-prioritaskan-perbaikan-jalan-rusak-berat",
       "published_date": "2026-03-29T18:15:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Public Works Suggests that Pekalongan Becomes a Priority for Sea Wall Construction",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcoa0y1030000/menteri-pu-usulkan-pekalongan-jadi-prioritas-pembangunan-tanggul-laut",
-      "published_date": "2026-03-29T18:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BRILiaN Tompobulu Village: Synergy of Local Potential and Digitalization to Drive a Sustainable Economy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcnspd472/desa-brilian-tompobulu-sinergi-potensi-lokal-dan-digitalisasi-dorong-ekonomi-berkelanjutan",
-      "published_date": "2026-03-29T11:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Java Regional Police Investigate Case of Alleged Sexual Harassment Involving PB HMI Management",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tcnsgj282/polda-jateng-dalami-kasus-dugaan-pelecehan-seksual-libatkan-pengurus-pb-hmi",
-      "published_date": "2026-03-29T11:41:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold Price Fails to Reach IDR 3 Million Next Week, Here's the Reason",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcnrzs423/harga-emas-gagal-tembus-rp-3-juta-pekan-depan-ini-penyebabnya",
-      "published_date": "2026-03-29T11:31:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ambon Students Admit They Live Healthier Without Scrolling Social Media All Day",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcnp2x451/pelajar-ambon-akui-hidup-lebih-sehat-tanpa-scroll-medsos-seharian",
-      "published_date": "2026-03-29T11:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DKI Provincial Government Allocates IDR 77.5 Billion for Revitalization of the Jakarta Pavilion at TMII",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcnpty484/pemprov-dki-alokasikan-rp-775-miliar-revitalisasi-anjungan-jakarta-di-tmii",
-      "published_date": "2026-03-29T10:44:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BGN Threatens to Stop Operations of Partners Performing Mark Up Prices for MBG Raw Materials",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcnp4j483/bgn-ancam-hentikan-operasional-mitra-pelaku-mark-up-harga-bahan-baku-mbg",
-      "published_date": "2026-03-29T10:29:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Kudus Residents 'Storm' Colo Village for Ketupat and Lepet",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcnofj451/ribuan-warga-kudus-serbu-desa-colo-demi-ketupat-dan-lepet",
-      "published_date": "2026-03-29T10:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 Year Old Boy Gives Surprising Answer When Asked by Deputy Minister About Social Media Restrictions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcno8m451/bocah-12-tahun-beri-jawaban-mengejutkan-saat-ditanya-wamen-soal-pembatasan-medsos",
-      "published_date": "2026-03-29T10:09:58+00:00",
       "category": "Local Events"
     }
   ]
