@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "South Korea is scheduled to sign an agreement to export 16 Boramae jets to Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcsfi2484/korsel-dijadwalkan-teken-kesepakatan-ekspor-16-jet-boramae-ke-indonesia",
+      "published_date": "2026-03-31T23:49:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Israel Attacks Indonesian Peace Force Headquarters in Lebanon, Some Are Killed",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcomc3393/israel-serang-markas-pasukan-perdamaian-indonesia-di-lebanon-ada-yang-gugur",
@@ -30,6 +37,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "UN Investigation: TNI Soldier Died Shot by Israeli Tank",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcscla393/investigasi-pbb-prajurit-tni-gugur-ditembak-tank-israel",
+      "published_date": "2026-03-31T22:46:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI Soldier Dies in Lebanon Due to Artillery Attack",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcsbuf130000/prajurit-tni-gugur-di-lebanon-akibat-serangan-artileri",
+      "published_date": "2026-03-31T22:30:15+00:00",
+      "category": "Military"
+    },
     {
       "title": "Government Saves Up to IDR 130 Trillion from Cuts on Official Travel and Ceremonies",
       "source": "Republika English",
@@ -155,23 +176,16 @@
       "url": "https://news.republika.co.id/berita/tcm49k484/daftar-pati-tni-yang-disebutsebut-calon-kabais",
       "published_date": "2026-03-28T14:00:56+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Mahfud MD Remembers Former Minister of Defense Juwono Sudarsono as a Great Scientist",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcm1os415/mahfud-md-kenang-mantan-menhan-juwono-sudarsono-sebagai-ilmuwan-besar",
-      "published_date": "2026-03-28T13:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Talking Indonesia: Papua, development and politics from below",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-papua-development-and-politics-from-below/",
-      "published_date": "2026-03-25T22:44:26+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Fuel prices do not increase, Pertamina asks the public not to panic buy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcsg5c490/harga-bbm-tidak-naik-pertamina-minta-masyarakat-tak-perlu-panic-buying",
+      "published_date": "2026-04-01T00:03:12+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina finally announces that fuel prices will not increase, but residents are panic buying",
       "source": "Republika English",
@@ -282,6 +296,41 @@
   ],
   "Local Events": [
     {
+      "title": "Gattuso apologizes for failing to take Italy to the World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcse76348/gattuso-minta-maaf-gagal-bawa-italia-ke-piala-dunia",
+      "published_date": "2026-03-31T23:21:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bringing Our 'Living Room' Back to Life",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tcquvd393/menghidupkan-kembali-ruang-tamu-kita",
+      "published_date": "2026-03-31T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tuchel admits Harry Kane's absence made things difficult for England when they were defeated by Japan 0-1",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcscx6348/tuchel-akui-absennya-harry-kane-sulitkan-inggris-saat-dikalahkan-jepang-01",
+      "published_date": "2026-03-31T22:53:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Minister of Foreign Affairs of Muslim Countries Condemns Israel's Ban on Worship at the Al Aqsa Mosque and the Church of the Holy Sepulchre",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcsc1k483/menlu-negara-muslim-kecam-pelarangan-ibadah-di-masjid-al-aqsa-dan-gereja-makam-suci-oleh-israel",
+      "published_date": "2026-03-31T22:34:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "46 Countries Have Qualified for the 2026 World Cup, Here's the List",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcsbzs348/46-negara-sudah-lolos-ke-piala-dunia-2026-ini-daftarnya",
+      "published_date": "2026-03-31T22:33:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "The closure of the Al-Aqsa Mosque is considered to violate religious freedom, BSMI urges the UN to take action",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tcrplg430/penutupan-masjid-alaqsa-dinilai-langgar-kebebasan-beragama-bsmi-mendesak-pbb-bertindak",
@@ -384,41 +433,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcpthu348/babak-i-indonesia-tertinggal-01-dari-penalti-bulgaria-di-final-fifa-series-2026",
       "published_date": "2026-03-30T13:58:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Herdman Changes the Composition of the National Team's Starting XI in the 2026 FIFA Series Final, Audero in goal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcpqca348/john-herdman-ubah-komposisi-starting-xi-timnas-di-final-fifa-series-2026-audero-di-bawah-mistar",
-      "published_date": "2026-03-30T12:50:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Sulawesi Provincial Government Prioritizes Repair of Moncongloe Road",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcolt97230000/pemprov-sulsel-prioritaskan-perbaikan-jalan-moncongloe",
-      "published_date": "2026-03-29T22:15:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Employee's Body Found in Freezer at Ayam Geprek Bekasi Kiosk",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcofke3730000/mayat-pegawai-ditemukan-dalam-freezer-di-kios-ayam-geprek-bekasi",
-      "published_date": "2026-03-29T20:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jasa Marga: 2026 Trans Java Toll Road Backflow Starting to Slow Down",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcoev54730000/jasa-marga-arus-balik-tol-trans-jawa-2026-mulai-melandai",
-      "published_date": "2026-03-29T19:45:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bekasi residents are shocked by the discovery of a body in the freezer of a Geprek Chicken Stall",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcodh83030000/warga-bekasi-geger-temuan-mayat-dalam-freezer-kios-ayam-geprek",
-      "published_date": "2026-03-29T19:15:08+00:00",
       "category": "Local Events"
     }
   ]
