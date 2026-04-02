@@ -38,6 +38,34 @@
   ],
   "Military": [
     {
+      "title": "Tsunami Warning! Magnitude 7.6 earthquake in the North Maluku Sea",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu97q393/peringatan-tsunami-gempa-magnitudo-76-di-laut-maluku-utara",
+      "published_date": "2026-04-01T23:28:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas Pays Honor to TNI Soldier Martyrs in Lebanon",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu60z393/hamas-beri-penghormatan-para-syuhada-prajurit-tni-di-lebanon",
+      "published_date": "2026-04-01T22:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Murder Suspects in Southeast Maluku Arrested by Police",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu5483530000/dua-tersangka-pembunuhan-di-maluku-tenggara-ditangkap-polisi",
+      "published_date": "2026-04-01T22:00:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI Gives Posthumous Promotion to Soldiers Fallen in Lebanon",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu4lu2830000/tni-beri-kenaikan-pangkat-anumerta-untuk-prajurit-gugur-di-lebanon",
+      "published_date": "2026-04-01T21:49:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The repatriation of Praka Farizal's body is still hampered by the closure of civil flights",
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tctl7w282/pemulangan-jenazah-praka-farizal-masih-terkendala-penutupan-penerbangan-sipil",
@@ -148,37 +176,16 @@
       "url": "https://news.republika.co.id/berita/tcmoop485/iran-siapkan-8-lapis-pasukan-untuk-melumpuhkan-invasi-darat-aszionis",
       "published_date": "2026-03-28T21:22:01+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PSSI Awards 2026: Night of Appreciation for All Indonesian Football People",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcmi4c8330000/pssi-awards-2026-malam-apresiasi-bagi-seluruh-insan-sepak-bola-indonesia",
-      "published_date": "2026-03-28T19:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vehicle Volume at Cikampek Utama GT Decreases on H+7 of Eid",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcmgqa930000/volume-kendaraan-di-gt-cikampek-utama-menurun-pada-h7-lebaran",
-      "published_date": "2026-03-28T18:30:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "National Police Chief Says Number of Accidents During Eid 2026 Will Drop by 7.8 Percent",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tclz2h415/kapolri-sebut-jumlah-kecelakaan-selama-lebaran-2026-turun-78-persen",
-      "published_date": "2026-03-28T15:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Red and White Kopdes Expands: From Banjarmasin to Papua",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcm07t451/kopdes-merah-putih-meluas-dari-banjarmasin-hingga-papua",
-      "published_date": "2026-03-28T14:03:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "3 Analysts Uncover the Big Scenario Behind the Paralysis of the Strait of Hormuz",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu9tn451/3-analis-bongkar-skenario-besar-di-balik-lumpuhnya-selat-hormuz",
+      "published_date": "2026-04-01T23:41:47+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Fuel prices do not increase, Pertamina asks the public not to panic buy",
       "source": "Republika English",
@@ -296,6 +303,48 @@
   ],
   "Local Events": [
     {
+      "title": "Indonesian prisons are going green. Here’s how to make it work.",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesian-prisons-are-going-green-heres-how-to-make-it-work/",
+      "published_date": "2026-04-01T23:59:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France returns to the top of the FIFA ranking, Indonesia is in 122nd position",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcua83348/prancis-kembali-ke-puncak-ranking-fifa-indonesia-di-posisi-122",
+      "published_date": "2026-04-01T23:50:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Adam to Muhammad: Tracing the Sacred Scriptures that Shake History",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tcu7x6451/dari-adam-ke-muhammad-menelusuri-nasab-suci-yang-menggetarkan-sejarah",
+      "published_date": "2026-04-01T23:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seeing the Evacuation Process for the Ciremai Train which Derailed in West Bandung",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tctuga375/melihat-proses-evakuasi-ka-ciremai-yang-anjlok-di-bandung-barat",
+      "published_date": "2026-04-01T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arne Slot Hopes Salah's Last Season Will Be Liverpool's Motivation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu7789830000/arne-slot-harapkan-musim-terakhir-salah-jadi-motivasi-liverpool",
+      "published_date": "2026-04-01T22:45:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foreign Tourist Visits to South Sulawesi Reach 2,925 in Early 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcu5tc8630000/kunjungan-wisatawan-mancanegara-ke-sulsel-capai-2925-pada-awal-2026",
+      "published_date": "2026-04-01T22:15:12+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Proven to have received Rp. 137 billion in gratuities, Nurhadi was sentenced to 5 years in prison",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tctlbg375/terbukti-terima-gratifikasi-rp137-miliar-nurhadi-divonis-5-tahun-penjara",
@@ -391,48 +440,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcscx6348/tuchel-akui-absennya-harry-kane-sulitkan-inggris-saat-dikalahkan-jepang-01",
       "published_date": "2026-03-31T22:53:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Foreign Affairs of Muslim Countries Condemns Israel's Ban on Worship at the Al Aqsa Mosque and the Church of the Holy Sepulchre",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcsc1k483/menlu-negara-muslim-kecam-pelarangan-ibadah-di-masjid-al-aqsa-dan-gereja-makam-suci-oleh-israel",
-      "published_date": "2026-03-31T22:34:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "46 Countries Have Qualified for the 2026 World Cup, Here's the List",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcsbzs348/46-negara-sudah-lolos-ke-piala-dunia-2026-ini-daftarnya",
-      "published_date": "2026-03-31T22:33:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The closure of the Al-Aqsa Mosque is considered to violate religious freedom, BSMI urges the UN to take action",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcrplg430/penutupan-masjid-alaqsa-dinilai-langgar-kebebasan-beragama-bsmi-mendesak-pbb-bertindak",
-      "published_date": "2026-03-31T14:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eid train passengers reach 4.9 million, up 25.7 percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcrjzx349/penumpang-kereta-lebaran-tembus-49-juta-naik-257-persen",
-      "published_date": "2026-03-31T14:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erick Thohir Praises the Indonesian National Team's Game Even though They Failed to Win the FIFA Series",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcqli3348/erick-thohir-puji-permainan-timnas-indonesia-walau-gagal-juara-fifa-series",
-      "published_date": "2026-03-31T00:03:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Candidates in Batang Undergo Fitness Tests Before Departing for the Holy Land",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tcq804375/calon-haji-di-batang-jalani-tes-kebugaran-sebelum-berangkat-ke-tanah-suci",
-      "published_date": "2026-03-31T00:00:00+00:00",
       "category": "Local Events"
     }
   ]
