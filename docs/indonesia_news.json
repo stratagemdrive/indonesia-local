@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "East Kalimantan Disbun Trains Farmers in 4 Regions to Handle Plantation Products",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcw1v93030000/disbun-kaltim-latih-petani-4-daerah-tangani-hasil-perkebunan",
+      "published_date": "2026-04-02T22:45:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DPRD and Madiun City Government Agree on 17 Draft Regional Regulations to Become Regional Regulations",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvvpi130000/dprd-dan-pemkot-madiun-sepakati-17-raperda-jadi-perda",
+      "published_date": "2026-04-02T20:32:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "South Korea is scheduled to sign an agreement to export 16 Boramae jets to Indonesia",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcsfi2484/korsel-dijadwalkan-teken-kesepakatan-ekspor-16-jet-boramae-ke-indonesia",
@@ -37,6 +51,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Unifil Holds Tribute Ceremony in Beirut After Three TNI Personnel Die",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcw3wf484/unifil-gelar-upacara-penghormatan-di-beirut-lepas-tiga-personel-tni-gugur",
+      "published_date": "2026-04-02T23:29:03+00:00",
+      "category": "Military"
+    },
     {
       "title": "TNI Dies in Lebanon, Al Irsyad Al Islamiyyah Urges Government to Take Firm Stand",
       "source": "Republika English",
@@ -169,16 +190,16 @@
       "url": "https://news.republika.co.id/berita/tcmu1r348/erick-thohir-fifa-series-2026-jadi-ujian-dan-fondasi-timnas-menuju-laga-besar",
       "published_date": "2026-03-28T23:30:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Rizky Ridho Wins Best Goal at PSSI Awards, Emphasizes Not Consolation for Failing at Puskas Awards",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcmtm2348/rizky-ridho-raih-gol-terbaik-pssi-awards-tegaskan-bukan-pelipur-lara-gagal-di-penghargaan-puskas",
-      "published_date": "2026-03-28T23:15:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Fierce Final Four Proliga Surabaya Match, Electric PLN Mobile Beats Pertamina Enduro 3-2",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcw3j1368/laga-sengit-final-four-proliga-surabaya-electric-pln-mobile-tumbangkan-pertamina-enduro-32",
+      "published_date": "2026-04-02T23:21:01+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina and POSCO International Explore Collaboration in Developing Low Carbon Technology",
       "source": "Republika English",
@@ -266,6 +287,41 @@
   ],
   "Economy": [
     {
+      "title": "Pupuk Indonesia Prioritizes Domestic Needs Before Urea Exports",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcw0h91830000/pupuk-indonesia-utamakan-kebutuhan-domestik-sebelum-ekspor-urea",
+      "published_date": "2026-04-02T22:15:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bulog Withdraws Stock of Standby Rice at Airports After Sumatra Conditions Improve",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvwfl530000/bulog-tarik-stok-beras-siaga-di-bandara-setelah-kondisi-sumatera-membaik",
+      "published_date": "2026-04-02T20:47:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Menekraf Prepares Creative Services Guidelines to Prevent Legal Problems",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvvun6130000/menekraf-susun-pedoman-jasa-kreatif-untuk-cegah-persoalan-hukum",
+      "published_date": "2026-04-02T20:35:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Government Encourages the Establishment of Creative Economy Services in the Regions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvvs78330000/pemerintah-dorong-pembentukan-dinas-ekonomi-kreatif-di-daerah",
+      "published_date": "2026-04-02T20:33:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SUPER MiLD Launches Hair Care Products in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvvrx3730000/super-mild-luncurkan-produk-perawatan-rambut-di-indonesia",
+      "published_date": "2026-04-02T20:33:33+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Laboratory Market Reaches 3.1 Billion US Dollars, Indonesian Labs Encourage Industrial Competitiveness",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tcvesv370/pasar-laboratorium-tembus-31-miliar-dolar-as-lab-indonesia-dorong-daya-saing-industri",
@@ -323,6 +379,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Jakarta's Air Quality is Unhealthy for Sensitive Groups",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcw16a7230000/kualitas-udara-jakarta-tidak-sehat-bagi-kelompok-sensitif",
+      "published_date": "2026-04-02T22:30:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor of Maluku Encourages Synchronization of Natural Resources for Maritime Defense",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvzsd5430000/gubernur-maluku-dorong-sinkronisasi-sda-untuk-pertahanan-maritim",
+      "published_date": "2026-04-02T22:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coordinating Ministry for PM Evaluation of People's Schools in Malang for Poverty Alleviation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvvu23830000/kemenko-pm-evaluasi-sekolah-rakyat-di-malang-untuk-pengentasan-kemiskinan",
+      "published_date": "2026-04-02T20:34:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG: Jakarta is predicted to experience light rain on Friday",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcvvqa2930000/bmkg-jakarta-diprediksi-alami-hujan-ringan-pada-jumat",
+      "published_date": "2026-04-02T20:32:34+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Half of its graduates are absorbed in the world of work, UIN Jakarta increases competitiveness",
       "source": "Republika English",
@@ -433,34 +517,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tctj85451/granat-aktif-ditemukan-di-area-bpn-makassar-tim-gegana-lakukan-disposal",
       "published_date": "2026-04-01T14:07:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caring for Palestine: PPDI PT IPC Terminal Peti Kemas Distributes Aid Through Adara",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcthwl318/peduli-palestina-ppdi-pt-ipc-terminal-peti-kemas-salurkan-bantuan-melalui-adara",
-      "published_date": "2026-04-01T13:42:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Immipas Appoints Director General of Immigration and Expert Staff",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcti1t416/menteri-imipas-lantik-dirjen-imigrasi-hingga-staf-ahli",
-      "published_date": "2026-04-01T13:41:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Regulations to Protect Children in the Digital Space, What are the Impacts?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcth7m451/regulasi-baru-lindungi-anak-di-ruang-digital-apa-saja-dampaknya",
-      "published_date": "2026-04-01T13:23:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baznas and Enesis Run a Program to Scent 100 Radiant Mosques",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tctgzq349/baznas-dan-enesis-jalankan-program-wangikan-100-masjid-berseri",
-      "published_date": "2026-04-01T13:19:02+00:00",
       "category": "Local Events"
     }
   ]
