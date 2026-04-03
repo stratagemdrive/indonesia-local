@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Iranian Ambassador: Zionists Oppose All Religions, Including Jews",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcwzvp483/dubes-iran-zionis-menentang-semua-agama-termasuk-yahudi",
+      "published_date": "2026-04-03T10:59:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From Slum to Livable, 152 Houses in Menteng Tenggulun Renovated",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tcwz0y375/dari-kumuh-ke-layak-huni-152-rumah-di-menteng-tenggulun-direnovasi",
+      "published_date": "2026-04-03T10:41:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This is a threat of punishment for prospective illegal Hajj pilgrims who can enter Saudi Arabia",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcwycv483/ini-ancaman-hukuman-bagi-calon-jamaah-haji-ilegal-yang-bisa-masuk-ke-arab-saudi",
+      "published_date": "2026-04-03T10:26:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "East Kalimantan Disbun Trains Farmers in 4 Regions to Handle Plantation Products",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcw1v93030000/disbun-kaltim-latih-petani-4-daerah-tangani-hasil-perkebunan",
@@ -51,6 +72,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Approaching this moment, Trump wants to end the war against Iran",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcx2jd430/menjelang-momen-ini-trump-ingin-akhiri-perang-lawan-iran",
+      "published_date": "2026-04-03T11:57:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Series of Serious Violations Committed by the US During the War in Iran",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcx1d7483/deretan-pelanggaran-berat-yang-dilakukan-as-selama-perang-di-iran",
+      "published_date": "2026-04-03T11:31:55+00:00",
+      "category": "Military"
+    },
     {
       "title": "Unifil Holds Tribute Ceremony in Beirut After Three TNI Personnel Die",
       "source": "Republika English",
@@ -176,23 +211,23 @@
       "url": "https://khazanah.republika.co.id/berita/tcpvou320/gendeng-tni-kampus-muhammadiyah-sukses-buat-rudal-perang-antipesawat-bisa-jadi-iron-dome",
       "published_date": "2026-03-30T14:46:06+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Kakorlantas: Homecoming and returning flows for Eid 2026 are under control",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcocsc7330000/kakorlantas-arus-mudik-dan-balik-lebaran-2026-terkendali",
-      "published_date": "2026-03-29T19:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erick Thohir: FIFA Series 2026 is a test and foundation for the national team towards the big match",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcmu1r348/erick-thohir-fifa-series-2026-jadi-ujian-dan-fondasi-timnas-menuju-laga-besar",
-      "published_date": "2026-03-28T23:30:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina NRE-US Grains & BioProducts Council Strengthens Knowledge Exchange for Bioethanol Development",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcwzk3472/pertamina-nreus-grains-bioproducts-council-perkuat-knowledge-exchange-pengembangan-bioetanol",
+      "published_date": "2026-04-03T10:52:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PGN President Commissioner Uses CNG in Private Vehicles, Encourages National Energy Security",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcwx8g522/komisaris-utama-pgn-gunakan-bbg-di-kendaraan-pribadi-dorong-ketahanan-energi-nasional",
+      "published_date": "2026-04-03T10:02:40+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Fierce Final Four Proliga Surabaya Match, Electric PLN Mobile Beats Pertamina Enduro 3-2",
       "source": "Republika English",
@@ -287,6 +322,13 @@
   ],
   "Economy": [
     {
+      "title": "Waqf Certification Must Be Upgraded, from Legality and Competency to Real Impact",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tcwxho472/sertifikasi-wakaf-harus-naik-kelas-dari-legalitas-dan-kompetensi-ke-dampak-nyata",
+      "published_date": "2026-04-03T10:08:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pupuk Indonesia Prioritizes Domestic Needs Before Urea Exports",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcw0h91830000/pupuk-indonesia-utamakan-kebutuhan-domestik-sebelum-ekspor-urea",
@@ -379,6 +421,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Study: Exposure to Agricultural Pesticides Can Increase Cancer Risk",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tcx29e423/studi-paparan-pestisida-pertanian-bisa-tingkatkan-risiko-kanker",
+      "published_date": "2026-04-03T11:51:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erick Thohir Encourages Women and Young Leaders to Color the Ministry of Youth and Sports",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcx28d483/erick-thohir-dorong-perempuan-dan-pemimpin-muda-warnai-kemenpora",
+      "published_date": "2026-04-03T11:50:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passing During Heavy Rain, Motorcycle Rider in Cianjur Killed by Falling Tree",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tcx0cs282/melintas-saat-hujan-deras-pengendara-motor-di-cianjur-tewas-tertimpa-pohon",
+      "published_date": "2026-04-03T11:10:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No Skills but Want to Work? Don't be surprised if there are lots of vacancies but you are still unemployed",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcwwuo472/nggak-ada-skill-tapi-mau-kerja-jangan-heran-kalau-lowongan-banyak-tapi-tetap-nganggur",
+      "published_date": "2026-04-03T09:54:24+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Jakarta's Air Quality is Unhealthy for Sensitive Groups",
       "source": "Republika English",
@@ -489,34 +559,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tctlbg375/terbukti-terima-gratifikasi-rp137-miliar-nurhadi-divonis-5-tahun-penjara",
       "published_date": "2026-04-01T14:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj pilgrims are expected to keep their bodies hydrated",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tctiej430/jamaah-haji-diharap-jaga-kondisi-tubuh-agar-tetap-terhidrasi",
-      "published_date": "2026-04-01T14:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regions Asked to Be Responsive in Facing Unemployment",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tctkf1483/daerah-diminta-responsif-hadapi-pengangguran",
-      "published_date": "2026-04-01T14:33:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Searches Ono Surono's House, Legal Counsel Reveals Several Irregularities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tctjx0409/kpk-geledah-rumah-ono-surono-kuasa-hukum-ungkap-beberapa-kejanggalan",
-      "published_date": "2026-04-01T14:22:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Active Grenade Found in Makassar BPN Area, Gegana Team Disposal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tctj85451/granat-aktif-ditemukan-di-area-bpn-makassar-tim-gegana-lakukan-disposal",
-      "published_date": "2026-04-01T14:07:17+00:00",
       "category": "Local Events"
     }
   ]
