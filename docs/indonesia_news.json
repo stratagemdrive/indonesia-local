@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Again, Indonesia Urges the UN Security Council to Investigate the Attack on UNIFIL",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcyrd0458/lagi-indonesia-desak-dewan-keamanan-pbb-usut-serangan-ke-unifil",
+      "published_date": "2026-04-04T09:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pertamina Increases Subsidized LPG Supply in Madiun for Easter Holidays",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcxuga4630000/pertamina-tambah-pasokan-lpg-subsidi-di-madiun-untuk-libur-paskah",
@@ -79,6 +86,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "AM Hendropiyono Values ​​Cabinet Secretary Teddy as a Reflection of Future Leadership Hopes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcyurw472/am-hendropiyono-nilai-seskab-teddy-cerminan-harapan-kepemimpinan-masa-depan",
+      "published_date": "2026-04-04T11:04:44+00:00",
+      "category": "Military"
+    },
     {
       "title": "TNI Soldiers Fall, Israel's Evil Goals, and the BoP",
       "source": "Republika English",
@@ -211,16 +225,16 @@
       "url": "https://visual.republika.co.id/berita/tcriiw375/kapal-perang-rusia-sandar-di-pelabuhan-tanjung-priok-ikuti-latihan-bersama-tni-al",
       "published_date": "2026-03-31T14:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Two TNI Personnel Died in Explosion in Lebanon, Victim ZA from Kopassus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcqj7q484/dua-personel-tni-gugur-kena-ledakan-di-lebanon-korban-za-dari-kopassus",
-      "published_date": "2026-03-30T23:14:14+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "DPR Urges Government to Consider Adjusting Fuel Prices",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcywhi423/dpr-dorong-pemerintah-pertimbangkan-penyesuaian-harga-bbm",
+      "published_date": "2026-04-04T11:41:42+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina NRE-US Grains & BioProducts Council Strengthens Knowledge Exchange for Bioethanol Development",
       "source": "Republika English",
@@ -329,6 +343,20 @@
   ],
   "Economy": [
     {
+      "title": "On alert for extreme El Nino this year, the Ministry of Agriculture will optimize 80 thousand water pumps",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcyuc4490/siaga-el-nino-ekstrem-tahun-ini-kementan-bakal-optimalkan-80-ribu-pompa-air",
+      "published_date": "2026-04-04T10:55:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Iran-US War Disrupts the Middle East Economy, This Is the Impact on Indonesia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcytxo490/perang-iranas-ganggu-ekonomi-timur-tengah-ini-dampaknya-ke-indonesia",
+      "published_date": "2026-04-04T10:46:36+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Waqf Certification Must Be Upgraded, from Legality and Competency to Real Impact",
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tcwxho472/sertifikasi-wakaf-harus-naik-kelas-dari-legalitas-dan-kompetensi-ke-dampak-nyata",
@@ -428,6 +456,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "City Mobility is Busy Again, Changan Offers Lumin Compact EV for Daily Use",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tcywg3349/mobilitas-kota-kembali-padat-changan-tawarkan-ev-kompak-lumin-untuk-penggunaan-harian",
+      "published_date": "2026-04-04T11:40:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of Students Suspected of MBG Poisoning in East Jakarta, Pramono: We Still Support Government Programs",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tcyteq458/puluhan-siswa-diduga-keracunan-mbg-di-jaktim-pramono-kami-tetap-dukung-program-pemerintah",
+      "published_date": "2026-04-04T10:35:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor Appreciates Muhammadiyah's Role in Whitening 6,000 Jakarta Citizens' Diplomas",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tcysnf458/gubernur-apresiasi-peran-muhammadiyah-dalam-pemutihan-6-000-ijazah-warga-jakarta",
+      "published_date": "2026-04-04T10:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Data Science vs Informatics, Where's the Difference?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tcysus472/sains-data-vs-informatika-bedanya-di-mana",
+      "published_date": "2026-04-04T10:23:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prohibiting Empty Hajj Chairs, Minister of Haj Emphasizes KBIHU Not to Girlfriend",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tcyqkc458/larang-ada-kursi-haji-kosong-menhaj-tegaskan-kbihu-jangan-cawecawe",
+      "published_date": "2026-04-04T09:33:48+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Mendes Yandri Reminds MBG Kitchen Partners Don't Play Around",
       "source": "Republika English",
@@ -531,41 +594,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcvcgp472/daniel-muttaqien-terpilih-jadi-ketua-dpd-golkar-jabar",
       "published_date": "2026-04-02T13:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Livi Ciananta Debuts Action Film with Iko Uwais Team",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tcvbpb425/livi-ciananta-debut-film-laga-bareng-tim-iko-uwais",
-      "published_date": "2026-04-02T13:19:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahmad Luthfi Becomes Target of Netizens About Damaged Roads, Head of PUPR Department: Those are Regency and Village Roads",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcva7v409/ahmad-luthfi-jadi-bulanbulanan-warganet-soal-jalan-rusak-kadis-pupr-itu-jalan-kabupaten-dan-desa",
-      "published_date": "2026-04-02T12:47:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Provincial Government Implements WFH ASN, DPRD Encourages Performance-Based Supervision",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tcva48416/pemprov-jakarta-berlakukan-wfh-asn-dprd-dorong-pengawasan-berbasis-kinerja",
-      "published_date": "2026-04-02T12:47:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian prisons are going green. Here’s how to make it work.",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesian-prisons-are-going-green-heres-how-to-make-it-work/",
-      "published_date": "2026-04-01T23:59:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France returns to the top of the FIFA ranking, Indonesia is in 122nd position",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcua83348/prancis-kembali-ke-puncak-ranking-fifa-indonesia-di-posisi-122",
-      "published_date": "2026-04-01T23:50:27+00:00",
       "category": "Local Events"
     }
   ]
