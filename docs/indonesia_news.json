@@ -62,16 +62,23 @@
       "url": "https://news.republika.co.id/berita/tcomc3393/israel-serang-markas-pasukan-perdamaian-indonesia-di-lebanon-ada-yang-gugur",
       "published_date": "2026-03-29T22:26:27+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia Encourages the Role of Multilateral Diplomacy in Iran-US Mediation Opportunities",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tcnmpc291/indonesia-dorong-peran-diplomasi-multilateral-dalam-peluang-mediasi-iranas",
-      "published_date": "2026-03-29T09:36:48+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Arsenal Failed to Get to the FA Cup Semifinals, Arteta Highlights Weak Defense and Wasted Opportunities",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td0mne348/arsenal-gagal-ke-semifinal-piala-fa-arteta-soroti-lemahnya-pertahanan-dan-peluang-terbuang",
+      "published_date": "2026-04-05T10:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns of impact of US and Israeli attacks on Bushehr nuclear power plant could be devastating for Gulf countries",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td0lzr348/iran-peringatkan-dampak-serangan-as-dan-israel-ke-pltn-bushehr-bisa-hancurkan-negara-teluk",
+      "published_date": "2026-04-05T09:50:15+00:00",
+      "category": "Military"
+    },
     {
       "title": "The Posthumous Military Funeral Ceremony for Major Inf Zulmi will take place at TMP Cikutra",
       "source": "Republika English",
@@ -197,23 +204,16 @@
       "url": "https://news.republika.co.id/berita/tcsbuf130000/prajurit-tni-gugur-di-lebanon-akibat-serangan-artileri",
       "published_date": "2026-03-31T22:30:15+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Government Saves Up to IDR 130 Trillion from Cuts on Official Travel and Ceremonies",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcrqa9423/pemerintah-hemat-hingga-rp-130-triliun-hasil-pangkas-perjalanan-dinas-dan-seremonial",
-      "published_date": "2026-03-31T14:44:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three TNI personnel killed by Israel in Lebanon, PP Persis: God willing, martyrdom",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcrpef430/tiga-personel-tni-dibunuh-israel-di-lebanon-pp-persis-insya-allah-syahid",
-      "published_date": "2026-03-31T14:32:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Using a Game Approach, AMREI and AIDA Consultant Strengthen Energy Sector Risk Management",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td0nkh368/pakai-pendekatan-gim-amrei-dan-aida-consultant-perkuat-manajemen-risiko-sektor-energi",
+      "published_date": "2026-04-05T10:24:17+00:00",
+      "category": "Energy"
+    },
     {
       "title": "DPR Urges Government to Consider Adjusting Fuel Prices",
       "source": "Republika English",
@@ -404,30 +404,30 @@
       "url": "https://ekonomi.republika.co.id/berita/tcprqs423/ini-penyebab-rupiah-jatuh-ke-rp-17000-per-dolar-as",
       "published_date": "2026-03-30T13:20:52+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Having Paid IDR 62 Thousand, Kramat Jati Main Market Traders' Trash Piles Up Up To 6 Meters",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcnsn2483/sudah-bayar-rp62-ribu-sampah-pedagang-pasar-induk-kramat-jati-menumpuk-hingga-6-meter",
-      "published_date": "2026-03-29T11:45:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Small Island with a Big Role for Migratory Birds and Water Birds Special Content",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tcnr911995798730/pulau-kecil-dengan-peran-besar-bagi-burung-migran-dan-burung-air-special-content",
-      "published_date": "2026-03-29T11:15:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Finance Approves MBG Efficiency As Long As It Doesn't Reduce Food Quality",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcnq2m483/menkeu-setujui-efisiensi-mbg-asal-tak-kurangi-kualitas-makanan",
-      "published_date": "2026-03-29T10:49:34+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The story of Abdullah bin Salam, a Jewish religious leader who converted to Islam after testing the Prophet Muhammad",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/td0pyj366/kisah-abdullah-bin-salam-pemuka-agama-yahudi-yang-masuk-islam-usai-uji-nabi-muhammad",
+      "published_date": "2026-04-05T11:15:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BPJS Employment Claims Can Be Via Online Queue",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//td0p1y430/klaim-bpjs-ketenagakerjaan-bisa-lewat-antrean-online",
+      "published_date": "2026-04-05T11:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bogor Regency Government Trials Free Electric Bus Service for Three Months",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/td0l4p348/pemkab-bogor-uji-coba-layanan-bus-listrik-gratis-selama-tiga-bulan",
+      "published_date": "2026-04-05T09:31:37+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "State Islamic Campuses are Increasingly Competitive, Interest in SPAN-PTKIN 2026 is Skyrocketing",
       "source": "Republika English",
@@ -545,27 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcxnlk030000/muhaimin-dorong-bumn-siapkan-tenaga-kerja-global-lewat-smk-go-global",
       "published_date": "2026-04-03T19:32:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Study: Exposure to Agricultural Pesticides Can Increase Cancer Risk",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tcx29e423/studi-paparan-pestisida-pertanian-bisa-tingkatkan-risiko-kanker",
-      "published_date": "2026-04-03T11:51:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erick Thohir Encourages Women and Young Leaders to Color the Ministry of Youth and Sports",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcx28d483/erick-thohir-dorong-perempuan-dan-pemimpin-muda-warnai-kemenpora",
-      "published_date": "2026-04-03T11:50:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passing During Heavy Rain, Motorcycle Rider in Cianjur Killed by Falling Tree",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tcx0cs282/melintas-saat-hujan-deras-pengendara-motor-di-cianjur-tewas-tertimpa-pohon",
-      "published_date": "2026-04-03T11:10:04+00:00",
       "category": "Local Events"
     }
   ]
