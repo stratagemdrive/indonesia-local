@@ -55,16 +55,16 @@
       "url": "https://news.republika.co.id/berita/tcsfi2484/korsel-dijadwalkan-teken-kesepakatan-ekspor-16-jet-boramae-ke-indonesia",
       "published_date": "2026-03-31T23:49:14+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Israel Attacks Indonesian Peace Force Headquarters in Lebanon, Some Are Killed",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcomc3393/israel-serang-markas-pasukan-perdamaian-indonesia-di-lebanon-ada-yang-gugur",
-      "published_date": "2026-03-29T22:26:27+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Police Arrest Illegal Parking Officer at Makassar Harbor",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1js75530000/polisi-tangkap-juru-parkir-liar-di-pelabuhan-makassar",
+      "published_date": "2026-04-05T22:00:07+00:00",
+      "category": "Military"
+    },
     {
       "title": "Arsenal Failed to Get to the FA Cup Semifinals, Arteta Highlights Weak Defense and Wasted Opportunities",
       "source": "Republika English",
@@ -197,13 +197,6 @@
       "url": "https://news.republika.co.id/berita/tcscla393/investigasi-pbb-prajurit-tni-gugur-ditembak-tank-israel",
       "published_date": "2026-03-31T22:46:22+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TNI Soldier Dies in Lebanon Due to Artillery Attack",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcsbuf130000/prajurit-tni-gugur-di-lebanon-akibat-serangan-artileri",
-      "published_date": "2026-03-31T22:30:15+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -311,16 +304,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tcpr6n502/harga-pertamax-akan-naik-jadi-rp17-ribu-ini-kata-pertamina",
       "published_date": "2026-03-30T13:08:47+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Electric Vehicle Adoption Accelerated to Reduce Oil Price Surge",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcon779130000/adopsi-kendaraan-listrik-dipercepat-untuk-redam-lonjakan-harga-minyak",
-      "published_date": "2026-03-29T22:45:07+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Ministry of Communication and Technology Condemns the Practice of Inaccurate Game Rating Information on Steam",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1of6484/kemenkomdigi-kecam-praktik-informasi-rating-gim-di-steam-tidak-akurat",
+      "published_date": "2026-04-05T23:40:18+00:00",
+      "category": "Economy"
+    },
     {
       "title": "On alert for extreme El Nino this year, the Ministry of Agriculture will optimize 80 thousand water pumps",
       "source": "Republika English",
@@ -407,6 +400,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Residents Report Via JAKI Followed Up by AI Photo, Jakarta Provincial Government Admits Mistake",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1p3g409/warga-lapor-lewat-jaki-ditindaklanjuti-foto-ai-pemprov-jakarta-akui-keliru",
+      "published_date": "2026-04-05T23:54:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Responding Quickly to Residents' Complaints, DKI Provincial Government Controls Horror Film Advertisements from Public Spaces",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1ocj472/respons-cepat-keluhan-warga-pemprov-dki-tertibkan-iklan-film-horor-dari-ruang-publik",
+      "published_date": "2026-04-05T23:38:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Provincial Government Strengthens Complaint Validation, Prohibits Use of AI for Follow-up Evidence",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1nvp472/pemprov-dki-perkuat-validasi-pengaduan-larang-penggunaan-ai-untuk-bukti-tindak-lanjut",
+      "published_date": "2026-04-05T23:28:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lazio held to draw by Parma, Bologna beat Cremonese",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1lv93230000/lazio-ditahan-imbang-parma-bologna-kalahkan-cremonese",
+      "published_date": "2026-04-05T22:45:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chelsea Meet Leeds, Man City Face Southampton in FA Cup Semifinals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1l678930000/chelsea-bertemu-leeds-man-city-hadapi-southampton-di-semifinal-piala-fa",
+      "published_date": "2026-04-05T22:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inter Milan Beat AS Roma 5-2, Firmly at the Top of the Standings",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td1j383330000/inter-milan-hantam-as-roma-52-kokoh-di-puncak-klasemen",
+      "published_date": "2026-04-05T21:45:08+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The story of Abdullah bin Salam, a Jewish religious leader who converted to Islam after testing the Prophet Muhammad",
       "source": "Republika English",
@@ -503,48 +538,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcysus472/sains-data-vs-informatika-bedanya-di-mana",
       "published_date": "2026-04-04T10:23:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prohibiting Empty Hajj Chairs, Minister of Haj Emphasizes KBIHU Not to Girlfriend",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcyqkc458/larang-ada-kursi-haji-kosong-menhaj-tegaskan-kbihu-jangan-cawecawe",
-      "published_date": "2026-04-04T09:33:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mendes Yandri Reminds MBG Kitchen Partners Don't Play Around",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcxxpy318/mendes-yandri-ingatkan-mitra-dapur-mbg-jangan-mainmain",
-      "published_date": "2026-04-03T23:12:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Social Affairs Distributes IDR 11.7 Billion for Disaster Victims in Agam",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcxvu82230000/kemensos-salurkan-rp117-miliar-untuk-korban-bencana-di-agam",
-      "published_date": "2026-04-03T22:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rejecting Türkiye's High Salary, Yenny Wahid: Indonesian Rock Climbing Athletes Choose to Be Loyal to the Red and White",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcxu1w451/tolak-gaji-tinggi-turki-yenny-wahid-atlet-panjat-tebing-indonesia-pilih-setia-ke-merah-putih",
-      "published_date": "2026-04-03T21:51:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coordinating Minister Muhaimin asks PMI to work professionally and maintain Indonesia's good name",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcxnoi5330000/menko-muhaimin-minta-pmi-bekerja-profesional-dan-jaga-nama-baik-indonesia",
-      "published_date": "2026-04-03T19:33:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muhaimin Encourages BUMN to Prepare Global Workforce Through Go Global Vocational Schools",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcxnlk030000/muhaimin-dorong-bumn-siapkan-tenaga-kerja-global-lewat-smk-go-global",
-      "published_date": "2026-04-03T19:32:08+00:00",
       "category": "Local Events"
     }
   ]
