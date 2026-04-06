@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Staff of the Minister of Religion: The Seal of the House of Prayer for the POUK Tesalonika Teluknaga Congregation Has Been Reopened",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/td2q52320/stafsus-menag-segel-rumah-doa-jemaat-pouk-tesalonika-teluknaga-kembali-dibuka",
+      "published_date": "2026-04-06T13:15:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Again, Indonesia Urges the UN Security Council to Investigate the Attack on UNIFIL",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tcyrd0458/lagi-indonesia-desak-dewan-keamanan-pbb-usut-serangan-ke-unifil",
@@ -58,6 +65,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "2026 National Police Selection in Pontianak, Dozens of Candidate Members Undergo Initial Selection",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/td2qrz375/seleksi-polri-2026-di-pontianak-puluhan-calon-anggota-jalani-seleksi-tahap-awal",
+      "published_date": "2026-04-06T14:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Legislators Urge Evaluation of TNI Deployment at UNIFIL, Soldier Safety is Top Priority",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td2qe4487/legislator-desak-evaluasi-penugasan-tni-di-unifil-keselamatan-prajurit-prioritas-utama",
+      "published_date": "2026-04-06T13:20:28+00:00",
+      "category": "Military"
+    },
     {
       "title": "Police Arrest Illegal Parking Officer at Makassar Harbor",
       "source": "Republika English",
@@ -183,20 +204,6 @@
       "url": "https://rejogja.republika.co.id/berita/tctl7w282/pemulangan-jenazah-praka-farizal-masih-terkendala-penutupan-penerbangan-sipil",
       "published_date": "2026-04-01T14:50:20+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Regarding the death of the TNI in Lebanon, RI is asked not just to condemn it",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcti8m430/terkait-gugurnya-tni-di-lebanon-ri-diminta-tidak-sekadar-mengecam",
-      "published_date": "2026-04-01T13:45:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN Investigation: TNI Soldier Died Shot by Israeli Tank",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcscla393/investigasi-pbb-prajurit-tni-gugur-ditembak-tank-israel",
-      "published_date": "2026-03-31T22:46:22+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -297,13 +304,6 @@
       "url": "https://visual.republika.co.id/berita/tcq7xr375/bmkg-prediksi-572-persen-wilayah-di-indonesia-akan-hadapi-kemarau-panjang",
       "published_date": "2026-03-30T23:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamax price will increase to IDR 17 thousand? This is what Pertamina said",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcpr6n502/harga-pertamax-akan-naik-jadi-rp17-ribu-ini-kata-pertamina",
-      "published_date": "2026-03-30T13:08:47+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -383,23 +383,72 @@
       "url": "https://analisis.republika.co.id/berita/tcql7n458/mampukah-koperasi-merah-putih-jadi-harapan-bagi-usaha-mikroultra-mikro",
       "published_date": "2026-03-30T23:57:23+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "New Industrial Area Opens in Lamongan, Encouraging Investment and Employment",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcpt0b416/kawasan-industri-baru-dibuka-di-lamongan-dorong-investasi-dan-lapangan-kerja",
-      "published_date": "2026-03-30T13:49:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "This is the reason the Rupiah fell to IDR 17,000 per US Dollar",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcprqs423/ini-penyebab-rupiah-jatuh-ke-rp-17000-per-dolar-as",
-      "published_date": "2026-03-30T13:20:52+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "NEXT GOAL Program, Indonesia and France Strengthen Strategic Partnership to Empower Women's Football",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td2sre348/program-next-goal-indonesia-dan-prancis-pererat-kemitraan-strategis-berdayakan-sepak-bola-putri",
+      "published_date": "2026-04-06T14:11:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grebeg Suro resonates in the region, from the 1,000 Blangkon Festival to the local economic driver",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td2fa7451/grebeg-suro-menggema-di-daerah-dari-festival-1000-blangkon-hingga-penggerak-ekonomi-lokal",
+      "published_date": "2026-04-06T13:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KedaiKOPI Survey: 88.8 Percent of Homecomers Are Satisfied with 2026 Homecoming Services",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td2rld368/survei-kedaikopi-888-persen-pemudik-puas-dengan-pelayanan-mudik-2026",
+      "published_date": "2026-04-06T13:46:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 Thugs Who Beaten Celebration Host to Death in Purwakarta Arrested",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/td2r6c282/2-preman-yang-aniaya-tuan-rumah-hajatan-hingga-tewas-di-purwakarta-ditangkap",
+      "published_date": "2026-04-06T13:37:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asalvo Becomes a Big Home for Automotive Lovers, National Conference IV Strengthens Organizational Direction",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td27sq451/asalvo-jadi-rumah-besar-pecinta-otomotif-munas-iv-perkuat-arah-organisasi",
+      "published_date": "2026-04-06T13:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "90 Days in Evacuation, Residents Affected by Moving Land in Semarang Wait for Government Relocation Promise",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/td2qjt282/90-hari-di-pengungsian-warga-terdampak-tanah-bergerak-semarang-tunggu-janji-relokasi-pemerintah",
+      "published_date": "2026-04-06T13:23:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It's easier, paying motor vehicle tax just requires a STNK without the first owner's ID card",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/td2qhd368/lebih-mudah-bayar-pajak-kendaraan-bermotor-cukup-stnk-tanpa-ktp-pemilik-pertama",
+      "published_date": "2026-04-06T13:22:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of Children with Disabilities Take Free Heart Echo Examinations in Jakarta",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/td2q31375/puluhan-anak-disabilitas-ikuti-pemeriksaan-echo-jantung-gratis-di-jakarta",
+      "published_date": "2026-04-06T13:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KA Bangunkarta Derailed, 4 Car Trips Cancelled",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td2ps2370/ka-bangunkarta-anjlok-4-perjalanan-kereta-dibatalkan",
+      "published_date": "2026-04-06T13:07:14+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Residents Report Via JAKI Followed Up by AI Photo, Jakarta Provincial Government Admits Mistake",
       "source": "Republika English",
@@ -475,69 +524,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tcztml483/benarkah-cristiano-ronaldo-ucap-bismillah-sebelum-cetak-gol",
       "published_date": "2026-04-04T23:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traces of Civilization in the Cipari Museum, This Sorkafagus Proves the Advancement of Burial Technology in the Archipelago",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tczslz483/jejak-peradaban-di-museum-cipari-sorkafagus-ini-buktikan-majunya-teknologi-penguburan-nusantara",
-      "published_date": "2026-04-04T23:15:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Religion Wishes Christians a Happy Easter",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tczrba483/menag-ucapkan-selamat-paskah-untuk-umat-kristiani",
-      "published_date": "2026-04-04T22:47:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG Predicts Rain in DKI Jakarta on Sunday Afternoon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcziv78630000/bmkg-prakirakan-hujan-di-dki-jakarta-pada-minggu-siang",
-      "published_date": "2026-04-04T19:45:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Deputy Governor of West Java Mourns the Death of Major Zulmi in Lebanon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tczgs61830000/wakil-gubernur-jabar-berduka-atas-gugurnya-mayor-zulmi-di-lebanon",
-      "published_date": "2026-04-04T19:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rob Flood Threatens North Coast of Jakarta Until April 9 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tczg357330000/banjir-rob-ancam-pesisir-utara-jakarta-hingga-9-april-2026",
-      "published_date": "2026-04-04T18:45:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "City Mobility is Busy Again, Changan Offers Lumin Compact EV for Daily Use",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcywg3349/mobilitas-kota-kembali-padat-changan-tawarkan-ev-kompak-lumin-untuk-penggunaan-harian",
-      "published_date": "2026-04-04T11:40:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of Students Suspected of MBG Poisoning in East Jakarta, Pramono: We Still Support Government Programs",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tcyteq458/puluhan-siswa-diduga-keracunan-mbg-di-jaktim-pramono-kami-tetap-dukung-program-pemerintah",
-      "published_date": "2026-04-04T10:35:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor Appreciates Muhammadiyah's Role in Whitening 6,000 Jakarta Citizens' Diplomas",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tcysnf458/gubernur-apresiasi-peran-muhammadiyah-dalam-pemutihan-6-000-ijazah-warga-jakarta",
-      "published_date": "2026-04-04T10:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Data Science vs Informatics, Where's the Difference?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcysus472/sains-data-vs-informatika-bedanya-di-mana",
-      "published_date": "2026-04-04T10:23:16+00:00",
       "category": "Local Events"
     }
   ]
