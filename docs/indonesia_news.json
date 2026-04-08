@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Initial UN Investigation Blames Israel and Hezbollah for Cause of 3 TNI Deaths",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td5nt6484/investigasi-awal-pbb-salahkan-israel-dan-hezbollah-penyebab-3-tni-gugur",
+      "published_date": "2026-04-08T03:17:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesian Delegation for Mission to Break the Gaza Blockade Begins to Depart",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td4o1o393/delegasi-indonesia-untuk-misi-menembus-blokade-gaza-mulai-bertolak",
@@ -76,16 +83,16 @@
       "url": "https://news.republika.co.id/berita/tcvvpi130000/dprd-dan-pemkot-madiun-sepakati-17-raperda-jadi-perda",
       "published_date": "2026-04-02T20:32:06+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "South Korea is scheduled to sign an agreement to export 16 Boramae jets to Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcsfi2484/korsel-dijadwalkan-teken-kesepakatan-ekspor-16-jet-boramae-ke-indonesia",
-      "published_date": "2026-03-31T23:49:14+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "PLN President Director Wins Green Leadership Award, PLN Obtains 11 Gold PROPER KLH 2025",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td5qw6472/dirut-pln-raih-penghargaan-green-leadership-pln-borong-11-proper-emas-klh-2025",
+      "published_date": "2026-04-08T04:24:06+00:00",
+      "category": "Military"
+    },
     {
       "title": "Allegedly recording a senior policewoman in the bathroom, Central Java SPN member reported to the Provos",
       "source": "Republika English",
@@ -218,16 +225,23 @@
       "url": "https://news.republika.co.id/berita/tcw3wf484/unifil-gelar-upacara-penghormatan-di-beirut-lepas-tiga-personel-tni-gugur",
       "published_date": "2026-04-02T23:29:03+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TNI Dies in Lebanon, Al Irsyad Al Islamiyyah Urges Government to Take Firm Stand",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcvau2430/tni-gugur-di-lebanon-al-irsyad-al-islamiyyah-desak-pemerintah-ambil-sikap-tegas",
-      "published_date": "2026-04-02T13:01:14+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Reaches Emission Target, Invites People to Use Energy Wisely",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td5ss8472/pertamina-capai-target-emisi-ajak-masyarakat-bijak-gunakan-energi",
+      "published_date": "2026-04-08T05:04:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Enforcement of PP Tunas, Kemkomdigi Cecar Meta and Google Dozens of Questions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td5nrf487/penegakan-pp-tunas-kemkomdigi-cecar-meta-dan-google-puluhan-pertanyaan",
+      "published_date": "2026-04-08T03:16:27+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Central Java Provincial Government Releases Energy Efficiency SE, ASN 1.5 Km from Office Asked to Walk",
       "source": "Republika English",
@@ -311,16 +325,30 @@
       "url": "https://news.republika.co.id/berita/tcu9tn451/3-analis-bongkar-skenario-besar-di-balik-lumpuhnya-selat-hormuz",
       "published_date": "2026-04-01T23:41:47+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Fuel prices do not increase, Pertamina asks the public not to panic buy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcsg5c490/harga-bbm-tidak-naik-pertamina-minta-masyarakat-tak-perlu-panic-buying",
-      "published_date": "2026-04-01T00:03:12+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "In This Economy, Cooking Traditional Food Could Be a Solution",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/td5sim328/in-this-economy-masak-makanan-tradisional-bisa-jadi-solusi",
+      "published_date": "2026-04-08T04:59:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ritno Kurniawan from Sejahtera Astra Nyarai Village, Lumberjack Who Transformed into an Ecotourism Guide",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td5s5l472/ritno-kurniawan-dari-desa-sejahtera-astra-nyarai-penebang-kayu-yang-menjelma-jadi-pemandu-ekowisata",
+      "published_date": "2026-04-08T04:51:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Running a Sustainable Industry, INALUM Achieves Gold and Green PROPER 2025",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/td5rtq522/jalankan-industri-berkelanjutan-inalum-raih-proper-emas-dan-hijau-2025",
+      "published_date": "2026-04-08T04:44:14+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bulog Rice Stock Reaches 4.5 Million Tons, Safe for the Next 11 Months",
       "source": "Republika English",
@@ -414,6 +442,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "UPI is Ready to Implement Distance Learning According to the Circular of the Minister of Education and Technology",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td5tyw472/upi-siap-implementasikan-pembelajaran-jarak-jauh-sesuai-surat-edaran-mendiktisaintek",
+      "published_date": "2026-04-08T05:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Digital Cloud",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/td5sj3415/awan-digital-iran",
+      "published_date": "2026-04-08T04:59:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A number of National Figures will attend the Painting Exhibition and Book Review of Sultan HB II's Heroic Traces",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/td5s0o291/sejumlah-tokoh-nasional-akan-hadiri-pameran-lukisan-dan-bedah-buku-jejak-kepahlawanan-sultan-hb-ii",
+      "published_date": "2026-04-08T04:48:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ASN Jakarta was caught changing official car plates in Puncak, Regional Secretary claims after creating asset promotional content",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td5og0487/asn-jakarta-terciduk-ganti-pelat-mobil-dinas-di-puncak-sekda-klaim-usai-bikin-konten-promosi-aset",
+      "published_date": "2026-04-08T03:31:12+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Aaron Ramsey hangs up his boots at the age of 35",
       "source": "Republika English",
@@ -524,34 +580,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/td2qjt282/90-hari-di-pengungsian-warga-terdampak-tanah-bergerak-semarang-tunggu-janji-relokasi-pemerintah",
       "published_date": "2026-04-06T13:23:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "It's easier, paying motor vehicle tax just requires a STNK without the first owner's ID card",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/td2qhd368/lebih-mudah-bayar-pajak-kendaraan-bermotor-cukup-stnk-tanpa-ktp-pemilik-pertama",
-      "published_date": "2026-04-06T13:22:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of Children with Disabilities Take Free Heart Echo Examinations in Jakarta",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/td2q31375/puluhan-anak-disabilitas-ikuti-pemeriksaan-echo-jantung-gratis-di-jakarta",
-      "published_date": "2026-04-06T13:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KA Bangunkarta Derailed, 4 Car Trips Cancelled",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td2ps2370/ka-bangunkarta-anjlok-4-perjalanan-kereta-dibatalkan",
-      "published_date": "2026-04-06T13:07:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents Report Via JAKI Followed Up by AI Photo, Jakarta Provincial Government Admits Mistake",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td1p3g409/warga-lapor-lewat-jaki-ditindaklanjuti-foto-ai-pemprov-jakarta-akui-keliru",
-      "published_date": "2026-04-05T23:54:52+00:00",
       "category": "Local Events"
     }
   ]
