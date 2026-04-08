@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Tangsel City Government Invites Residents to Succeed ORI Measles, Targeting 109 Thousand Children",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td5n1w451/pemkot-tangsel-ajak-warga-sukseskan-ori-campak-targetkan-109-ribu-anak",
+      "published_date": "2026-04-08T14:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Initial UN Investigation Blames Israel and Hezbollah for Cause of 3 TNI Deaths",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td5nt6484/investigasi-awal-pbb-salahkan-israel-dan-hezbollah-penyebab-3-tni-gugur",
@@ -229,6 +236,20 @@
   ],
   "Energy": [
     {
+      "title": "President Prepares Two Strategic Policies to Face Global Uncertainty",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td6d7g370/presiden-siapkan-dua-kebijakan-strategis-hadapi-ketidakpastian-global",
+      "published_date": "2026-04-08T14:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Encourages 1,346 MSME Certifications to Have Halal Labels",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/td6hdz522/pertamina-dorong-1346-sertifikasi-umkm-kantongi-label-halal",
+      "published_date": "2026-04-08T13:56:23+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamina Reaches Emission Target, Invites People to Use Energy Wisely",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/td5ss8472/pertamina-capai-target-emisi-ajak-masyarakat-bijak-gunakan-energi",
@@ -443,6 +464,62 @@
   ],
   "Local Events": [
     {
+      "title": "Traga AC Introduced at GIICOMVEC, Completes Isuzu Commercial Vehicle Line",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/td6jco348/traga-ac-diperkenalkan-di-giicomvec-lengkapi-lini-kendaraan-niaga-isuzu",
+      "published_date": "2026-04-08T14:38:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Prabowo Gathers Hundreds of Officials at the Palace, Discusses Coordination and Strategy",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/td6hua375/presiden-prabowo-kumpulkan-ratusan-pejabat-di-istana-bahas-koordinasi-dan-strategi",
+      "published_date": "2026-04-08T14:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prayer Asking for a Home in Heaven",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/td6hrb458/doa-meminta-rumah-di-surga",
+      "published_date": "2026-04-08T14:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fajar/Fikri Advance, Indra/Joaquin Eliminated Dramatically at the 2026 Asian Badminton Championships",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td6ig1348/fajarfikri-melaju-indrajoaquin-tersingkir-dramatis-di-kejuaraan-bulu-tangkis-asia-2026",
+      "published_date": "2026-04-08T14:19:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magdalene's Content Restrictions Regarding the KontraS Activist Case Are Considered a Threat to Press Freedom",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td6clo409/pembatasan-konten-magdalene-soal-kasus-aktivis-kontras-dinilai-ancam-kebebasan-pers",
+      "published_date": "2026-04-08T14:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Months of Evacuation, Semarang Land Moving Victims Still Living in Emergency Tent",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/td6hne375/dua-bulan-mengungsi-korban-tanah-bergerak-semarang-masih-bertahan-di-tenda-darurat",
+      "published_date": "2026-04-08T14:02:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heaven for wives who obey their husbands",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/td6hhy458/surga-bagi-istri-taat-suami",
+      "published_date": "2026-04-08T13:58:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesian Activists Depart to Join the 2026 Sumud Flotilla Global Delegation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/td6fjs393/aktivis-indonesia-bertolak-sertai-rombongan-global-sumud-flotilla-2026",
+      "published_date": "2026-04-08T13:16:40+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UPI is Ready to Implement Distance Learning According to the Circular of the Minister of Education and Technology",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td5tyw472/upi-siap-implementasikan-pembelajaran-jarak-jauh-sesuai-surat-edaran-mendiktisaintek",
@@ -524,62 +601,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td3f5a6030000/ditjenpas-maluku-sumbang-30-kantong-darah-untuk-pmi-ambon",
       "published_date": "2026-04-06T22:15:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vice President Gibran Appreciates Farmer Groups in Kupang for the MBG Supply",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td3egh030000/wapres-gibran-apresiasi-kelompok-tani-di-kupang-untuk-suplai-mbg",
-      "published_date": "2026-04-06T22:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DKI Provincial Government Investigates Alleged Misuse of Official Vehicles",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td3dr85130000/pemprov-dki-telusuri-dugaan-penyalahgunaan-kendaraan-dinas",
-      "published_date": "2026-04-06T21:45:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NEXT GOAL Program, Indonesia and France Strengthen Strategic Partnership to Empower Women's Football",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td2sre348/program-next-goal-indonesia-dan-prancis-pererat-kemitraan-strategis-berdayakan-sepak-bola-putri",
-      "published_date": "2026-04-06T14:11:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grebeg Suro resonates in the region, from the 1,000 Blangkon Festival to the local economic driver",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td2fa7451/grebeg-suro-menggema-di-daerah-dari-festival-1000-blangkon-hingga-penggerak-ekonomi-lokal",
-      "published_date": "2026-04-06T13:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KedaiKOPI Survey: 88.8 Percent of Homecomers Are Satisfied with 2026 Homecoming Services",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td2rld368/survei-kedaikopi-888-persen-pemudik-puas-dengan-pelayanan-mudik-2026",
-      "published_date": "2026-04-06T13:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 Thugs Who Beaten Celebration Host to Death in Purwakarta Arrested",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/td2r6c282/2-preman-yang-aniaya-tuan-rumah-hajatan-hingga-tewas-di-purwakarta-ditangkap",
-      "published_date": "2026-04-06T13:37:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asalvo Becomes a Big Home for Automotive Lovers, National Conference IV Strengthens Organizational Direction",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td27sq451/asalvo-jadi-rumah-besar-pecinta-otomotif-munas-iv-perkuat-arah-organisasi",
-      "published_date": "2026-04-06T13:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "90 Days in Evacuation, Residents Affected by Moving Land in Semarang Wait for Government Relocation Promise",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/td2qjt282/90-hari-di-pengungsian-warga-terdampak-tanah-bergerak-semarang-tunggu-janji-relokasi-pemerintah",
-      "published_date": "2026-04-06T13:23:53+00:00",
       "category": "Local Events"
     }
   ]
