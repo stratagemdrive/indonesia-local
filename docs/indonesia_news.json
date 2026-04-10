@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Global Hotels Start Relying on AI, Guest Experience is Now Totally Changing",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tda728451/hotel-global-mulai-andalkan-ai-pengalaman-tamu-kini-berubah-total",
+      "published_date": "2026-04-10T14:03:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Kurniawan: U-17 National Team Shows Positive Progress Ahead of ASEAN U-17 Championship Tournament",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td8dye348/kurniawan-timnas-u17-tunjukkan-progres-positif-jelang-turnamen-asean-u17-championship",
@@ -62,30 +69,16 @@
       "url": "https://news.republika.co.id/berita/tcxuga4630000/pertamina-tambah-pasokan-lpg-subsidi-di-madiun-untuk-libur-paskah",
       "published_date": "2026-04-03T22:00:10+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian Ambassador: Zionists Oppose All Religions, Including Jews",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcwzvp483/dubes-iran-zionis-menentang-semua-agama-termasuk-yahudi",
-      "published_date": "2026-04-03T10:59:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From Slum to Livable, 152 Houses in Menteng Tenggulun Renovated",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tcwz0y375/dari-kumuh-ke-layak-huni-152-rumah-di-menteng-tenggulun-direnovasi",
-      "published_date": "2026-04-03T10:41:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "This is a threat of punishment for prospective illegal Hajj pilgrims who can enter Saudi Arabia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tcwycv483/ini-ancaman-hukuman-bagi-calon-jamaah-haji-ilegal-yang-bisa-masuk-ke-arab-saudi",
-      "published_date": "2026-04-03T10:26:55+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "When the Pope from Chicago Resists Donald Trump's War Rhetoric",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tda7pz483/kala-paus-asal-chicago-melawan-retorika-perang-donald-trump",
+      "published_date": "2026-04-10T14:17:59+00:00",
+      "category": "Military"
+    },
     {
       "title": "5 Questions about the Shocking Facts Behind Iran's Strategy to Trap America",
       "source": "Republika English",
@@ -218,13 +211,6 @@
       "url": "https://news.republika.co.id/berita/tczhhz2230000/jenazah-serka-anumerta-muhammad-nur-ichwan-tiba-di-magelang",
       "published_date": "2026-04-04T19:15:35+00:00",
       "category": "Military"
-    },
-    {
-      "title": "AM Hendropiyono Values ​​Cabinet Secretary Teddy as a Reflection of Future Leadership Hopes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcyurw472/am-hendropiyono-nilai-seskab-teddy-cerminan-harapan-kepemimpinan-masa-depan",
-      "published_date": "2026-04-04T11:04:44+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -325,23 +311,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tcywhi423/dpr-dorong-pemerintah-pertimbangkan-penyesuaian-harga-bbm",
       "published_date": "2026-04-04T11:41:42+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina NRE-US Grains & BioProducts Council Strengthens Knowledge Exchange for Bioethanol Development",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcwzk3472/pertamina-nreus-grains-bioproducts-council-perkuat-knowledge-exchange-pengembangan-bioetanol",
-      "published_date": "2026-04-03T10:52:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "PGN President Commissioner Uses CNG in Private Vehicles, Encourages National Energy Security",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcwx8g522/komisaris-utama-pgn-gunakan-bbg-di-kendaraan-pribadi-dorong-ketahanan-energi-nasional",
-      "published_date": "2026-04-03T10:02:40+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Mounting Garbage Resolved, New Face of Kramat Jati Main Market Begins to Become Visible",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tda6oa451/sampah-menggunung-teratasi-wajah-baru-pasar-induk-kramat-jati-mulai-terlihat",
+      "published_date": "2026-04-10T13:55:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fisheries Entrepreneurs Urged to Apply Stelina to Expand Global Market Access",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tda63n430/pengusaha-perikanan-diimbau-terapkan-stelina-perluas-akses-pasar-global",
+      "published_date": "2026-04-10T13:47:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Competition in the Outsourcing Industry is Increasingly Tight, PKSS Expands Business Market",
       "source": "Republika English",
@@ -418,16 +404,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tcytxo490/perang-iranas-ganggu-ekonomi-timur-tengah-ini-dampaknya-ke-indonesia",
       "published_date": "2026-04-04T10:46:36+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Waqf Certification Must Be Upgraded, from Legality and Competency to Real Impact",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tcwxho472/sertifikasi-wakaf-harus-naik-kelas-dari-legalitas-dan-kompetensi-ke-dampak-nyata",
-      "published_date": "2026-04-03T10:08:12+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Mentioned in the Qur'an, where does the Pomegranate come from?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tda4vo458/disebutkan-alquran-dari-manakah-asal-buah-delima",
+      "published_date": "2026-04-10T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reasons the Devil Refuses to Pray",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tda49t458/alasan-iblis-menolak-didoakan",
+      "published_date": "2026-04-10T14:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Story of the Prophet's Companion Whose Body Was Bathed by Angels",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tda3v4458/kisah-sahabat-nabi-yang-jenazahnya-dimandikan-malaikat",
+      "published_date": "2026-04-10T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live More Freely with Much Gratitude",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tda3cd458/hidup-lebih-lapang-dengan-banyak-bersyukur",
+      "published_date": "2026-04-10T13:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dissertation on Protection of 64 Million MSMEs, Hardjuno Receives Doctor of Laws",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tda5xq484/disertasi-tentang-perlindungan-64-juta-umkm-hardjuno-raih-doktor-hukum",
+      "published_date": "2026-04-10T13:39:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maruarar denies that Hercules is ready to vacate the Tanah Abang land if it is proven that it belongs to the state",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tda5ry377/bantah-maruarar-hercules-siap-kosongkan-lahan-tanah-abang-jika-terbukti-milik-negara",
+      "published_date": "2026-04-10T13:35:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Messenger of Allah Responds to Evil with a Smile and Kindness",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tda2nb458/rasulullah-membalas-keburukan-dengan-senyum-dan-kebaikan",
+      "published_date": "2026-04-10T13:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Surabaya Becomes Industrial Motor, Energy Exhibition Encourages Regional Economic Growth",
       "source": "Republika English",
@@ -517,55 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td86qt409/aji-sk-menteri-komdigi-1272026-pasal-karet-bungkam-pers-magdalene-jadi-korban",
       "published_date": "2026-04-09T14:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Transportation Agency Officers Also Caught Using Edited Photos to Respond to Citizen Reports on JAKI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td79a5348/petugas-dishub-jakarta-juga-ketahuan-pakai-foto-editan-untuk-respons-laporan-warga-di-jaki",
-      "published_date": "2026-04-08T23:58:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League Quarter Final 1st Leg Results: Real Madrid and Barcelona Compactly Lost at Home",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td78wb348/hasil-leg-1-perempat-final-liga-champions-real-madrid-dan-barcelona-kompak-kalah-di-kandang-sendiri",
-      "published_date": "2026-04-08T23:50:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BNI Will Close Internet Banking on May 4, Customers Must Do This",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td785g502/bni-akan-tutup-internet-banking-pada-4-mei-nasabah-harus-lakukan-ini",
-      "published_date": "2026-04-08T23:34:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Head of BGN Explains Procurement of 21 Thousand Electric Motorcycles from Citeureup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td77p0484/kepala-bgn-jelaskan-pengadaan-21-ribu-motor-listrik-asal-citeureup",
-      "published_date": "2026-04-08T23:24:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG Wastes Chance to Finish Liverpool Quickly, The Reds Still Have Hope of a Comeback at Anfield",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td77dc348/psg-buang-peluang-habisi-liverpool-lebih-cepat-the-reds-masih-punya-harapan-comeback-di-anfield",
-      "published_date": "2026-04-08T23:17:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Airplane Avtur Increases, Hajj Cost Adjustments will be Covered by APBN and BPKH",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/td76xi430/avtur-pesawat-naik-penyesuaian-biaya-haji-akan-ditutup-dengan-apbn-dan-bpkh",
-      "published_date": "2026-04-08T23:08:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traga AC Introduced at GIICOMVEC, Completes Isuzu Commercial Vehicle Line",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td6jco348/traga-ac-diperkenalkan-di-giicomvec-lengkapi-lini-kendaraan-niaga-isuzu",
-      "published_date": "2026-04-08T14:38:48+00:00",
       "category": "Local Events"
     }
   ]
