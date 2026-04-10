@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Paramadina Economist: Indonesia's Economic Growth in 2026 Has the Potential to Exceed World Bank Projections",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdap1w9830000/ekonom-paramadina-pertumbuhan-ekonomi-ri-2026-berpotensi-lampaui-proyeksi-bank-dunia",
+      "published_date": "2026-04-10T20:32:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Global Hotels Start Relying on AI, Guest Experience is Now Totally Changing",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tda728451/hotel-global-mulai-andalkan-ai-pengalaman-tamu-kini-berubah-total",
@@ -62,16 +69,16 @@
       "url": "https://news.republika.co.id/berita/tcyrd0458/lagi-indonesia-desak-dewan-keamanan-pbb-usut-serangan-ke-unifil",
       "published_date": "2026-04-04T09:51:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Pertamina Increases Subsidized LPG Supply in Madiun for Easter Holidays",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcxuga4630000/pertamina-tambah-pasokan-lpg-subsidi-di-madiun-untuk-libur-paskah",
-      "published_date": "2026-04-03T22:00:10+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Situbondo Police Ensures Stock of 3 Kg LPG is Safe and Controlled",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdankd5230000/polres-situbondo-pastikan-stok-elpiji-3-kg-aman-dan-terkendali",
+      "published_date": "2026-04-10T20:00:13+00:00",
+      "category": "Military"
+    },
     {
       "title": "When the Pope from Chicago Resists Donald Trump's War Rhetoric",
       "source": "Republika English",
@@ -204,13 +211,6 @@
       "url": "https://news.republika.co.id/berita/tczi785930000/panglima-tni-pimpin-pemakaman-militer-mayor-zulmi",
       "published_date": "2026-04-04T19:30:44+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Posthumous Serka Muhammad Nur Ichwan's body arrives in Magelang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tczhhz2230000/jenazah-serka-anumerta-muhammad-nur-ichwan-tiba-di-magelang",
-      "published_date": "2026-04-04T19:15:35+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -315,6 +315,13 @@
   ],
   "Economy": [
     {
+      "title": "State Revenue from Crypto Taxes Continues to Increase",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tda8h8416/penerimaan-negara-dari-pajak-kripto-terus-meningkat",
+      "published_date": "2026-04-10T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mounting Garbage Resolved, New Face of Kramat Jati Main Market Begins to Become Visible",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tda6oa451/sampah-menggunung-teratasi-wajah-baru-pasar-induk-kramat-jati-mulai-terlihat",
@@ -408,6 +415,83 @@
   ],
   "Local Events": [
     {
+      "title": "Hadith of the Prophet about Health and Hygiene that Need to be Practiced",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/td9k66366/hadits-nabi-tentang-kesehatan-dan-kebersihan-yang-perlu-diamalkan",
+      "published_date": "2026-04-10T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Ups and Downs of BCA Syariah's Journey: From Assets of IDR 607 Billion, Now Nearly IDR 20 Trillion",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tdasil490/jatuh-bangun-perjalanan-bca-syariah-dari-aset-rp-607-miliar-kini-hampir-rp-20-triliun",
+      "published_date": "2026-04-10T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: ‘kramat’ and the politics of Indonesian history",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-kramat-and-the-politics-of-indonesian-history/",
+      "published_date": "2026-04-10T22:42:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid Share Points with Girona After Draw 1-1",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdaui89430000/real-madrid-berbagi-poin-dengan-girona-setelah-imbang-11",
+      "published_date": "2026-04-10T22:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donyell Malen Hattrick, AS Roma Beat Pisa 3-0",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdatwj930000/donyell-malen-hattrick-as-roma-bungkam-pisa-30",
+      "published_date": "2026-04-10T22:17:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dradjad Wibowo: Syaiful Mujani Playing with Fire is Dangerous",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdagah318/dradjad-wibowo-syaiful-mujani-bermain-api-berbahaya",
+      "published_date": "2026-04-10T21:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG Predicts Light Rain in Jakarta This Saturday",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdap6e1630000/bmkg-prediksi-hujan-ringan-di-jakarta-sabtu-ini",
+      "published_date": "2026-04-10T20:35:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Central Java Governor Urges ASN Service Quality to Remain Optimal Even While WFH",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdap46030000/gubernur-jateng-imbau-kualitas-pelayanan-asn-tetap-optimal-meski-wfh",
+      "published_date": "2026-04-10T20:33:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PUPR Minister Doesn't Know Reason for Search of Ministry",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdap2u2130000/menteri-pupr-tidak-tahu-alasan-penggeledahan-kementerian",
+      "published_date": "2026-04-10T20:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gowa Regency Government Supports Development of Village Cooperatives by Kodam XIV/Hasanuddin",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdap0j530000/pemkab-gowa-dukung-pembangunan-koperasi-desa-oleh-kodam-xivhasanuddin",
+      "published_date": "2026-04-10T20:31:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Public Works Does Not Implement WFH for ASN, Focuses on Emergency Duties",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdao9g9830000/kementerian-pu-tidak-terapkan-wfh-untuk-asn-fokus-tugas-darurat",
+      "published_date": "2026-04-10T20:15:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Mentioned in the Qur'an, where does the Pomegranate come from?",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tda4vo458/disebutkan-alquran-dari-manakah-asal-buah-delima",
@@ -468,83 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td9ker416/sis-group-perluas-jaringan-buka-kampus-baru-di-jakarta-timur",
       "published_date": "2026-04-10T05:55:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transportation Guide to Eid Betawi 2026, Here are the Routes and Parking",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td9ins370/panduan-transportasi-ke-lebaran-betawi-2026-ini-rute-dan-parkirnya",
-      "published_date": "2026-04-10T05:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Film Songko Angkat Urban Legend Minahasa Year 1986",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/td9hps425/film-songko-angkat-legenda-urban-minahasa-tahun-1986",
-      "published_date": "2026-04-10T04:56:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BPKH Prepares 2026 Hajj Pocket Money, How Much Will Pilgrims Receive?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/td9gnq483/bpkh-siapkan-uang-saku-haji-2026-berapa-yang-akan-diterima-jamaah",
-      "published_date": "2026-04-10T04:33:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ashabul Kahf Dirham",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/td9fu5393/dirham-ashabul-kahfi",
-      "published_date": "2026-04-10T04:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian U-17 National Team Completes Preparations Ahead of the AFF Cup",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/td8h88375/timnas-u17-indonesia-matangkan-persiapan-jelang-piala-aff",
-      "published_date": "2026-04-09T15:48:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RI Strongly Condemns Israel's Brutal Attack on Lebanon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td8h0t377/ri-kecam-keras-serangan-brutal-israel-ke-lebanon",
-      "published_date": "2026-04-09T15:43:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gonzaga's Scientific Tradition Continues, Encouraging Students to Create Scientific Work",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//td8fy5456/tradisi-ilmiah-gonzaga-berlanjut-dorong-siswa-kreasikan-karya-ilmiah",
-      "published_date": "2026-04-09T15:20:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Strongly Condemns Israel's Brutal Attack on Lebanon",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/td8dwv282/indonesia-kutuk-keras-serangan-brutal-israel-ke-lebanon",
-      "published_date": "2026-04-09T14:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Semarang Students Demonstrate to Urge Andrie Yunus' Case to Be Taken to General Court",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/td8dn2282/ratusan-mahasiswa-semarang-demo-desak-kasus-andrie-yunus-dibawa-ke-peradilan-umum",
-      "published_date": "2026-04-09T14:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigating the Petral Scandal, Jampidsus Again Names Riza Chalid as a Suspect",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td8cvm377/usut-skandal-petral-jampidsus-kembali-tetapkan-riza-chalid-sebagai-tersangka",
-      "published_date": "2026-04-09T14:14:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJI: Ministerial Decree 127/2026 Rubber Article Silences Press, Magdalene Becomes Victim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td86qt409/aji-sk-menteri-komdigi-1272026-pasal-karet-bungkam-pers-magdalene-jadi-korban",
-      "published_date": "2026-04-09T14:02:00+00:00",
       "category": "Local Events"
     }
   ]
