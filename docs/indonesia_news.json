@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Isak and Melani Selected as 2026 Papuan Language Ambassadors",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdcg5w8030000/isak-dan-melani-terpilih-sebagai-duta-bahasa-papua-2026",
+      "published_date": "2026-04-11T19:15:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Paramadina Economist: Indonesia's Economic Growth in 2026 Has the Potential to Exceed World Bank Projections",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdap1w9830000/ekonom-paramadina-pertumbuhan-ekonomi-ri-2026-berpotensi-lampaui-proyeksi-bank-dunia",
@@ -65,6 +72,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Doctor Says a 40 Minute Leisurely Walk Can Maintain Brain Health",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdcped425/dokter-sebut-jalan-santai-40-menit-bisa-jaga-kesehatan-otak",
+      "published_date": "2026-04-11T22:35:01+00:00",
+      "category": "Military"
+    },
     {
       "title": "Situbondo Police Ensures Stock of 3 Kg LPG is Safe and Controlled",
       "source": "Republika English",
@@ -190,20 +204,6 @@
       "url": "https://news.republika.co.id/berita/td0lzr348/iran-peringatkan-dampak-serangan-as-dan-israel-ke-pltn-bushehr-bisa-hancurkan-negara-teluk",
       "published_date": "2026-04-05T09:50:15+00:00",
       "category": "Military"
-    },
-    {
-      "title": "The Posthumous Military Funeral Ceremony for Major Inf Zulmi will take place at TMP Cikutra",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tczqvk483/upacara-pemakaman-militer-mayor-inf-anumerta-zulmi-akan-berlangsung-di-tmp-cikutra",
-      "published_date": "2026-04-04T22:38:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TNI Commander Leads Major Zulmi's Military Funeral",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tczi785930000/panglima-tni-pimpin-pemakaman-militer-mayor-zulmi",
-      "published_date": "2026-04-04T19:30:44+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -297,16 +297,23 @@
       "url": "https://news.republika.co.id/berita/td0nkh368/pakai-pendekatan-gim-amrei-dan-aida-consultant-perkuat-manajemen-risiko-sektor-energi",
       "published_date": "2026-04-05T10:24:17+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "DPR Urges Government to Consider Adjusting Fuel Prices",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcywhi423/dpr-dorong-pemerintah-pertimbangkan-penyesuaian-harga-bbm",
-      "published_date": "2026-04-04T11:41:42+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Erick Thohir Encourages Percasi Develop Sport Industry and Sport Tourism",
+      "source": "Republika English",
+      "url": "https://en.republika.co.id/berita/tdcr8r415/erick-thohir-encourages-percasi-develop-sport-industry-and-sport-tourism",
+      "published_date": "2026-04-11T23:14:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prospects Still Weak, Rupiah Estimated to Remain at Level IDR 17 Thousand",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdc2vf490/prospek-masih-lemah-rupiah-diperkirakan-bakal-bertahan-di-level-rp17-ribuan",
+      "published_date": "2026-04-11T23:01:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "State Revenue from Crypto Taxes Continues to Increase",
       "source": "Republika English",
@@ -393,6 +400,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Comments on Instagram can now be edited, the time limit is 15 minutes",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdcqpl425/komentar-di-instagram-sekarang-bisa-diedit-batas-waktunya-15-menit",
+      "published_date": "2026-04-11T23:03:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The main building of the South Sulawesi DPRD will be demolished and rebuilt",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdcp681930000/bangunan-utama-dprd-sulsel-akan-dirobohkan-dan-dibangun-ulang",
+      "published_date": "2026-04-11T22:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maarten Paes Shines, Ajax Beats Heracles 3-0",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdcoh79430000/maarten-paes-bersinar-ajax-kalahkan-heracles-30",
+      "published_date": "2026-04-11T22:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tulungagung Regent Gatut Sunu Wibowo Detained by KPK on Allegations of Corruption",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdci86330000/bupati-tulungagung-gatut-sunu-wibowo-ditahan-kpk-atas-dugaan-korupsi",
+      "published_date": "2026-04-11T20:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OJK Encourages Sharia Banking Innovation to Increase Financial Inclusion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdcgvd8530000/ojk-dorong-inovasi-perbankan-syariah-untuk-meningkatkan-inklusi-keuangan",
+      "published_date": "2026-04-11T19:30:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Seizes Louis Vuitton Shoes in OTT Regent Tulungagung",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdce288130000/kpk-sita-sepatu-louis-vuitton-dalam-ott-bupati-tulungagung",
+      "published_date": "2026-04-11T18:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Transportation Supports Vehicle Safety Technology to Reduce Accidents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdcco8430000/kemenhub-dukung-teknologi-keselamatan-kendaraan-untuk-kurangi-kecelakaan",
+      "published_date": "2026-04-11T18:00:08+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "MH Thamrin Museum Revitalized to Become an Education Center",
       "source": "Republika English",
@@ -482,55 +538,6 @@
       "source": "Indonesia at Melbourne",
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-kramat-and-the-politics-of-indonesian-history/",
       "published_date": "2026-04-10T22:42:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid Share Points with Girona After Draw 1-1",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdaui89430000/real-madrid-berbagi-poin-dengan-girona-setelah-imbang-11",
-      "published_date": "2026-04-10T22:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donyell Malen Hattrick, AS Roma Beat Pisa 3-0",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdatwj930000/donyell-malen-hattrick-as-roma-bungkam-pisa-30",
-      "published_date": "2026-04-10T22:17:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dradjad Wibowo: Syaiful Mujani Playing with Fire is Dangerous",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdagah318/dradjad-wibowo-syaiful-mujani-bermain-api-berbahaya",
-      "published_date": "2026-04-10T21:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG Predicts Light Rain in Jakarta This Saturday",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdap6e1630000/bmkg-prediksi-hujan-ringan-di-jakarta-sabtu-ini",
-      "published_date": "2026-04-10T20:35:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Java Governor Urges ASN Service Quality to Remain Optimal Even While WFH",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdap46030000/gubernur-jateng-imbau-kualitas-pelayanan-asn-tetap-optimal-meski-wfh",
-      "published_date": "2026-04-10T20:33:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PUPR Minister Doesn't Know Reason for Search of Ministry",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdap2u2130000/menteri-pupr-tidak-tahu-alasan-penggeledahan-kementerian",
-      "published_date": "2026-04-10T20:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gowa Regency Government Supports Development of Village Cooperatives by Kodam XIV/Hasanuddin",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdap0j530000/pemkab-gowa-dukung-pembangunan-koperasi-desa-oleh-kodam-xivhasanuddin",
-      "published_date": "2026-04-10T20:31:31+00:00",
       "category": "Local Events"
     }
   ]
