@@ -62,13 +62,6 @@
       "url": "https://khazanah.republika.co.id/berita/td2q52320/stafsus-menag-segel-rumah-doa-jemaat-pouk-tesalonika-teluknaga-kembali-dibuka",
       "published_date": "2026-04-06T13:15:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Again, Indonesia Urges the UN Security Council to Investigate the Attack on UNIFIL",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tcyrd0458/lagi-indonesia-desak-dewan-keamanan-pbb-usut-serangan-ke-unifil",
-      "published_date": "2026-04-04T09:51:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -397,23 +390,79 @@
       "url": "https://news.republika.co.id/berita/td1of6484/kemenkomdigi-kecam-praktik-informasi-rating-gim-di-steam-tidak-akurat",
       "published_date": "2026-04-05T23:40:18+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "On alert for extreme El Nino this year, the Ministry of Agriculture will optimize 80 thousand water pumps",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcyuc4490/siaga-el-nino-ekstrem-tahun-ini-kementan-bakal-optimalkan-80-ribu-pompa-air",
-      "published_date": "2026-04-04T10:55:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Iran-US War Disrupts the Middle East Economy, This Is the Impact on Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tcytxo490/perang-iranas-ganggu-ekonomi-timur-tengah-ini-dampaknya-ke-indonesia",
-      "published_date": "2026-04-04T10:46:36+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "MH Thamrin Museum Revitalized to Become an Education Center",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdbq83451/museum-mh-thamrin-direvitalisasi-jadi-pusat-edukasi",
+      "published_date": "2026-04-11T11:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Chairman of Commission I DPR Welcomes the Ceasefire, Hopes It Will Be Permanent & Encourages Palestinian Independence",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tdbssy291/wakil-ketua-komisi-i-dpr-sambut-baik-gencatan-senjata-harap-permanen-dorong-kemerdekaan-palestina",
+      "published_date": "2026-04-11T10:50:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Stunting to AI, FTI UBSI National Seminar Highlights Digital Solutions for National Problems",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdbsmf368/dari-stunting-hingga-ai-seminar-nasional-fti-ubsi-soroti-solusi-digital-untuk-masalah-nasional",
+      "published_date": "2026-04-11T10:47:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel Basa Basi Only Allows Morning Prayers at Al Aqsa Mosque, HNW Asks People to Close Their Lines",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdbrog483/israel-basa-basi-hanya-ijinkan-sholat-subuh-di-masjid-al-aqsa-hnw-minta-umat-rapatkan-barisan",
+      "published_date": "2026-04-11T10:26:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eid Transport 2026 Successful, Collaboration is Key",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdbq7r451/angkutan-lebaran-2026-sukses-kolaborasi-jadi-kunci",
+      "published_date": "2026-04-11T10:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farizal Ramadhon Becomes the Name of One of the Humanitarian Ships Ready to Break the Gaza Blockade",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdbqy4483/farizal-ramadhon-jadi-nama-salah-satu-kapal-kemanusiaan-yang-siap-tembus-blokade-gaza",
+      "published_date": "2026-04-11T10:10:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Betawi Eid, the Delivery of Traditions Full of Harmony",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdbq6r451/lebaran-betawi-hantaran-tradisi-penuh-harmoni",
+      "published_date": "2026-04-11T09:54:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sahroni's Confession of Trapping Fake Corruption Eradication Committee Members and Telling them to Wait in the Leadership Room",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdbp4d377/pengakuan-sahroni-jebak-anggota-kpk-gadungan-hingga-nyuruh-tunggu-di-ruang-pimpinan",
+      "published_date": "2026-04-11T09:31:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jaecoo Holds Jaecoo Land Festival, Celebrates Hot Sales of J5 EV in March 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdboll348/jaecoo-gelar-festival-jaecoo-land-rayakan-penjualan-laris-j5-ev-pada-maret-2026",
+      "published_date": "2026-04-11T09:20:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strategic Path: Learning Innovation for the Golden Generation 2045",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tdboiz393/jalan-strategis-inovasi-pembelajaran-untuk-generasi-emas-2045",
+      "published_date": "2026-04-11T09:18:35+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hadith of the Prophet about Health and Hygiene that Need to be Practiced",
       "source": "Republika English",
@@ -482,76 +531,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdap0j530000/pemkab-gowa-dukung-pembangunan-koperasi-desa-oleh-kodam-xivhasanuddin",
       "published_date": "2026-04-10T20:31:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Public Works Does Not Implement WFH for ASN, Focuses on Emergency Duties",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdao9g9830000/kementerian-pu-tidak-terapkan-wfh-untuk-asn-fokus-tugas-darurat",
-      "published_date": "2026-04-10T20:15:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mentioned in the Qur'an, where does the Pomegranate come from?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tda4vo458/disebutkan-alquran-dari-manakah-asal-buah-delima",
-      "published_date": "2026-04-10T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reasons the Devil Refuses to Pray",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tda49t458/alasan-iblis-menolak-didoakan",
-      "published_date": "2026-04-10T14:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Story of the Prophet's Companion Whose Body Was Bathed by Angels",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tda3v4458/kisah-sahabat-nabi-yang-jenazahnya-dimandikan-malaikat",
-      "published_date": "2026-04-10T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live More Freely with Much Gratitude",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tda3cd458/hidup-lebih-lapang-dengan-banyak-bersyukur",
-      "published_date": "2026-04-10T13:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dissertation on Protection of 64 Million MSMEs, Hardjuno Receives Doctor of Laws",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tda5xq484/disertasi-tentang-perlindungan-64-juta-umkm-hardjuno-raih-doktor-hukum",
-      "published_date": "2026-04-10T13:39:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maruarar denies that Hercules is ready to vacate the Tanah Abang land if it is proven that it belongs to the state",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tda5ry377/bantah-maruarar-hercules-siap-kosongkan-lahan-tanah-abang-jika-terbukti-milik-negara",
-      "published_date": "2026-04-10T13:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Messenger of Allah Responds to Evil with a Smile and Kindness",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tda2nb458/rasulullah-membalas-keburukan-dengan-senyum-dan-kebaikan",
-      "published_date": "2026-04-10T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surabaya Becomes Industrial Motor, Energy Exhibition Encourages Regional Economic Growth",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td9l2b370/surabaya-jadi-motor-industri-pameran-energi-dorong-pertumbuhan-ekonomi-regional",
-      "published_date": "2026-04-10T06:08:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SIS Group Expands Network, Opens New Campus in East Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td9ker416/sis-group-perluas-jaringan-buka-kampus-baru-di-jakarta-timur",
-      "published_date": "2026-04-10T05:55:14+00:00",
       "category": "Local Events"
     }
   ]
