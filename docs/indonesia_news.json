@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia was runner-up in the 2026 AFF Futsal Cup, beaten 1-2 by Thailand in the final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdelrp348/indonesia-runnerup-piala-aff-futsal-2026-takluk-12-dari-thailand-pada-partai-final",
+      "published_date": "2026-04-12T23:11:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KAI Daop 7 Madiun Goods Transport Experiences an Increase of 5.2% in the First Quarter of 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdea944030000/angkutan-barang-kai-daop-7-madiun-alami-kenaikan-52-di-triwulan-i-2026",
+      "published_date": "2026-04-12T19:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Thousands of runners will join Mangkunegaran 2026 in Solo",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tddksf456/ribuan-pelari-akan-ramaikan-mangkunegaran-2026-di-solo",
@@ -79,6 +93,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Pamekasan Police Launches Smart Motorcycle to Increase Literacy of Village Children",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdea9g130000/polres-pamekasan-luncurkan-motor-pintar-untuk-tingkatkan-literasi-anak-desa",
+      "published_date": "2026-04-12T19:03:16+00:00",
+      "category": "Military"
+    },
     {
       "title": "Doctor Says a 40 Minute Leisurely Walk Can Maintain Brain Health",
       "source": "Republika English",
@@ -190,16 +211,16 @@
       "url": "https://news.republika.co.id/berita/td2qe4487/legislator-desak-evaluasi-penugasan-tni-di-unifil-keselamatan-prajurit-prioritas-utama",
       "published_date": "2026-04-06T13:20:28+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Police Arrest Illegal Parking Officer at Makassar Harbor",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td1js75530000/polisi-tangkap-juru-parkir-liar-di-pelabuhan-makassar",
-      "published_date": "2026-04-05T22:00:07+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "North Maluku Focuses on Downstream Fisheries to Improve Economy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdea789830000/maluku-utara-fokus-hilirisasi-perikanan-untuk-tingkatkan-ekonomi",
+      "published_date": "2026-04-12T19:01:56+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Moving Amidst Global Challenges, Pertamina Ship Fleet Supports Energy Distribution",
       "source": "Republika English",
@@ -408,6 +429,69 @@
   ],
   "Local Events": [
     {
+      "title": "Inter Closer to Winning the Scudetto After Dramatic Win over Como",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdem8h348/inter-kian-dekat-raih-scudetto-setelah-menang-dramatis-atas-como",
+      "published_date": "2026-04-12T23:21:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "East Kalimantan Provincial Government Disburses IDR 220 Billion, Tens of Thousands of Students Can Study Without Burden",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdelvt451/pemprov-kaltim-gelontorkan-rp220-miliar-puluhan-ribu-mahasiswa-bisa-kuliah-tanpa-beban",
+      "published_date": "2026-04-12T23:14:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Indonesian Ships Arrive in Spain to Join the Voyage to Gaza",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdelln393/tiga-kapal-indonesia-tiba-di-spanyol-untuk-bergabung-dalam-pelayaran-ke-gaza",
+      "published_date": "2026-04-12T23:08:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City Sends Strong Message to Arsenal After Destroying Chelsea in the Premier League",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdel2i348/man-city-kirim-pesan-kuat-ke-arsenal-usai-hancurkan-chelsea-di-liga-inggris",
+      "published_date": "2026-04-12T22:56:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IKN Needs 12 Tons of Fish per Month, Fishermen Assisted by ITB Are Ready to Support",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdejpl451/ikn-butuh-12-ton-ikan-per-bulan-nelayan-binaan-itb-ini-siap-menopang",
+      "published_date": "2026-04-12T22:27:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children Angry When Gadgets Are Confiscated? This is How to Cope According to Psychiatrists",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tde39g451/anak-ngamuk-saat-gadget-disita-ini-cara-mengatasinya-menurut-psikiater",
+      "published_date": "2026-04-12T21:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 President's Cup Potentially Uses New Format",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdeea83930000/piala-presiden-2026-berpotensi-gunakan-format-baru",
+      "published_date": "2026-04-12T20:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Optical Pole Collapsed in Tamansari Due to Fracture and Cable Load",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdea7f6830000/tiang-optik-roboh-di-tamansari-akibat-keropos-dan-beban-kabel",
+      "published_date": "2026-04-12T19:02:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Construction of the Legislative and Judicial Complex at IKN Remains a Priority",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tde8r16330000/pembangunan-komplek-legislatif-dan-yudikatif-di-ikn-tetap-prioritas",
+      "published_date": "2026-04-12T18:30:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran limits ships in the Strait of Hormuz to only 12 per day, costs reach IDR 34 billion per tanker",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tddp2w370/iran-batasi-kapal-di-selat-hormuz-hanya-12-per-hari-biaya-tembus-rp-34-miliar-per-tanker",
@@ -482,69 +566,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdcgvd8530000/ojk-dorong-inovasi-perbankan-syariah-untuk-meningkatkan-inklusi-keuangan",
       "published_date": "2026-04-11T19:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Seizes Louis Vuitton Shoes in OTT Regent Tulungagung",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdce288130000/kpk-sita-sepatu-louis-vuitton-dalam-ott-bupati-tulungagung",
-      "published_date": "2026-04-11T18:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Transportation Supports Vehicle Safety Technology to Reduce Accidents",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdcco8430000/kemenhub-dukung-teknologi-keselamatan-kendaraan-untuk-kurangi-kecelakaan",
-      "published_date": "2026-04-11T18:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MH Thamrin Museum Revitalized to Become an Education Center",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdbq83451/museum-mh-thamrin-direvitalisasi-jadi-pusat-edukasi",
-      "published_date": "2026-04-11T11:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Chairman of Commission I DPR Welcomes the Ceasefire, Hopes It Will Be Permanent & Encourages Palestinian Independence",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tdbssy291/wakil-ketua-komisi-i-dpr-sambut-baik-gencatan-senjata-harap-permanen-dorong-kemerdekaan-palestina",
-      "published_date": "2026-04-11T10:50:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Stunting to AI, FTI UBSI National Seminar Highlights Digital Solutions for National Problems",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdbsmf368/dari-stunting-hingga-ai-seminar-nasional-fti-ubsi-soroti-solusi-digital-untuk-masalah-nasional",
-      "published_date": "2026-04-11T10:47:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel Basa Basi Only Allows Morning Prayers at Al Aqsa Mosque, HNW Asks People to Close Their Lines",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdbrog483/israel-basa-basi-hanya-ijinkan-sholat-subuh-di-masjid-al-aqsa-hnw-minta-umat-rapatkan-barisan",
-      "published_date": "2026-04-11T10:26:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eid Transport 2026 Successful, Collaboration is Key",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdbq7r451/angkutan-lebaran-2026-sukses-kolaborasi-jadi-kunci",
-      "published_date": "2026-04-11T10:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farizal Ramadhon Becomes the Name of One of the Humanitarian Ships Ready to Break the Gaza Blockade",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdbqy4483/farizal-ramadhon-jadi-nama-salah-satu-kapal-kemanusiaan-yang-siap-tembus-blokade-gaza",
-      "published_date": "2026-04-11T10:10:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Betawi Eid, the Delivery of Traditions Full of Harmony",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdbq6r451/lebaran-betawi-hantaran-tradisi-penuh-harmoni",
-      "published_date": "2026-04-11T09:54:27+00:00",
       "category": "Local Events"
     }
   ]
