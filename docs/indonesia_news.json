@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Thousands of runners will join Mangkunegaran 2026 in Solo",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tddksf456/ribuan-pelari-akan-ramaikan-mangkunegaran-2026-di-solo",
+      "published_date": "2026-04-12T09:53:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Isak and Melani Selected as 2026 Papuan Language Ambassadors",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdcg5w8030000/isak-dan-melani-terpilih-sebagai-duta-bahasa-papua-2026",
@@ -190,23 +197,16 @@
       "url": "https://news.republika.co.id/berita/td1js75530000/polisi-tangkap-juru-parkir-liar-di-pelabuhan-makassar",
       "published_date": "2026-04-05T22:00:07+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Arsenal Failed to Get to the FA Cup Semifinals, Arteta Highlights Weak Defense and Wasted Opportunities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td0mne348/arsenal-gagal-ke-semifinal-piala-fa-arteta-soroti-lemahnya-pertahanan-dan-peluang-terbuang",
-      "published_date": "2026-04-05T10:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns of impact of US and Israeli attacks on Bushehr nuclear power plant could be devastating for Gulf countries",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td0lzr348/iran-peringatkan-dampak-serangan-as-dan-israel-ke-pltn-bushehr-bisa-hancurkan-negara-teluk",
-      "published_date": "2026-04-05T09:50:15+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Moving Amidst Global Challenges, Pertamina Ship Fleet Supports Energy Distribution",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tddn1u472/bergerak-di-tengah-tantangan-global-armada-kapal-pertamina-topang-distribusi-energi",
+      "published_date": "2026-04-12T10:41:54+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Twice a suspect, Riza Chalid has not yet been arrested",
       "source": "Republika English",
@@ -290,16 +290,23 @@
       "url": "https://news.republika.co.id/berita/td3gja1430000/pertamina-tutup-sementara-spbu-sriwijaya-semarang-pascakebakaran",
       "published_date": "2026-04-06T22:45:10+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Using a Game Approach, AMREI and AIDA Consultant Strengthen Energy Sector Risk Management",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td0nkh368/pakai-pendekatan-gim-amrei-dan-aida-consultant-perkuat-manajemen-risiko-sektor-energi",
-      "published_date": "2026-04-05T10:24:17+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Optimizing Palm Oil Waste Can Strengthen National Economic Resilience",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tddmbn484/optimalisasi-limbah-sawit-bisa-perkuat-ketahanan-ekonomi-nasional",
+      "published_date": "2026-04-12T10:26:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Real Evidence of UBSI Quality: The Story of Nur Arifin Sunarto Who Was Immediately Absorbed by Industry",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tddl96472/bukti-nyata-kualitas-ubsi-kisah-nur-arifin-sunarto-yang-langsung-terserap-industri",
+      "published_date": "2026-04-12T10:03:06+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Erick Thohir Encourages Percasi Develop Sport Industry and Sport Tourism",
       "source": "Republika English",
@@ -401,6 +408,48 @@
   ],
   "Local Events": [
     {
+      "title": "Iran limits ships in the Strait of Hormuz to only 12 per day, costs reach IDR 34 billion per tanker",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tddp2w370/iran-batasi-kapal-di-selat-hormuz-hanya-12-per-hari-biaya-tembus-rp-34-miliar-per-tanker",
+      "published_date": "2026-04-12T11:25:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Halal Bihalal, IKAPI Affirms Its Present as a Solution to PKPU and Bankruptcy Issues",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tddou5430/halal-bihalal-ikapi-tegaskan-hadir-sebagai-solusi-dalam-persoalan-pkpu-dan-kepailitan",
+      "published_date": "2026-04-12T11:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Halal Bi Halal, Said touched on the harmony between East Java PDIP and NU and Wasathiyah Islam",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tddnu1320/di-halal-bi-halal-said-singgung-keselarasan-pdip-jatim-dan-nu-hingga-islam-wasathiyah",
+      "published_date": "2026-04-12T10:58:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Predicted to be El Nino Godzilla, why is it still raining? This is an expert explanation",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tddlog370/diprediksi-ada-el-nino-godzilla-mengapa-hujan-masih-turun-ini-penjelasan-pakar",
+      "published_date": "2026-04-12T10:12:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jampidsus is confident that M Riza Chalid can be arrested and tried in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tddj9k484/jampidsus-yakin-m-riza-chalid-dapat-ditangkap-dan-diadili-di-indonesia",
+      "published_date": "2026-04-12T09:20:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not only does it damage the lungs, smoking can increase the risk of dementia",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tddisp425/bukan-cuma-merusak-paru-merokok-bisa-tingkatkan-risiko-demensia",
+      "published_date": "2026-04-12T09:10:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Comments on Instagram can now be edited, the time limit is 15 minutes",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tdcqpl425/komentar-di-instagram-sekarang-bisa-diedit-batas-waktunya-15-menit",
@@ -496,48 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdbq6r451/lebaran-betawi-hantaran-tradisi-penuh-harmoni",
       "published_date": "2026-04-11T09:54:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sahroni's Confession of Trapping Fake Corruption Eradication Committee Members and Telling them to Wait in the Leadership Room",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdbp4d377/pengakuan-sahroni-jebak-anggota-kpk-gadungan-hingga-nyuruh-tunggu-di-ruang-pimpinan",
-      "published_date": "2026-04-11T09:31:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jaecoo Holds Jaecoo Land Festival, Celebrates Hot Sales of J5 EV in March 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdboll348/jaecoo-gelar-festival-jaecoo-land-rayakan-penjualan-laris-j5-ev-pada-maret-2026",
-      "published_date": "2026-04-11T09:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strategic Path: Learning Innovation for the Golden Generation 2045",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tdboiz393/jalan-strategis-inovasi-pembelajaran-untuk-generasi-emas-2045",
-      "published_date": "2026-04-11T09:18:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hadith of the Prophet about Health and Hygiene that Need to be Practiced",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/td9k66366/hadits-nabi-tentang-kesehatan-dan-kebersihan-yang-perlu-diamalkan",
-      "published_date": "2026-04-10T23:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Ups and Downs of BCA Syariah's Journey: From Assets of IDR 607 Billion, Now Nearly IDR 20 Trillion",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tdasil490/jatuh-bangun-perjalanan-bca-syariah-dari-aset-rp-607-miliar-kini-hampir-rp-20-triliun",
-      "published_date": "2026-04-10T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: ‘kramat’ and the politics of Indonesian history",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-kramat-and-the-politics-of-indonesian-history/",
-      "published_date": "2026-04-10T22:42:31+00:00",
       "category": "Local Events"
     }
   ]
