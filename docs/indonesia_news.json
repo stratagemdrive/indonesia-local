@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "This is the composition of players for Indonesia vs Timor Leste in the 2026 AFF U-17 Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdfkak348/ini-susunan-pemain-indonesia-vs-timor-leste-di-piala-aff-u17-2026",
+      "published_date": "2026-04-13T11:37:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesia was runner-up in the 2026 AFF Futsal Cup, beaten 1-2 by Thailand in the final",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdelrp348/indonesia-runnerup-piala-aff-futsal-2026-takluk-12-dari-thailand-pada-partai-final",
@@ -93,6 +100,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Nadiem Says State Losses of Up to IDR 2 T in the Engineered Chromebook Case",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdfkfk409/nadiem-sebut-kerugian-negara-hingga-rp2-t-di-kasus-chromebook-hasil-rekayasa",
+      "published_date": "2026-04-13T11:40:32+00:00",
+      "category": "Military"
+    },
     {
       "title": "Pamekasan Police Launches Smart Motorcycle to Increase Literacy of Village Children",
       "source": "Republika English",
@@ -214,6 +228,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "PLN Ready to Execute 21 PLTS Projects in Semester I 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdfky4522/pln-siap-eksekusi-21-proyek-plts-pada-semester-i-2026",
+      "published_date": "2026-04-13T11:51:40+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Not Just a Transition, PLN Pursues Energy Independence",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdfkvs522/tak-sekadar-transisi-pln-kejar-kemandirian-energi",
+      "published_date": "2026-04-13T11:50:16+00:00",
+      "category": "Energy"
+    },
     {
       "title": "North Maluku Focuses on Downstream Fisheries to Improve Economy",
       "source": "Republika English",
@@ -418,16 +446,58 @@
       "url": "https://ekonomi.republika.co.id/berita/td2rfn416/ri-alihkan-sumber-impor-lpg-bahlil-pastikan-pasokan-aman",
       "published_date": "2026-04-06T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ministry of Communication and Technology Condemns the Practice of Inaccurate Game Rating Information on Steam",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td1of6484/kemenkomdigi-kecam-praktik-informasi-rating-gim-di-steam-tidak-akurat",
-      "published_date": "2026-04-05T23:40:18+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Prophet Muhammad's instructions for the people to be loved by Allah SWT",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdfkn2430/petunjuk-nabi-muhammad-untuk-umat-agar-disayang-allah-swt",
+      "published_date": "2026-04-13T11:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulog Guarantees Stable Rice Prices Despite Rising Plastic Packaging Costs",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdfl3k522/bulog-jamin-harga-beras-stabil-meski-biaya-kemasan-plastik-naik",
+      "published_date": "2026-04-13T11:54:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulog Gets 2 Percent Interest Subsidy, Strengthens Efforts to Absorb 4 Million Tons of Grain",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdfl0j522/bulog-dapat-subsidi-bunga-2-persen-perkuat-upaya-serap-gabah-4-juta-ton",
+      "published_date": "2026-04-13T11:53:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DPR Highlights MIND ID's Performance Amid Global Commodity Price Volatility",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdfkt7522/dpr-soroti-kinerja-mind-id-di-tengah-gejolak-harga-komoditas-global",
+      "published_date": "2026-04-13T11:48:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plastic Prices in Jakarta are Expensive, Pramono Asks Residents to Use Banana Leaves",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdfklq423/harga-plastik-di-jakarta-mahal-pramono-minta-warga-gunakan-daun-pisang",
+      "published_date": "2026-04-13T11:44:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Restricts Entry to Mecca Starting Today, Indonesian Ministry of Haj Reminds Not to Be Tempted by Lure",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdfkhm430/saudi-batasi-masuk-makkah-mulai-hari-ini-kemenhaj-ri-ingatkan-tak-tergiur-imingiming",
+      "published_date": "2026-04-13T11:41:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Currently Consolidating, the DKI Provincial Government Will Wipe Out the Sapu-Sapu Fish",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdfkdu484/sedang-konsolidasi-pemprov-dki-bakal-sikat-habis-ikan-sapusapu",
+      "published_date": "2026-04-13T11:39:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Inter Closer to Winning the Scudetto After Dramatic Win over Como",
       "source": "Republika English",
@@ -517,55 +587,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tddlog370/diprediksi-ada-el-nino-godzilla-mengapa-hujan-masih-turun-ini-penjelasan-pakar",
       "published_date": "2026-04-12T10:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jampidsus is confident that M Riza Chalid can be arrested and tried in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tddj9k484/jampidsus-yakin-m-riza-chalid-dapat-ditangkap-dan-diadili-di-indonesia",
-      "published_date": "2026-04-12T09:20:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not only does it damage the lungs, smoking can increase the risk of dementia",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tddisp425/bukan-cuma-merusak-paru-merokok-bisa-tingkatkan-risiko-demensia",
-      "published_date": "2026-04-12T09:10:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comments on Instagram can now be edited, the time limit is 15 minutes",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdcqpl425/komentar-di-instagram-sekarang-bisa-diedit-batas-waktunya-15-menit",
-      "published_date": "2026-04-11T23:03:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The main building of the South Sulawesi DPRD will be demolished and rebuilt",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdcp681930000/bangunan-utama-dprd-sulsel-akan-dirobohkan-dan-dibangun-ulang",
-      "published_date": "2026-04-11T22:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maarten Paes Shines, Ajax Beats Heracles 3-0",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdcoh79430000/maarten-paes-bersinar-ajax-kalahkan-heracles-30",
-      "published_date": "2026-04-11T22:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tulungagung Regent Gatut Sunu Wibowo Detained by KPK on Allegations of Corruption",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdci86330000/bupati-tulungagung-gatut-sunu-wibowo-ditahan-kpk-atas-dugaan-korupsi",
-      "published_date": "2026-04-11T20:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OJK Encourages Sharia Banking Innovation to Increase Financial Inclusion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdcgvd8530000/ojk-dorong-inovasi-perbankan-syariah-untuk-meningkatkan-inklusi-keuangan",
-      "published_date": "2026-04-11T19:30:49+00:00",
       "category": "Local Events"
     }
   ]
