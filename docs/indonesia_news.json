@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Campus given 30 days to resolve sexual harassment cases at FH UI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdj9p3393/kampus-diberikan-waktu-30-hari-untuk-selesaikan-kasus-pelecehan-seksual-di-fh-ui",
+      "published_date": "2026-04-15T11:39:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Trump 'mocks' Pope Leo as weak, this is the response of Catholic youth in Indonesia",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tdhlhp483/trump-ejek-paus-leo-lemah-ini-respons-pemuda-katolik-di-ri",
@@ -75,13 +82,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/td5n1w451/pemkot-tangsel-ajak-warga-sukseskan-ori-campak-targetkan-109-ribu-anak",
       "published_date": "2026-04-08T14:58:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Initial UN Investigation Blames Israel and Hezbollah for Cause of 3 TNI Deaths",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td5nt6484/investigasi-awal-pbb-salahkan-israel-dan-hezbollah-penyebab-3-tni-gugur",
-      "published_date": "2026-04-08T03:17:30+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -183,16 +183,16 @@
       "url": "https://khazanah.republika.co.id/berita/td8ci3483/wamendagri-dorong-dai-di-perbatasan-jadi-penggerak-sosial",
       "published_date": "2026-04-09T14:06:03+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PLN President Director Wins Green Leadership Award, PLN Obtains 11 Gold PROPER KLH 2025",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td5qw6472/dirut-pln-raih-penghargaan-green-leadership-pln-borong-11-proper-emas-klh-2025",
-      "published_date": "2026-04-08T04:24:06+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Telkom and PGN Collaborate to Prepare Data Center with Low Carbon Energy",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdj8t8490/telkom-dan-pgn-kerja-sama-siapkan-data-center-dengan-energi-rendah-karbon",
+      "published_date": "2026-04-15T11:21:08+00:00",
+      "category": "Energy"
+    },
     {
       "title": "To Moscow, Bahlil Secures Oil and Gas Supplies from Russia",
       "source": "Republika English",
@@ -269,23 +269,23 @@
       "url": "https://sharia.republika.co.id/berita/td6hdz522/pertamina-dorong-1346-sertifikasi-umkm-kantongi-label-halal",
       "published_date": "2026-04-08T13:56:23+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Reaches Emission Target, Invites People to Use Energy Wisely",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td5ss8472/pertamina-capai-target-emisi-ajak-masyarakat-bijak-gunakan-energi",
-      "published_date": "2026-04-08T05:04:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Enforcement of PP Tunas, Kemkomdigi Cecar Meta and Google Dozens of Questions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td5nrf487/penegakan-pp-tunas-kemkomdigi-cecar-meta-dan-google-puluhan-pertanyaan",
-      "published_date": "2026-04-08T03:16:27+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "China's Demand IDR 120 Trillion, RI Durian Ready to Get Big Share",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdj9uj451/permintaan-china-rp120-triliun-durian-ri-siap-kebagian-besar",
+      "published_date": "2026-04-15T11:42:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Agriculture Threatens to Revoke Licenses of Soybean Importers Who Raise Prices Excessively",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdj8c8423/mentan-ancam-cabut-izin-importir-kedelai-yang-naikkan-harga-berlebihan",
+      "published_date": "2026-04-15T11:18:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Minister of Finance Purbaya Ultimatum for Illegal Cigarette Entrepreneurs: Pay Excise or Factory Closed",
       "source": "Republika English",
@@ -369,30 +369,65 @@
       "url": "https://ekonomi.republika.co.id/berita/td78x2484/pemerintah-janji-rasio-utang-di-bawah-40-persen-dan-defisit-apbn-kurang-3-persen",
       "published_date": "2026-04-08T23:51:02+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "In This Economy, Cooking Traditional Food Could Be a Solution",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/td5sim328/in-this-economy-masak-makanan-tradisional-bisa-jadi-solusi",
-      "published_date": "2026-04-08T04:59:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ritno Kurniawan from Sejahtera Astra Nyarai Village, Lumberjack Who Transformed into an Ecotourism Guide",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td5s5l472/ritno-kurniawan-dari-desa-sejahtera-astra-nyarai-penebang-kayu-yang-menjelma-jadi-pemandu-ekowisata",
-      "published_date": "2026-04-08T04:51:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Running a Sustainable Industry, INALUM Achieves Gold and Green PROPER 2025",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/td5rtq522/jalankan-industri-berkelanjutan-inalum-raih-proper-emas-dan-hijau-2025",
-      "published_date": "2026-04-08T04:44:14+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Pramono reshuffles DKI Provincial Government ranks, Syafrin Liputo becomes South Jakarta Mayor",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdja26484/pramono-rombak-jajaran-pemprov-dki-syafrin-liputo-jadi-walkot-jaksel",
+      "published_date": "2026-04-15T11:46:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time in the View of the Koran",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdj6c8458/waktu-dalam-pandangan-alquran",
+      "published_date": "2026-04-15T11:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A number of law firms mark the names of perpetrators of sexual harassment at FH UI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdj9vz393/sejumlah-firma-hukum-tandai-nama-pelaku-pelecehan-seksual-di-fh-ui",
+      "published_date": "2026-04-15T11:43:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prophet Muhammad's ability to dive into the souls of his friends",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdj9tp430/kemampuan-nabi-muhammad-menyelami-jiwa-sahabatnya",
+      "published_date": "2026-04-15T11:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BTN Profit Reaches IDR 1.1 Trillion, Housing Loans Become Support",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdj9jn490/laba-btn-tembus-rp-11-triliun-kredit-perumahan-jadi-penopang",
+      "published_date": "2026-04-15T11:35:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Do Many AI Projects Stall? This is the culprit",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdj98d451/kenapa-banyak-proyek-ai-mandek-ini-biang-keroknya",
+      "published_date": "2026-04-15T11:29:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don't Be Misled! This is the Hadith Meaning of the Total Reward of Prayer in the Haram Mosque",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdj680458/jangan-sampai-keliru-ini-makna-hadis-jumlah-pahala-shalat-di-masjidil-haram",
+      "published_date": "2026-04-15T11:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justin Bieber Scores Streaming Surge After Performing at Coachella",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdj8ug425/justin-bieber-cetak-lonjakan-streaming-seusai-tampil-di-coachella",
+      "published_date": "2026-04-15T11:20:40+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Neuer Immediately Determines His Future, Now Focuses on Facing Madrid",
       "source": "Republika English",
@@ -475,62 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdghdz377/soal-permintaan-jk-untuk-tunjukkan-ijazah-petinggi-psi-saya-dan-jokowi-tertawa",
       "published_date": "2026-04-13T23:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martinez's Red Card Marks Manchester United's Defeat, Carrick: One of the Worst Decisions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdggkj348/kartu-merah-martinez-warnai-kekalahan-manchester-united-carrick-salah-satu-keputusan-terburuk",
-      "published_date": "2026-04-13T23:14:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj candidates from Cimahi and KBB will be flown from BIJB Kertajati",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdgfxs483/calhaj-asal-cimahi-dan-kbb-akan-diterbangkan-dari-bijb-kertajati",
-      "published_date": "2026-04-13T23:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of foreigners caught in simultaneous immigration operations throughout Indonesia",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tdfwyz375/ratusan-wna-terjaring-operasi-imigrasi-serentak-di-seluruh-indonesia",
-      "published_date": "2026-04-13T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strategic Solutions to Overcome Low Literacy",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tdeuh9393/solusi-strategis-mengatasi-rendahnya-literasi",
-      "published_date": "2026-04-13T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBRMP Maluku Distributes Rice and Soybean Seeds to Southwest Maluku",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdgf782930000/bbrmp-maluku-salurkan-benih-padi-dan-kedelai-ke-maluku-barat-daya",
-      "published_date": "2026-04-13T22:45:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester United Lost 1-2 to Leeds United at Old Trafford",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdgeic2130000/manchester-united-kalah-12-dari-leeds-united-di-old-trafford",
-      "published_date": "2026-04-13T22:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sulawesi Ministry of Law Strengthens Protection of Tidore Cultural Intellectual Property",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdgdt84830000/kemenkum-malut-perkuat-pelindungan-kekayaan-intelektual-budaya-tidore",
-      "published_date": "2026-04-13T22:15:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BPBD DKI Jakarta Focuses on Availability of Clean Water Facing Long Drought",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdgb187830000/bpbd-dki-jakarta-fokus-ketersediaan-air-bersih-hadapi-kemarau-panjang",
-      "published_date": "2026-04-13T21:15:08+00:00",
       "category": "Local Events"
     }
   ]
