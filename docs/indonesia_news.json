@@ -76,13 +76,6 @@
       "url": "https://news.republika.co.id/berita/td8dye348/kurniawan-timnas-u17-tunjukkan-progres-positif-jelang-turnamen-asean-u17-championship",
       "published_date": "2026-04-09T14:37:26+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Tangsel City Government Invites Residents to Succeed ORI Measles, Targeting 109 Thousand Children",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td5n1w451/pemkot-tangsel-ajak-warga-sukseskan-ori-campak-targetkan-109-ribu-anak",
-      "published_date": "2026-04-08T14:58:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -248,30 +241,30 @@
       "url": "https://ekonomi.republika.co.id/berita/td78rz522/pertamina-patra-niaga-lakukan-make-over-1802-spbu-tingkatkan-kenyamanan-dan-layanan",
       "published_date": "2026-04-08T23:47:59+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "LPG Demand Continues to Rise, Supply Pressure Increases",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td77l6502/permintaan-lpg-terus-naik-tekanan-pasokan-meningkat",
-      "published_date": "2026-04-08T23:22:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "President Prepares Two Strategic Policies to Face Global Uncertainty",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td6d7g370/presiden-siapkan-dua-kebijakan-strategis-hadapi-ketidakpastian-global",
-      "published_date": "2026-04-08T14:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pertamina Encourages 1,346 MSME Certifications to Have Halal Labels",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/td6hdz522/pertamina-dorong-1346-sertifikasi-umkm-kantongi-label-halal",
-      "published_date": "2026-04-08T13:56:23+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "National Fertilizer Supply is Safe Despite Global Supply Chain Disruptions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdk3u75730000/pasokan-pupuk-nasional-aman-meski-ada-gangguan-rantai-pasok-global",
+      "published_date": "2026-04-15T22:30:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesia Plans to Export Urea Fertilizer to Four Countries",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdk3571730000/indonesia-rencanakan-ekspor-pupuk-urea-ke-empat-negara",
+      "published_date": "2026-04-15T22:15:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Four Countries Interested in Importing Urea Fertilizer from Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdjydz730000/empat-negara-berminat-impor-pupuk-urea-dari-indonesia",
+      "published_date": "2026-04-15T20:32:23+00:00",
+      "category": "Economy"
+    },
     {
       "title": "China's Demand IDR 120 Trillion, RI Durian Ready to Get Big Share",
       "source": "Republika English",
@@ -373,6 +366,48 @@
   ],
   "Local Events": [
     {
+      "title": "Pancasila Youth Period Raids the PWI Kudus Office, This is the Cause",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tdk60t282/masa-pemuda-pancasila-geruduk-kantor-pwi-kudus-ini-penyebabnya",
+      "published_date": "2026-04-15T23:17:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Note! BRI Dividend IDR 209 per Liquid Share Starting May 8",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdk5sx370/catat-dividen-bri-rp209-per-saham-cair-mulai-8-mei",
+      "published_date": "2026-04-15T23:12:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2025/2026 Champions League Results: Bayern Faces PSG, Arsenal Challenges Atletico in Semifinals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdk4ij348/hasil-liga-champions-20252026-bayern-hadapi-psg-arsenal-tantang-atletico-di-semifinal",
+      "published_date": "2026-04-15T22:44:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Eliminates Madrid in the Champions League Quarter-Finals Through a Dramatic Epic Match",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdk398348/bayern-singkirkan-madrid-di-perempat-final-liga-champions-lewat-laga-epik-yang-dramatis",
+      "published_date": "2026-04-15T22:17:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Maluku Provincial Government Facilitates Exams for Students Affected by the Earthquake in Ternate",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdk2g79530000/pemprov-malut-fasilitasi-ujian-siswa-terdampak-gempa-di-ternate",
+      "published_date": "2026-04-15T22:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRI Semarang Disburses KUR IDR 5.63 Trillion to Encourage MSMEs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdjye96130000/bri-semarang-kucurkan-kur-rp563-triliun-untuk-dorong-umkm",
+      "published_date": "2026-04-15T20:32:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pramono reshuffles DKI Provincial Government ranks, Syafrin Liputo becomes South Jakarta Mayor",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdja26484/pramono-rombak-jajaran-pemprov-dki-syafrin-liputo-jadi-walkot-jaksel",
@@ -468,48 +503,6 @@
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tdhfb11171389685/amphuri-sebut-bpkh-bukan-penyebab-antrean-panjang-jamaah-haji",
       "published_date": "2026-04-14T11:45:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Governor Si Doel Encourages Planetariums to Become New Educational Tourism",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdhf73451/wagub-si-doel-dorong-planetarium-jadi-wisata-edukasi-baru",
-      "published_date": "2026-04-14T11:42:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BEM UI Demands UI Chancellor DO Perpetrators of Sexual Violence at the Faculty of Law",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdheac348/bem-ui-tuntut-rektor-ui-do-pelaku-kekerasan-seksual-di-fakultas-hukum",
-      "published_date": "2026-04-14T11:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPPA Minister Condemns Cases of Alleged Sexual Harassment at FH UI",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdhe3c425/menteri-pppa-kecam-kasus-dugaan-pelecehan-seksual-di-fh-ui",
-      "published_date": "2026-04-14T11:18:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sexual Harassment Case at UI Goes Viral, Campus Conducts Investigation with Victim's Perspective",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdhe1b348/kasus-pelecehan-seksual-di-ui-viral-pihak-kampus-lakukan-investigasi-yang-berperspektif-korban",
-      "published_date": "2026-04-14T11:17:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Week of Preparation, Parade of Former Top World Stars Ready to Shake GBK at Clash of Legends 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdhd2n348/sepekan-disiapkan-parade-eks-bintang-top-dunia-siap-guncang-gbk-di-clash-of-legends-2026",
-      "published_date": "2026-04-14T10:56:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regarding JK's request to show his diploma, PSI official: Jokowi and I laughed",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdghdz377/soal-permintaan-jk-untuk-tunjukkan-ijazah-petinggi-psi-saya-dan-jokowi-tertawa",
-      "published_date": "2026-04-13T23:32:23+00:00",
       "category": "Local Events"
     }
   ]
