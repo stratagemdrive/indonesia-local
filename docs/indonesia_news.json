@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Assistance to Rafah, Indonesian Ambassador, Real Evidence of Indonesian Support",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tdl1v21207462277/bantuan-menuju-rafah-dubes-ri-bukti-nyata-dukungan-indonesia",
+      "published_date": "2026-04-16T10:45:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Campus given 30 days to resolve sexual harassment cases at FH UI",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdj9p3393/kampus-diberikan-waktu-30-hari-untuk-selesaikan-kasus-pelecehan-seksual-di-fh-ui",
@@ -79,6 +86,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "2 Easy Practices That Will Take You to Heaven, But Too Many People Often Forget",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdl27y320/2-amalan-ringan-yang-mengantarkan-ke-surga-tetapi-sayang-sering-dilupakan-banyak-orang",
+      "published_date": "2026-04-16T10:52:46+00:00",
+      "category": "Military"
+    },
     {
       "title": "Meta restricted Indonesian news outlet for acid attack coverage. A disguised repression against independent media?",
       "source": "Indonesia at Melbourne",
@@ -180,6 +194,13 @@
   ],
   "Energy": [
     {
+      "title": "Attorney General to Sweep Illegal Mining, DPR Commission III: Follow-up to President's Commitment",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdl2re318/kejagung-sikat-tambang-ilegal-komisi-iii-dpr-tindak-lanjut-komitmen-presiden",
+      "published_date": "2026-04-16T11:04:26+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Telkom and PGN Collaborate to Prepare Data Center with Low Carbon Energy",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tdj8t8490/telkom-dan-pgn-kerja-sama-siapkan-data-center-dengan-energi-rendah-karbon",
@@ -234,16 +255,23 @@
       "url": "https://esgnow.republika.co.id/berita/td9g1n416/perempuan-jadi-kunci-ketahanan-iklim-tapi-masih-terpinggirkan",
       "published_date": "2026-04-10T04:21:05+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Makes Over 1,802 Gas Stations, Improves Comfort and Service",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td78rz522/pertamina-patra-niaga-lakukan-make-over-1802-spbu-tingkatkan-kenyamanan-dan-layanan",
-      "published_date": "2026-04-08T23:47:59+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Sharia Economics is considered to have not touched households, this is the reason",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tdl2ih490/ekonomi-syariah-dinilai-belum-menyentuh-rumah-tangga-ini-penyebabnya",
+      "published_date": "2026-04-16T10:59:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Paint Industry Encourages Lead-Free Products, Strengthening Health and Market Competitiveness",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdl1f0370/industri-cat-dorong-produk-bebas-timbal-perkuat-kesehatan-dan-daya-saing-pasar",
+      "published_date": "2026-04-16T10:35:24+00:00",
+      "category": "Economy"
+    },
     {
       "title": "National Fertilizer Supply is Safe Despite Global Supply Chain Disruptions",
       "source": "Republika English",
@@ -355,16 +383,51 @@
       "url": "https://ekonomi.republika.co.id/berita/td8gtj377/persaingan-industri-tenaga-alih-daya-kian-ketat-pkss-perluas-pasar-bisnis",
       "published_date": "2026-04-09T15:39:19+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "The government promises a debt ratio of less than 40 percent and a state budget deficit of less than 3 percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/td78x2484/pemerintah-janji-rasio-utang-di-bawah-40-persen-dan-defisit-apbn-kurang-3-persen",
-      "published_date": "2026-04-08T23:51:02+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Land Acquisition Completed, Sitinjau Lauik Flyover Project Continues",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tdkw3x375/pembebasan-lahan-rampung-proyek-flyover-sitinjau-lauik-dilanjutkan",
+      "published_date": "2026-04-16T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBW Jakarta 2026 is back for 5 days 24 hours non-stop",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdl3kk484/bbw-jakarta-2026-kembali-hadir-selama-5-hari-24-jam-nonsetop",
+      "published_date": "2026-04-16T11:21:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After being stopped by the PKH Task Force, UNTR will restart the Martabe Gold Mine",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdl3h7490/sempat-dihentikan-satgas-pkh-untr-akan-operasikan-kembali-tambang-emas-martabe",
+      "published_date": "2026-04-16T11:19:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BTPN Syariah AGMS Decides on Changes to the Composition of the Board of Commissioners and Distribution of Cash Dividends",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tdl2sz472/rupst-btpn-syariah-putuskan-perubahan-susunan-dewan-komisaris-dan-pembagian-dividen-tunai",
+      "published_date": "2026-04-16T11:05:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hyundai Premium Courtesy Car, HMID style solution and promotion",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdl2s5348/hyundai-premium-courtesy-car-solusi-sekaligus-promosi-ala-hmid",
+      "published_date": "2026-04-16T11:04:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Signs Presidential Decree on Directorate General of Islamic Boarding Schools",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdl2as483/presiden-teken-perpres-ditjen-pesantren",
+      "published_date": "2026-04-16T10:54:28+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pancasila Youth Period Raids the PWI Kudus Office, This is the Cause",
       "source": "Republika English",
@@ -461,48 +524,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tdj8ug425/justin-bieber-cetak-lonjakan-streaming-seusai-tampil-di-coachella",
       "published_date": "2026-04-15T11:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neuer Immediately Determines His Future, Now Focuses on Facing Madrid",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdibkb348/neuer-segera-tentukan-masa-depan-sekarang-fokus-hadapi-madrid",
-      "published_date": "2026-04-14T23:21:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Play for Peace Starts the 2026 University League, Three Ministries Synergize to Develop the Mentality of the Young Generation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdib6o348/play-for-peace-awali-liga-universitas-2026-tiga-kementerian-bersinergi-bangun-mental-generasi-muda",
-      "published_date": "2026-04-14T23:13:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona failed to turn things around, Atletico made dramatic progress to the semifinals of the Champions League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdi9z5348/barcelona-gagal-balikkan-keadaan-atletico-lolos-dramatis-ke-semifinal-liga-champions",
-      "published_date": "2026-04-14T22:47:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dembele's two goals stop Liverpool's journey in the Champions League, the Reds are without a trophy this season",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdi9cc348/dua-gol-dembele-hentikan-perjalanan-liverpool-di-liga-champions-the-reds-tanpa-trofi-musim-ini",
-      "published_date": "2026-04-14T22:33:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putin Invites Prabowo to Attend Industrial Exhibition in Russia 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdi73e8430000/putin-undang-prabowo-hadiri-pameran-industri-di-rusia-2026",
-      "published_date": "2026-04-14T21:45:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amphuri Says BPKH Is Not the Cause of Long Queues for Hajj Pilgrims",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tdhfb11171389685/amphuri-sebut-bpkh-bukan-penyebab-antrean-panjang-jamaah-haji",
-      "published_date": "2026-04-14T11:45:01+00:00",
       "category": "Local Events"
     }
   ]
