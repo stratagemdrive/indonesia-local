@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Aid to Gaza is controlled to make sure it is on target",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/tdmz5d313/bantuan-gaza-dikawal-pastikan-tepat-sasaran",
+      "published_date": "2026-04-17T11:41:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China Warns RI About Overflight Clearance Agreement with US",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdmz0h393/china-peringatkan-ri-soal-kesepakatan-overflight-clearance-dengan-as",
+      "published_date": "2026-04-17T11:38:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indonesia, Qatar Explore Sports, Tourism Cooperation",
+      "source": "Republika English",
+      "url": "https://en.republika.co.id/berita/tdmwpm415/indonesia-qatar-explore-sports-tourism-cooperation",
+      "published_date": "2026-04-17T10:48:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Assistance to Rafah, Indonesian Ambassador, Real Evidence of Indonesian Support",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tdl1v21207462277/bantuan-menuju-rafah-dubes-ri-bukti-nyata-dukungan-indonesia",
@@ -155,20 +176,6 @@
       "url": "https://khazanah.republika.co.id/berita/tda7pz483/kala-paus-asal-chicago-melawan-retorika-perang-donald-trump",
       "published_date": "2026-04-10T14:17:59+00:00",
       "category": "Military"
-    },
-    {
-      "title": "5 Questions about the Shocking Facts Behind Iran's Strategy to Trap America",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td9kuk451/5-pertanyaan-tentang-fakta-mengejutkan-di-balik-strategi-iran-jebak-amerika",
-      "published_date": "2026-04-10T06:03:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El Nino Godzilla Lurks, This is a Health Risk You Need to Be Aware of",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/td9j74425/el-nino-godzilla-mengintai-ini-risiko-kesehatan-yang-perlu-diwaspadai",
-      "published_date": "2026-04-10T05:28:16+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -220,23 +227,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tddn1u472/bergerak-di-tengah-tantangan-global-armada-kapal-pertamina-topang-distribusi-energi",
       "published_date": "2026-04-12T10:41:54+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Twice a suspect, Riza Chalid has not yet been arrested",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/td9k6d484/dua-kali-jadi-tersangka-riza-chalid-belum-berhasil-ditangkap",
-      "published_date": "2026-04-10T05:49:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Women Are Key to Climate Resilience, but Still Marginalized",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/td9g1n416/perempuan-jadi-kunci-ketahanan-iklim-tapi-masih-terpinggirkan",
-      "published_date": "2026-04-10T04:21:05+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "S&P highlights the condition of Indonesia's APBN, this is Purbaya's response",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdmy8j490/sp-soroti-kondisi-apbn-indonesia-ini-respons-purbaya",
+      "published_date": "2026-04-17T11:21:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indef Suggests Reformulation of Hajj Costs Amid Rising Avtur",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdmy5k370/indef-sarankan-reformulasi-biaya-haji-di-tengah-kenaikan-avtur",
+      "published_date": "2026-04-17T11:20:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ADHI Strengthens ESG, Encourages Efficiency and Manages Risk",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdmupp416/adhi-perkuat-esg-dorong-efisiensi-dan-kelola-risiko",
+      "published_date": "2026-04-17T11:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Geopolitics Heat Up, Becoming an Opportunity for Indonesia to Seize the Export Market",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdmwt2423/geopolitik-memanas-jadi-peluang-indonesia-rebut-pasar-ekspor",
+      "published_date": "2026-04-17T10:51:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "When silence speaks: Indonesia and the future of the e-commerce moratorium",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/when-silence-speaks-indonesia-and-the-future-of-the-e-commerce-moratorium/",
+      "published_date": "2026-04-17T02:25:48+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Sharia Economics is considered to have not touched households, this is the reason",
       "source": "Republika English",
@@ -341,23 +369,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tda8h8416/penerimaan-negara-dari-pajak-kripto-terus-meningkat",
       "published_date": "2026-04-10T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Mounting Garbage Resolved, New Face of Kramat Jati Main Market Begins to Become Visible",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tda6oa451/sampah-menggunung-teratasi-wajah-baru-pasar-induk-kramat-jati-mulai-terlihat",
-      "published_date": "2026-04-10T13:55:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fisheries Entrepreneurs Urged to Apply Stelina to Expand Global Market Access",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tda63n430/pengusaha-perikanan-diimbau-terapkan-stelina-perluas-akses-pasar-global",
-      "published_date": "2026-04-10T13:47:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Komnas HAM Believes There Are More Than Four People Who Splashed Acid Water On Andrie Yunus",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdmypz409/komnas-ham-yakin-pelaku-penyiraman-air-keras-terhadap-andrie-yunus-lebih-dari-empat-orang",
+      "published_date": "2026-04-17T11:32:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "According to data from the Ministry of ATR/BPN, the land in Tanah Abang belongs to KAI, not Hercules",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdmxme484/data-kementerian-atrbpn-lahan-di-tanah-abang-milik-kai-bukan-hercules",
+      "published_date": "2026-04-17T11:08:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ineu Purwadewi Sundari Hopes Parliamentary Schools Encourage Students to Be Interested in Studying Politics",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tdmxjz472/ineu-purwadewi-sundari-harap-sekolah-parlemen-dorong-mahasiswa-tertarik-belajar-politik",
+      "published_date": "2026-04-17T11:07:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Restructuring of BUMN Karya is Increasingly Accelerated, This is the Main Focus",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdmxbm490/restrukturisasi-bumn-karya-makin-dikebut-ini-fokus-utamanya",
+      "published_date": "2026-04-17T11:02:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sapu-sapu Fish Threatens Jakarta River Ecosystem, Control Continues to Be Carried Out",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tdmxb0375/ikan-sapusapu-ancam-ekosistem-sungai-jakarta-penertiban-terus-dilakukan",
+      "published_date": "2026-04-17T11:01:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Minister Urges Ethical AI Development",
+      "source": "Republika English",
+      "url": "https://en.republika.co.id/berita/tdmx1l415/deputy-minister-urges-ethical-ai-development",
+      "published_date": "2026-04-17T10:56:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy Challenges for Consumer Officers Serving Hajj Pilgrims",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdmwie430/tantangan-berat-petugas-konsumsi-layani-jamaah-haji",
+      "published_date": "2026-04-17T10:44:38+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Land Acquisition Completed, Sitinjau Lauik Flyover Project Continues",
       "source": "Republika English",
@@ -447,55 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdja26484/pramono-rombak-jajaran-pemprov-dki-syafrin-liputo-jadi-walkot-jaksel",
       "published_date": "2026-04-15T11:46:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Time in the View of the Koran",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdj6c8458/waktu-dalam-pandangan-alquran",
-      "published_date": "2026-04-15T11:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A number of law firms mark the names of perpetrators of sexual harassment at FH UI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdj9vz393/sejumlah-firma-hukum-tandai-nama-pelaku-pelecehan-seksual-di-fh-ui",
-      "published_date": "2026-04-15T11:43:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prophet Muhammad's ability to dive into the souls of his friends",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdj9tp430/kemampuan-nabi-muhammad-menyelami-jiwa-sahabatnya",
-      "published_date": "2026-04-15T11:41:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BTN Profit Reaches IDR 1.1 Trillion, Housing Loans Become Support",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdj9jn490/laba-btn-tembus-rp-11-triliun-kredit-perumahan-jadi-penopang",
-      "published_date": "2026-04-15T11:35:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Do Many AI Projects Stall? This is the culprit",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdj98d451/kenapa-banyak-proyek-ai-mandek-ini-biang-keroknya",
-      "published_date": "2026-04-15T11:29:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don't Be Misled! This is the Hadith Meaning of the Total Reward of Prayer in the Haram Mosque",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdj680458/jangan-sampai-keliru-ini-makna-hadis-jumlah-pahala-shalat-di-masjidil-haram",
-      "published_date": "2026-04-15T11:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justin Bieber Scores Streaming Surge After Performing at Coachella",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdj8ug425/justin-bieber-cetak-lonjakan-streaming-seusai-tampil-di-coachella",
-      "published_date": "2026-04-15T11:20:40+00:00",
       "category": "Local Events"
     }
   ]
