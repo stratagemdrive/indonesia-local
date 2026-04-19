@@ -83,16 +83,16 @@
       "url": "https://news.republika.co.id/berita/tdea944030000/angkutan-barang-kai-daop-7-madiun-alami-kenaikan-52-di-triwulan-i-2026",
       "published_date": "2026-04-12T19:03:04+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands of runners will join Mangkunegaran 2026 in Solo",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tddksf456/ribuan-pelari-akan-ramaikan-mangkunegaran-2026-di-solo",
-      "published_date": "2026-04-12T09:53:03+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Head of BPOM RI Receives Visionary Leadership Award for Drug and Food Control",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tdqgus291/kepala-bpom-ri-raih-anugerah-kepemimpinan-visioner-pengawasan-obat-dan-makanan",
+      "published_date": "2026-04-19T09:50:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "French Soldier Member of UNIFIL Killed in Attack, RI Expresses Condolences",
       "source": "Republika English",
@@ -269,16 +269,30 @@
       "url": "https://news.republika.co.id/berita/tdea789830000/maluku-utara-fokus-hilirisasi-perikanan-untuk-tingkatkan-ekonomi",
       "published_date": "2026-04-12T19:01:56+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Moving Amidst Global Challenges, Pertamina Ship Fleet Supports Energy Distribution",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tddn1u472/bergerak-di-tengah-tantangan-global-armada-kapal-pertamina-topang-distribusi-energi",
-      "published_date": "2026-04-12T10:41:54+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "It's time for the textile industry to implement a circular economy",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdqkdr416/saatnya-industri-tekstil-terapkan-ekonomi-sirkular",
+      "published_date": "2026-04-19T10:15:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Digital Transformation Changes the Business Landscape, UNM Prepares the Young Generation to Face Industrial Challenges",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdqhdw368/transformasi-digital-ubah-lanskap-bisnis-unm-siapkan-generasi-muda-hadapi-tantangan-industri",
+      "published_date": "2026-04-19T09:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Big Data Based Industry Develops Rapidly, UNM Presents Education Oriented to Market Needs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdqhd8368/industri-berbasis-big-data-berkembang-pesat-unm-hadirkan-pendidikan-berorientasi-kebutuhan-pasar",
+      "published_date": "2026-04-19T09:07:56+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Expert: Hajj Cost Scheme from APBN Can Be Obtained Through Perppu",
       "source": "Republika English",
@@ -397,30 +411,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tdj9uj451/permintaan-china-rp120-triliun-durian-ri-siap-kebagian-besar",
       "published_date": "2026-04-15T11:42:19+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Minister of Agriculture Threatens to Revoke Licenses of Soybean Importers Who Raise Prices Excessively",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdj8c8423/mentan-ancam-cabut-izin-importir-kedelai-yang-naikkan-harga-berlebihan",
-      "published_date": "2026-04-15T11:18:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Finance Purbaya Ultimatum for Illegal Cigarette Entrepreneurs: Pay Excise or Factory Closed",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tdhffb282/menkeu-purbaya-ultimatum-pengusaha-rokok-ilegal-bayar-cukai-atau-pabrik-ditutup",
-      "published_date": "2026-04-14T11:47:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Digital Transformation: How Your Gadget Becomes a Money-Making Machine",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdhfcl472/transformasi-digital-bagaimana-gadget-anda-jadi-mesin-pencetak-uang",
-      "published_date": "2026-04-14T11:45:57+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Knowing the Three Ways of Performing Hajj and Their Differences: Qiran, Ifrad and Tamattu",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdqnq5430/mengenal-tiga-cara-pelaksanaan-haji-dan-perbedaannya-qiran-ifrad-dan-tamattu",
+      "published_date": "2026-04-19T11:25:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Freedom of Shackled Citizens",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tdqlmi393/kebebasan-warga-yang-terpasung",
+      "published_date": "2026-04-19T10:39:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polda Metro Jaya Confirms Uya Kuya Reported Hoax about MBG Kitchen Ownership",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdqjxa487/polda-metro-jaya-benarkan-uya-kuya-laporkan-hoaks-tentang-kepemilikan-dapur-mbg",
+      "published_date": "2026-04-19T10:03:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Shows Off Culinary Strength in the US, This is the World's Response",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdqjbs451/indonesia-pamer-kekuatan-kuliner-di-as-ini-respons-dunia",
+      "published_date": "2026-04-19T09:50:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quick Way to Overcome Children's Addiction to Devices",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdqdk8425/cara-kilat-atasi-kecanduan-anak-pada-gawai",
+      "published_date": "2026-04-19T09:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It turns out it's not a cellphone light! This is the Main Cause of Sleep Disorders",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdqifk451/ternyata-bukan-cahaya-hp-ini-penyebab-utama-gangguan-tidur",
+      "published_date": "2026-04-19T09:30:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono claims ASN's WFH policy has succeeded in reducing traffic jams in Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdqi1n487/pramono-klaim-kebijakan-wfh-asn-berhasil-kurangi-kemacetan-di-jakarta",
+      "published_date": "2026-04-19T09:22:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Criticized by MUI regarding burial of broomstick fish, Pramono: Procedures will be adjusted",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdqhi0430/dikritik-mui-soal-penguburan-ikan-sapusapu-pramono-akan-disesuaikan-tata-caranya",
+      "published_date": "2026-04-19T09:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MUI Criticizes Jakarta Provincial Government's Catching of Sapu-Sapu Fish, Their Burial Is Considered to Violate 2 Principles",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdqhde487/mui-kritisi-penangkapan-ikan-sapusapu-pemprov-jakarta-penguburannya-dinilai-menyalahi-2-prinsip",
+      "published_date": "2026-04-19T09:08:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ministry of Public Works Accelerates Disaster Management in Sumatra",
       "source": "Republika English",
@@ -496,69 +552,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tdomd9416/jateng-siapkan-ratusan-juta-liter-air-bersih-antisipasi-el-nino",
       "published_date": "2026-04-18T10:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Youth and Sports Erick Thohir and Minister of Education and Technology Sign MoU to Strengthen Sports",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdoo8e348/menpora-erick-thohir-dan-mendiktisaintek-teken-mou-penguatan-olahraga",
-      "published_date": "2026-04-18T09:41:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly seven tons of broomstick fish are caught in one day in Jakarta, most of them from Setu Babakan",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tdnurd483/hampir-tujuh-ton-ikan-sapu-sapu-ditangkap-dalam-sehari-di-jakarta-paling-banyak-dari-setu-babakan",
-      "published_date": "2026-04-17T23:04:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pramono: BUMDs Must Dare to Expand, Don't Be Caged",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdnum4416/pramono-bumd-harus-berani-ekspansi-jangan-jago-kandang",
-      "published_date": "2026-04-17T23:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UMKM Prayer Rug Exchange Supports the Hajj Economic Ecosystem in Makassar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnsha1530000/umkm-bursa-sajadah-dukung-ekosistem-ekonomi-haji-di-makassar",
-      "published_date": "2026-04-17T22:15:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bogor Departs 2,405 Prospective Hajj Pilgrims in 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnnqy5130000/bogor-berangkatkan-2405-calon-jamaah-haji-pada-2026",
-      "published_date": "2026-04-17T20:32:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bogor Regency Government Accelerates Licensing to Increase Regional Income",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnnqc7630000/pemkab-bogor-percepat-perizinan-untuk-tingkatkan-pendapatan-daerah",
-      "published_date": "2026-04-17T20:32:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Komnas HAM Believes There Are More Than Four People Who Splashed Acid Water On Andrie Yunus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdmypz409/komnas-ham-yakin-pelaku-penyiraman-air-keras-terhadap-andrie-yunus-lebih-dari-empat-orang",
-      "published_date": "2026-04-17T11:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "According to data from the Ministry of ATR/BPN, the land in Tanah Abang belongs to KAI, not Hercules",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdmxme484/data-kementerian-atrbpn-lahan-di-tanah-abang-milik-kai-bukan-hercules",
-      "published_date": "2026-04-17T11:08:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ineu Purwadewi Sundari Hopes Parliamentary Schools Encourage Students to Be Interested in Studying Politics",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tdmxjz472/ineu-purwadewi-sundari-harap-sekolah-parlemen-dorong-mahasiswa-tertarik-belajar-politik",
-      "published_date": "2026-04-17T11:07:11+00:00",
       "category": "Local Events"
     }
   ]
