@@ -69,23 +69,23 @@
       "url": "https://news.republika.co.id/berita/tdfkak348/ini-susunan-pemain-indonesia-vs-timor-leste-di-piala-aff-u17-2026",
       "published_date": "2026-04-13T11:37:32+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia was runner-up in the 2026 AFF Futsal Cup, beaten 1-2 by Thailand in the final",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdelrp348/indonesia-runnerup-piala-aff-futsal-2026-takluk-12-dari-thailand-pada-partai-final",
-      "published_date": "2026-04-12T23:11:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KAI Daop 7 Madiun Goods Transport Experiences an Increase of 5.2% in the First Quarter of 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdea944030000/angkutan-barang-kai-daop-7-madiun-alami-kenaikan-52-di-triwulan-i-2026",
-      "published_date": "2026-04-12T19:03:04+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "TNI has built 150 Yonif TP, targeting 514 battalions in all districts",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdrkmo484/tni-telah-bangun-150-yonif-tp-targetkan-514-batalyon-di-seluruh-kabupaten",
+      "published_date": "2026-04-19T23:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI Commander Forms 37 Kodam, 15 Kodaeral, and Eight Pasmar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdrk5g484/panglima-tni-bentuk-37-kodam-15-kodaeral-serta-delapan-pasmar",
+      "published_date": "2026-04-19T23:05:40+00:00",
+      "category": "Military"
+    },
     {
       "title": "Head of BPOM RI Receives Visionary Leadership Award for Drug and Food Control",
       "source": "Republika English",
@@ -197,16 +197,16 @@
       "url": "https://news.republika.co.id/berita/tdfkfk409/nadiem-sebut-kerugian-negara-hingga-rp2-t-di-kasus-chromebook-hasil-rekayasa",
       "published_date": "2026-04-13T11:40:32+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Pamekasan Police Launches Smart Motorcycle to Increase Literacy of Village Children",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdea9g130000/polres-pamekasan-luncurkan-motor-pintar-untuk-tingkatkan-literasi-anak-desa",
-      "published_date": "2026-04-12T19:03:16+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "12 Kg Gas Increases 18 Percent, This is the Selling Price in West Java, Central Java and DIY",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tdr86h282/gas-12-kg-naik-18-persen-segini-harga-jual-di-jabar-jateng-dan-diy",
+      "published_date": "2026-04-19T21:48:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Not Just Memorizing, These 5 Essences of Tawheed Are the Most Effective Medicine for a Wounded Soul",
       "source": "Republika English",
@@ -261,13 +261,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tdfkvs522/tak-sekadar-transisi-pln-kejar-kemandirian-energi",
       "published_date": "2026-04-13T11:50:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "North Maluku Focuses on Downstream Fisheries to Improve Economy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdea789830000/maluku-utara-fokus-hilirisasi-perikanan-untuk-tingkatkan-ekonomi",
-      "published_date": "2026-04-12T19:01:56+00:00",
       "category": "Energy"
     }
   ],
@@ -415,6 +408,27 @@
   ],
   "Local Events": [
     {
+      "title": "17,600 Hajj pilgrims leave for Hajj via Kertajati Embarkation, today enter the dormitory tomorrow fly to Saudi",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tdr5st282/17600-calhaj-berangkat-haji-lewat-embarkasi-kertajati-hari-ini-masuk-asrama-besok-terbang-ke-saudi",
+      "published_date": "2026-04-19T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia's PPIH Support Staff Strengthens Hajj Pilgrim Services",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdri0a430/tenaga-pendukung-ppih-arab-saudi-perkuat-layanan-jamaah-haji",
+      "published_date": "2026-04-19T22:19:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pasteur Toll Exit is the culprit behind traffic jams in Bandung, KDM has a plan like this",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tdr43j282/exit-tol-pasteur-biang-kerok-kemacetan-di-bandung-kdm-punya-rencana-begini",
+      "published_date": "2026-04-19T22:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Knowing the Three Ways of Performing Hajj and Their Differences: Qiran, Ifrad and Tamattu",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tdqnq5430/mengenal-tiga-cara-pelaksanaan-haji-dan-perbedaannya-qiran-ifrad-dan-tamattu",
@@ -531,27 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdosgp451/isu-impeachment-memanas-anggota-kongres-amerika-jutaan-warga-ragukan-kesehatan-mental-trump",
       "published_date": "2026-04-18T11:12:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dahnil: Hajj 2026 Must Be a New Historical Milestone for Indonesian Hajj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdoqv1366/dahnil-haji-2026-harus-jadi-tonggak-sejarah-baru-perhajian-indonesia",
-      "published_date": "2026-04-18T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NBA Rising Stars Invitational Held Again in Singapore, the Stage for Young Talents in the Asia-Pacific",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdoq93348/nba-rising-stars-invitational-digelar-lagi-di-singapura-panggung-talenta-muda-asiapasifik",
-      "published_date": "2026-04-18T10:24:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Java Prepares Hundreds of Millions of Liters of Clean Water in Anticipation of El Nino",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdomd9416/jateng-siapkan-ratusan-juta-liter-air-bersih-antisipasi-el-nino",
-      "published_date": "2026-04-18T10:00:00+00:00",
       "category": "Local Events"
     }
   ]
