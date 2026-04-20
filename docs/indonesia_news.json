@@ -66,6 +66,13 @@
   ],
   "Military": [
     {
+      "title": "To Nabire, Central Papua, Vice President Gibran inspects ASN flats",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdtf9n484/ke-nabire-papua-tengah-wapres-gibran-tinjau-rusun-asn",
+      "published_date": "2026-04-20T23:15:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ventour Travel Ensures All Umrah Pilgrims Return Home on Time Before the Hajj Season",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tdsjzd425/ventour-travel-pastikan-seluruh-jamaah-umroh-pulang-tepat-waktu-sebelum-musim-haji",
@@ -252,6 +259,34 @@
   ],
   "Economy": [
     {
+      "title": "Bali Bapenda Discusses Tax Incentives for Electric Vehicles",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdtdv85130000/bapenda-bali-bahas-insentif-pajak-untuk-kendaraan-listrik",
+      "published_date": "2026-04-20T22:45:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "History of Kartini Day, Journey to Fight for Women's Emancipation",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdtcme425/sejarah-hari-kartini-perjalanan-memperjuangkan-emansipasi-wanita",
+      "published_date": "2026-04-20T22:18:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Access to Crypto Investment Expands, Modern Retail Becomes New Distribution Channel",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdsuox416/akses-investasi-kripto-diperluas-ritel-modern-jadi-kanal-distribusi-baru",
+      "published_date": "2026-04-20T22:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2026 North Sumatra Tax Festival Program Increases PKB Revenue",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdt6gv6430000/program-gebyar-pajak-sumut-2026-tingkatkan-penerimaan-pkb",
+      "published_date": "2026-04-20T20:05:19+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Cancer Cases Increase, Prudential Syariah Emphasizes the Importance of Early Protection",
       "source": "Republika English",
       "url": "https://sharia.republika.co.id/berita/tdsjok370/kasus-kanker-meningkat-prudential-syariah-tekankan-pentingnya-proteksi-dini",
@@ -362,37 +397,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tdmy8j490/sp-soroti-kondisi-apbn-indonesia-ini-respons-purbaya",
       "published_date": "2026-04-17T11:21:55+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Indef Suggests Reformulation of Hajj Costs Amid Rising Avtur",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdmy5k370/indef-sarankan-reformulasi-biaya-haji-di-tengah-kenaikan-avtur",
-      "published_date": "2026-04-17T11:20:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ADHI Strengthens ESG, Encourages Efficiency and Manages Risk",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdmupp416/adhi-perkuat-esg-dorong-efisiensi-dan-kelola-risiko",
-      "published_date": "2026-04-17T11:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Geopolitics Heat Up, Becoming an Opportunity for Indonesia to Seize the Export Market",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdmwt2423/geopolitik-memanas-jadi-peluang-indonesia-rebut-pasar-ekspor",
-      "published_date": "2026-04-17T10:51:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "When silence speaks: Indonesia and the future of the e-commerce moratorium",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/when-silence-speaks-indonesia-and-the-future-of-the-e-commerce-moratorium/",
-      "published_date": "2026-04-17T02:25:48+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "A total of six thousand buses have been prepared to transport Indonesian Hajj pilgrims",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdteug430/sebanyak-enam-ribu-armada-bus-disiapkan-untuk-angkut-jamaah-haji-indonesia",
+      "published_date": "2026-04-20T23:06:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Waste Crisis is Getting Worse, 75 Percent Has Not Been Managed and Open Dumping is Still Rampant",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdsu5c416/krisis-sampah-kian-parah-75-persen-belum-terkelola-dan-open-dumping-masih-marak",
+      "published_date": "2026-04-20T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hanura NTB Denies Rumors of Bima City Cadres Mass Moving to PSI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdtbsv7630000/hanura-ntb-bantah-isu-kader-kota-bima-pindah-massal-ke-psi",
+      "published_date": "2026-04-20T22:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Week 34 of the Premier League: Arsenal and Manchester City Fight for the Top of the Standings",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdtb3a5630000/pekan-34-liga-inggris-arsenal-dan-manchester-city-berebut-puncak-klasemen",
+      "published_date": "2026-04-20T21:45:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eliano Reijnders: Persib Bandung is still on the winning track despite being held to a draw",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdt9p85530000/eliano-reijnders-persib-bandung-masih-di-jalur-juara-meski-tertahan-imbang",
+      "published_date": "2026-04-20T21:15:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persib Stumbles at Dewa United's Home, Bojan Hodak Regrets Player Mistakes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdt90b5230000/persib-tersandung-di-kandang-dewa-united-bojan-hodak-sesalkan-kesalahan-pemain",
+      "published_date": "2026-04-20T21:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Home Affairs Witnesses Delivery of Financial Assistance to Aceh",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdt6fp7430000/mendagri-saksikan-penyerahan-bantuan-keuangan-untuk-aceh",
+      "published_date": "2026-04-20T20:04:37+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Gibran Reviews Development of Nabire Airport for Central Papua Connectivity",
       "source": "Republika English",
@@ -482,55 +538,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tdqdk8425/cara-kilat-atasi-kecanduan-anak-pada-gawai",
       "published_date": "2026-04-19T09:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "It turns out it's not a cellphone light! This is the Main Cause of Sleep Disorders",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdqifk451/ternyata-bukan-cahaya-hp-ini-penyebab-utama-gangguan-tidur",
-      "published_date": "2026-04-19T09:30:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pramono claims ASN's WFH policy has succeeded in reducing traffic jams in Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdqi1n487/pramono-klaim-kebijakan-wfh-asn-berhasil-kurangi-kemacetan-di-jakarta",
-      "published_date": "2026-04-19T09:22:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Criticized by MUI regarding burial of broomstick fish, Pramono: Procedures will be adjusted",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdqhi0430/dikritik-mui-soal-penguburan-ikan-sapusapu-pramono-akan-disesuaikan-tata-caranya",
-      "published_date": "2026-04-19T09:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MUI Criticizes Jakarta Provincial Government's Catching of Sapu-Sapu Fish, Their Burial Is Considered to Violate 2 Principles",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdqhde487/mui-kritisi-penangkapan-ikan-sapusapu-pemprov-jakarta-penguburannya-dinilai-menyalahi-2-prinsip",
-      "published_date": "2026-04-19T09:08:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Public Works Accelerates Disaster Management in Sumatra",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpoo86030000/kementerian-pu-percepat-penanganan-bencana-di-sumatera",
-      "published_date": "2026-04-18T22:48:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 5.9 magnitude earthquake shook North Nias in the early hours of Sunday morning",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpl258030000/gempa-59-magnitudo-guncang-nias-utara-pada-minggu-dini-hari",
-      "published_date": "2026-04-18T21:30:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Verse Saves Many People from Despair Plus 7 Ways",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tdp3pl451/ayat-ini-menyelamatkan-banyak-orang-dari-putus-asa-plus-7-caranya",
-      "published_date": "2026-04-18T20:57:00+00:00",
       "category": "Local Events"
     }
   ]
