@@ -62,16 +62,23 @@
       "url": "https://visual.republika.co.id/berita/tdhek7375/bem-ui-desak-sanksi-tegas-kasus-kekerasan-seksual-di-kampus",
       "published_date": "2026-04-14T11:28:55+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "This is the composition of players for Indonesia vs Timor Leste in the 2026 AFF U-17 Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdfkak348/ini-susunan-pemain-indonesia-vs-timor-leste-di-piala-aff-u17-2026",
-      "published_date": "2026-04-13T11:37:32+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Ventour Travel Ensures All Umrah Pilgrims Return Home on Time Before the Hajj Season",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdsjzd425/ventour-travel-pastikan-seluruh-jamaah-umroh-pulang-tepat-waktu-sebelum-musim-haji",
+      "published_date": "2026-04-20T11:59:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maluku Police Reveal Nus Kei's Murder Was Motivated by Revenge",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdsgxd409/polda-maluku-ungkap-pembunuhan-nus-kei-bermotifkan-balas-dendam",
+      "published_date": "2026-04-20T10:53:37+00:00",
+      "category": "Military"
+    },
     {
       "title": "TNI has built 150 Yonif TP, targeting 514 battalions in all districts",
       "source": "Republika English",
@@ -190,13 +197,6 @@
       "url": "https://news.republika.co.id/berita/tdhdht451/seperti-film-intelijen-operasi-senyap-rusia-ubah-peta-pertempuran-dan-berujung-mematikan",
       "published_date": "2026-04-14T11:05:53+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Nadiem Says State Losses of Up to IDR 2 T in the Engineered Chromebook Case",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdfkfk409/nadiem-sebut-kerugian-negara-hingga-rp2-t-di-kasus-chromebook-hasil-rekayasa",
-      "published_date": "2026-04-13T11:40:32+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -248,23 +248,51 @@
       "url": "https://ekonomi.republika.co.id/berita/tdhea6484/ke-moskow-bahlil-amankan-pasokan-minyak-dan-gas-bumi-dari-rusia",
       "published_date": "2026-04-14T11:22:54+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "PLN Ready to Execute 21 PLTS Projects in Semester I 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdfky4522/pln-siap-eksekusi-21-proyek-plts-pada-semester-i-2026",
-      "published_date": "2026-04-13T11:51:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Not Just a Transition, PLN Pursues Energy Independence",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdfkvs522/tak-sekadar-transisi-pln-kejar-kemandirian-energi",
-      "published_date": "2026-04-13T11:50:16+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Cancer Cases Increase, Prudential Syariah Emphasizes the Importance of Early Protection",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tdsjok370/kasus-kanker-meningkat-prudential-syariah-tekankan-pentingnya-proteksi-dini",
+      "published_date": "2026-04-20T11:53:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "DJP notes that more than 11 million tax returns have been received, taxpayers are asked to report them immediately",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdsjl1490/djp-catat-11-juta-lebih-spt-sudah-masuk-wajib-pajak-diminta-segera-lapor",
+      "published_date": "2026-04-20T11:51:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The job market is getting tighter, 12 people are fighting for one vacancy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdsh5c522/pasar-kerja-kian-ketat-satu-lowongan-diperebutkan-12-orang",
+      "published_date": "2026-04-20T10:58:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BytePlus Encourages AI Adoption to Strengthen Indonesia's Digital Economy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tds5lg370/byteplus-dorong-adopsi-ai-untuk-perkuat-ekonomi-digital-indonesia",
+      "published_date": "2026-04-20T10:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prodia Looks for New Growth Engines, Aims at Regenerative Therapy Amid Sluggish Purchasing Power",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdsgfc522/prodia-cari-mesin-pertumbuhan-baru-bidik-terapi-regeneratif-di-tengah-daya-beli-lesu",
+      "published_date": "2026-04-20T10:42:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prodia's Business Strategy Shifts, Clinic Expansion Adjusts to Market Absorption",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdsgc3522/strategi-bisnis-prodia-bergeser-ekspansi-klinik-disesuaikan-daya-serap-pasar",
+      "published_date": "2026-04-20T10:40:51+00:00",
+      "category": "Economy"
+    },
     {
       "title": "It's time for the textile industry to implement a circular economy",
       "source": "Republika English",
@@ -362,51 +390,44 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/when-silence-speaks-indonesia-and-the-future-of-the-e-commerce-moratorium/",
       "published_date": "2026-04-17T02:25:48+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Sharia Economics is considered to have not touched households, this is the reason",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tdl2ih490/ekonomi-syariah-dinilai-belum-menyentuh-rumah-tangga-ini-penyebabnya",
-      "published_date": "2026-04-16T10:59:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Paint Industry Encourages Lead-Free Products, Strengthening Health and Market Competitiveness",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdl1f0370/industri-cat-dorong-produk-bebas-timbal-perkuat-kesehatan-dan-daya-saing-pasar",
-      "published_date": "2026-04-16T10:35:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "National Fertilizer Supply is Safe Despite Global Supply Chain Disruptions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdk3u75730000/pasokan-pupuk-nasional-aman-meski-ada-gangguan-rantai-pasok-global",
-      "published_date": "2026-04-15T22:30:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Indonesia Plans to Export Urea Fertilizer to Four Countries",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdk3571730000/indonesia-rencanakan-ekspor-pupuk-urea-ke-empat-negara",
-      "published_date": "2026-04-15T22:15:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Four Countries Interested in Importing Urea Fertilizer from Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdjydz730000/empat-negara-berminat-impor-pupuk-urea-dari-indonesia",
-      "published_date": "2026-04-15T20:32:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "China's Demand IDR 120 Trillion, RI Durian Ready to Get Big Share",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdj9uj451/permintaan-china-rp120-triliun-durian-ri-siap-kebagian-besar",
-      "published_date": "2026-04-15T11:42:19+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Gibran Reviews Development of Nabire Airport for Central Papua Connectivity",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdsjwg393/gibran-tinjau-pengembangan-bandara-nabire-untuk-konektivitas-papua-tengah",
+      "published_date": "2026-04-20T11:57:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IDR 22 Billion Allocated for Al Jabbar Mosque Cleaning Officers, This is KDM's Explanation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdsj94377/rp-22-miliar-dialokasikan-untuk-petugas-kebersihan-masjid-al-jabbar-ini-penjelasan-kdm",
+      "published_date": "2026-04-20T11:43:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Jakarta Ministry of Home Affairs Office Fires, 75 Firefighters Dispatched to Tame the Fire",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tdsj7b282/kantor-kemendagri-jaksel-kebakaran-75-damkar-diterjunkan-jinakkan-api",
+      "published_date": "2026-04-20T11:42:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JOMO, The Secret to Staying Happy Even if You're Behind Viral Trends on Social Media",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdsil0425/jomo-rahasia-tetap-bahagia-meski-tertinggal-tren-viral-di-media-sosial",
+      "published_date": "2026-04-20T11:29:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Office of the Directorate General of Village Government Development, Ministry of Home Affairs, Fires, Two People Are Injured",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdsh4e487/kantor-ditjen-bina-pemdes-kemendagri-kebakaran-dua-orang-terluka",
+      "published_date": "2026-04-20T10:57:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "17,600 Hajj pilgrims leave for Hajj via Kertajati Embarkation, today enter the dormitory tomorrow fly to Saudi",
       "source": "Republika English",
@@ -510,41 +531,6 @@
       "source": "Republika English",
       "url": "https://iqra.republika.co.id/berita/tdp3pl451/ayat-ini-menyelamatkan-banyak-orang-dari-putus-asa-plus-7-caranya",
       "published_date": "2026-04-18T20:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 Practical Steps in the Koran for Calm and Healing without being Expensive",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tdp36m451/7-langkah-praktis-alquran-untuk-tenang-dan-healing-tanpa-mahal",
-      "published_date": "2026-04-18T20:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Home Affairs and Jasa Raharja Support Digitalization of Regional Tax Services",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpg8w1230000/kemendagri-dan-jasa-raharja-dukung-digitalisasi-layanan-pajak-daerah",
-      "published_date": "2026-04-18T19:46:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vitor Baia Admires Bung Karno's Gelora Atmosphere",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpfil4330000/vitor-baia-kagumi-atmosfer-gelora-bung-karno",
-      "published_date": "2026-04-18T19:30:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnout Medicine and the Hidden Secret Behind the Twice Repeated Verse",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tdp49j451/obat-burnout-dan-rahasia-tersembunyi-di-balik-ayat-yang-diulang-dua-kali",
-      "published_date": "2026-04-18T19:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Impeachment Issue Heats Up, American Congressman: Millions of Citizens Doubt Trump's Mental Health",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdosgp451/isu-impeachment-memanas-anggota-kongres-amerika-jutaan-warga-ragukan-kesehatan-mental-trump",
-      "published_date": "2026-04-18T11:12:25+00:00",
       "category": "Local Events"
     }
   ]
