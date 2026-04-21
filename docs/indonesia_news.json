@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "China Strengthens Cooperation with Indonesia through Visit to Makassar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv6gd6330000/tiongkok-perkuat-kerja-sama-dengan-indonesia-melalui-kunjungan-ke-makassar",
+      "published_date": "2026-04-21T22:00:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Loyalty over expertise: The patronage problem at the heart of Prabowo’s foreign policy",
       "source": "Indonesia at Melbourne",
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/loyalty-over-expertise-the-patronage-problem-at-the-heart-of-prabowos-foreign-policy/",
@@ -55,16 +62,30 @@
       "url": "https://news.republika.co.id/berita/tdj9p3393/kampus-diberikan-waktu-30-hari-untuk-selesaikan-kasus-pelecehan-seksual-di-fh-ui",
       "published_date": "2026-04-15T11:39:03+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Trump 'mocks' Pope Leo as weak, this is the response of Catholic youth in Indonesia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdhlhp483/trump-ejek-paus-leo-lemah-ini-respons-pemuda-katolik-di-ri",
-      "published_date": "2026-04-14T22:54:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "The President Receives Sitting at the Palace to Discuss Geopolitical Dynamics",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv9ll484/presiden-terima-dudung-di-istana-bahas-dinamika-geopolitik",
+      "published_date": "2026-04-21T23:08:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dopamine Doomsday: Why We Prefer to Discuss Dajjal Than War Strategy?",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tdudu6451/dopamin-kiamat-mengapa-kita-lebih-suka-bahas-dajjal-daripada-strategi-perang",
+      "published_date": "2026-04-21T21:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Central Papua Encourages Traditional Cooperatives to Manage People's Mines Legally",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv2gg130000/papua-tengah-dorong-koperasi-adat-kelola-tambang-rakyat-secara-legal",
+      "published_date": "2026-04-21T20:33:52+00:00",
+      "category": "Military"
+    },
     {
       "title": "DPD RI Highlights the Dynamic Security and Conflict Situation in Papua, Urges the Government for a Serious Response",
       "source": "Republika English",
@@ -183,23 +204,30 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/meta-restricted-indonesian-news-outlet-for-acid-attack-coverage-a-disguised-repression-against-independent-media/",
       "published_date": "2026-04-14T23:33:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "AI Dependence Threatens Students' Thinking Power, Academics Warn of the Risks of \"Cognitive Debt\"",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdibwq522/ketergantungan-ai-ancam-daya-pikir-siswa-akademisi-ingatkan-risiko-cognitive-debt",
-      "published_date": "2026-04-14T23:29:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Not Robots, the Dangers of Military AI Are Actually Eroding Human Reason: Three International Analysts",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdhpbj451/bukan-robot-bahaya-ai-militer-justru-menggerus-akal-manusia-tiga-analis-internasional",
-      "published_date": "2026-04-14T23:14:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Earth Day, Bank Mandiri Releases Emission Calculation Feature on Livin'",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdva6q502/hari-bumi-bank-mandiri-rilis-fitur-hitung-emisi-di-livin",
+      "published_date": "2026-04-21T23:20:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Minister of Forestry Regulation 6/2026: Government Accommodates Carbon Trading with Local Communities",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv7xh7130000/permenhut-62026-pemerintah-akomodasi-perdagangan-karbon-dengan-masyarakat-lokal",
+      "published_date": "2026-04-21T22:32:05+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Minister of Forestry Regulation 6/2026: New Steps for Carbon Trading for Local Communities",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv7xh330000/permenhut-62026-langkah-baru-perdagangan-karbon-untuk-masyarakat-lokal",
+      "published_date": "2026-04-21T22:32:05+00:00",
+      "category": "Energy"
+    },
     {
       "title": "12 Kg Gas Increases 18 Percent, This is the Selling Price in West Java, Central Java and DIY",
       "source": "Republika English",
@@ -244,6 +272,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "European Union Pressure, Palm Traceability Becomes a Challenge",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdul1r484/tekanan-uni-eropa-traceability-sawit-jadi-tantangan",
+      "published_date": "2026-04-21T22:49:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "4 Signs of a Pure and Clean Heart Revealed in the Qur'an and Hadith",
       "source": "Republika English",
@@ -376,16 +411,44 @@
       "url": "https://news.republika.co.id/berita/tdnt672030000/maluku-perketat-pengawasan-hewan-kurban-jelang-idul-adha-2026",
       "published_date": "2026-04-17T22:30:07+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Central Java Provincial Government Encourages Meatball Traders to Upgrade",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnr3u2530000/pemprov-jateng-dorong-pedagang-bakso-naik-kelas",
-      "published_date": "2026-04-17T21:45:30+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Of the 118, only 58 parcels of land were acquired by the Pasar Minggu Pass Road Project",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tduhq2484/dari-118-baru-58-bidang-tanah-dibebaskan-proyek-jalan-tembus-pasar-minggu",
+      "published_date": "2026-04-21T23:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Signing E-Voting LoI, Ministry of Home Affairs: Digitalization of Elections is not Just a Technological Transformation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv8mi483/teken-loi-evoting-kemendagri-digitalisasi-pemilu-tak-sekadar-transformasi-teknologi",
+      "published_date": "2026-04-21T22:47:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The First Group of Indonesian Hajj Pilgrims will be Welcomed with Shalawat Badar",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdv8cf430/jamaah-haji-indonesia-kloter-pertama-akan-disambut-dengan-shalawat-badar",
+      "published_date": "2026-04-21T22:41:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is it true that the government wants to manage mosque cash? This is the Ministry of Religion's clarification",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdv86d430/benarkah-pemerintah-ingin-kelola-kas-masjid-ini-klarifikasi-kemenag",
+      "published_date": "2026-04-21T22:37:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Sumatra Bulog Intensifies Coordination to Maintain Availability of MinyaKita",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdv2ec630000/bulog-sumut-intensifkan-koordinasi-untuk-jaga-ketersediaan-minyakita",
+      "published_date": "2026-04-21T20:32:36+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "South Jakarta City Government Catches and Destroys Sapu-Sapu Fish According to MUI Recommendations",
       "source": "Republika English",
@@ -489,41 +552,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tdsil0425/jomo-rahasia-tetap-bahagia-meski-tertinggal-tren-viral-di-media-sosial",
       "published_date": "2026-04-20T11:29:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Office of the Directorate General of Village Government Development, Ministry of Home Affairs, Fires, Two People Are Injured",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdsh4e487/kantor-ditjen-bina-pemdes-kemendagri-kebakaran-dua-orang-terluka",
-      "published_date": "2026-04-20T10:57:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "17,600 Hajj pilgrims leave for Hajj via Kertajati Embarkation, today enter the dormitory tomorrow fly to Saudi",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tdr5st282/17600-calhaj-berangkat-haji-lewat-embarkasi-kertajati-hari-ini-masuk-asrama-besok-terbang-ke-saudi",
-      "published_date": "2026-04-19T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia's PPIH Support Staff Strengthens Hajj Pilgrim Services",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdri0a430/tenaga-pendukung-ppih-arab-saudi-perkuat-layanan-jamaah-haji",
-      "published_date": "2026-04-19T22:19:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pasteur Toll Exit is the culprit behind traffic jams in Bandung, KDM has a plan like this",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tdr43j282/exit-tol-pasteur-biang-kerok-kemacetan-di-bandung-kdm-punya-rencana-begini",
-      "published_date": "2026-04-19T22:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knowing the Three Ways of Performing Hajj and Their Differences: Qiran, Ifrad and Tamattu",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdqnq5430/mengenal-tiga-cara-pelaksanaan-haji-dan-perbedaannya-qiran-ifrad-dan-tamattu",
-      "published_date": "2026-04-19T11:25:17+00:00",
       "category": "Local Events"
     }
   ]
