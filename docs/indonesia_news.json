@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Loyalty over expertise: The patronage problem at the heart of Prabowo’s foreign policy",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/loyalty-over-expertise-the-patronage-problem-at-the-heart-of-prabowos-foreign-policy/",
+      "published_date": "2026-04-21T03:31:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "MUI and Saudi Ambassador Pray for Indonesian Hajj Pilgrims to Go Well in the Holy Land",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tdoplg366/mui-dan-dubes-saudi-doakan-jamaah-haji-indonesia-lancar-di-tanah-suci",
@@ -55,16 +62,16 @@
       "url": "https://khazanah.republika.co.id/berita/tdhlhp483/trump-ejek-paus-leo-lemah-ini-respons-pemuda-katolik-di-ri",
       "published_date": "2026-04-14T22:54:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "BEM UI Urges Strict Sanctions for Cases of Sexual Violence on Campus",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tdhek7375/bem-ui-desak-sanksi-tegas-kasus-kekerasan-seksual-di-kampus",
-      "published_date": "2026-04-14T11:28:55+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "DPD RI Highlights the Dynamic Security and Conflict Situation in Papua, Urges the Government for a Serious Response",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdubjp368/dpd-ri-soroti-situasi-dinamika-keamanan-dan-konflik-di-papua-desak-respons-serius-pemerintah",
+      "published_date": "2026-04-21T10:52:37+00:00",
+      "category": "Military"
+    },
     {
       "title": "To Nabire, Central Papua, Vice President Gibran inspects ASN flats",
       "source": "Republika English",
@@ -190,20 +197,6 @@
       "url": "https://news.republika.co.id/berita/tdhpbj451/bukan-robot-bahaya-ai-militer-justru-menggerus-akal-manusia-tiga-analis-internasional",
       "published_date": "2026-04-14T23:14:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "A New Era of War Begins, Lasers Become the World's Mainstay Anti-Drone Weapon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdhejw451/era-baru-perang-dimulai-laser-jadi-senjata-antidrone-andalan-dunia",
-      "published_date": "2026-04-14T11:28:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Like an Intelligence Film, a Russian Silent Operation Changes the Battle Map and Turns Deadly",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdhdht451/seperti-film-intelijen-operasi-senyap-rusia-ubah-peta-pertempuran-dan-berujung-mematikan",
-      "published_date": "2026-04-14T11:05:53+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -248,16 +241,23 @@
       "url": "https://esgnow.republika.co.id/berita/tdj8t8490/telkom-dan-pgn-kerja-sama-siapkan-data-center-dengan-energi-rendah-karbon",
       "published_date": "2026-04-15T11:21:08+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "To Moscow, Bahlil Secures Oil and Gas Supplies from Russia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdhea6484/ke-moskow-bahlil-amankan-pasokan-minyak-dan-gas-bumi-dari-rusia",
-      "published_date": "2026-04-14T11:22:54+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "4 Signs of a Pure and Clean Heart Revealed in the Qur'an and Hadith",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdudfq320/4-tanda-hati-suci-dan-bersih-yang-diungkap-dalam-alquran-dan-hadis",
+      "published_date": "2026-04-21T11:33:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mirae Asset Projects Indonesia's Economy to Grow 5 Percent in 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdud9a370/mirae-asset-proyeksikan-ekonomi-indonesia-tumbuh-5-persen-pada-2026",
+      "published_date": "2026-04-21T11:29:34+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bali Bapenda Discusses Tax Incentives for Electric Vehicles",
       "source": "Republika English",
@@ -383,23 +383,37 @@
       "url": "https://news.republika.co.id/berita/tdnr3u2530000/pemprov-jateng-dorong-pedagang-bakso-naik-kelas",
       "published_date": "2026-04-17T21:45:30+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bulog Baubau Distributes 8,900 Liters of Petroleum to Reduce Market Prices",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnqej5530000/bulog-baubau-distribusikan-8900-liter-minyakita-untuk-tekan-harga-pasar",
-      "published_date": "2026-04-17T21:30:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "S&P highlights the condition of Indonesia's APBN, this is Purbaya's response",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdmy8j490/sp-soroti-kondisi-apbn-indonesia-ini-respons-purbaya",
-      "published_date": "2026-04-17T11:21:55+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "South Jakarta City Government Catches and Destroys Sapu-Sapu Fish According to MUI Recommendations",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdudo4409/pemkot-jaksel-tangkap-dan-musnahkan-ikan-sapusapu-sesuai-saran-mui",
+      "published_date": "2026-04-21T11:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Full of enthusiasm, the first group of Hajj pilgrims arrives at the Pondok Gede Hajj Dormitory",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tduc19375/penuh-semangat-jamaah-haji-kloter-pertama-tiba-di-asrama-haji-pondok-gede",
+      "published_date": "2026-04-21T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The First Group of Hajj Pilgrims Arrive at the Pondok Gede Hajj Dormitory",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tdubw81091552676/jamaah-haji-kloter-pertama-tiba-di-asrama-haji-pondok-gede",
+      "published_date": "2026-04-21T11:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Increasing Transparency, Village Funds Are Now Monitored Through Applications",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdubk9416/tingkatkan-transparansi-dana-desa-kini-diawasi-lewat-aplikasi",
+      "published_date": "2026-04-21T10:52:57+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "A total of six thousand buses have been prepared to transport Indonesian Hajj pilgrims",
       "source": "Republika English",
@@ -510,34 +524,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tdqnq5430/mengenal-tiga-cara-pelaksanaan-haji-dan-perbedaannya-qiran-ifrad-dan-tamattu",
       "published_date": "2026-04-19T11:25:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Freedom of Shackled Citizens",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tdqlmi393/kebebasan-warga-yang-terpasung",
-      "published_date": "2026-04-19T10:39:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polda Metro Jaya Confirms Uya Kuya Reported Hoax about MBG Kitchen Ownership",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdqjxa487/polda-metro-jaya-benarkan-uya-kuya-laporkan-hoaks-tentang-kepemilikan-dapur-mbg",
-      "published_date": "2026-04-19T10:03:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Shows Off Culinary Strength in the US, This is the World's Response",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdqjbs451/indonesia-pamer-kekuatan-kuliner-di-as-ini-respons-dunia",
-      "published_date": "2026-04-19T09:50:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quick Way to Overcome Children's Addiction to Devices",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdqdk8425/cara-kilat-atasi-kecanduan-anak-pada-gawai",
-      "published_date": "2026-04-19T09:36:00+00:00",
       "category": "Local Events"
     }
   ]
