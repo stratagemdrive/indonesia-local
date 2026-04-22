@@ -55,13 +55,6 @@
       "url": "https://republika.co.id/page/shorts/yt-tdl1v21207462277/bantuan-menuju-rafah-dubes-ri-bukti-nyata-dukungan-indonesia",
       "published_date": "2026-04-16T10:45:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Campus given 30 days to resolve sexual harassment cases at FH UI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdj9p3393/kampus-diberikan-waktu-30-hari-untuk-selesaikan-kasus-pelecehan-seksual-di-fh-ui",
-      "published_date": "2026-04-15T11:39:03+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -197,16 +190,23 @@
       "url": "https://khazanah.republika.co.id/berita/tdl27y320/2-amalan-ringan-yang-mengantarkan-ke-surga-tetapi-sayang-sering-dilupakan-banyak-orang",
       "published_date": "2026-04-16T10:52:46+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Meta restricted Indonesian news outlet for acid attack coverage. A disguised repression against independent media?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/meta-restricted-indonesian-news-outlet-for-acid-attack-coverage-a-disguised-repression-against-independent-media/",
-      "published_date": "2026-04-14T23:33:04+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "JP Morgan report calls Indonesia the most resilient country in facing the energy crisis",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdw7ud368/laporan-jp-morgan-sebut-indonesia-jadi-negara-paling-tangguh-hadapi-krisis-energi",
+      "published_date": "2026-04-22T11:27:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Concerned about Maternal Health, PLN Distributes Pregnancy Risk Detection Tools in Garut",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdw6xp368/peduli-kesehatan-ibu-pln-distribusikan-alat-deteksi-risiko-kehamilan-di-garut",
+      "published_date": "2026-04-22T11:08:13+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Earth Day, Bank Mandiri Releases Emission Calculation Feature on Livin'",
       "source": "Republika English",
@@ -262,16 +262,51 @@
       "url": "https://news.republika.co.id/berita/tdl2re318/kejagung-sikat-tambang-ilegal-komisi-iii-dpr-tindak-lanjut-komitmen-presiden",
       "published_date": "2026-04-16T11:04:26+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Telkom and PGN Collaborate to Prepare Data Center with Low Carbon Energy",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdj8t8490/telkom-dan-pgn-kerja-sama-siapkan-data-center-dengan-energi-rendah-karbon",
-      "published_date": "2026-04-15T11:21:08+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Erick Thohir Firmly Concerns Alleged Racism at EPA: Football Must Uphold Empathy and Character",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdw8yy348/erick-thohir-tegas-soal-dugaan-rasisme-di-epa-sepak-bola-harus-junjung-empati-dan-karakter",
+      "published_date": "2026-04-22T11:52:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BPOM Supports EMF Restrictions Through Nutri Level",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdw8iu425/bpom-dukung-pembatasan-ggl-lewat-nutri-level",
+      "published_date": "2026-04-22T11:42:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ipemi Recommends Six Policies to Strengthen Women's MSMEs",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdw8hk416/ipemi-rekomendasikan-enam-kebijakan-perkuat-umkm-perempuan",
+      "published_date": "2026-04-22T11:41:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The synergy between the Minister of Finance and the Minister of Energy and Mineral Resources is considered crucial to reduce global turmoil",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdw7vq416/sinergi-menkeu-dan-menteri-esdm-dinilai-krusial-redam-gejolak-global",
+      "published_date": "2026-04-22T11:28:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Industry Encourages Electric Car Market Through Early Adopter Strategy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdw7vp370/kemenperin-dorong-pasar-mobil-listrik-lewat-strategi-early-adopter",
+      "published_date": "2026-04-22T11:28:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "YLKI MBDK Excise Value Is Considered More Effective in Reducing GGL Consumption",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tdw7hw425/ylki-nilai-cukai-mbdk-dinilai-lebih-efektif-tekan-konsumsi-ggl",
+      "published_date": "2026-04-22T11:20:20+00:00",
+      "category": "Economy"
+    },
     {
       "title": "European Union Pressure, Palm Traceability Becomes a Challenge",
       "source": "Republika English",
@@ -369,51 +404,51 @@
       "url": "https://esgnow.republika.co.id/berita/tdqkdr416/saatnya-industri-tekstil-terapkan-ekonomi-sirkular",
       "published_date": "2026-04-19T10:15:45+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Digital Transformation Changes the Business Landscape, UNM Prepares the Young Generation to Face Industrial Challenges",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdqhdw368/transformasi-digital-ubah-lanskap-bisnis-unm-siapkan-generasi-muda-hadapi-tantangan-industri",
-      "published_date": "2026-04-19T09:24:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Big Data Based Industry Develops Rapidly, UNM Presents Education Oriented to Market Needs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdqhd8368/industri-berbasis-big-data-berkembang-pesat-unm-hadirkan-pendidikan-berorientasi-kebutuhan-pasar",
-      "published_date": "2026-04-19T09:07:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Expert: Hajj Cost Scheme from APBN Can Be Obtained Through Perppu",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdpq7i458/pakar-skema-biaya-haji-dari-apbn-bisa-ditempuh-lewat-perppu",
-      "published_date": "2026-04-18T23:21:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Prabowo and Deputy Minister of Agriculture Check Bulog Warehouse in Magelang to Ensure Rice Stock is Safe",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpkd62030000/prabowo-dan-wamentan-sidak-gudang-bulog-di-magelang-pastikan-stok-beras-aman",
-      "published_date": "2026-04-18T21:15:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bapenda Bekasi Combs Advertisements to Optimize Regional Tax Revenue",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpgad2330000/bapenda-bekasi-sisir-reklame-untuk-optimalkan-penerimaan-pajak-daerah",
-      "published_date": "2026-04-18T19:47:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maluku tightens supervision of sacrificial animals ahead of Eid al-Adha 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnt672030000/maluku-perketat-pengawasan-hewan-kurban-jelang-idul-adha-2026",
-      "published_date": "2026-04-17T22:30:07+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Nadiem Makarim's Legal Team Compact did not attend the Chromebook Case Hearing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdw8wx409/tim-kuasa-hukum-nadiem-makarim-kompak-tak-hadiri-sidang-kasus-chromebook",
+      "published_date": "2026-04-22T11:50:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Product Shopping Trends Shift to Digital, Regional Business Actors Begin to Take Role",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdw5du349/tren-belanja-produk-kesehatan-bergeser-ke-digital-pelaku-usaha-daerah-mulai-ambil-peran",
+      "published_date": "2026-04-22T11:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Sekadau, Muhammadiyah Expands the Reach of Mentoring National Converts",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdw7n2458/di-sekadau-muhammadiyah-perluas-jangkauan-pendampingan-mualaf-nasional",
+      "published_date": "2026-04-22T11:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Sins of the Evil Plane",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdw71i458/dosa-pelaku-rencana-jahat",
+      "published_date": "2026-04-22T11:10:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "23,933 Participants Take Part in UTBK-SNBT 2026 at Undip",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tdw6zu375/23933-peserta-ikuti-utbksnbt-2026-di-undip",
+      "published_date": "2026-04-22T11:09:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "276 Thousand Square Meters of Waqf Land Certified",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdw6tq483/276-ribu-meter-persegi-lahan-wakaf-disertifikasi",
+      "published_date": "2026-04-22T11:05:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Of the 118, only 58 parcels of land were acquired by the Pasar Minggu Pass Road Project",
       "source": "Republika English",
@@ -510,48 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdt9p85530000/eliano-reijnders-persib-bandung-masih-di-jalur-juara-meski-tertahan-imbang",
       "published_date": "2026-04-20T21:15:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persib Stumbles at Dewa United's Home, Bojan Hodak Regrets Player Mistakes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdt90b5230000/persib-tersandung-di-kandang-dewa-united-bojan-hodak-sesalkan-kesalahan-pemain",
-      "published_date": "2026-04-20T21:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Home Affairs Witnesses Delivery of Financial Assistance to Aceh",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdt6fp7430000/mendagri-saksikan-penyerahan-bantuan-keuangan-untuk-aceh",
-      "published_date": "2026-04-20T20:04:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gibran Reviews Development of Nabire Airport for Central Papua Connectivity",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdsjwg393/gibran-tinjau-pengembangan-bandara-nabire-untuk-konektivitas-papua-tengah",
-      "published_date": "2026-04-20T11:57:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IDR 22 Billion Allocated for Al Jabbar Mosque Cleaning Officers, This is KDM's Explanation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdsj94377/rp-22-miliar-dialokasikan-untuk-petugas-kebersihan-masjid-al-jabbar-ini-penjelasan-kdm",
-      "published_date": "2026-04-20T11:43:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Jakarta Ministry of Home Affairs Office Fires, 75 Firefighters Dispatched to Tame the Fire",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tdsj7b282/kantor-kemendagri-jaksel-kebakaran-75-damkar-diterjunkan-jinakkan-api",
-      "published_date": "2026-04-20T11:42:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JOMO, The Secret to Staying Happy Even if You're Behind Viral Trends on Social Media",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdsil0425/jomo-rahasia-tetap-bahagia-meski-tertinggal-tren-viral-di-media-sosial",
-      "published_date": "2026-04-20T11:29:24+00:00",
       "category": "Local Events"
     }
   ]
