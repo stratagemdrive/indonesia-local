@@ -52,6 +52,13 @@
   ],
   "Military": [
     {
+      "title": "Soleman Ponto Says Military Justice Has a Harsh Character",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdydv3484/soleman-ponto-sebut-peradilan-militer-berkarakter-keras",
+      "published_date": "2026-04-23T22:38:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Man in TNI Uniform with Captain Rank Takes Away with 270 Kg of Eggs in Sumedang, Trader Loses IDR 7 Million",
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tdy327282/pria-berseragam-tni-pangkat-kapten-bawa-kabur-270-kg-telur-di-sumedang-pedagang-rugi-rp7-juta",
@@ -183,16 +190,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tdop59451/dari-pns-ke-petani-sukses-rahasia-tono-suwarna-panen-bawang-merah-melimpah",
       "published_date": "2026-04-18T10:00:45+00:00",
       "category": "Military"
-    },
-    {
-      "title": "After being reported as a result of the molestation of five Islamic students, Dai Kondang is now living in Egypt",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdnuem483/usai-dilaporkan-akibat-pencabulan-lima-santri-dai-kondang-ini-sudah-tinggal-di-mesir",
-      "published_date": "2026-04-17T22:56:46+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "19 East Java ESDM Employees Returned IDR 707 Million in Extortion Money to the Prosecutor's Office",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdywhc1830000/19-pegawai-esdm-jatim-kembalikan-uang-pungli-rp707-juta-ke-kejati",
+      "published_date": "2026-04-23T22:15:12+00:00",
+      "category": "Energy"
+    },
     {
       "title": "JP Morgan report calls Indonesia the most resilient country in facing the energy crisis",
       "source": "Republika English",
@@ -258,6 +265,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "From the Strait of Hormuz to Indonesia: Strengthening the Ummah through Sharia Economics",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tdyztv458/dari-selat-hormuz-ke-indonesia-memperkuat-umat-melalui-ekonomi-syariah",
+      "published_date": "2026-04-23T23:27:31+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Deputy Minister of Agriculture Sudaryono: RI Rice Stock Has Reached 5 Million Tons",
       "source": "Republika English",
@@ -390,16 +404,37 @@
       "url": "https://ekonomi.republika.co.id/berita/tdsh5c522/pasar-kerja-kian-ketat-satu-lowongan-diperebutkan-12-orang",
       "published_date": "2026-04-20T10:58:24+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BytePlus Encourages AI Adoption to Strengthen Indonesia's Digital Economy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tds5lg370/byteplus-dorong-adopsi-ai-untuk-perkuat-ekonomi-digital-indonesia",
-      "published_date": "2026-04-20T10:50:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Examined by the KPK three times, Khalid Basalamah turned over IDR 8.4 billion in cash",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdyzrt484/diperiksa-kpk-tiga-kali-khalid-basalamah-balikkan-uang-rp-84-miliar",
+      "published_date": "2026-04-23T23:26:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today, the Tansjakarta bus fare is only IDR 1 per passenger",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdyysg484/hari-ini-tarif-bus-tansjakarta-hanya-rp-1-per-penumpang",
+      "published_date": "2026-04-23T23:05:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ITB Expert: Strategy to Maintain the Growth of Electric Vehicles Without Incentives",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdyxv95030000/pakar-itb-strategi-jaga-pertumbuhan-kendaraan-listrik-tanpa-insentif",
+      "published_date": "2026-04-23T22:45:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fast Track Simplifies the Immigration Process for Indonesian Hajj Pilgrims",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdyxv0430/fast-track-permudah-proses-keimigrasian-jamaah-haji-indonesia",
+      "published_date": "2026-04-23T22:45:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Due to refusing to be ordered to bathe, a child in Semarang was burned by his uncle",
       "source": "Republika English",
@@ -510,34 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdw8wx409/tim-kuasa-hukum-nadiem-makarim-kompak-tak-hadiri-sidang-kasus-chromebook",
       "published_date": "2026-04-22T11:50:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Product Shopping Trends Shift to Digital, Regional Business Actors Begin to Take Role",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdw5du349/tren-belanja-produk-kesehatan-bergeser-ke-digital-pelaku-usaha-daerah-mulai-ambil-peran",
-      "published_date": "2026-04-22T11:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Sekadau, Muhammadiyah Expands the Reach of Mentoring National Converts",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdw7n2458/di-sekadau-muhammadiyah-perluas-jangkauan-pendampingan-mualaf-nasional",
-      "published_date": "2026-04-22T11:23:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Sins of the Evil Plane",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdw71i458/dosa-pelaku-rencana-jahat",
-      "published_date": "2026-04-22T11:10:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "23,933 Participants Take Part in UTBK-SNBT 2026 at Undip",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tdw6zu375/23933-peserta-ikuti-utbksnbt-2026-di-undip",
-      "published_date": "2026-04-22T11:09:30+00:00",
       "category": "Local Events"
     }
   ]
