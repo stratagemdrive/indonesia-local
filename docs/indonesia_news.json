@@ -48,16 +48,37 @@
       "url": "https://en.republika.co.id/berita/tdmwpm415/indonesia-qatar-explore-sports-tourism-cooperation",
       "published_date": "2026-04-17T10:48:58+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Assistance to Rafah, Indonesian Ambassador, Real Evidence of Indonesian Support",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tdl1v21207462277/bantuan-menuju-rafah-dubes-ri-bukti-nyata-dukungan-indonesia",
-      "published_date": "2026-04-16T10:45:02+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Man in TNI Uniform with Captain Rank Takes Away with 270 Kg of Eggs in Sumedang, Trader Loses IDR 7 Million",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tdy327282/pria-berseragam-tni-pangkat-kapten-bawa-kabur-270-kg-telur-di-sumedang-pedagang-rugi-rp7-juta",
+      "published_date": "2026-04-23T11:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany Strengthens Military Modernization, Kremlin: Don't Repeat the World's Dark History",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdy2y7451/jerman-perkuat-modernisasi-militer-kremlin-jangan-ulangi-sejarah-kelam-dunia",
+      "published_date": "2026-04-23T11:37:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Transformation Underway, Bank Jakarta Wins Best CEO and COO Awards 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdy2o2349/transformasi-berjalan-bank-jakarta-raih-penghargaan-ceo-dan-coo-terbaik-2026",
+      "published_date": "2026-04-23T11:31:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Talking Indonesia: education in Papua",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-education-in-papua/",
+      "published_date": "2026-04-23T01:21:48+00:00",
+      "category": "Military"
+    },
     {
       "title": "The President Receives Sitting at the Palace to Discuss Geopolitical Dynamics",
       "source": "Republika English",
@@ -169,27 +190,6 @@
       "url": "https://khazanah.republika.co.id/berita/tdnuem483/usai-dilaporkan-akibat-pencabulan-lima-santri-dai-kondang-ini-sudah-tinggal-di-mesir",
       "published_date": "2026-04-17T22:56:46+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Banten Regional Police Plants 1,000 Trees in Cilegon to Support Indonesia ASRI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdntvl730000/polda-banten-tanam-1000-pohon-di-cilegon-dukung-indonesia-asri",
-      "published_date": "2026-04-17T22:45:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Custody Dispute in Tulungagung: Grandmother Reported as Biological Child",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnpph030000/sengketa-hak-asuh-di-tulungagung-nenek-dilaporkan-anak-kandung",
-      "published_date": "2026-04-17T21:15:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "2 Easy Practices That Will Take You to Heaven, But Too Many People Often Forget",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdl27y320/2-amalan-ringan-yang-mengantarkan-ke-surga-tetapi-sayang-sering-dilupakan-banyak-orang",
-      "published_date": "2026-04-16T10:52:46+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -255,16 +255,23 @@
       "url": "https://news.republika.co.id/berita/tdnvn4370/indonesia-sambut-pembukaan-selat-hormuz-pasokan-energi-global-mulai-stabil",
       "published_date": "2026-04-17T23:23:28+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Attorney General to Sweep Illegal Mining, DPR Commission III: Follow-up to President's Commitment",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdl2re318/kejagung-sikat-tambang-ilegal-komisi-iii-dpr-tindak-lanjut-komitmen-presiden",
-      "published_date": "2026-04-16T11:04:26+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Deputy Minister of Agriculture Sudaryono: RI Rice Stock Has Reached 5 Million Tons",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tdy3jb522/wamentan-sudaryono-stok-beras-ri-tembus-5-juta-ton",
+      "published_date": "2026-04-23T11:49:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "INDEF Researcher: Minister of Home Affairs Regulation Number 11 2026 Potentially Obstacles Investment and Adoption of Electric Vehicles",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdy307348/peneliti-indef-permendagri-nomor-11-2026-berpotensi-hambat-investasi-dan-adopsi-kendaraan-listrik",
+      "published_date": "2026-04-23T11:38:31+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Maluku Provincial Government Intensifies Fresh Food Supervision for Consumer Safety",
       "source": "Republika English",
@@ -390,23 +397,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tds5lg370/byteplus-dorong-adopsi-ai-untuk-perkuat-ekonomi-digital-indonesia",
       "published_date": "2026-04-20T10:50:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Prodia Looks for New Growth Engines, Aims at Regenerative Therapy Amid Sluggish Purchasing Power",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdsgfc522/prodia-cari-mesin-pertumbuhan-baru-bidik-terapi-regeneratif-di-tengah-daya-beli-lesu",
-      "published_date": "2026-04-20T10:42:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Prodia's Business Strategy Shifts, Clinic Expansion Adjusts to Market Absorption",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdsgc3522/strategi-bisnis-prodia-bergeser-ekspansi-klinik-disesuaikan-daya-serap-pasar",
-      "published_date": "2026-04-20T10:40:51+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Due to refusing to be ordered to bathe, a child in Semarang was burned by his uncle",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tdy3qx487/gegara-menolak-disuruh-mandi-seorang-anak-di-semarang-dibakar-pamannya",
+      "published_date": "2026-04-23T11:54:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Del Foundation Successfully Collected Hundreds of Blood Bags Through Simultaneous Donation Actions",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tdy3gd522/yayasan-del-sukses-kumpulkan-ratusan-kantong-darah-melalui-aksi-donor-serentak",
+      "published_date": "2026-04-23T11:48:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Minang People Correct the Imam of the Grand Mosque's Reading of the Koran",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdy1zn458/ketika-orang-minang-koreksi-bacaan-alquran-imam-masjidil-haram",
+      "published_date": "2026-04-23T11:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Governor of Central Java Reveals Reasons Why Hundreds of Demak Students Were Poisoned by MBG",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tdy2mk282/wagub-jateng-ungkap-alasan-ratusan-santri-demak-keracunan-mbg",
+      "published_date": "2026-04-23T11:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don't Delay Repentance",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tdy1f6458/jangan-menundanunda-tobat",
+      "published_date": "2026-04-23T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sentenced to 7 Years in Prison, Ammar Zoni: Think About It",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdy2k1409/divonis-7-tahun-penjara-ammar-zoni-pikirpikir",
+      "published_date": "2026-04-23T11:28:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fajar emphasized that the Indonesian team did not take Algeria lightly in the opening match of the Thomas Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tdy213348/fajar-tegaskan-tim-indonesia-tak-anggap-enteng-aljazair-pada-laga-pembuka-piala-thomas",
+      "published_date": "2026-04-23T11:17:27+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "To Win Italy's Heart, Trump's Special Envoy Suggests Azzurri Replace Iran in 2026 World Cup",
       "source": "Republika English",
@@ -496,55 +538,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tdw6zu375/23933-peserta-ikuti-utbksnbt-2026-di-undip",
       "published_date": "2026-04-22T11:09:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "276 Thousand Square Meters of Waqf Land Certified",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdw6tq483/276-ribu-meter-persegi-lahan-wakaf-disertifikasi",
-      "published_date": "2026-04-22T11:05:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Of the 118, only 58 parcels of land were acquired by the Pasar Minggu Pass Road Project",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tduhq2484/dari-118-baru-58-bidang-tanah-dibebaskan-proyek-jalan-tembus-pasar-minggu",
-      "published_date": "2026-04-21T23:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Signing E-Voting LoI, Ministry of Home Affairs: Digitalization of Elections is not Just a Technological Transformation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv8mi483/teken-loi-evoting-kemendagri-digitalisasi-pemilu-tak-sekadar-transformasi-teknologi",
-      "published_date": "2026-04-21T22:47:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The First Group of Indonesian Hajj Pilgrims will be Welcomed with Shalawat Badar",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdv8cf430/jamaah-haji-indonesia-kloter-pertama-akan-disambut-dengan-shalawat-badar",
-      "published_date": "2026-04-21T22:41:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is it true that the government wants to manage mosque cash? This is the Ministry of Religion's clarification",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdv86d430/benarkah-pemerintah-ingin-kelola-kas-masjid-ini-klarifikasi-kemenag",
-      "published_date": "2026-04-21T22:37:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sumatra Bulog Intensifies Coordination to Maintain Availability of MinyaKita",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv2ec630000/bulog-sumut-intensifkan-koordinasi-untuk-jaga-ketersediaan-minyakita",
-      "published_date": "2026-04-21T20:32:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Jakarta City Government Catches and Destroys Sapu-Sapu Fish According to MUI Recommendations",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdudo4409/pemkot-jaksel-tangkap-dan-musnahkan-ikan-sapusapu-sesuai-saran-mui",
-      "published_date": "2026-04-21T11:38:28+00:00",
       "category": "Local Events"
     }
   ]
