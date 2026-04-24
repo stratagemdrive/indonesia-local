@@ -20,16 +20,16 @@
       "url": "https://khazanah.republika.co.id/berita/tdoplg366/mui-dan-dubes-saudi-doakan-jamaah-haji-indonesia-lancar-di-tanah-suci",
       "published_date": "2026-04-18T10:10:28+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Kiai Said Hands Over the Keris to the Iranian Ambassador, a Symbol of Solidarity with 14 Islamic Organizations Against Zionism",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdnvj0483/kiai-said-serahkan-keris-ke-dubes-iran-simbol-solidaritas-14-ormas-islam-lawan-zionisme",
-      "published_date": "2026-04-17T23:21:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Pangdam Udayana Inaugurates 137 Infantry NCOs in Tabanan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0qgb9330000/pangdam-udayana-lantik-137-bintara-infanteri-di-tabanan",
+      "published_date": "2026-04-24T22:00:11+00:00",
+      "category": "Military"
+    },
     {
       "title": "Beware of Canada, Putri KW Calls on the Indonesian Uber Team to Go All Out for the Perfect Start",
       "source": "Republika English",
@@ -162,13 +162,6 @@
       "url": "https://news.republika.co.id/berita/tdpgau7130000/papua-selatan-gandeng-uns-untuk-perkuat-pengembangan-pendidikan",
       "published_date": "2026-04-18T19:47:18+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sebastian Frey Plans a Vacation to Indonesia After a Festive Welcome",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpet74630000/sebastian-frey-rencanakan-liburan-ke-indonesia-usai-disambut-meriah",
-      "published_date": "2026-04-18T19:15:07+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -234,16 +227,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tdoqr7458/pakar-ekonomi-energi-kenaikan-harga-bbm-nonsubsidi-sudah-tepat",
       "published_date": "2026-04-18T10:35:31+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Indonesia Welcomes the Opening of the Strait of Hormuz, Is Global Energy Supply Starting to Stabilize?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdnvn4370/indonesia-sambut-pembukaan-selat-hormuz-pasokan-energi-global-mulai-stabil",
-      "published_date": "2026-04-17T23:23:28+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "BI East Java Predicts Retail Sales in Surabaya to Increase in March 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0ru96630000/bi-jatim-prediksi-penjualan-eceran-surabaya-naik-maret-2026",
+      "published_date": "2026-04-24T22:30:09+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Electric Vehicle Tax Will Be Waived Again, Is the Government Wishy-Planning?",
       "source": "Republika English",
@@ -376,16 +369,93 @@
       "url": "https://ameera.republika.co.id/berita/tdtcme425/sejarah-hari-kartini-perjalanan-memperjuangkan-emansipasi-wanita",
       "published_date": "2026-04-20T22:18:14+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Access to Crypto Investment Expands, Modern Retail Becomes New Distribution Channel",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdsuox416/akses-investasi-kripto-diperluas-ritel-modern-jadi-kanal-distribusi-baru",
-      "published_date": "2026-04-20T22:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Netanyahu Finally Confesses He Has Prostate Cancer",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0r4m348/netanyahu-akhirnya-ngaku-terkena-serangan-kanker-prostat",
+      "published_date": "2026-04-24T23:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All Hajj Officers are required to use the Hajj Control Application",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/te0u0x430/seluruh-petugas-haji-diwajibkan-gunakan-aplikasi-kawal-haji",
+      "published_date": "2026-04-24T23:17:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ginting Maximizes Rest Time to Evaluate Weaknesses in the Thomas Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0smi348/ginting-maksimalkan-waktu-istirahat-untuk-evaluasi-kekurangan-di-piala-thomas",
+      "published_date": "2026-04-24T22:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raymond/Joaquin Complete Team Thomas Indonesia's Victory over Algeria",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0sfm348/raymondjoaquin-sempurnakan-kemenangan-tim-thomas-indonesia-atas-aljazair",
+      "published_date": "2026-04-24T22:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disaster Survivors in Bener Meriah Smile Again Thanks to Temporary Housing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0sjl8730000/penyintas-bencana-di-bener-meriah-kembali-tersenyum-berkat-hunian-sementara",
+      "published_date": "2026-04-24T22:45:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hector Bellerin's Injury Time Goal Denies Real Madrid's Victory at Sevilla",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0s1c348/gol-injury-time-hector-bellerin-gagalkan-kemenangan-real-madrid-di-sevilla",
+      "published_date": "2026-04-24T22:34:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taking IDR 16 Million in Pension Money from the Bank, Grandfather in West Bandung Was Robbed in an Angkot",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/te0isf282/ambil-uang-pensiun-rp16-juta-dari-bank-kakek-di-bandung-barat-dirampok-di-angkot",
+      "published_date": "2026-04-24T22:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Napoli Celebrates Goal against Cremonese, Postpones Inter Scudetto Celebration",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0rlr348/napoli-pesta-gol-ke-gawang-cremonese-tunda-perayaan-scudetto-inter",
+      "published_date": "2026-04-24T22:25:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government Accelerates Rehabilitation of Post-Disaster Rice Fields in Sumatra",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0r572630000/pemerintah-percepat-rehabilitasi-sawah-pascabencana-di-sumatera",
+      "published_date": "2026-04-24T22:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government to Revitalize 71 Thousand Schools in Indonesia, Majalengka Regency Government Proposes 323 Schools",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/te0i8u282/pemerintah-akan-revitalisasi-71-ribu-sekolah-seindonesia-pemkab-majalengka-ajukan-323-sekolah",
+      "published_date": "2026-04-24T22:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LavAni Beat Bhayangkara 3-1 in the First Match of the 2026 Proliga Grand Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te0ppj348/lavani-taklukkan-bhayangkara-31-pada-laga-pertama-grand-final-proliga-2026",
+      "published_date": "2026-04-24T21:44:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KDM's Hope for Hajj Pilgrims: A Hajj When Returning Home Must Spread the Values ​​of Kindness and Generosity",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/te0h2a282/harapan-kdm-untuk-jamaah-haji-seorang-haji-ketika-pulang-harus-menebarkan-nilai-kebaikan-dan-kesale",
+      "published_date": "2026-04-24T21:35:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Kurniawan is optimistic about Indonesia U-17's chances of opening up even though it is in the tough group of the U-17 Asian Cup",
       "source": "Republika English",
@@ -440,90 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdyysg484/hari-ini-tarif-bus-tansjakarta-hanya-rp-1-per-penumpang",
       "published_date": "2026-04-23T23:05:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ITB Expert: Strategy to Maintain the Growth of Electric Vehicles Without Incentives",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdyxv95030000/pakar-itb-strategi-jaga-pertumbuhan-kendaraan-listrik-tanpa-insentif",
-      "published_date": "2026-04-23T22:45:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fast Track Simplifies the Immigration Process for Indonesian Hajj Pilgrims",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdyxv0430/fast-track-permudah-proses-keimigrasian-jamaah-haji-indonesia",
-      "published_date": "2026-04-23T22:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Due to refusing to be ordered to bathe, a child in Semarang was burned by his uncle",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tdy3qx487/gegara-menolak-disuruh-mandi-seorang-anak-di-semarang-dibakar-pamannya",
-      "published_date": "2026-04-23T11:54:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Del Foundation Successfully Collected Hundreds of Blood Bags Through Simultaneous Donation Actions",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdy3gd522/yayasan-del-sukses-kumpulkan-ratusan-kantong-darah-melalui-aksi-donor-serentak",
-      "published_date": "2026-04-23T11:48:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When Minang People Correct the Imam of the Grand Mosque's Reading of the Koran",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdy1zn458/ketika-orang-minang-koreksi-bacaan-alquran-imam-masjidil-haram",
-      "published_date": "2026-04-23T11:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Governor of Central Java Reveals Reasons Why Hundreds of Demak Students Were Poisoned by MBG",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tdy2mk282/wagub-jateng-ungkap-alasan-ratusan-santri-demak-keracunan-mbg",
-      "published_date": "2026-04-23T11:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don't Delay Repentance",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdy1f6458/jangan-menundanunda-tobat",
-      "published_date": "2026-04-23T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sentenced to 7 Years in Prison, Ammar Zoni: Think About It",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdy2k1409/divonis-7-tahun-penjara-ammar-zoni-pikirpikir",
-      "published_date": "2026-04-23T11:28:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fajar emphasized that the Indonesian team did not take Algeria lightly in the opening match of the Thomas Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdy213348/fajar-tegaskan-tim-indonesia-tak-anggap-enteng-aljazair-pada-laga-pembuka-piala-thomas",
-      "published_date": "2026-04-23T11:17:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "To Win Italy's Heart, Trump's Special Envoy Suggests Azzurri Replace Iran in 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdx4tj348/demi-ambil-hati-italia-utusan-khusus-trump-usulkan-azzurri-gantikan-iran-di-piala-dunia-2026",
-      "published_date": "2026-04-22T23:20:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parking on the sidewalk, dozens of vehicles on Jalan Gunawarman Jakarta were controlled by officers",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tdx4na375/parkir-di-trotoar-puluhan-kendaraan-di-jalan-gunawarman-jakarta-ditertibkan-petugas",
-      "published_date": "2026-04-22T23:16:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lamine Yamal Becomes the Victim of Barcelona's Victory Over Celta in the Spanish League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdx4i6348/lamine-yamal-jadi-tumbal-kemenangan-barcelona-atas-celta-di-liga-spanyol",
-      "published_date": "2026-04-22T23:13:18+00:00",
       "category": "Local Events"
     }
   ]
