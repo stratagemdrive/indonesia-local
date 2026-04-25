@@ -17,6 +17,27 @@
   ],
   "Military": [
     {
+      "title": "Mayor of Bandarlampung Wins 2026 National Governance Award",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2mij3530000/wali-kota-bandarlampung-raih-penghargaan-national-governance-2026",
+      "published_date": "2026-04-25T22:30:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI AL Secures Illegal PMI Returning from Malaysia in Tanjung Balai Karimun",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2lta5430000/tni-al-amankan-pmi-ilegal-pulang-dari-malaysia-di-tanjung-balai-karimun",
+      "published_date": "2026-04-25T22:15:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulog Papua Absorbs 1,678 Tons of Rice from Merauke Until April 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2kf91130000/bulog-papua-serap-1678-ton-beras-dari-merauke-hingga-april-2026",
+      "published_date": "2026-04-25T21:45:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pangdam Udayana Inaugurates 137 Infantry NCOs in Tabanan",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te0qgb9330000/pangdam-udayana-lantik-137-bintara-infanteri-di-tabanan",
@@ -134,27 +155,6 @@
       "url": "https://news.republika.co.id/berita/tdrk5g484/panglima-tni-bentuk-37-kodam-15-kodaeral-serta-delapan-pasmar",
       "published_date": "2026-04-19T23:05:40+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Head of BPOM RI Receives Visionary Leadership Award for Drug and Food Control",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tdqgus291/kepala-bpom-ri-raih-anugerah-kepemimpinan-visioner-pengawasan-obat-dan-makanan",
-      "published_date": "2026-04-19T09:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French Soldier Member of UNIFIL Killed in Attack, RI Expresses Condolences",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdppj0458/tentara-prancis-anggota-unifil-tewas-diserang-ri-sampaikan-belasungkawa",
-      "published_date": "2026-04-18T23:06:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Papua Collaborates with UNS to Strengthen Education Development",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdpgau7130000/papua-selatan-gandeng-uns-untuk-perkuat-pengembangan-pendidikan",
-      "published_date": "2026-04-18T19:47:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -213,16 +213,16 @@
       "url": "https://rejogja.republika.co.id/berita/tdr86h282/gas-12-kg-naik-18-persen-segini-harga-jual-di-jabar-jateng-dan-diy",
       "published_date": "2026-04-19T21:48:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Not Just Memorizing, These 5 Essences of Tawheed Are the Most Effective Medicine for a Wounded Soul",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tdp2bs451/bukan-sekadar-hafalan-5-hakikat-tauhid-ini-adalah-obat-paling-ampuh-untuk-jiwa-yang-luka",
-      "published_date": "2026-04-18T20:21:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "DPMPTSP Mimika Allocates IDR 28 Billion to Build New Office Building",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2l499430000/dpmptsp-mimika-alokasikan-rp28-miliar-untuk-bangun-gedung-kantor-baru",
+      "published_date": "2026-04-25T22:00:09+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Launching a Book, Dian Widayanti Invites Netizens to Be Literate about Halal in the Viral Era",
       "source": "Republika English",
@@ -355,16 +355,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tdud9a370/mirae-asset-proyeksikan-ekonomi-indonesia-tumbuh-5-persen-pada-2026",
       "published_date": "2026-04-21T11:29:34+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bali Bapenda Discusses Tax Incentives for Electric Vehicles",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdtdv85130000/bapenda-bali-bahas-insentif-pajak-untuk-kendaraan-listrik",
-      "published_date": "2026-04-20T22:45:08+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Don't take it for granted! Sneezing and Itching Could Be Signs of a Lurking Allergy",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/te2p26425/jangan-anggap-sepele-bersin-dan-gatal-bisa-jadi-tanda-alergi-mengintai",
+      "published_date": "2026-04-25T23:25:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bulungan Regency Government Ready to Build Port in Tanah Kuning",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2ic88030000/pemkab-bulungan-siap-bangun-pelabuhan-di-tanah-kuning",
+      "published_date": "2026-04-25T21:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "31 Royal Kings of the Archipelago Attend the Garut Cultural Enchantment Festival",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2hnb1430000/31-raja-diraja-nusantara-hadiri-gebyar-pesona-budaya-garut",
+      "published_date": "2026-04-25T20:45:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Minister of PKP Reviews Development of Fisherman's Village in Aceh Jaya",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2gyr4630000/wamen-pkp-tinjau-pembangunan-kampung-nelayan-di-aceh-jaya",
+      "published_date": "2026-04-25T20:30:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Appearing Dominant in Solo, Satria Muda Pertamina Bandung Defeats Knights of Bengawan Solo 84-69",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te2gi2348/tampil-dominan-di-solo-satria-muda-pertamina-bandung-tumbangkan-kesatria-bengawan-solo-8469",
+      "published_date": "2026-04-25T20:20:26+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Disaster Simulation, Tasikmalaya BPBD Trains Disability Evacuation",
       "source": "Republika English",
@@ -468,41 +496,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te0sfm348/raymondjoaquin-sempurnakan-kemenangan-tim-thomas-indonesia-atas-aljazair",
       "published_date": "2026-04-24T22:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disaster Survivors in Bener Meriah Smile Again Thanks to Temporary Housing",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0sjl8730000/penyintas-bencana-di-bener-meriah-kembali-tersenyum-berkat-hunian-sementara",
-      "published_date": "2026-04-24T22:45:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hector Bellerin's Injury Time Goal Denies Real Madrid's Victory at Sevilla",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0s1c348/gol-injury-time-hector-bellerin-gagalkan-kemenangan-real-madrid-di-sevilla",
-      "published_date": "2026-04-24T22:34:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taking IDR 16 Million in Pension Money from the Bank, Grandfather in West Bandung Was Robbed in an Angkot",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/te0isf282/ambil-uang-pensiun-rp16-juta-dari-bank-kakek-di-bandung-barat-dirampok-di-angkot",
-      "published_date": "2026-04-24T22:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Napoli Celebrates Goal against Cremonese, Postpones Inter Scudetto Celebration",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0rlr348/napoli-pesta-gol-ke-gawang-cremonese-tunda-perayaan-scudetto-inter",
-      "published_date": "2026-04-24T22:25:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government Accelerates Rehabilitation of Post-Disaster Rice Fields in Sumatra",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0r572630000/pemerintah-percepat-rehabilitasi-sawah-pascabencana-di-sumatera",
-      "published_date": "2026-04-24T22:15:07+00:00",
       "category": "Local Events"
     }
   ]
