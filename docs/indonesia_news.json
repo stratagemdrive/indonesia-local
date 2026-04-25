@@ -13,13 +13,6 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/loyalty-over-expertise-the-patronage-problem-at-the-heart-of-prabowos-foreign-policy/",
       "published_date": "2026-04-21T03:31:04+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "MUI and Saudi Ambassador Pray for Indonesian Hajj Pilgrims to Go Well in the Holy Land",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tdoplg366/mui-dan-dubes-saudi-doakan-jamaah-haji-indonesia-lancar-di-tanah-suci",
-      "published_date": "2026-04-18T10:10:28+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -166,6 +159,13 @@
   ],
   "Energy": [
     {
+      "title": "Today's Kartini in the Oil and Gas Industry, Women Driving the Country's Energy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te1kh0423/kartini-masa-kini-industri-migas-perempuan-penggerak-energi-negeri",
+      "published_date": "2026-04-25T09:01:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "19 East Java ESDM Employees Returned IDR 707 Million in Extortion Money to the Prosecutor's Office",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdywhc1830000/19-pegawai-esdm-jatim-kembalikan-uang-pungli-rp707-juta-ke-kejati",
@@ -220,16 +220,16 @@
       "url": "https://iqra.republika.co.id/berita/tdp2bs451/bukan-sekadar-hafalan-5-hakikat-tauhid-ini-adalah-obat-paling-ampuh-untuk-jiwa-yang-luka",
       "published_date": "2026-04-18T20:21:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Energy Economics Expert: The increase in non-subsidized fuel prices is appropriate",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdoqr7458/pakar-ekonomi-energi-kenaikan-harga-bbm-nonsubsidi-sudah-tepat",
-      "published_date": "2026-04-18T10:35:31+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Launching a Book, Dian Widayanti Invites Netizens to Be Literate about Halal in the Viral Era",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/te1qfr423/luncurkan-buku-dian-widayanti-ajak-netizen-melek-soal-halal-di-era-viral",
+      "published_date": "2026-04-25T10:57:27+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BI East Java Predicts Retail Sales in Surabaya to Increase in March 2026",
       "source": "Republika English",
@@ -362,16 +362,86 @@
       "url": "https://news.republika.co.id/berita/tdtdv85130000/bapenda-bali-bahas-insentif-pajak-untuk-kendaraan-listrik",
       "published_date": "2026-04-20T22:45:08+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "History of Kartini Day, Journey to Fight for Women's Emancipation",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdtcme425/sejarah-hari-kartini-perjalanan-memperjuangkan-emansipasi-wanita",
-      "published_date": "2026-04-20T22:18:14+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Disaster Simulation, Tasikmalaya BPBD Trains Disability Evacuation",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/te1l68375/simulasi-bencana-bpbd-tasikmalaya-latih-evakuasi-disabilitas",
+      "published_date": "2026-04-25T11:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Forestry Reviewing Additional Tourist Quotas in Komodo National Park",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te1ozv484/kemenhut-kaji-penambahan-kuota-wisatawan-di-taman-nasional-komodo",
+      "published_date": "2026-04-25T10:26:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Construction of the Bengkulu People's School Accelerated, Targeted for Completion This Year",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te1o4l416/pembangunan-sekolah-rakyat-bengkulu-dikebut-target-rampung-tahun-ini",
+      "published_date": "2026-04-25T10:07:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fishing Boat Parade Enlivens the Bokori Island Festival",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/te1l2s375/parade-perahu-nelayan-semarakkan-festival-pulau-bokori",
+      "published_date": "2026-04-25T10:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KDM Invites Sumedang Community to Be Proud of Regional Potential",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/te1n6r368/kdm-ajak-masyarakat-sumedang-bangga-dengan-potensi-daerah",
+      "published_date": "2026-04-25T09:47:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesian Hajj Pilgrims Are Satisfied, Hotels Near the Nabawi Mosque and Delicious Food",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/te1mot423/jamaah-haji-ri-puas-hotel-dekat-masjid-nabawi-dan-makanan-enak",
+      "published_date": "2026-04-25T09:36:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GP Ansor's 92nd Anniversary, Consistently Present in Every Phase of the Nation's Journey",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te1mm1484/hut-ke92-gp-ansor-konsisten-hadir-di-setiap-fase-perjalanan-bangsa",
+      "published_date": "2026-04-25T09:34:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coordinating Minister Yusril: The Government Never Views Criticism As An Enemy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te1m8c484/menko-yusril-pemerintah-tak-pernah-nilai-kritik-sebagai-musuh",
+      "published_date": "2026-04-25T09:26:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riau Province Anti-Drug Task Force Moves to Fight Drugs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te1m6i522/satgas-anti-narkoba-provinsi-riau-bergerak-perangi-narkoba",
+      "published_date": "2026-04-25T09:25:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesian Hajj pilgrims are grateful to be able to go to Raudhah",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-te1lp122397653/jamaah-haji-indonesia-bersyukur-bisa-ke-raudhah",
+      "published_date": "2026-04-25T09:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IDR 8.9 Billion Distributed to Build 128 Simple, Livable Houses in Kudus",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/te1lhz456/rp-89-miliar-disalurkan-untuk-bangun-128-rumah-sederhana-layak-huni-di-kudus",
+      "published_date": "2026-04-25T09:10:47+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Netanyahu Finally Confesses He Has Prostate Cancer",
       "source": "Republika English",
@@ -433,83 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te0r572630000/pemerintah-percepat-rehabilitasi-sawah-pascabencana-di-sumatera",
       "published_date": "2026-04-24T22:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government to Revitalize 71 Thousand Schools in Indonesia, Majalengka Regency Government Proposes 323 Schools",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/te0i8u282/pemerintah-akan-revitalisasi-71-ribu-sekolah-seindonesia-pemkab-majalengka-ajukan-323-sekolah",
-      "published_date": "2026-04-24T22:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LavAni Beat Bhayangkara 3-1 in the First Match of the 2026 Proliga Grand Final",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0ppj348/lavani-taklukkan-bhayangkara-31-pada-laga-pertama-grand-final-proliga-2026",
-      "published_date": "2026-04-24T21:44:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KDM's Hope for Hajj Pilgrims: A Hajj When Returning Home Must Spread the Values ​​of Kindness and Generosity",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/te0h2a282/harapan-kdm-untuk-jamaah-haji-seorang-haji-ketika-pulang-harus-menebarkan-nilai-kebaikan-dan-kesale",
-      "published_date": "2026-04-24T21:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kurniawan is optimistic about Indonesia U-17's chances of opening up even though it is in the tough group of the U-17 Asian Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdzxiw348/kurniawan-optimistis-peluang-indonesia-u17-terbuka-walau-berada-di-grup-berat-piala-asia-u17",
-      "published_date": "2026-04-24T11:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BSI Agent Transactions Grow 14.54 Percent, Becoming a Motor for Sharia Financial Inclusion",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tdzxhh490/transaksi-bsi-agen-tumbuh-1454-persen-jadi-motor-inklusi-keuangan-syariah",
-      "published_date": "2026-04-24T11:34:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Illegally Parked Motorbikes at the Lebak Bulus MRT Depot Controlled by Officers",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tdzvjd375/ratusan-motor-parkir-liar-di-depo-mrt-lebak-bulus-ditertibkan-petugas",
-      "published_date": "2026-04-24T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of the closure, recruitment for Red and White Fishing Village employees is increasingly sought after",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdzx8a490/jelang-penutupan-rekrutmen-pegawai-kampung-nelayan-merah-putih-makin-diburu",
-      "published_date": "2026-04-24T11:28:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bonus from the Government, Ni Nengah Widiasih Builds the Future Through Culinary Business in Bali",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdzwzg348/bonus-dari-pemerintah-ni-nengah-widiasih-bangun-masa-depan-lewat-usaha-kuliner-di-bali",
-      "published_date": "2026-04-24T11:23:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bullying Case Leads to Death in Sragen, KPAI Requests Legal Process in Accordance with the Children's Law",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tdzw9y328/kasus-bullying-berujung-maut-di-sragen-kpai-minta-proses-hukum-sesuai-uu-anak",
-      "published_date": "2026-04-24T11:08:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Examined by the KPK three times, Khalid Basalamah turned over IDR 8.4 billion in cash",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdyzrt484/diperiksa-kpk-tiga-kali-khalid-basalamah-balikkan-uang-rp-84-miliar",
-      "published_date": "2026-04-23T23:26:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today, the Tansjakarta bus fare is only IDR 1 per passenger",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdyysg484/hari-ini-tarif-bus-tansjakarta-hanya-rp-1-per-penumpang",
-      "published_date": "2026-04-23T23:05:04+00:00",
       "category": "Local Events"
     }
   ]
