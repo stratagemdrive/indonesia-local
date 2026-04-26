@@ -17,6 +17,13 @@
   ],
   "Military": [
     {
+      "title": "Three Analysts Leak Specs for 6th Generation Fighter Jet, Secret Weapon That Makes Radar Useless",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te3x8u451/tiga-analis-bocorkan-spek-jet-tempur-generasi-ke6-senjata-rahasia-yang-bikin-radar-tak-berguna",
+      "published_date": "2026-04-26T22:59:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Mayor of Bandarlampung Wins 2026 National Governance Award",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te2mij3530000/wali-kota-bandarlampung-raih-penghargaan-national-governance-2026",
@@ -141,23 +148,16 @@
       "url": "https://news.republika.co.id/berita/tdsgxd409/polda-maluku-ungkap-pembunuhan-nus-kei-bermotifkan-balas-dendam",
       "published_date": "2026-04-20T10:53:37+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TNI has built 150 Yonif TP, targeting 514 battalions in all districts",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdrkmo484/tni-telah-bangun-150-yonif-tp-targetkan-514-batalyon-di-seluruh-kabupaten",
-      "published_date": "2026-04-19T23:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TNI Commander Forms 37 Kodam, 15 Kodaeral, and Eight Pasmar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdrk5g484/panglima-tni-bentuk-37-kodam-15-kodaeral-serta-delapan-pasmar",
-      "published_date": "2026-04-19T23:05:40+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Geothermal and UGM Develop Geothermal-Based Agricultural Booster",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te4h6d530000/pertamina-geothermal-dan-ugm-kembangkan-booster-pertanian-berbasis-panas-bumi",
+      "published_date": "2026-04-26T22:30:13+00:00",
+      "category": "Energy"
+    },
     {
       "title": "IEA Boss Says Iran War Makes World Abandon Oil, Accelerates Adoption of Nuclear and Renewable Energy",
       "source": "Republika English",
@@ -226,13 +226,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdv7xh330000/permenhut-62026-langkah-baru-perdagangan-karbon-untuk-masyarakat-lokal",
       "published_date": "2026-04-21T22:32:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "12 Kg Gas Increases 18 Percent, This is the Selling Price in West Java, Central Java and DIY",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tdr86h282/gas-12-kg-naik-18-persen-segini-harga-jual-di-jabar-jateng-dan-diy",
-      "published_date": "2026-04-19T21:48:00+00:00",
       "category": "Energy"
     }
   ],
@@ -380,6 +373,55 @@
   ],
   "Local Events": [
     {
+      "title": "Where's Our Salary? Silent Call of Honorary Teachers",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/te4jf6393/mana-gaji-kami-seruan-senyap-guru-honorer",
+      "published_date": "2026-04-26T23:18:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Duo Ducati Lenovo Failed to Finish in the Spanish GP, This is the Explanation of Marc Marquez and Pecco Bagnaia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te4j8l348/duo-ducati-lenovo-gagal-finis-di-gp-spanyol-ini-penjelasan-marc-marquez-dan-pecco-bagnaia",
+      "published_date": "2026-04-26T23:14:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rising from pressure, Thomas Indonesia team defeats Thailand 3-2, Uber clean sweeps Australia 5-0",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te4in8348/bangkit-dari-tekanan-tim-thomas-indonesia-tumbangkan-thailand-32-uber-sapu-bersih-australia-50",
+      "published_date": "2026-04-26T23:01:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persib Bonus Case, KDM Passes Hot Ball to Maruarar",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/te4htr393/perkara-bonus-persib-kdm-oper-bola-panas-ke-maruarar",
+      "published_date": "2026-04-26T22:44:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The story of Eko Yuli Lifting the Family, Buying Rice Fields from Weightlifting Achievement",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te4h0f393/kisah-eko-yuli-angkat-derajat-keluarga-beli-sawah-dari-prestasi-angkat-besi",
+      "published_date": "2026-04-26T22:26:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Daycare Case in Yogyakarta, Ministry of PPPA Pushes to Strengthen Child Care Regulations",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te4gs2393/kasus-daycare-di-yogyakarta-kemen-pppa-dorong-penguatan-regulasi-pengasuhan-anak",
+      "published_date": "2026-04-26T22:21:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jabodebek LRT Supports Mobility at the 2026 IWE Festival",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te4gh66030000/lrt-jabodebek-dukung-mobilitas-pada-festival-iwe-2026",
+      "published_date": "2026-04-26T22:15:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PPIH Prepares 6,000 Modern Buses to Serve Indonesian Hajj Pilgrims",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/te3kkb366/ppih-siapkan-6000-bus-modern-untuk-layani-jamaah-haji-indonesia",
@@ -468,55 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/te1mot423/jamaah-haji-ri-puas-hotel-dekat-masjid-nabawi-dan-makanan-enak",
       "published_date": "2026-04-25T09:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GP Ansor's 92nd Anniversary, Consistently Present in Every Phase of the Nation's Journey",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te1mm1484/hut-ke92-gp-ansor-konsisten-hadir-di-setiap-fase-perjalanan-bangsa",
-      "published_date": "2026-04-25T09:34:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coordinating Minister Yusril: The Government Never Views Criticism As An Enemy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te1m8c484/menko-yusril-pemerintah-tak-pernah-nilai-kritik-sebagai-musuh",
-      "published_date": "2026-04-25T09:26:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riau Province Anti-Drug Task Force Moves to Fight Drugs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te1m6i522/satgas-anti-narkoba-provinsi-riau-bergerak-perangi-narkoba",
-      "published_date": "2026-04-25T09:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian Hajj pilgrims are grateful to be able to go to Raudhah",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-te1lp122397653/jamaah-haji-indonesia-bersyukur-bisa-ke-raudhah",
-      "published_date": "2026-04-25T09:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IDR 8.9 Billion Distributed to Build 128 Simple, Livable Houses in Kudus",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/te1lhz456/rp-89-miliar-disalurkan-untuk-bangun-128-rumah-sederhana-layak-huni-di-kudus",
-      "published_date": "2026-04-25T09:10:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu Finally Confesses He Has Prostate Cancer",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0r4m348/netanyahu-akhirnya-ngaku-terkena-serangan-kanker-prostat",
-      "published_date": "2026-04-24T23:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All Hajj Officers are required to use the Hajj Control Application",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/te0u0x430/seluruh-petugas-haji-diwajibkan-gunakan-aplikasi-kawal-haji",
-      "published_date": "2026-04-24T23:17:21+00:00",
       "category": "Local Events"
     }
   ]
