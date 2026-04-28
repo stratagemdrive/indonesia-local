@@ -1,21 +1,49 @@
 {
   "Diplomacy": [
     {
+      "title": "UMJ Inaugurates Tulang Bawang Campus Building, Strengthens Access to Education in Lampung",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te7c6j472/umj-resmikan-gedung-kampus-tulang-bawang-perkuat-akses-pendidikan-di-lampung",
+      "published_date": "2026-04-28T11:35:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "China Strengthens Cooperation with Indonesia through Visit to Makassar",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdv6gd6330000/tiongkok-perkuat-kerja-sama-dengan-indonesia-melalui-kunjungan-ke-makassar",
       "published_date": "2026-04-21T22:00:13+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Loyalty over expertise: The patronage problem at the heart of Prabowo’s foreign policy",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/loyalty-over-expertise-the-patronage-problem-at-the-heart-of-prabowos-foreign-policy/",
-      "published_date": "2026-04-21T03:31:04+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "This is the cause of the train accident in Bekasi according to the National Police Traffic Corps",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te7b1h409/ini-penyebab-kecelakaan-kereta-di-bekasi-menurut-korlantas-polri",
+      "published_date": "2026-04-28T11:10:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police Complete Identification of 10 Bodies of Bekasi Train Accident Victims",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te7b1b328/polisi-tuntaskan-identifikasi-10-jenazah-korban-kecelakaan-kereta-bekasi",
+      "published_date": "2026-04-28T11:10:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police Remind Public to Avoid Brokers When Handling Vehicle Administration in Cimahi-KBB",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/te7ada282/polisi-ingatkan-masyarakat-hindari-calo-saat-urus-administrasi-kendaraan-di-cimahikbb",
+      "published_date": "2026-04-28T11:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From ‘foreign agents’ to ‘deep state’: how security rhetoric is redefining who counts as Indonesian",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/from-foreign-agents-to-deep-state-how-security-rhetoric-is-redefining-who-counts-as-indonesian/",
+      "published_date": "2026-04-28T01:34:05+00:00",
+      "category": "Military"
+    },
     {
       "title": "Papuan Armed Group Executes Two ASN Yahukimo Dead",
       "source": "Republika English",
@@ -127,27 +155,6 @@
       "url": "https://news.republika.co.id/berita/tdv9ll484/presiden-terima-dudung-di-istana-bahas-dinamika-geopolitik",
       "published_date": "2026-04-21T23:08:09+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Dopamine Doomsday: Why We Prefer to Discuss Dajjal Than War Strategy?",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tdudu6451/dopamin-kiamat-mengapa-kita-lebih-suka-bahas-dajjal-daripada-strategi-perang",
-      "published_date": "2026-04-21T21:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Central Papua Encourages Traditional Cooperatives to Manage People's Mines Legally",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv2gg130000/papua-tengah-dorong-koperasi-adat-kelola-tambang-rakyat-secara-legal",
-      "published_date": "2026-04-21T20:33:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DPD RI Highlights the Dynamic Security and Conflict Situation in Papua, Urges the Government for a Serious Response",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdubjp368/dpd-ri-soroti-situasi-dinamika-keamanan-dan-konflik-di-papua-desak-respons-serius-pemerintah",
-      "published_date": "2026-04-21T10:52:37+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -230,6 +237,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "15 BUMNs Working on Environmental and Economic Programs in Raja Ampat",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/te7dgr416/15-bumn-garap-program-lingkungan-dan-ekonomi-di-raja-ampat",
+      "published_date": "2026-04-28T12:04:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rupiah Undervalued but Still Under Pressure",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te7bve423/rupiah-undervalued-tapi-masih-terus-tertekan",
+      "published_date": "2026-04-28T11:28:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Companies are starting to rely on digital health services to reduce costs and maintain productivity",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te7aks349/perusahaan-mulai-andalkan-layanan-kesehatan-digital-untuk-tekan-biaya-dan-jaga-produktivitas",
+      "published_date": "2026-04-28T11:00:28+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Beating Brentford 2-1, Manchester United Need Two More Points to Lock Tickets to the Champions League",
       "source": "Republika English",
@@ -348,30 +376,44 @@
       "url": "https://news.republika.co.id/berita/te0ru96630000/bi-jatim-prediksi-penjualan-eceran-surabaya-naik-maret-2026",
       "published_date": "2026-04-24T22:30:09+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Electric Vehicle Tax Will Be Waived Again, Is the Government Wishy-Planning?",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdzxsi490/pajak-kendaraan-listrik-bakal-dibebaskan-lagi-pemerintah-plinplan",
-      "published_date": "2026-04-24T11:41:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From Financing to Real Action, Bank Mandiri Strengthens Green Commitment on Earth Day",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdzxrq368/dari-pembiayaan-hingga-aksi-nyata-bank-mandiri-perkuat-komitmen-hijau-di-hari-bumi",
-      "published_date": "2026-04-24T11:40:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Collaboration Strengthens the Men's Grooming Ecosystem and Industry",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tdzxnk483/kolaborasi-kuatkan-ekosistem-dan-industri-grooming-pria",
-      "published_date": "2026-04-24T11:38:08+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "New York Prepares Free 2026 World Cup Fan Zone at US Open Venue",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te7dmt348/new-york-siapkan-fan-zone-gratis-piala-dunia-2026-di-venue-us-open",
+      "published_date": "2026-04-28T12:06:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nutri Level Policy is Deemed Not Effective in Identifying Unhealthy Food",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/te7de5425/kebijakan-nutri-level-dinilai-belum-efektif-identifikasi-pangan-tak-sehat",
+      "published_date": "2026-04-28T12:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Difficult Daycare Seeking Licensing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te7d4h393/sukarnya-daycare-mencari-perizinan",
+      "published_date": "2026-04-28T11:55:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TikTok Closes 1.7 Million Children's Accounts in Indonesia",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/te7clw328/tiktok-tutup-17-juta-akun-anak-di-indonesia",
+      "published_date": "2026-04-28T11:44:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents Involved in Detection of TIP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te7atw416/warga-dilibatkan-dalam-deteksi-tppo",
+      "published_date": "2026-04-28T11:05:56+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Harry Maguire Praises Carrick, Manchester United Rises and Gets Closer to the Champions League",
       "source": "Republika English",
@@ -475,41 +517,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te4in8348/bangkit-dari-tekanan-tim-thomas-indonesia-tumbangkan-thailand-32-uber-sapu-bersih-australia-50",
       "published_date": "2026-04-26T23:01:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persib Bonus Case, KDM Passes Hot Ball to Maruarar",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/te4htr393/perkara-bonus-persib-kdm-oper-bola-panas-ke-maruarar",
-      "published_date": "2026-04-26T22:44:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The story of Eko Yuli Lifting the Family, Buying Rice Fields from Weightlifting Achievement",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te4h0f393/kisah-eko-yuli-angkat-derajat-keluarga-beli-sawah-dari-prestasi-angkat-besi",
-      "published_date": "2026-04-26T22:26:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daycare Case in Yogyakarta, Ministry of PPPA Pushes to Strengthen Child Care Regulations",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te4gs2393/kasus-daycare-di-yogyakarta-kemen-pppa-dorong-penguatan-regulasi-pengasuhan-anak",
-      "published_date": "2026-04-26T22:21:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jabodebek LRT Supports Mobility at the 2026 IWE Festival",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te4gh66030000/lrt-jabodebek-dukung-mobilitas-pada-festival-iwe-2026",
-      "published_date": "2026-04-26T22:15:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPIH Prepares 6,000 Modern Buses to Serve Indonesian Hajj Pilgrims",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/te3kkb366/ppih-siapkan-6000-bus-modern-untuk-layani-jamaah-haji-indonesia",
-      "published_date": "2026-04-26T11:15:00+00:00",
       "category": "Local Events"
     }
   ]
