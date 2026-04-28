@@ -6,16 +6,23 @@
       "url": "https://news.republika.co.id/berita/te7c6j472/umj-resmikan-gedung-kampus-tulang-bawang-perkuat-akses-pendidikan-di-lampung",
       "published_date": "2026-04-28T11:35:07+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "China Strengthens Cooperation with Indonesia through Visit to Makassar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv6gd6330000/tiongkok-perkuat-kerja-sama-dengan-indonesia-melalui-kunjungan-ke-makassar",
-      "published_date": "2026-04-21T22:00:13+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Grounding Presidential Directions in the Education Sector",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/te7n90458/membumikan-arahan-presiden-di-sektor-pendidikan",
+      "published_date": "2026-04-28T23:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italian Parliament Approves Grant of Garibaldi Aircraft Carrier to Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te89b5484/parlemen-italia-setujui-hibahkan-kapal-induk-garibaldi-ke-indonesia",
+      "published_date": "2026-04-28T23:30:41+00:00",
+      "category": "Military"
+    },
     {
       "title": "This is the cause of the train accident in Bekasi according to the National Police Traffic Corps",
       "source": "Republika English",
@@ -141,20 +148,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tdy2o2349/transformasi-berjalan-bank-jakarta-raih-penghargaan-ceo-dan-coo-terbaik-2026",
       "published_date": "2026-04-23T11:31:14+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Talking Indonesia: education in Papua",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-education-in-papua/",
-      "published_date": "2026-04-23T01:21:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The President Receives Sitting at the Palace to Discuss Geopolitical Dynamics",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv9ll484/presiden-terima-dudung-di-istana-bahas-dinamika-geopolitik",
-      "published_date": "2026-04-21T23:08:09+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -213,30 +206,16 @@
       "url": "https://esgnow.republika.co.id/berita/tdw6xp368/peduli-kesehatan-ibu-pln-distribusikan-alat-deteksi-risiko-kehamilan-di-garut",
       "published_date": "2026-04-22T11:08:13+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Earth Day, Bank Mandiri Releases Emission Calculation Feature on Livin'",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdva6q502/hari-bumi-bank-mandiri-rilis-fitur-hitung-emisi-di-livin",
-      "published_date": "2026-04-21T23:20:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Minister of Forestry Regulation 6/2026: Government Accommodates Carbon Trading with Local Communities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv7xh7130000/permenhut-62026-pemerintah-akomodasi-perdagangan-karbon-dengan-masyarakat-lokal",
-      "published_date": "2026-04-21T22:32:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Minister of Forestry Regulation 6/2026: New Steps for Carbon Trading for Local Communities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdv7xh330000/permenhut-62026-langkah-baru-perdagangan-karbon-untuk-masyarakat-lokal",
-      "published_date": "2026-04-21T22:32:05+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Ministry of Transportation Inspects SM Green Taxi Pool in Bekasi, Here Are the Findings",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te88ts490/kemenhub-sidak-pool-taksi-green-sm-di-bekasi-ini-temuannya",
+      "published_date": "2026-04-28T23:20:16+00:00",
+      "category": "Economy"
+    },
     {
       "title": "15 BUMNs Working on Environmental and Economic Programs in Raja Ampat",
       "source": "Republika English",
@@ -369,16 +348,65 @@
       "url": "https://ameera.republika.co.id/berita/te1qfr423/luncurkan-buku-dian-widayanti-ajak-netizen-melek-soal-halal-di-era-viral",
       "published_date": "2026-04-25T10:57:27+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BI East Java Predicts Retail Sales in Surabaya to Increase in March 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te0ru96630000/bi-jatim-prediksi-penjualan-eceran-surabaya-naik-maret-2026",
-      "published_date": "2026-04-24T22:30:09+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Another accident, the Dhoho train hits a stalled truck at the Blitar level crossing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te89sw348/kecelakaan-lagi-ka-dhoho-hantam-truk-mogok-di-perlintasan-sebidang-blitar",
+      "published_date": "2026-04-28T23:41:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Head of BGN: MBG Program Can Make Indonesia Like Japan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te89c6377/kepala-bgn-program-mbg-bisa-jadikan-indonesia-seperti-jepang",
+      "published_date": "2026-04-28T23:31:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Religion Bans Slaughter of Sacrificial Animals? This is the clarification",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/te7l94458/menag-larang-penyembelihan-hewan-kurban-ini-klarifikasinya",
+      "published_date": "2026-04-28T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senior Judge at the Central Java High Court Allegedly Perpetrator of Sexual Harassment",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/te7xil282/hakim-senior-pengadilan-tinggi-jateng-diduga-jadi-pelaku-pelecehan-seksual",
+      "published_date": "2026-04-28T23:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine Goal Drama, PSG Beat Bayern 5-4 in the First Leg of the Champions League Semifinals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te881q348/drama-sembilan-gol-psg-tekuk-bayern-54-pada-leg-pertama-semifinal-liga-champions",
+      "published_date": "2026-04-28T23:03:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Every Morning Angels Pray for Good and Bad, Who is the Target?",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/te7fur458/tiap-pagi-malaikat-doakan-kebaikan-dan-keburukan-siapa-sasarannya",
+      "published_date": "2026-04-28T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reluctant to Shop in Mecca, Hajj Pilgrims Start Using Cargo Services to Send Souvenirs to Indonesia",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/te87u8483/enggan-belanja-di-makkah-jamaah-haji-mulai-gunakan-jasa-kargo-untuk-kirim-oleholeh-ke-indonesia",
+      "published_date": "2026-04-28T22:58:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The story of Rosidah, a Madurese woman who manages a catering kitchen for eight thousand people in Medina",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/te87ck483/kisah-rosidah-perempuan-madura-pengelola-dapur-katering-delapan-ribu-orang-jamaah-di-madinah",
+      "published_date": "2026-04-28T22:48:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "New York Prepares Free 2026 World Cup Fan Zone at US Open Venue",
       "source": "Republika English",
@@ -461,62 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te5ity472/umj-gelar-silaturahim-dan-peresmian-gedung-calon-kampus-psdku-di-tulang-bawang",
       "published_date": "2026-04-27T12:03:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Didn't pass PTN? UNM Opens SNBP Scholarships Up to 100 Percent, Register Before April 30 2026!",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5ifp472/tak-lolos-ptn-unm-buka-beasiswa-snbp-hingga-100-persen-daftar-sebelum-30-april-2026",
-      "published_date": "2026-04-27T11:55:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two perpetrators of acid spraying in West Jakarta whose actions went viral on social media were arrested",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5ho0409/dua-pelaku-penyiraman-air-keras-di-jakbar-yang-aksinya-viral-di-media-sosial-ditangkap",
-      "published_date": "2026-04-27T11:38:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Expert: Anyone Can Form an Opinion, Attorney General's Investigators Must Be Careful",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5gpe318/pakar-siapapun-bisa-bentuk-opini-penyidik-kejagung-harus-jeli",
-      "published_date": "2026-04-27T11:26:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laughing casually, Rocky Gerung salutes President Prabowo then shakes hands with Vice President Gibran",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5gu5475/tertawa-santai-rocky-gerung-beri-hormat-ke-presiden-prabowo-lalu-bersalaman-dengan-wapres-gibran",
-      "published_date": "2026-04-27T11:20:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MTW SKF 2026 Completed, Indonesia Aims to Defend World Title in Gothia Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5grt348/mtw-skf-2026-tuntas-indonesia-bidik-pertahankan-gelar-dunia-di-gothia-cup",
-      "published_date": "2026-04-27T11:19:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where's Our Salary? Silent Call of Honorary Teachers",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/te4jf6393/mana-gaji-kami-seruan-senyap-guru-honorer",
-      "published_date": "2026-04-26T23:18:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Duo Ducati Lenovo Failed to Finish in the Spanish GP, This is the Explanation of Marc Marquez and Pecco Bagnaia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te4j8l348/duo-ducati-lenovo-gagal-finis-di-gp-spanyol-ini-penjelasan-marc-marquez-dan-pecco-bagnaia",
-      "published_date": "2026-04-26T23:14:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rising from pressure, Thomas Indonesia team defeats Thailand 3-2, Uber clean sweeps Australia 5-0",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te4in8348/bangkit-dari-tekanan-tim-thomas-indonesia-tumbangkan-thailand-32-uber-sapu-bersih-australia-50",
-      "published_date": "2026-04-26T23:01:56+00:00",
       "category": "Local Events"
     }
   ]
