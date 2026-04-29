@@ -152,6 +152,13 @@
   ],
   "Energy": [
     {
+      "title": "Increasing Literacy, Kediri Presents Green Energy Mobile Library",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/te95hu375/tingkatkan-literasi-kediri-hadirkan-perpustakaan-keliling-energi-hijau",
+      "published_date": "2026-04-29T12:00:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamina Geothermal and UGM Develop Geothermal-Based Agricultural Booster",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te4h6d530000/pertamina-geothermal-dan-ugm-kembangkan-booster-pertanian-berbasis-panas-bumi",
@@ -191,20 +198,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tdywhc1830000/19-pegawai-esdm-jatim-kembalikan-uang-pungli-rp707-juta-ke-kejati",
       "published_date": "2026-04-23T22:15:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "JP Morgan report calls Indonesia the most resilient country in facing the energy crisis",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tdw7ud368/laporan-jp-morgan-sebut-indonesia-jadi-negara-paling-tangguh-hadapi-krisis-energi",
-      "published_date": "2026-04-22T11:27:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Concerned about Maternal Health, PLN Distributes Pregnancy Risk Detection Tools in Garut",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tdw6xp368/peduli-kesehatan-ibu-pln-distribusikan-alat-deteksi-risiko-kehamilan-di-garut",
-      "published_date": "2026-04-22T11:08:13+00:00",
       "category": "Energy"
     }
   ],
@@ -352,6 +345,62 @@
   ],
   "Local Events": [
     {
+      "title": "Minister of Transportation: Infrastructure Management Handed over from the Ministry of Transportation to PT KAI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te98ev484/menhub-pengelolaan-prasarana-diserahkan-dari-kemenhub-ke-pt-kai",
+      "published_date": "2026-04-29T12:08:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why AGROFITRAH is a necessity",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/te92zd393/mengapa-agrofitrah-menjadi-keniscayaan",
+      "published_date": "2026-04-29T12:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge Allegedly Owner of Little Aresha Daycare in DIY, This is the Result of Supreme Court Confirmation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/te97ej409/hakim-diduga-jadi-pemilik-daycare-little-aresha-di-diy-ini-hasil-konfirmasi-mahkamah-agung",
+      "published_date": "2026-04-29T11:47:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ahead of Hajj, Riyal Exchange at BSI Soars 76 Percent",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/te979p423/jelang-haji-penukaran-riyal-di-bsi-melonjak-76-persen",
+      "published_date": "2026-04-29T11:44:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank Mandiri Distributes Dividends of IDR 44.47 Trillion, Equivalent to 79 Percent of Profit",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te9787370/bank-mandiri-bagikan-dividen-rp-4447-triliun-setara-79-persen-laba",
+      "published_date": "2026-04-29T11:43:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The MBG Program Expands, Nutritionists Are Now the Most Wanted Profession",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/te9699423/program-mbg-meluas-ahli-gizi-kini-jadi-profesi-paling-dicari",
+      "published_date": "2026-04-29T11:22:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AHY Wants Comprehensive Improvements to Indonesian Railways",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-te95x1458650130/ahy-ingin-pembenahan-menyeluruh-pada-kereta-api-indonesia",
+      "published_date": "2026-04-29T11:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Commission on Violence Against Women believes that moving women's carriages is not a solution",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/te95bt425/komnas-perempuan-nilai-pemindahan-gerbong-wanita-bukan-solusi",
+      "published_date": "2026-04-29T11:02:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Another accident, the Dhoho train hits a stalled truck at the Blitar level crossing",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te89sw348/kecelakaan-lagi-ka-dhoho-hantam-truk-mogok-di-perlintasan-sebidang-blitar",
@@ -433,62 +482,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/te7clw328/tiktok-tutup-17-juta-akun-anak-di-indonesia",
       "published_date": "2026-04-28T11:44:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents Involved in Detection of TIP",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te7atw416/warga-dilibatkan-dalam-deteksi-tppo",
-      "published_date": "2026-04-28T11:05:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Maguire Praises Carrick, Manchester United Rises and Gets Closer to the Champions League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te6ej0348/harry-maguire-puji-carrick-manchester-united-bangkit-dan-kian-dekat-ke-liga-champions",
-      "published_date": "2026-04-27T23:28:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jumhur Hidayat: Jailed in the Jokowi Era, Became Amin's Co-captain, Now Appointed as Minister",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te6e1f484/jumhur-hidayat-dipenjara-era-jokowi-jadi-cocaptain-amin-kini-dilantik-menteri",
-      "published_date": "2026-04-27T23:17:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuating Argo Bromo Anggrek Train Victims, Basarnas Uses Special Techniques",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/te6dsu370/evakuasi-korban-ka-argo-bromo-anggrek-basarnas-gunakan-teknik-khusus",
-      "published_date": "2026-04-27T23:12:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Those Who Almost Became Victims of 'Naughty Daycare'",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5mfh393/mereka-yang-nyaris-jadi-korban-daycare-nakal",
-      "published_date": "2026-04-27T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Train Crash, 71 Victims Treated in Hospital, Five Passengers Died",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te6cjq484/tabrakan-kereta-71-korban-dirawat-di-rs-lima-penumpang-meninggal",
-      "published_date": "2026-04-27T22:45:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taste of the Archipelago Served by Uhud Taiba Kitchen, Cures Congregation's Longing for Village Food",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/te5jcm320/cita-rasa-nusantara-disajikan-dapur-uhud-taiba-obati-kerinduan-jamaah-masakan-kampung",
-      "published_date": "2026-04-27T12:14:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UMJ Holds Gathering and Inauguration of Prospective PSDKU Campus Building in Tulang Bawang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te5ity472/umj-gelar-silaturahim-dan-peresmian-gedung-calon-kampus-psdku-di-tulang-bawang",
-      "published_date": "2026-04-27T12:03:34+00:00",
       "category": "Local Events"
     }
   ]
