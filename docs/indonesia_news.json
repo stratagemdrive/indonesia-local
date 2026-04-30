@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "The entry of Islam in the State of Yemen",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/teb3ni458/masuknya-islam-di-negeri-yaman",
+      "published_date": "2026-04-30T23:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The King cried because of Bahlul",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tea833458/tangis-sang-raja-karena-bahlul",
+      "published_date": "2026-04-30T23:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian Ambassador Says Scientists, Science, Technology Are Targets of US-Zionist Attacks",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tebw1x430/dubes-iran-ungkap-ilmuan-ilmu-pengetahuan-teknologi-jadi-sasaran-serangan-aszionis",
+      "published_date": "2026-04-30T22:34:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "KAI Starts Restoring Long Distance Train Services Today",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tea2xi348/kai-mulai-pulihkan-layanan-kereta-jarak-jauh-hari-ini",
@@ -206,16 +227,37 @@
       "url": "https://ekonomi.republika.co.id/berita/te1kh0423/kartini-masa-kini-industri-migas-perempuan-penggerak-energi-negeri",
       "published_date": "2026-04-25T09:01:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "19 East Java ESDM Employees Returned IDR 707 Million in Extortion Money to the Prosecutor's Office",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdywhc1830000/19-pegawai-esdm-jatim-kembalikan-uang-pungli-rp707-juta-ke-kejati",
-      "published_date": "2026-04-23T22:15:12+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Freeing the Modern Slave: Zakat for Riqab and the Entanglements of the Global Work System",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/teby6q318/membebaskan-budak-modern-zakat-bagi-riqab-dan-jeratan-sistem-kerja-global",
+      "published_date": "2026-04-30T23:21:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hammerhead Sharks are Threatened with Extinction, Population Drops by More than 80 Percent",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tebewr375/hiu-martil-terancam-punah-populasi-turun-lebih-dari-80-persen",
+      "published_date": "2026-04-30T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "North Sulawesi DKP: Strong Industry, Sustainable Growth of Regional Economy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tebvu66730000/dkp-sulut-industri-kuat-ekonomi-daerah-tumbuh-berkelanjutan",
+      "published_date": "2026-04-30T22:30:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "North Sulawesi PKK Invites Women to Strengthen MSMEs as Economic Pillars",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tebv561430000/pkk-sulut-ajak-perempuan-perkuat-umkm-sebagai-pilar-ekonomi",
+      "published_date": "2026-04-30T22:15:06+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Investor Confidence Falls, Rupiah Continues to Be Pressured",
       "source": "Republika English",
@@ -327,37 +369,44 @@
       "url": "https://news.republika.co.id/berita/te3knh409/kpai-sejumlah-daycare-hanya-berorientasi-bisnis-pengawasan-harus-diperketat",
       "published_date": "2026-04-26T10:47:41+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "When Purbaya Opposes 'Noisy Voices' Who Say Indonesia's Economy Is Not Well",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/te3kba490/ketika-purbaya-lawan-suara-berisik-yang-sebut-ekonomi-indonesia-tidak-baikbaik-saja",
-      "published_date": "2026-04-26T10:40:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gold Investment Interest Increases, Financing Also Skyrockets",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/te3j8z490/minat-investasi-emas-naik-pembiayaan-ikut-meroket",
-      "published_date": "2026-04-26T10:17:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Indonesian Capital Market in Turmoil, IDX Reveals Number of Investors Still Rising",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/te3duj490/pasar-modal-indonesia-dalam-gejolak-bei-ungkap-jumlah-investor-tetap-naik",
-      "published_date": "2026-04-26T10:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DPMPTSP Mimika Allocates IDR 28 Billion to Build New Office Building",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te2l499430000/dpmptsp-mimika-alokasikan-rp28-miliar-untuk-bangun-gedung-kantor-baru",
-      "published_date": "2026-04-25T22:00:09+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Praise of the Prophet for the State of Yemen",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/teb3at458/pujian-rasulullah-untuk-negeri-yaman",
+      "published_date": "2026-04-30T23:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DDT Manggarai-Cikarang: Stalled Project Behind the East Bekasi KRL Accident",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tebxcs370/ddt-manggaraicikarang-proyek-mangkrak-di-balik-kecelakaan-krl-bekasi-timur",
+      "published_date": "2026-04-30T23:02:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Between Power and Trust: Rereading Al-Siyasah al-Shar‘iyyah in Indonesia Today",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tebwz8318/di-antara-kuasa-dan-amanah-membaca-ulang-alsiyasah-alshariyyah-di-indonesia-hari-ini",
+      "published_date": "2026-04-30T22:59:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muba Regency Government Temporarily Closes the Road Bridge for Revitalization",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tebwj96130000/pemkab-muba-tutup-sementara-jembatan-lalan-untuk-revitalisasi",
+      "published_date": "2026-04-30T22:45:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Manpower Investigates Non-Payment of Salaries and THR for Hillcon Workers in Morowali",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tebowu1130000/kemnaker-usut-belum-dibayarkannya-gaji-dan-thr-pekerja-hillcon-di-morowali",
+      "published_date": "2026-04-30T20:00:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Comply with PP Tunas, Roblox Implements Age Verification and Removes Communication Features",
       "source": "Republika English",
@@ -461,41 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/te97ej409/hakim-diduga-jadi-pemilik-daycare-little-aresha-di-diy-ini-hasil-konfirmasi-mahkamah-agung",
       "published_date": "2026-04-29T11:47:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of Hajj, Riyal Exchange at BSI Soars 76 Percent",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/te979p423/jelang-haji-penukaran-riyal-di-bsi-melonjak-76-persen",
-      "published_date": "2026-04-29T11:44:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bank Mandiri Distributes Dividends of IDR 44.47 Trillion, Equivalent to 79 Percent of Profit",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/te9787370/bank-mandiri-bagikan-dividen-rp-4447-triliun-setara-79-persen-laba",
-      "published_date": "2026-04-29T11:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The MBG Program Expands, Nutritionists Are Now the Most Wanted Profession",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/te9699423/program-mbg-meluas-ahli-gizi-kini-jadi-profesi-paling-dicari",
-      "published_date": "2026-04-29T11:22:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AHY Wants Comprehensive Improvements to Indonesian Railways",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-te95x1458650130/ahy-ingin-pembenahan-menyeluruh-pada-kereta-api-indonesia",
-      "published_date": "2026-04-29T11:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Commission on Violence Against Women believes that moving women's carriages is not a solution",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/te95bt425/komnas-perempuan-nilai-pemindahan-gerbong-wanita-bukan-solusi",
-      "published_date": "2026-04-29T11:02:17+00:00",
       "category": "Local Events"
     }
   ]
