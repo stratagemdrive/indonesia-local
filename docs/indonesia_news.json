@@ -24,6 +24,27 @@
   ],
   "Military": [
     {
+      "title": "President Gives Address to 1,500 TNI Dansat, Fuels Fighting Spirit",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/teb2w0484/presiden-beri-taklimat-ke-1500-dansat-tni-kobarkan-semangat-juang",
+      "published_date": "2026-04-30T12:04:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Labor Day, State Presence, and 3 Revolutionary Steps to Create Prosperity",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/teb1ti320/hari-buruh-kehadiran-negara-dan-3-langkah-revolusioner-mewujudkan-kesejahteraan",
+      "published_date": "2026-04-30T11:41:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Indonesian Citizens Arrested by Saudi Police for Advertising Fake Hajj Documents",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-teb1a21624731526/tiga-wni-ditangkap-kepolisan-saudi-karena-iklankan-dokumen-palsu-haji",
+      "published_date": "2026-04-30T11:30:02+00:00",
+      "category": "Military"
+    },
+    {
       "title": "FP-9: Giant Ukrainian Missile Ready to Change the Map of War in Eastern Europe",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tea2o3451/fp9-rudal-raksasa-ukraina-yang-siap-mengubah-peta-perang-di-eropa-timur",
@@ -141,27 +162,6 @@
       "url": "https://news.republika.co.id/berita/tdzwpi393/komnas-ham-21-orang-meninggal-akibat-pelanggaran-ham-di-papua",
       "published_date": "2026-04-24T11:17:42+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Soleman Ponto Says Military Justice Has a Harsh Character",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdydv3484/soleman-ponto-sebut-peradilan-militer-berkarakter-keras",
-      "published_date": "2026-04-23T22:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man in TNI Uniform with Captain Rank Takes Away with 270 Kg of Eggs in Sumedang, Trader Loses IDR 7 Million",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tdy327282/pria-berseragam-tni-pangkat-kapten-bawa-kabur-270-kg-telur-di-sumedang-pedagang-rugi-rp7-juta",
-      "published_date": "2026-04-23T11:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany Strengthens Military Modernization, Kremlin: Don't Repeat the World's Dark History",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tdy2y7451/jerman-perkuat-modernisasi-militer-kremlin-jangan-ulangi-sejarah-kelam-dunia",
-      "published_date": "2026-04-23T11:37:19+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -216,6 +216,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Investor Confidence Falls, Rupiah Continues to Be Pressured",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/teazpc423/kepercayaan-investor-turun-rupiah-terus-tertekan",
+      "published_date": "2026-04-30T10:56:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ministry of Transportation Inspects SM Green Taxi Pool in Bekasi, Here Are the Findings",
       "source": "Republika English",
@@ -348,16 +355,58 @@
       "url": "https://news.republika.co.id/berita/te2l499430000/dpmptsp-mimika-alokasikan-rp28-miliar-untuk-bangun-gedung-kantor-baru",
       "published_date": "2026-04-25T22:00:09+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Launching a Book, Dian Widayanti Invites Netizens to Be Literate about Halal in the Viral Era",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/te1qfr423/luncurkan-buku-dian-widayanti-ajak-netizen-melek-soal-halal-di-era-viral",
-      "published_date": "2026-04-25T10:57:27+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Comply with PP Tunas, Roblox Implements Age Verification and Removes Communication Features",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/teb32m451/patuhi-pp-tunas-roblox-terapkan-verifikasi-usia-dan-hapus-fitur-komunikasi",
+      "published_date": "2026-04-30T12:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chelsea Vs AC Milan Duel Ready to Rock Jakarta in August, Tickets Released Starting May 3",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/teb32g348/duel-chelsea-vs-ac-milan-siap-guncang-jakarta-agustus-nanti-tiket-dilepas-mulai-3-mei",
+      "published_date": "2026-04-30T12:08:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chairman of DPD PAUD Jakarta: Early Childhood Education Efforts to Create Indonesia's Golden Generation in the Future",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//teb2qk282/ketua-dpd-paud-jakarta-pendidikan-usia-dini-ikhtiar-mencetak-generasi-emas-indonesia-di-masa-depan",
+      "published_date": "2026-04-30T12:01:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Zulhas Meets Bengkulu Farmers, From Rice Fields to National Policy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/teb2ow451/saat-zulhas-temui-petani-bengkulu-dari-sawah-ke-kebijakan-nasional",
+      "published_date": "2026-04-30T12:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seconds: Truck crashes into busway barrier in Slipi",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-teb2o2659752352/detikdetik-truk-tabrak-pembatas-busway-di-slipi",
+      "published_date": "2026-04-30T12:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Time Horizons of Sapu-Sapu Fish Population Control Strategy According to BRIN",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/teb1lr409/dua-horizon-waktu-strategi-pengendalian-populasi-ikan-sapusapu-menurut-brin",
+      "published_date": "2026-04-30T11:37:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coordinating Minister for Pratikno Will Form a Task Force to Improve Daycare Governance",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/teb0bt484/menko-pratikno-bakal-bentuk-gugus-tugas-perbaiki-tata-kelola-daycare",
+      "published_date": "2026-04-30T11:09:29+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Research: Extreme Weather Can Trigger a Spike in Heart Attacks and Strokes",
       "source": "Republika English",
@@ -447,55 +496,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/te95bt425/komnas-perempuan-nilai-pemindahan-gerbong-wanita-bukan-solusi",
       "published_date": "2026-04-29T11:02:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another accident, the Dhoho train hits a stalled truck at the Blitar level crossing",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te89sw348/kecelakaan-lagi-ka-dhoho-hantam-truk-mogok-di-perlintasan-sebidang-blitar",
-      "published_date": "2026-04-28T23:41:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Head of BGN: MBG Program Can Make Indonesia Like Japan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te89c6377/kepala-bgn-program-mbg-bisa-jadikan-indonesia-seperti-jepang",
-      "published_date": "2026-04-28T23:31:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Religion Bans Slaughter of Sacrificial Animals? This is the clarification",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/te7l94458/menag-larang-penyembelihan-hewan-kurban-ini-klarifikasinya",
-      "published_date": "2026-04-28T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior Judge at the Central Java High Court Allegedly Perpetrator of Sexual Harassment",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/te7xil282/hakim-senior-pengadilan-tinggi-jateng-diduga-jadi-pelaku-pelecehan-seksual",
-      "published_date": "2026-04-28T23:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine Goal Drama, PSG Beat Bayern 5-4 in the First Leg of the Champions League Semifinals",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te881q348/drama-sembilan-gol-psg-tekuk-bayern-54-pada-leg-pertama-semifinal-liga-champions",
-      "published_date": "2026-04-28T23:03:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Every Morning Angels Pray for Good and Bad, Who is the Target?",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/te7fur458/tiap-pagi-malaikat-doakan-kebaikan-dan-keburukan-siapa-sasarannya",
-      "published_date": "2026-04-28T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reluctant to Shop in Mecca, Hajj Pilgrims Start Using Cargo Services to Send Souvenirs to Indonesia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/te87u8483/enggan-belanja-di-makkah-jamaah-haji-mulai-gunakan-jasa-kargo-untuk-kirim-oleholeh-ke-indonesia",
-      "published_date": "2026-04-28T22:58:56+00:00",
       "category": "Local Events"
     }
   ]
