@@ -66,15 +66,7 @@
       "category": "Military"
     }
   ],
-  "Energy": [
-    {
-      "title": "Increasing Literacy, Kediri Presents Green Energy Mobile Library",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/te95hu375/tingkatkan-literasi-kediri-hadirkan-perpustakaan-keliling-energi-hijau",
-      "published_date": "2026-04-29T12:00:00+00:00",
-      "category": "Energy"
-    }
-  ],
+  "Energy": [],
   "Economy": [
     {
       "title": "Freeing the Modern Slave: Zakat for Riqab and the Entanglements of the Global Work System",
@@ -230,27 +222,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tea16c7130000/skema-patungan-uang-saku-magang-berpotensi-turunkan-partisipasi-perusahaan",
       "published_date": "2026-04-29T22:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Transportation: Infrastructure Management Handed over from the Ministry of Transportation to PT KAI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te98ev484/menhub-pengelolaan-prasarana-diserahkan-dari-kemenhub-ke-pt-kai",
-      "published_date": "2026-04-29T12:08:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why AGROFITRAH is a necessity",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/te92zd393/mengapa-agrofitrah-menjadi-keniscayaan",
-      "published_date": "2026-04-29T12:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge Allegedly Owner of Little Aresha Daycare in DIY, This is the Result of Supreme Court Confirmation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/te97ej409/hakim-diduga-jadi-pemilik-daycare-little-aresha-di-diy-ini-hasil-konfirmasi-mahkamah-agung",
-      "published_date": "2026-04-29T11:47:07+00:00",
       "category": "Local Events"
     }
   ]
