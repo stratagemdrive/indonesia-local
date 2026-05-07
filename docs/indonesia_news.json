@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia’s Malacca Strait ‘toll’ proposal violates UNCLOS. Is there an alternative?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-malacca-strait-toll-proposal-violates-unclos-is-there-an-alternative/",
+      "published_date": "2026-05-07T05:43:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The entry of Islam in the State of Yemen",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/teb3ni458/masuknya-islam-di-negeri-yaman",
@@ -22,29 +29,7 @@
       "category": "Diplomacy"
     }
   ],
-  "Military": [
-    {
-      "title": "President Gives Address to 1,500 TNI Dansat, Fuels Fighting Spirit",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/teb2w0484/presiden-beri-taklimat-ke-1500-dansat-tni-kobarkan-semangat-juang",
-      "published_date": "2026-04-30T12:04:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Labor Day, State Presence, and 3 Revolutionary Steps to Create Prosperity",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/teb1ti320/hari-buruh-kehadiran-negara-dan-3-langkah-revolusioner-mewujudkan-kesejahteraan",
-      "published_date": "2026-04-30T11:41:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Indonesian Citizens Arrested by Saudi Police for Advertising Fake Hajj Documents",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-teb1a21624731526/tiga-wni-ditangkap-kepolisan-saudi-karena-iklankan-dokumen-palsu-haji",
-      "published_date": "2026-04-30T11:30:02+00:00",
-      "category": "Military"
-    }
-  ],
+  "Military": [],
   "Energy": [],
   "Economy": [
     {
@@ -73,13 +58,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tebv561430000/pkk-sulut-ajak-perempuan-perkuat-umkm-sebagai-pilar-ekonomi",
       "published_date": "2026-04-30T22:15:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Investor Confidence Falls, Rupiah Continues to Be Pressured",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/teazpc423/kepercayaan-investor-turun-rupiah-terus-tertekan",
-      "published_date": "2026-04-30T10:56:00+00:00",
       "category": "Economy"
     }
   ],
@@ -117,55 +95,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tebowu1130000/kemnaker-usut-belum-dibayarkannya-gaji-dan-thr-pekerja-hillcon-di-morowali",
       "published_date": "2026-04-30T20:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comply with PP Tunas, Roblox Implements Age Verification and Removes Communication Features",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/teb32m451/patuhi-pp-tunas-roblox-terapkan-verifikasi-usia-dan-hapus-fitur-komunikasi",
-      "published_date": "2026-04-30T12:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chelsea Vs AC Milan Duel Ready to Rock Jakarta in August, Tickets Released Starting May 3",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/teb32g348/duel-chelsea-vs-ac-milan-siap-guncang-jakarta-agustus-nanti-tiket-dilepas-mulai-3-mei",
-      "published_date": "2026-04-30T12:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chairman of DPD PAUD Jakarta: Early Childhood Education Efforts to Create Indonesia's Golden Generation in the Future",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//teb2qk282/ketua-dpd-paud-jakarta-pendidikan-usia-dini-ikhtiar-mencetak-generasi-emas-indonesia-di-masa-depan",
-      "published_date": "2026-04-30T12:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When Zulhas Meets Bengkulu Farmers, From Rice Fields to National Policy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/teb2ow451/saat-zulhas-temui-petani-bengkulu-dari-sawah-ke-kebijakan-nasional",
-      "published_date": "2026-04-30T12:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seconds: Truck crashes into busway barrier in Slipi",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-teb2o2659752352/detikdetik-truk-tabrak-pembatas-busway-di-slipi",
-      "published_date": "2026-04-30T12:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Time Horizons of Sapu-Sapu Fish Population Control Strategy According to BRIN",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/teb1lr409/dua-horizon-waktu-strategi-pengendalian-populasi-ikan-sapusapu-menurut-brin",
-      "published_date": "2026-04-30T11:37:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coordinating Minister for Pratikno Will Form a Task Force to Improve Daycare Governance",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/teb0bt484/menko-pratikno-bakal-bentuk-gugus-tugas-perbaiki-tata-kelola-daycare",
-      "published_date": "2026-04-30T11:09:29+00:00",
       "category": "Local Events"
     }
   ]
