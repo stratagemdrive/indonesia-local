@@ -11,5 +11,13 @@
   "Military": [],
   "Energy": [],
   "Economy": [],
-  "Local Events": []
+  "Local Events": [
+    {
+      "title": "The new KUHAP: more kinds of evidence, fewer limits (Part 1 of 2)",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/the-new-kuhap-more-kinds-of-evidence-fewer-limits-part-1-of-2/",
+      "published_date": "2026-05-12T00:02:16+00:00",
+      "category": "Local Events"
+    }
+  ]
 }
