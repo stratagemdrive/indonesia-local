@@ -8,10 +8,89 @@
       "category": "Diplomacy"
     }
   ],
-  "Military": [],
-  "Energy": [],
+  "Military": [
+    {
+      "title": "Being victims of sexual violence, female students in Jepara are reluctant to memorize the Koran",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tez639430/jadi-korban-kekerasan-seksual-santriwati-di-jepara-enggan-jadi-penghafal-alquran",
+      "published_date": "2026-05-13T12:16:21+00:00",
+      "category": "Military"
+    }
+  ],
+  "Energy": [
+    {
+      "title": "Chinese Chamber of Commerce's Letter Circulating Regarding Investment Climate Concerns in Indonesia, Here's BKPM's Response",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tez831377/beredar-surat-kadin-china-soal-kekhawatiran-iklim-investasi-di-indonesia-begini-respons-bkpm",
+      "published_date": "2026-05-13T12:59:25+00:00",
+      "category": "Energy"
+    }
+  ],
   "Economy": [],
   "Local Events": [
+    {
+      "title": "Javan Gibbons Roam Around and Attack Middle School Boys at KBB, Firefighters Intervene",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tez85m282/owa-jawa-jawa-berkeliaran-dan-serang-bocah-smp-di-kbb-personel-damkar-turun-tangan",
+      "published_date": "2026-05-13T13:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The example of KH Ali Maksum, an egalitarian and forgiving figure",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tez7px458/keteladanan-kh-ali-maksum-sosok-egaliter-dan-pemaaf",
+      "published_date": "2026-05-13T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punishment for Governors with Luxurious Lifestyles",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tez73y458/hukuman-untuk-gubernur-dengan-gaya-hidup-mewah",
+      "published_date": "2026-05-13T12:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PRC Congress Visit to West Java DPRD Opens Opportunities for Strategic Collaboration",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tez75z472/kunjungan-kongres-rrt-ke-dprd-jabar-buka-peluang-kolaborasi-strategis",
+      "published_date": "2026-05-13T12:39:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nadiem Sentenced to 18 Years in Prison, Aggravating Disturbing Equitable Education for Children",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tez72o377/nadiem-dituntut-18-tahun-penjara-hal-yang-memberatkan-ganggu-pemerataan-pendidikan-anak",
+      "published_date": "2026-05-13T12:37:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Story of Caliph Umar Refused to Be Given a Gift",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tez6ug458/kisah-khalifah-umar-menolak-diberi-hadiah",
+      "published_date": "2026-05-13T12:32:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harassing Santriwati, Jepara Islamic Boarding School Caregivers Bring Pretexts for Jihad for Kiai",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tez68v377/lecehkan-santriwati-pengasuh-ponpes-jepara-bawabawa-dalih-jihad-untuk-kiai",
+      "published_date": "2026-05-13T12:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Immigration Night Operation Exposes Online Prostitution Practices of Moroccan Foreigners in East Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tez5n6416/operasi-malam-imigrasi-bongkar-praktik-prostitusi-online-wna-maroko-di-jakarta-timur",
+      "published_date": "2026-05-13T12:08:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secretary General of the MPR: Judges for the 4 Pillar Smart Quiz Competition are not impartial, the obstacle is in the sound system",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tez5pv377/sekjen-mpr-juri-lomba-cerdas-cermat-4-pilar-tak-berpihak-kendala-ada-di-sistem-sound",
+      "published_date": "2026-05-13T12:08:19+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The new KUHAP: more kinds of evidence, fewer limits (Part 1 of 2)",
       "source": "Indonesia at Melbourne",
