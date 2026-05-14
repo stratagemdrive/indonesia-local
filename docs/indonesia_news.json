@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ministry of Haj Finds Alleged Illegal Practices of Wheelchair Services by KBIHU, Heavy Sanctions Await",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf0w5v430/kemenhaj-temukan-dugaan-praktik-ilegal-layanan-kursi-roda-oleh-kbihu-sanksi-berat-menanti",
+      "published_date": "2026-05-14T10:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Banjarmasin Prison and BNN Strengthen Synergy to Prevent Drug Circulation",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tezx4d5930000/lapas-banjarmasin-dan-bnn-perkuat-sinergi-cegah-peredaran-narkoba",
@@ -12,13 +19,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tezk4g451/pertemuan-trump-dan-xi-jinping-siapa-yang-lebih-tangguh-dalam-adu-kuat-geopolitik",
       "published_date": "2026-05-13T19:55:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia’s Malacca Strait ‘toll’ proposal violates UNCLOS. Is there an alternative?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-malacca-strait-toll-proposal-violates-unclos-is-there-an-alternative/",
-      "published_date": "2026-05-07T05:43:25+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -61,8 +61,72 @@
       "category": "Energy"
     }
   ],
-  "Economy": [],
+  "Economy": [
+    {
+      "title": "Enticed to Build an MBG Kitchen Business, 13 Kiai in West Java Get Tricked and Lose Hundreds of Millions of Rupiah",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tf104k282/diimingimingi-bangun-bisnis-dapur-mbg-13-kiai-di-jabar-kena-tipu-dan-rugi-ratusan-juta-rupiah",
+      "published_date": "2026-05-14T12:02:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "These are five UNM undergraduate options that are currently being sought by the industry, register now!",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf0zly472/ini-lima-pilihan-s1-unm-yang-lagi-diburu-industri-daftar-sekarang",
+      "published_date": "2026-05-14T11:51:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "GP Ansor Proclaims 2026 Year of HR Transformation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf0wtl416/gp-ansor-canangkan-2026-tahun-transformasi-sdm",
+      "published_date": "2026-05-14T10:51:21+00:00",
+      "category": "Economy"
+    }
+  ],
   "Local Events": [
+    {
+      "title": "64 Clubs Appeared in 2026 President's Cup. Erick Thohir: Evidence of Grassroots Unifying Football",
+      "source": "Republika English",
+      "url": "https://en.republika.co.id/berita/tf0zj0415/64-clubs-appeared-in-2026-presidents-cup-erick-thohir-evidence-of-grassroots-unifying-football",
+      "published_date": "2026-05-14T11:49:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank Mandiri Adds Digital Qurban Feature in Application, Customers Can Monitor Distribution",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tf0xlm416/bank-mandiri-tambah-fitur-kurban-digital-di-aplikasi-nasabah-bisa-pantau-distribusi",
+      "published_date": "2026-05-14T11:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stopping at the Mosque, Bhikkhu Walk for Peace Spreads the Message of Tolerance in Sidoarjo",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tf0yye375/singgah-di-masjid-bhikkhu-walk-for-peace-tebarkan-pesan-toleransi-di-sidoarjo",
+      "published_date": "2026-05-14T11:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SMAN 1 Pontianak will not take part in the Quiz Competition again even though the MPR promises to change the jury",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf0vn7409/sman-1-pontianak-tak-akan-ikuti-lomba-cerdas-cermat-ulang-meski-mpr-janji-ganti-dewan-juri",
+      "published_date": "2026-05-14T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Indonesian Pavilion at the Venice Biennale Officially Opens, Exhibiting the Residency Works of Seven Artists",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tf0w1g416/paviliun-indonesia-di-biennale-venesia-resmi-dibuka-pamerkan-karya-residensi-tujuh-seniman",
+      "published_date": "2026-05-14T10:36:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The new KUHAP: easier to investigate, easier to convict (Part 2 of 2)",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/the-new-kuhap-easier-to-investigate-easier-to-convict-part-2-of-2/",
+      "published_date": "2026-05-14T00:40:51+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "BBPOM Makassar Focuses on Youth Education to Prevent Drug Abuse",
       "source": "Republika English",
