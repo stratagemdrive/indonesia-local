@@ -31,6 +31,13 @@
   ],
   "Military": [
     {
+      "title": "The Musical Drama MAR is Performed Again, Veterans Give Warm Appreciation",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tf2u4o328/drama-musikal-mar-kembali-dipentaskan-veteran-beri-apresiasi-hangat",
+      "published_date": "2026-05-15T11:48:24+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nadiem Reveals Prosecutor's Logical Error: The IDR 4.87 Increase in Assets Is Not the Result of Corruption, But GoTo's IPO",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf01k4377/nadiem-ungkap-kesalahan-logika-jaksa-kenaikan-harta-rp-487-bukan-hasil-korupsi-tapi-ipo-goto",
@@ -54,6 +61,13 @@
   ],
   "Energy": [
     {
+      "title": "PLN IP Cleans Water Hyacinth Which Makes Mosquito Populations Explode in Saguling Reservoir",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tf2r36282/pln-ip-bersihkan-eceng-gondok-yang-bikin-populasi-nyamuk-meledak-di-waduk-saguling",
+      "published_date": "2026-05-15T11:35:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamina Reminds Gas Stations in Rote Ndao to Prioritize Motorized Vehicles",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tezyib8230000/pertamina-ingatkan-spbu-di-rote-ndao-prioritaskan-kendaraan-bermotor",
@@ -69,6 +83,34 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Boosting Growth, Kadin Expands International Partnerships",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tf2uq4416/genjot-pertumbuhan-kadin-perluas-kemitraan-internasional",
+      "published_date": "2026-05-15T12:01:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From Campus to Market, UNM Students Successfully Build Pempek Kito",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf2tlf472/dari-kampus-ke-pasar-mahasiswa-unm-sukses-bangun-pempek-kito",
+      "published_date": "2026-05-15T11:36:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UNM RPL and Microlearning Program, New Way for Gen Z to Achieve Success",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf2t8z472/program-rpl-dan-microlearning-unm-cara-baru-gen-z-raih-sukses",
+      "published_date": "2026-05-15T11:29:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gen Z Turns into Job Creators, Nusa Mandiri University Produces Startup Founders Since College",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf2stq368/gen-z-beralih-jadi-pencipta-kerja-universitas-nusa-mandiri-cetak-founder-startup-sejak-kuliah",
+      "published_date": "2026-05-15T11:20:14+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Enticed to Build an MBG Kitchen Business, 13 Kiai in West Java Get Tricked and Lose Hundreds of Millions of Rupiah",
       "source": "Republika English",
@@ -92,6 +134,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "For Muslims Hajj Is Sacred, But How To Explain It To Non-Muslims?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf2oof320/bagi-umat-islam-haji-itu-sakral-tapi-bagaimana-menjelaskannya-kepada-nonmuslim",
+      "published_date": "2026-05-15T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Book of the Story of KH Helmi Abdul Mubin, Minister of Religion: Encouraging Islamic Boarding Schools as Lighthouses of Knowledge",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf2uld451/buku-kisah-kh-helmi-abdul-mubin-menag-penyemangat-pesantren-sebagai-mercusuar-ilmu",
+      "published_date": "2026-05-15T11:58:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In order to be able to go to school, Gibran was willing to walk for miles and climb steep and slippery hills",
+      "source": "Republika English",
+      "url": "https://network.republika.co.id/berita/tf2sxe282/demi-bisa-sekolah-gibran-rela-jalan-kaki-berkilokilo-dan-mendaki-bukit-terjal-dan-licin",
+      "published_date": "2026-05-15T11:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java DPRD and KPID Strengthen Information Resilience Amid Social Media Domination",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tf2uee472/dprd-jabar-dan-kpid-perkuat-ketahanan-informasi-di-tengah-dominasi-media-sosial",
+      "published_date": "2026-05-15T11:54:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not just theory, UNM's IEP 3+1 produces graduates who are ready to work since college",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf2u3h472/tak-sebatas-teori-iep-31-unm-cetak-lulusan-siap-kerja-sejak-kuliah",
+      "published_date": "2026-05-15T11:47:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ministry of Haj: Peak Hajj Service Readiness in Armuzna Exceeds 90 Percent",
       "source": "Republika English",
@@ -195,41 +272,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tezz7j2030000/bbpom-makassar-fokus-edukasi-pemuda-cegah-penyalahgunaan-obat",
       "published_date": "2026-05-13T22:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Study: 60% of Urban Young People Choose Self-Diagnosis Instead of Seeing a Doctor",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tezxt74130000/studi-60-anak-muda-urban-pilih-swadiagnosis-ketimbang-ke-dokter",
-      "published_date": "2026-05-13T22:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "88 Thousand Indonesian Hajj Pilgrims Have Crossed Bir Ali, Madinah-Makkah Push Ends Soon",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tezugf430/88-ribu-jamaah-haji-indonesia-telah-lintasi-bir-ali-pendorongan-madinahmakkah-segera-berakhir",
-      "published_date": "2026-05-13T21:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javan Gibbons Roam Around and Attack Middle School Boys at KBB, Firefighters Intervene",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tez85m282/owa-jawa-jawa-berkeliaran-dan-serang-bocah-smp-di-kbb-personel-damkar-turun-tangan",
-      "published_date": "2026-05-13T13:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The example of KH Ali Maksum, an egalitarian and forgiving figure",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tez7px458/keteladanan-kh-ali-maksum-sosok-egaliter-dan-pemaaf",
-      "published_date": "2026-05-13T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punishment for Governors with Luxurious Lifestyles",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tez73y458/hukuman-untuk-gubernur-dengan-gaya-hidup-mewah",
-      "published_date": "2026-05-13T12:50:00+00:00",
       "category": "Local Events"
     }
   ]
