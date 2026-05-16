@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Xabi Alonso agrees to become Chelsea's new coach",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5c951730000/xabi-alonso-sepakat-menjadi-pelatih-baru-chelsea",
+      "published_date": "2026-05-16T20:15:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "At the BRICS Forum, the Indonesian Minister of Foreign Affairs touched on the issue of countries disrupting the international order",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf1vnj377/di-forum-brics-menlu-ri-singgung-soal-negara-pengacau-tatanan-internasional",
@@ -30,6 +37,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "Danrem 173/PVB Encourages BGN to Absorb Local Nabire Rice for Nutritious Meal Program",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5h497030000/danrem-173pvb-dorong-bgn-serap-beras-lokal-nabire-untuk-program-makan-bergizi",
+      "published_date": "2026-05-16T22:00:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seconds of the Destruction of the Strongest Stone Civilization in the World in Just 3 Days",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tf4va6451/detikdetik-hancurnya-peradaban-batu-terkuat-di-dunia-hanya-dalam-3-hari",
+      "published_date": "2026-05-16T21:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Garut Satpolairud Intensifies Beach Patrols to Prevent Marine Accidents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5d1o8130000/satpolairud-garut-intensifkan-patroli-pantai-cegah-kecelakaan-laut",
+      "published_date": "2026-05-16T20:32:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Conducive Situation in Wamena, Papua Police Ensure Security is Maintained",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5awb4830000/situasi-kondusif-di-wamena-polda-papua-pastikan-keamanan-terjaga",
+      "published_date": "2026-05-16T19:45:47+00:00",
+      "category": "Military"
+    },
     {
       "title": "In Tuban, RI 1 Groundbreaking of 10 National Police Food Warehouses and Launching 166 SPPGs",
       "source": "Republika English",
@@ -104,6 +139,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Not Just a Ford-Cadillac, Trump's Life Was Also Escorted by a Chinese Car When He Met Xi Jinping",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf4ykl451/bukan-hanya-fordcadillac-nyawa-trump-juga-dikawal-mobil-china-saat-ketemu-xi-jinping",
+      "published_date": "2026-05-16T23:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Jayapura Increases Technology-Based Cooperative Capacity",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5d5i1730000/jayapura-tingkatkan-kapasitas-koperasi-berbasis-teknologi",
+      "published_date": "2026-05-16T20:34:30+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Rupiah Weakens, President: As Long As Purbaya Can Smile, There's No Need To Worry",
       "source": "Republika English",
@@ -197,6 +246,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "There are running activities in the GBK area, 13 new Transjakarta routes operate at 10.00 WIB",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tf5jr4423/ada-kegiatan-lari-di-kawasan-gbk-13-rute-transjakarta-baru-beroperasi-pukul-1000-wib",
+      "published_date": "2026-05-16T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trenggalek Regent Supports Red and White Cooperative to Strengthen Village Economy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5d3r7830000/bupati-trenggalek-dukung-koperasi-merah-putih-perkuat-ekonomi-desa",
+      "published_date": "2026-05-16T20:33:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harbiansyah Hanafiah Urges the East Kalimantan Council to Consistently Guard the Right to Inquiry",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf5czq830000/harbiansyah-hanafiah-desak-dewan-kaltim-konsisten-kawal-hak-angket",
+      "published_date": "2026-05-16T20:31:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "DPRD Supports West Java Provincial Government to Present \"Nyaah Ka Indung\" Girls' Elderly School",
       "source": "Republika English",
@@ -314,27 +384,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tf2uee472/dprd-jabar-dan-kpid-perkuat-ketahanan-informasi-di-tengah-dominasi-media-sosial",
       "published_date": "2026-05-15T11:54:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not just theory, UNM's IEP 3+1 produces graduates who are ready to work since college",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf2u3h472/tak-sebatas-teori-iep-31-unm-cetak-lulusan-siap-kerja-sejak-kuliah",
-      "published_date": "2026-05-15T11:47:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Haj: Peak Hajj Service Readiness in Armuzna Exceeds 90 Percent",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf1w8b483/kemenhaj-kesiapan-pelayanan-puncak-haji-di-armuzna-lampaui-90-persen",
-      "published_date": "2026-05-14T23:36:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta's air quality is unhealthy, residents are asked to wear masks",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf1tvf4730000/kualitas-udara-jakarta-tidak-sehat-warga-diminta-pakai-masker",
-      "published_date": "2026-05-14T22:45:15+00:00",
       "category": "Local Events"
     }
   ]
