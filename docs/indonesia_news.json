@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Director General of the Ministry of Foreign Affairs: South Korea is Indonesia's Long-Term Strategic Partner",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf7ff0484/dirjen-kemenlu-korsel-mitra-strategis-jangka-panjang-ri",
+      "published_date": "2026-05-17T23:18:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Xabi Alonso agrees to become Chelsea's new coach",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf5c951730000/xabi-alonso-sepakat-menjadi-pelatih-baru-chelsea",
@@ -37,6 +44,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Pastor Anton Withdraws Statement Regarding TNI Involvement in His Daughter's Death in Tembagapura",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf6nac484/pendeta-anton-tarik-pernyataan-soal-tni-terlibat-kematian-putrinya-di-tembagapura",
+      "published_date": "2026-05-17T23:06:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "In order to protect farmers from being trapped by middlemen, the West Java Regional Police Chief has implemented a closed loop system",
       "source": "Republika English",
@@ -146,6 +160,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "US-China Rivalry and Xi Jinping's Thucydides Trap: Who Finally Falls?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf6wt8451/rivalitas-aschina-dan-perangkap-thucydides-xi-jinping-siapa-yang-akhirnya-tumbang",
+      "published_date": "2026-05-17T23:17:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ahead of Eid al-Adha, Sacrificial Animal Traders in Indramayu: Sales Increase compared to Last Year",
       "source": "Republika English",
@@ -261,6 +282,41 @@
   ],
   "Local Events": [
     {
+      "title": "Mourinho opens his voice about rumors of returning to Real Madrid",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf7ft8348/mourinho-buka-suara-soal-rumor-kembali-ke-real-madrid",
+      "published_date": "2026-05-17T23:27:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carrick thinks Luke Shaw is worthy of playing for the England national team in the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf7fd3348/carrick-nilai-luke-shaw-layak-bela-timnas-inggris-di-piala-dunia-2026",
+      "published_date": "2026-05-17T23:17:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moto3 standings after Catalunya GP: Veda Ega Pratama rises to fifth place",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf7ewi409/klasemen-moto3-usai-gp-catalunya-veda-ega-pratama-naik-ke-peringkat-lima",
+      "published_date": "2026-05-17T23:07:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alex Marquez Fractured Collar Bone After Accident at Catalunya GP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf7efp348/alex-marquez-retak-tulang-leher-setelah-kecelakaan-di-gp-catalunya",
+      "published_date": "2026-05-17T22:57:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Haj: Dam Payments Must Be Safe, Official, and In Accordance with the Congregation's Fiqh Beliefs",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf7d1b430/kemenhaj-pembayaran-dam-harus-aman-resmi-dan-sesuai-keyakinan-fikih-jamaah",
+      "published_date": "2026-05-17T22:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Thailand Open 2026 Proves BNI's Commitment to Support PBSI to Create World Champion",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf6jf6368/thailand-open-2026-buktikan-komitmen-bni-dukung-pbsi-cetak-juara-dunia",
@@ -363,41 +419,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf4kxk472/tak-jago-matematika-tetap-bisa-jadi-ahli-it-mulailah-dari-sekarang",
       "published_date": "2026-05-16T10:24:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hospitality Technology Company from China Announces Expansion to Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf4iw0416/perusahaan-teknologi-perhotelan-asal-china-umumkan-ekspansi-ke-indonesia",
-      "published_date": "2026-05-16T10:04:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toyota GR Car Meet 2026, When Parakeet Senayan Becomes the Stage for Toyota Lovers from Various Generations",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf4jj8348/toyota-gr-car-meet-2026-saat-parkit-senayan-jadi-panggung-pecinta-toyota-dari-berbagai-generasi",
-      "published_date": "2026-05-16T09:54:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghost in the Cell Shows in Thailand with Local Voiceover",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tf4jfe328/ghost-in-the-cell-tayang-di-thailand-dengan-sulih-suara-lokal",
-      "published_date": "2026-05-16T09:52:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump is Going, Putin is Coming, First Time China Receives US-Russian Leaders in the Same Month",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf3r1l451/trump-pergi-putin-akan-datang-pertama-kali-china-terima-pemimpin-asrusia-di-bulan-yang-sama",
-      "published_date": "2026-05-15T23:39:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NU's 35th Congress and Indonesian Civilization Road 2045",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tf3q4s320/muktamar-ke35-nu-dan-jalan-peradaban-indonesia-2045",
-      "published_date": "2026-05-15T23:19:40+00:00",
       "category": "Local Events"
     }
   ]
