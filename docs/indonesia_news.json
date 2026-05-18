@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia Urges Israel to Immediately Release All GSF Activists Arrested in the Mediterranean",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tf8j4d282/indonesia-desak-israel-segera-bebaskan-seluruh-aktivis-gsf-yang-ditangkap-di-mediterania",
+      "published_date": "2026-05-18T13:36:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Indonesian Ministry of Foreign Affairs condemns Israel's action to intercept the Global Sumud Flotilla ship",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf8hr4393/kemenlu-ri-kecam-tindakan-israel-cegat-kapal-global-sumud-flotilla",
+      "published_date": "2026-05-18T13:06:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Director General of the Ministry of Foreign Affairs: South Korea is Indonesia's Long-Term Strategic Partner",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf7ff0484/dirjen-kemenlu-korsel-mitra-strategis-jangka-panjang-ri",
@@ -44,6 +58,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "The CEO of Rumah Zakat said regarding his volunteers who were kidnapped by the Israeli army",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf8ib8458/kata-ceo-rumah-zakat-terkait-relawannya-yang-diculik-tentara-israel",
+      "published_date": "2026-05-18T13:18:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Malaysian PM Speaks Up About Kidnapping 100 Humanitarian Activists: Israel Is Savage",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf8h5q430/pm-malaysia-angkat-bicara-soal-penculikan-100-aktivis-kemanusiaan-israel-biadab",
+      "published_date": "2026-05-18T12:53:50+00:00",
+      "category": "Military"
+    },
     {
       "title": "Pastor Anton Withdraws Statement Regarding TNI Involvement in His Daughter's Death in Tembagapura",
       "source": "Republika English",
@@ -282,6 +310,55 @@
   ],
   "Local Events": [
     {
+      "title": "There are 3 Hantavirus cases in Jakarta, the public is advised not to just sweep up rat droppings",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tf8k2o425/ada-3-kasus-hantavirus-di-jakarta-masyarakat-diimbau-nggak-sembarangan-nyapu-kotoran-tikus",
+      "published_date": "2026-05-18T13:56:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Audience Shouts 'Viva Palestine' at Concert, This Is What Harry Style Says",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tf8jhm425/penonton-teriak-viva-palestina-di-konser-ini-kata-harry-style",
+      "published_date": "2026-05-18T13:44:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Always Defending Palestine, Javier Bardem Emphasizes Ready to Bear the Consequences",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tf8j6v425/selalu-bela-palestina-javier-bardem-tegaskan-siap-menanggung-konsekuensi",
+      "published_date": "2026-05-18T13:37:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stories of West Bandung Residents Disturbed and Threatened by Mining Trucks Passing through Residential Areas",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tf8iav487/cerita-warga-bandung-barat-terganggu-dan-terancam-truk-tambang-yang-melintasi-permukiman",
+      "published_date": "2026-05-18T13:18:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Maslahat Sacrifice Festival Provides Literacy for Jakarta Residents Who Want to Sacrifice",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tf8hz5483/festival-kurban-maslahat-beri-literasi-untuk-warga-jakarta-yang-ingin-berkurban",
+      "published_date": "2026-05-18T13:11:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Governor's Unique Way to Suppress Brawls: Increase Boxing Arenas",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tf8hwp451/cara-unik-gubernur-dki-tekan-tawuran-perbanyak-arena-tinju",
+      "published_date": "2026-05-18T13:10:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muhadjir Effendy Responds to KPK Summons Regarding the Hajj Quota Corruption Case Monday Afternoon",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tf8gx5409/muhadjir-effendy-penuhi-panggilan-kpk-terkait-kasus-korupsi-kuota-haji-senin-sore",
+      "published_date": "2026-05-18T12:48:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Mourinho opens his voice about rumors of returning to Real Madrid",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf7ft8348/mourinho-buka-suara-soal-rumor-kembali-ke-real-madrid",
@@ -370,55 +447,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tf6dkz375/penataan-kawasan-wisata-kaldera-tengger-ditargetkan-rampung-oktober-2026",
       "published_date": "2026-05-17T09:41:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There are running activities in the GBK area, 13 new Transjakarta routes operate at 10.00 WIB",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf5jr4423/ada-kegiatan-lari-di-kawasan-gbk-13-rute-transjakarta-baru-beroperasi-pukul-1000-wib",
-      "published_date": "2026-05-16T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trenggalek Regent Supports Red and White Cooperative to Strengthen Village Economy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf5d3r7830000/bupati-trenggalek-dukung-koperasi-merah-putih-perkuat-ekonomi-desa",
-      "published_date": "2026-05-16T20:33:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harbiansyah Hanafiah Urges the East Kalimantan Council to Consistently Guard the Right to Inquiry",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf5czq830000/harbiansyah-hanafiah-desak-dewan-kaltim-konsisten-kawal-hak-angket",
-      "published_date": "2026-05-16T20:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPRD Supports West Java Provincial Government to Present \"Nyaah Ka Indung\" Girls' Elderly School",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tf4ohk472/dprd-dukung-pemprov-jabar-hadirkan-sekolah-lansia-perempuan-nyaah-ka-indung",
-      "published_date": "2026-05-16T11:41:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red and White Cooperative is considered to be able to solve farmers' problems",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf4ock370/koperasi-merah-putih-dinilai-bisa-atasi-masalah-petani",
-      "published_date": "2026-05-16T11:38:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "So far the Hajj is still running smoothly, DPR Commission VIII supports strengthening the Ministry of Haj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf4nhx320/sejauh-ini-haji-masih-berjalan-lanjar-komisi-viii-dpr-dukung-penguatan-kemenhaj",
-      "published_date": "2026-05-16T11:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not good at math? You can still become an IT expert, start now",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf4kxk472/tak-jago-matematika-tetap-bisa-jadi-ahli-it-mulailah-dari-sekarang",
-      "published_date": "2026-05-16T10:24:56+00:00",
       "category": "Local Events"
     }
   ]
