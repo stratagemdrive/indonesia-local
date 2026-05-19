@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Enzo Maresca Reportedly Agrees to Replace Pep Guardiola at Manchester City",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfabxs348/enzo-maresca-dikabarkan-sepakat-gantikan-pep-guardiola-di-manchester-city",
+      "published_date": "2026-05-19T13:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesia Urges Israel to Immediately Release All GSF Activists Arrested in the Mediterranean",
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tf8j4d282/indonesia-desak-israel-segera-bebaskan-seluruh-aktivis-gsf-yang-ditangkap-di-mediterania",
@@ -58,6 +65,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Denies giving instructions to disband Nobar, Army Chief of Staff Maruli questions funding for film 'Pesta Babi'",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfacd1409/bantah-beri-instruksi-pembubaran-nobar-ksad-maruli-pertanyakan-pendanaan-film-pesta-babi",
+      "published_date": "2026-05-19T13:05:25+00:00",
+      "category": "Military"
+    },
     {
       "title": "Pentagon Anxiety Leaks: US Running Out of Ammunition, Afraid of Losing Against China-Russia Alliance",
       "source": "Republika English",
@@ -196,6 +210,27 @@
   ],
   "Economy": [
     {
+      "title": "Etiquette is More Important than Knowledge, Why?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfaczi458/adab-lebih-penting-daripada-ilmu-mengapa",
+      "published_date": "2026-05-19T13:18:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Purbaya reveals that the APBN deficit has succeeded in shrinking, this is the reason",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfacgt490/purbaya-ungkap-defisit-apbn-berhasil-mengecil-ini-penyebabnya",
+      "published_date": "2026-05-19T13:07:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesia’s social media ban for under-16s deprives many children of their only public space",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-social-media-ban-for-under-16s-deprives-many-children-of-their-only-public-space/",
+      "published_date": "2026-05-19T00:19:11+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Havertz's goal brings Arsenal to beat Burnley, the Gunners are three points away from being crowned Premier League champions",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf99sa348/gol-havertz-bawa-arsenal-taklukkan-burnley-the-gunners-tiga-poin-lagi-dari-gelar-juara-liga-inggris",
@@ -313,23 +348,44 @@
       "url": "https://rejabar.republika.co.id/berita/tf104k282/diimingimingi-bangun-bisnis-dapur-mbg-13-kiai-di-jabar-kena-tipu-dan-rugi-ratusan-juta-rupiah",
       "published_date": "2026-05-14T12:02:44+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "These are five UNM undergraduate options that are currently being sought by the industry, register now!",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf0zly472/ini-lima-pilihan-s1-unm-yang-lagi-diburu-industri-daftar-sekarang",
-      "published_date": "2026-05-14T11:51:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "GP Ansor Proclaims 2026 Year of HR Transformation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf0wtl416/gp-ansor-canangkan-2026-tahun-transformasi-sdm",
-      "published_date": "2026-05-14T10:51:21+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Why Are Hypocrites Dangerous?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfae2l458/mengapa-orang-munafik-berbahaya",
+      "published_date": "2026-05-19T13:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farmers in West Java Prepare to Face the Dry Season",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfa06h451/petani-di-jawa-barat-bersiap-hadapi-musim-kering",
+      "published_date": "2026-05-19T13:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prohibition of Excessive In Religion",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfad6z458/larangan-berlebihan-dalam-beragama",
+      "published_date": "2026-05-19T13:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Monks from Four Countries Pilgrimage to Gus Dur's Tomb Ahead of Vesak Celebrations",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfaams375/biksu-dari-empat-negara-ziarah-ke-makam-gus-dur-jelang-perayaan-waisak",
+      "published_date": "2026-05-19T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is the reason why the Corruption Eradication Committee has not brought former Minister of Religion Yaqut to trial",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfac0z409/ini-alasan-kpk-belum-ajukan-eks-menag-yaqut-ke-persidangan",
+      "published_date": "2026-05-19T12:58:11+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Volunteers and Journalists Kidnapped by Israel, Kiai Cholil: The Government Should Protect Its Citizens",
       "source": "Republika English",
@@ -433,41 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf7fd3348/carrick-nilai-luke-shaw-layak-bela-timnas-inggris-di-piala-dunia-2026",
       "published_date": "2026-05-17T23:17:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moto3 standings after Catalunya GP: Veda Ega Pratama rises to fifth place",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf7ewi409/klasemen-moto3-usai-gp-catalunya-veda-ega-pratama-naik-ke-peringkat-lima",
-      "published_date": "2026-05-17T23:07:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alex Marquez Fractured Collar Bone After Accident at Catalunya GP",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf7efp348/alex-marquez-retak-tulang-leher-setelah-kecelakaan-di-gp-catalunya",
-      "published_date": "2026-05-17T22:57:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Haj: Dam Payments Must Be Safe, Official, and In Accordance with the Congregation's Fiqh Beliefs",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf7d1b430/kemenhaj-pembayaran-dam-harus-aman-resmi-dan-sesuai-keyakinan-fikih-jamaah",
-      "published_date": "2026-05-17T22:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand Open 2026 Proves BNI's Commitment to Support PBSI to Create World Champion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf6jf6368/thailand-open-2026-buktikan-komitmen-bni-dukung-pbsi-cetak-juara-dunia",
-      "published_date": "2026-05-17T11:47:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic schools are considered not yet close to sharia services",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tf6g05430/sekolah-islam-dinilai-belum-dekat-dengan-layanan-syariah",
-      "published_date": "2026-05-17T11:31:00+00:00",
       "category": "Local Events"
     }
   ]
