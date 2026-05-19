@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "All Indonesian citizens participating in the Sumud Global Fleet were finally kidnapped by Israel",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfb24k393/seluruh-wni-peserta-armada-global-sumud-akhirnya-diculik-israel",
+      "published_date": "2026-05-19T22:21:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Enzo Maresca Reportedly Agrees to Replace Pep Guardiola at Manchester City",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfabxs348/enzo-maresca-dikabarkan-sepakat-gantikan-pep-guardiola-di-manchester-city",
@@ -65,6 +72,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Pete Hegseth Offers MRO C-130 Hercules USAF Asia Centered in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfb0zh484/pete-hegseth-tawarkan-mro-c130-hercules-usaf-asia-dipusatkan-di-indonesia",
+      "published_date": "2026-05-19T23:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rafale Strengthens Indonesia's Air Defense, New Chapter of TNI AU Modernization",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfb3788530000/rafale-perkuat-pertahanan-udara-indonesia-babak-baru-modernisasi-tni-au",
+      "published_date": "2026-05-19T22:45:08+00:00",
+      "category": "Military"
+    },
     {
       "title": "Denies giving instructions to disband Nobar, Army Chief of Staff Maruli questions funding for film 'Pesta Babi'",
       "source": "Republika English",
@@ -187,6 +208,20 @@
   ],
   "Energy": [
     {
+      "title": "Kalimantan Surrounded by 9,853 Hot Spots Ahead of El Nino",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tfb3zz423/kalimantan-dikepung-9853-titik-panas-menjelang-el-nino",
+      "published_date": "2026-05-19T23:02:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Minister of Agriculture: Implementation of B50 Will Not Disrupt Cooking Oil Supply",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfb2ib8730000/mentan-implementasi-b50-tak-ganggu-pasokan-minyak-goreng",
+      "published_date": "2026-05-19T22:30:11+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "PLN IP Cleans Water Hyacinth Which Makes Mosquito Populations Explode in Saguling Reservoir",
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tf2r36282/pln-ip-bersihkan-eceng-gondok-yang-bikin-populasi-nyamuk-meledak-di-waduk-saguling",
@@ -209,6 +244,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Taxes Reach IDR 646.3 Trillion, Coretax Users Reach 19.2 Million",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfb49m423/pajak-tembus-rp-6463-triliun-pengguna-coretax-capai-192-juta",
+      "published_date": "2026-05-19T23:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "RI Directive 1, Purbaya Cuts MBG Program by IDR 67 Trillion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfb0ai484/arahan-ri-1-purbaya-pangkas-program-mbg-rp-67-triliun",
+      "published_date": "2026-05-19T23:13:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Etiquette is More Important than Knowledge, Why?",
       "source": "Republika English",
@@ -334,23 +383,16 @@
       "url": "https://news.republika.co.id/berita/tf2t8z472/program-rpl-dan-microlearning-unm-cara-baru-gen-z-raih-sukses",
       "published_date": "2026-05-15T11:29:23+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Gen Z Turns into Job Creators, Nusa Mandiri University Produces Startup Founders Since College",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf2stq368/gen-z-beralih-jadi-pencipta-kerja-universitas-nusa-mandiri-cetak-founder-startup-sejak-kuliah",
-      "published_date": "2026-05-15T11:20:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Enticed to Build an MBG Kitchen Business, 13 Kiai in West Java Get Tricked and Lose Hundreds of Millions of Rupiah",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tf104k282/diimingimingi-bangun-bisnis-dapur-mbg-13-kiai-di-jabar-kena-tipu-dan-rugi-ratusan-juta-rupiah",
-      "published_date": "2026-05-14T12:02:44+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "National Islamic Boarding School Meeting: Perpetrators of Sexual Violence Can No Longer Be Protected",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfb20m430/temu-nasional-pesantren-pelaku-kekerasan-seksual-tak-boleh-lagi-dilindungi",
+      "published_date": "2026-05-19T22:22:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Why Are Hypocrites Dangerous?",
       "source": "Republika English",
@@ -482,13 +524,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tf7ft8348/mourinho-buka-suara-soal-rumor-kembali-ke-real-madrid",
       "published_date": "2026-05-17T23:27:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carrick thinks Luke Shaw is worthy of playing for the England national team in the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf7fd3348/carrick-nilai-luke-shaw-layak-bela-timnas-inggris-di-piala-dunia-2026",
-      "published_date": "2026-05-17T23:17:27+00:00",
       "category": "Local Events"
     }
   ]
