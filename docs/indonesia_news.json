@@ -73,6 +73,13 @@
   ],
   "Military": [
     {
+      "title": "This book by the National Police examines new perspectives on digital threats",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfc7aa368/buku-karya-polri-kupas-perspektif-baru-tentang-ancaman-digital",
+      "published_date": "2026-05-20T13:10:58+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pete Hegseth Offers MRO C-130 Hercules USAF Asia Centered in Indonesia",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfb0zh484/pete-hegseth-tawarkan-mro-c130-hercules-usaf-asia-dipusatkan-di-indonesia",
@@ -197,16 +204,16 @@
       "url": "https://khazanah.republika.co.id/berita/tezn1n349/pdhi-ingatkan-waspadai-pmk-dan-lsd-jelang-iduladha",
       "published_date": "2026-05-13T22:18:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Being victims of sexual violence, female students in Jepara are reluctant to memorize the Koran",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tez639430/jadi-korban-kekerasan-seksual-santriwati-di-jepara-enggan-jadi-penghafal-alquran",
-      "published_date": "2026-05-13T12:16:21+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Farmers' Organization Highlights Government's Plan to Compulsory Palm Oil Exports Through BUMN",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfc6x3484/organisasi-petani-soroti-rencana-pemerintah-ekspor-sawit-wajib-lewat-bumn",
+      "published_date": "2026-05-20T13:03:03+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Kalimantan Surrounded by 9,853 Hot Spots Ahead of El Nino",
       "source": "Republika English",
@@ -234,16 +241,30 @@
       "url": "https://news.republika.co.id/berita/tezyib8230000/pertamina-ingatkan-spbu-di-rote-ndao-prioritaskan-kendaraan-bermotor",
       "published_date": "2026-05-13T22:30:11+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Chinese Chamber of Commerce's Letter Circulating Regarding Investment Climate Concerns in Indonesia, Here's BKPM's Response",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tez831377/beredar-surat-kadin-china-soal-kekhawatiran-iklim-investasi-di-indonesia-begini-respons-bkpm",
-      "published_date": "2026-05-13T12:59:25+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Get Ready to Become a Billionaire! The draw for HOKI 2026 Period 1 will be held soon",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfc6i8368/siapsiap-jadi-miliarder-pengundian-bagi-hoki-2026-periode-1-segera-digelar",
+      "published_date": "2026-05-20T12:54:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VinFast Launches VF MPV 7 Assembled in Indonesia, Enlivening the Electric MPV Market for Families",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfc6al348/vinfast-luncurkan-vf-mpv-7-rakitan-indonesia-ramaikan-pasar-mpv-listrik-untuk-keluarga",
+      "published_date": "2026-05-20T12:49:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IAEI Inaugurates 13 New Commissariats in the Jabodetabek Region, Ready to Strengthen Islamic Economy",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tfc5r9368/iaei-lantik-13-komisariat-baru-di-wilayah-jabodetabek-siap-perkuat-ekonomi-islam",
+      "published_date": "2026-05-20T12:37:57+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Taxes Reach IDR 646.3 Trillion, Coretax Users Reach 19.2 Million",
       "source": "Republika English",
@@ -362,30 +383,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tf31e9490/rupiah-tembus-rp17600-per-dolar-as-ekonom-soroti-masalah-ini",
       "published_date": "2026-05-15T23:20:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Boosting Growth, Kadin Expands International Partnerships",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf2uq4416/genjot-pertumbuhan-kadin-perluas-kemitraan-internasional",
-      "published_date": "2026-05-15T12:01:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From Campus to Market, UNM Students Successfully Build Pempek Kito",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf2tlf472/dari-kampus-ke-pasar-mahasiswa-unm-sukses-bangun-pempek-kito",
-      "published_date": "2026-05-15T11:36:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UNM RPL and Microlearning Program, New Way for Gen Z to Achieve Success",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf2t8z472/program-rpl-dan-microlearning-unm-cara-baru-gen-z-raih-sukses",
-      "published_date": "2026-05-15T11:29:23+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "National Awakening Day, UMJ Launches I-CHIP to Guard Indonesia's Health Future",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfc89b368/hari-kebangkitan-nasional-umj-luncurkan-ichip-untuk-kawal-masa-depan-kesehatan-indonesia",
+      "published_date": "2026-05-20T13:31:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rasulullah and the Bond of Hungry Blocking Stones",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfc6ol458/rasulullah-dan-ikatan-batu-pengganjal-lapar",
+      "published_date": "2026-05-20T13:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don't Look Down on the Poor",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfc6jt458/jangan-pandang-rendah-orang-miskin",
+      "published_date": "2026-05-20T13:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "VinFast Locally Produced VF MPV 7, Adds New Features for Indonesian Consumers",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfc780348/vinfast-produksi-lokal-vf-mpv-7-tambah-fitur-baru-untuk-konsumen-indonesia",
+      "published_date": "2026-05-20T13:09:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lintas Armada Indonesia Distributes Aid to Four Homes in Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfc6o1487/lintas-armada-indonesia-salurkan-bantuan-ke-empat-panti-di-jakarta",
+      "published_date": "2026-05-20T12:57:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prohibition of Resembling the Opposite Sex",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfc6g7458/larangan-menyerupai-lawan-jenis",
+      "published_date": "2026-05-20T12:52:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesian Citizen Arrested by Israel This is the Step of the Minister of Human Rights",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tfc6312142515832/wni-ditangkap-israel-ini-langkah-menteri-ham",
+      "published_date": "2026-05-20T12:45:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono goes on Hajj, Jakarta while led by Rano Karno",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfc609487/pramono-naik-haji-jakarta-sementara-dipimpin-rano-karno",
+      "published_date": "2026-05-20T12:43:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DPRD Guards 3,600 Red and White Cooperatives in West Java",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfc5y5368/dprd-kawal-3600-koperasi-merah-putih-di-jabar",
+      "published_date": "2026-05-20T12:42:05+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "National Islamic Boarding School Meeting: Perpetrators of Sexual Violence Can No Longer Be Protected",
       "source": "Republika English",
@@ -461,69 +524,6 @@
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tf8u5x393/bandung-spirit-belum-usai-nakba-palestina-dan-tugas-moral-asiaafrika",
       "published_date": "2026-05-18T23:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Holy Mosques Provide Translation Services",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf98n8430/dua-masjid-suci-sediakan-layanan-penerjemah",
-      "published_date": "2026-05-18T22:47:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There are 3 Hantavirus cases in Jakarta, the public is advised not to just sweep up rat droppings",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tf8k2o425/ada-3-kasus-hantavirus-di-jakarta-masyarakat-diimbau-nggak-sembarangan-nyapu-kotoran-tikus",
-      "published_date": "2026-05-18T13:56:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Audience Shouts 'Viva Palestine' at Concert, This Is What Harry Style Says",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tf8jhm425/penonton-teriak-viva-palestina-di-konser-ini-kata-harry-style",
-      "published_date": "2026-05-18T13:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Always Defending Palestine, Javier Bardem Emphasizes Ready to Bear the Consequences",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tf8j6v425/selalu-bela-palestina-javier-bardem-tegaskan-siap-menanggung-konsekuensi",
-      "published_date": "2026-05-18T13:37:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stories of West Bandung Residents Disturbed and Threatened by Mining Trucks Passing through Residential Areas",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tf8iav487/cerita-warga-bandung-barat-terganggu-dan-terancam-truk-tambang-yang-melintasi-permukiman",
-      "published_date": "2026-05-18T13:18:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Maslahat Sacrifice Festival Provides Literacy for Jakarta Residents Who Want to Sacrifice",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf8hz5483/festival-kurban-maslahat-beri-literasi-untuk-warga-jakarta-yang-ingin-berkurban",
-      "published_date": "2026-05-18T13:11:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DKI Governor's Unique Way to Suppress Brawls: Increase Boxing Arenas",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tf8hwp451/cara-unik-gubernur-dki-tekan-tawuran-perbanyak-arena-tinju",
-      "published_date": "2026-05-18T13:10:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muhadjir Effendy Responds to KPK Summons Regarding the Hajj Quota Corruption Case Monday Afternoon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf8gx5409/muhadjir-effendy-penuhi-panggilan-kpk-terkait-kasus-korupsi-kuota-haji-senin-sore",
-      "published_date": "2026-05-18T12:48:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mourinho opens his voice about rumors of returning to Real Madrid",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf7ft8348/mourinho-buka-suara-soal-rumor-kembali-ke-real-madrid",
-      "published_date": "2026-05-17T23:27:08+00:00",
       "category": "Local Events"
     }
   ]
