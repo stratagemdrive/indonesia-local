@@ -55,20 +55,6 @@
       "url": "https://khazanah.republika.co.id/berita/tf0w5v430/kemenhaj-temukan-dugaan-praktik-ilegal-layanan-kursi-roda-oleh-kbihu-sanksi-berat-menanti",
       "published_date": "2026-05-14T10:45:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Banjarmasin Prison and BNN Strengthen Synergy to Prevent Drug Circulation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tezx4d5930000/lapas-banjarmasin-dan-bnn-perkuat-sinergi-cegah-peredaran-narkoba",
-      "published_date": "2026-05-13T22:00:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump and Xi Jinping Meeting, Who is Stronger in a Geopolitical Contest?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tezk4g451/pertemuan-trump-dan-xi-jinping-siapa-yang-lebih-tangguh-dalam-adu-kuat-geopolitik",
-      "published_date": "2026-05-13T19:55:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -190,23 +176,23 @@
       "url": "https://ameera.republika.co.id/berita/tf2u4o328/drama-musikal-mar-kembali-dipentaskan-veteran-beri-apresiasi-hangat",
       "published_date": "2026-05-15T11:48:24+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Nadiem Reveals Prosecutor's Logical Error: The IDR 4.87 Increase in Assets Is Not the Result of Corruption, But GoTo's IPO",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf01k4377/nadiem-ungkap-kesalahan-logika-jaksa-kenaikan-harta-rp-487-bukan-hasil-korupsi-tapi-ipo-goto",
-      "published_date": "2026-05-13T23:36:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PDHI Reminds You to Be Aware of PMK and LSD Ahead of Eid al-Adha",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tezn1n349/pdhi-ingatkan-waspadai-pmk-dan-lsd-jelang-iduladha",
-      "published_date": "2026-05-13T22:18:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina EP Secures Gas Supply for Oil and Gas Industry and Operations",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfcz0m423/pertamina-ep-amankan-pasokan-gas-untuk-industri-dan-operasi-migas",
+      "published_date": "2026-05-20T23:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Facing Geopolitical Challenges, Indonesia Strengthens Collaboration to Maintain National Energy Security",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfczd5522/hadapi-tantangan-geopolitik-indonesia-perkuat-kolaborasi-untuk-jaga-ketahanan-energi-nasional",
+      "published_date": "2026-05-20T23:17:29+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Farmers' Organization Highlights Government's Plan to Compulsory Palm Oil Exports Through BUMN",
       "source": "Republika English",
@@ -234,16 +220,37 @@
       "url": "https://rejabar.republika.co.id/berita/tf2r36282/pln-ip-bersihkan-eceng-gondok-yang-bikin-populasi-nyamuk-meledak-di-waduk-saguling",
       "published_date": "2026-05-15T11:35:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Reminds Gas Stations in Rote Ndao to Prioritize Motorized Vehicles",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tezyib8230000/pertamina-ingatkan-spbu-di-rote-ndao-prioritaskan-kendaraan-bermotor",
-      "published_date": "2026-05-13T22:30:11+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Inter Miami Reportedly Soon to Recruit Casemiro",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfd0jf348/inter-miami-dilaporkan-segera-rekrut-casemiro",
+      "published_date": "2026-05-20T23:42:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rupiah Weakens, Here Are Wise Tips for Managing Finances According to Experts",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfczzf425/rupiah-melemah-ini-tips-bijak-atur-keuangan-menurut-pakar",
+      "published_date": "2026-05-20T23:30:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VinFast Waiting for the Results of the Green SM Taxi Accident Investigation in Bekasi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfczrh348/vinfast-tunggu-hasil-investigasi-kecelakaan-taksi-green-sm-di-bekasi",
+      "published_date": "2026-05-20T23:26:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rupiah Falls, Anies Urges Government to Seriously Face Economic Pressure",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfczfs484/rupiah-anjlok-anies-desak-pemerintah-serius-hadapi-tekanan-ekonomi",
+      "published_date": "2026-05-20T23:19:04+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Get Ready to Become a Billionaire! The draw for HOKI 2026 Period 1 will be held soon",
       "source": "Republika English",
@@ -355,37 +362,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tf4m1o522/aktivitas-smelter-melambat-ekonomi-daerah-tambang-ikut-terdampak",
       "published_date": "2026-05-16T10:49:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Protecting the Digital Heart of the Nation",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tf4lzk472/menjaga-urat-nadi-digital-bangsa",
-      "published_date": "2026-05-16T10:47:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Scoot Opens Singapore–Belitung Route, Ministry of Tourism Strengthens Access for Foreign Tourists",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf4l9t484/scoot-buka-rute-singapurabelitung-kemenpar-perkuat-akses-wisman",
-      "published_date": "2026-05-16T10:37:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inauguration of the Red and White Cooperative, Minister of Cooperatives: Evidence of the Government's Presence to Build the Economy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf4lg1370/peresmian-koperasi-merah-putih-menkop-bukti-kehadiran-pemerintah-bangun-ekonomi",
-      "published_date": "2026-05-16T10:36:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rupiah Reaches IDR 17,600 per US Dollar, Economist Highlights This Problem",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf31e9490/rupiah-tembus-rp17600-per-dolar-as-ekonom-soroti-masalah-ini",
-      "published_date": "2026-05-15T23:20:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Emery Affirms His Status as King of the Europa League After Bringing Aston Villa to Champion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfczeb348/emery-tegaskan-status-raja-liga-europa-usai-bawa-aston-villa-juara",
+      "published_date": "2026-05-20T23:18:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japanese Curry is a Nutritious Daily Menu Alternative for Children",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfcz83425/kari-jepang-alternatif-menu-harian-bernutrisi-untuk-anak",
+      "published_date": "2026-05-20T23:14:27+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "National Awakening Day, UMJ Launches I-CHIP to Guard Indonesia's Health Future",
       "source": "Republika English",
@@ -510,20 +503,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tf8whm348/byd-resmi-perkenalkan-m6-dm-mpv-hybrid-dengan-jarak-tempuh-1800-km-sekali-pengisian",
       "published_date": "2026-05-18T23:25:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Director of Pindad Ready to Design Transparent Presidential Car",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf9abp484/dirut-pindad-siap-rancang-desain-mobil-kepresidenan-transparan",
-      "published_date": "2026-05-18T23:23:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bandung Spirit Is Not Over: The Palestinian Nakba and the Moral Duty of Asia and Africa",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tf8u5x393/bandung-spirit-belum-usai-nakba-palestina-dan-tugas-moral-asiaafrika",
-      "published_date": "2026-05-18T23:05:00+00:00",
       "category": "Local Events"
     }
   ]
