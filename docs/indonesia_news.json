@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "The Indonesian Citizens Kidnapped by Israel Have Headed to Türkiye",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tfe3j257072764/para-wni-yang-diculik-israel-sudah-menuju-turki",
+      "published_date": "2026-05-21T13:45:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indonesian Foreign Minister: Nine Indonesian Citizens Arrested by Israel Have Been Released, Now Heading for Türkiye",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfe3ft377/menlu-ri-sembilan-wni-ditangkap-israel-telah-dibebaskan-sekarang-menuju-turki",
+      "published_date": "2026-05-21T13:43:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "All Indonesian citizens participating in the Sumud Global Fleet were finally kidnapped by Israel",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfb24k393/seluruh-wni-peserta-armada-global-sumud-akhirnya-diculik-israel",
@@ -48,16 +62,16 @@
       "url": "https://news.republika.co.id/berita/tf1vnj377/di-forum-brics-menlu-ri-singgung-soal-negara-pengacau-tatanan-internasional",
       "published_date": "2026-05-14T23:23:43+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Ministry of Haj Finds Alleged Illegal Practices of Wheelchair Services by KBIHU, Heavy Sanctions Await",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf0w5v430/kemenhaj-temukan-dugaan-praktik-ilegal-layanan-kursi-roda-oleh-kbihu-sanksi-berat-menanti",
-      "published_date": "2026-05-14T10:45:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "The government plans to make Kertajati Airport a maintenance center for US Hercules aircraft in Asia",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfe1o9282/pemerintah-berencana-jadikan-bandara-kertajati-jadi-pusat-perawatan-pesawat-hercules-as-di-asia",
+      "published_date": "2026-05-21T13:04:57+00:00",
+      "category": "Military"
+    },
     {
       "title": "This book by the National Police examines new perspectives on digital threats",
       "source": "Republika English",
@@ -224,6 +238,27 @@
   ],
   "Economy": [
     {
+      "title": "JCI was hit at the close of trading, dropping more than 200 points",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfe131375/ihsg-terpukul-di-penutupan-perdagangan-turun-lebih-dari-200-poin",
+      "published_date": "2026-05-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Corruption Eradication Committee Responds to Prabowo's Statement about the Minister of Finance being able to replace the Head of Customs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfe1v0409/kpk-respons-pernyataan-prabowo-soal-menkeu-bisa-ganti-pimpinan-bea-cukai",
+      "published_date": "2026-05-21T13:09:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Not just saving, this is how to maintain finances in the midst of global turmoil",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfdzba416/tak-cuma-menabung-ini-cara-jaga-keuangan-di-tengah-gejolak-global",
+      "published_date": "2026-05-21T13:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Inter Miami Reportedly Soon to Recruit Casemiro",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfd0jf348/inter-miami-dilaporkan-segera-rekrut-casemiro",
@@ -341,30 +376,51 @@
       "url": "https://news.republika.co.id/berita/tf4ykl451/bukan-hanya-fordcadillac-nyawa-trump-juga-dikawal-mobil-china-saat-ketemu-xi-jinping",
       "published_date": "2026-05-16T23:06:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Jayapura Increases Technology-Based Cooperative Capacity",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf5d5i1730000/jayapura-tingkatkan-kapasitas-koperasi-berbasis-teknologi",
-      "published_date": "2026-05-16T20:34:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rupiah Weakens, President: As Long As Purbaya Can Smile, There's No Need To Worry",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf4n75484/rupiah-melemah-presiden-selama-purbaya-bisa-senyum-nggak-usah-khawatir",
-      "published_date": "2026-05-16T11:13:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Smelter Activities Slow Down, Mining Area Economy Also Affected",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf4m1o522/aktivitas-smelter-melambat-ekonomi-daerah-tambang-ikut-terdampak",
-      "published_date": "2026-05-16T10:49:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Yogyakarta Local Stories Stun the 2026 Cannes Film Festival Stage",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfe3pv425/kisah-lokal-yogyakarta-memukau-panggung-cannes-film-festival-2026",
+      "published_date": "2026-05-21T13:49:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cooperative education will be included in elementary to high school subjects in Central Java",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfe2wn487/pendidikan-koperasi-akan-disisipkan-dalam-mapel-sd-hingga-sma-di-jateng",
+      "published_date": "2026-05-21T13:31:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Religion: Taklim Council Must Become a Center for Strengthening Family Resilience",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfe2lr458/kemenag-majelis-taklim-harus-jadi-pusat-penguatan-ketahanan-keluarga",
+      "published_date": "2026-05-21T13:25:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tobias Ginanjar Leads KONI KBB, Jeje Regent is Optimistic that Sports Achievement will Increase",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfe2hm368/tobias-ginanjar-pimpin-koni-kbb-bupati-jeje-optimistis-prestasi-olahraga-meningkat",
+      "published_date": "2026-05-21T13:22:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coordinating Minister AHY Reviews PT PAL: Strengthening the National Shipyard Industry",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfe1l1484/menko-ahy-tinjau-pt-pal-perkuat-industri-galangal-kapal-nasional",
+      "published_date": "2026-05-21T13:03:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: sea nomads and the future of our ocean",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-sea-nomads-and-the-future-of-our-ocean/",
+      "published_date": "2026-05-21T03:18:54+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Emery Affirms His Status as King of the Europa League After Bringing Aston Villa to Champion",
       "source": "Republika English",
@@ -461,48 +517,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tfa06h451/petani-di-jawa-barat-bersiap-hadapi-musim-kering",
       "published_date": "2026-05-19T13:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prohibition of Excessive In Religion",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfad6z458/larangan-berlebihan-dalam-beragama",
-      "published_date": "2026-05-19T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monks from Four Countries Pilgrimage to Gus Dur's Tomb Ahead of Vesak Celebrations",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfaams375/biksu-dari-empat-negara-ziarah-ke-makam-gus-dur-jelang-perayaan-waisak",
-      "published_date": "2026-05-19T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is the reason why the Corruption Eradication Committee has not brought former Minister of Religion Yaqut to trial",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfac0z409/ini-alasan-kpk-belum-ajukan-eks-menag-yaqut-ke-persidangan",
-      "published_date": "2026-05-19T12:58:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volunteers and Journalists Kidnapped by Israel, Kiai Cholil: The Government Should Protect Its Citizens",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf9asw430/relawan-dan-jurnalis-diculik-israel-kiai-cholil-semestinya-pemerintah-lindungi-warga-negaranya",
-      "published_date": "2026-05-18T23:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Din Syamsuddin: Government Must Immediately Release Indonesian Citizens Kidnapped by Israel",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf9ajo430/din-syamsuddin-pemerintah-harus-segera-bebaskan-wni-yang-diculik-israel",
-      "published_date": "2026-05-18T23:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BYD Officially Introduces M6 DM, Hybrid MPV with a Range of 1,800 Km on One Charge",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tf8whm348/byd-resmi-perkenalkan-m6-dm-mpv-hybrid-dengan-jarak-tempuh-1800-km-sekali-pengisian",
-      "published_date": "2026-05-18T23:25:02+00:00",
       "category": "Local Events"
     }
   ]
