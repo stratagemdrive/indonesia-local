@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "KPR and Cheap Car Loans Enliven the BRI Consumer Expo 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfg0d5416/kpr-hingga-kredit-mobil-murah-ramaikan-bri-consumer-expo-2026",
+      "published_date": "2026-05-22T22:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "To Reduce Methane Gas Reduction, Minister of Jumhur Collaborates with South Korea",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfevao484/kurangi-reduksi-gas-metan-menteri-jumhur-gandeng-korsel",
@@ -65,6 +72,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "West Jakarta Nicknamed 'Gotham City', Legislators Urge Patrols and CCTV in Spots Prone to Gangsters",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfgpeq484/jakbar-dijuluki-gotham-city-legislator-desak-patroli-dan-cctv-di-titik-rawan-begal",
+      "published_date": "2026-05-22T23:32:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Salahutu Police Destroys 500 Liters of Illegal Sopi in Central Maluku",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfgmi88330000/polsek-salahutu-musnahkan-500-liter-sopi-ilegal-di-maluku-tengah",
+      "published_date": "2026-05-22T22:30:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Different Directions on War, US Intelligence Director Tulsi Gabbard Officially Resigns, Trump Cabinet Turbulence",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfgma5451/beda-haluan-soal-perang-direktur-intelijen-as-tulsi-gabbard-resmi-mundur-kabinet-trump-turbulensi",
+      "published_date": "2026-05-22T22:25:17+00:00",
+      "category": "Military"
+    },
     {
       "title": "As the World Moves Towards the 'Law of the Jungle'",
       "source": "Republika English",
@@ -183,30 +211,16 @@
       "url": "https://news.republika.co.id/berita/tf5d1o8130000/satpolairud-garut-intensifkan-patroli-pantai-cegah-kecelakaan-laut",
       "published_date": "2026-05-16T20:32:12+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Conducive Situation in Wamena, Papua Police Ensure Security is Maintained",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf5awb4830000/situasi-kondusif-di-wamena-polda-papua-pastikan-keamanan-terjaga",
-      "published_date": "2026-05-16T19:45:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Tuban, RI 1 Groundbreaking of 10 National Police Food Warehouses and Launching 166 SPPGs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf4l1b484/di-tuban-ri-1-groundbreaking-10-gudang-pangan-polri-dan-luncurkan-166-sppg",
-      "published_date": "2026-05-16T10:27:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSI is considered unwilling to be affected after Grace Natalie was reported by dozens of Islamic mass organizations",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf3q1z409/psi-dinilai-ogah-terdampak-usai-grace-natalie-dilaporkan-puluhan-ormas-islam",
-      "published_date": "2026-05-15T23:17:59+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Weather and Fertilizer Prices Are Challenges for Palm Oil Issuers",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfg1mn416/cuaca-dan-harga-pupuk-jadi-tantangan-emiten-sawit",
+      "published_date": "2026-05-22T23:30:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Jakpro and ADPMET Subsidiaries Collaborate to Improve Regional Oil and Gas Management",
       "source": "Republika English",
@@ -265,6 +279,34 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Many F&B Businesses Collapse During Intensive Expansion, This Is The Reason",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfg2o3416/banyak-bisnis-fb-tumbang-saat-gencar-ekspansi-ini-penyebabnya",
+      "published_date": "2026-05-22T23:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BI Interest Rates Rise, Indef Economist Reveals Pro-Stability Direction",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfg6lk490/suku-bunga-bi-naik-ekonom-indef-ungkap-arah-prostabilitas",
+      "published_date": "2026-05-22T23:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Purbaya Predicts IHSG Strengthening Next Week, Here's the Reason",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfg5xy490/purbaya-ramal-ihsg-menguat-pekan-depan-ini-alasannya",
+      "published_date": "2026-05-22T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Yanti's Story of Building a Craft Business from Home with Ultra Micro Financing Capital",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tffzhw416/kisah-yanti-bangun-usaha-kriya-dari-rumah-dengan-modal-pembiayaan-ultra-mikro",
+      "published_date": "2026-05-22T23:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Prabowo Invites SBY Era Economic Officials to Accommodate Experiences in Facing the 2008 Crisis",
       "source": "Republika English",
@@ -376,37 +418,44 @@
       "url": "https://news.republika.co.id/berita/tfb0ai484/arahan-ri-1-purbaya-pangkas-program-mbg-rp-67-triliun",
       "published_date": "2026-05-19T23:13:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Etiquette is More Important than Knowledge, Why?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfaczi458/adab-lebih-penting-daripada-ilmu-mengapa",
-      "published_date": "2026-05-19T13:18:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Purbaya reveals that the APBN deficit has succeeded in shrinking, this is the reason",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfacgt490/purbaya-ungkap-defisit-apbn-berhasil-mengecil-ini-penyebabnya",
-      "published_date": "2026-05-19T13:07:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Indonesia’s social media ban for under-16s deprives many children of their only public space",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-social-media-ban-for-under-16s-deprives-many-children-of-their-only-public-space/",
-      "published_date": "2026-05-19T00:19:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Havertz's goal brings Arsenal to beat Burnley, the Gunners are three points away from being crowned Premier League champions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf99sa348/gol-havertz-bawa-arsenal-taklukkan-burnley-the-gunners-tiga-poin-lagi-dari-gelar-juara-liga-inggris",
-      "published_date": "2026-05-18T23:12:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "UI-Lebak Bulus Becomes Favorite Route for Transjabodetabek Buses",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfgq0g484/uilebak-bulus-jadi-rute-favorit-bus-transjabodetabek",
+      "published_date": "2026-05-22T23:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Becomes the First Host of a Major Asian Gymnastics Event",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfgkom451/indonesia-jadi-tuan-rumah-pertama-event-gimnastik-akbar-tingkat-asia",
+      "published_date": "2026-05-22T23:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Provincial Government Claims that the Number of Slum RWs in Jakarta is Decreasing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfgovb484/pemprov-dki-klaim-jumlah-rw-kumuh-di-jakarta-turun",
+      "published_date": "2026-05-22T23:21:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Secret to Happiness in Life: Get to Know 3 Things That Bring the Sweetness of Faith",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tfg2ib451/rahasia-kebahagiaan-hidup-kenali-3-perkara-yang-membawa-manisnya-iman",
+      "published_date": "2026-05-22T23:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola Soars, Residents Burn Medical Facilities, Congo Chaos",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfg1w6451/ebola-melonjak-warga-malah-bakar-fasilitas-medis-kongo-chaos",
+      "published_date": "2026-05-22T21:50:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sadio Mane Leads Senegal's Provisional Squad to the 2026 World Cup",
       "source": "Republika English",
@@ -510,41 +559,6 @@
       "source": "Indonesia at Melbourne",
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-sea-nomads-and-the-future-of-our-ocean/",
       "published_date": "2026-05-21T03:18:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emery Affirms His Status as King of the Europa League After Bringing Aston Villa to Champion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfczeb348/emery-tegaskan-status-raja-liga-europa-usai-bawa-aston-villa-juara",
-      "published_date": "2026-05-20T23:18:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japanese Curry is a Nutritious Daily Menu Alternative for Children",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tfcz83425/kari-jepang-alternatif-menu-harian-bernutrisi-untuk-anak",
-      "published_date": "2026-05-20T23:14:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Awakening Day, UMJ Launches I-CHIP to Guard Indonesia's Health Future",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfc89b368/hari-kebangkitan-nasional-umj-luncurkan-ichip-untuk-kawal-masa-depan-kesehatan-indonesia",
-      "published_date": "2026-05-20T13:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rasulullah and the Bond of Hungry Blocking Stones",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfc6ol458/rasulullah-dan-ikatan-batu-pengganjal-lapar",
-      "published_date": "2026-05-20T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don't Look Down on the Poor",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfc6jt458/jangan-pandang-rendah-orang-miskin",
-      "published_date": "2026-05-20T13:16:00+00:00",
       "category": "Local Events"
     }
   ]
