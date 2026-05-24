@@ -83,16 +83,30 @@
       "url": "https://news.republika.co.id/berita/tf8hr4393/kemenlu-ri-kecam-tindakan-israel-cegat-kapal-global-sumud-flotilla",
       "published_date": "2026-05-18T13:06:40+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Director General of the Ministry of Foreign Affairs: South Korea is Indonesia's Long-Term Strategic Partner",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf7ff0484/dirjen-kemenlu-korsel-mitra-strategis-jangka-panjang-ri",
-      "published_date": "2026-05-17T23:18:36+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "US's New AI Weapon Can Kill 50 Enemy Drones Without a Shot",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfjr6a451/senjata-ai-baru-as-bisa-bantai-50-drone-musuh-tanpa-tembakan",
+      "published_date": "2026-05-24T23:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BMKG Warns of Heavy Rain in East Kalimantan Sunday Night",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfk7se8030000/bmkg-peringatkan-hujan-lebat-di-kalimantan-timur-minggu-malam",
+      "published_date": "2026-05-24T21:02:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "HPV Self-Screening is considered to be able to expand early detection of cervical cancer",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfjwow349/skrining-mandiri-hpv-dinilai-bisa-perluas-deteksi-dini-kanker-serviks",
+      "published_date": "2026-05-24T20:55:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Members Considered Arrogant When Controlling Traders at HI During CFD, Kasatpol PP Apologizes",
       "source": "Republika English",
@@ -211,30 +225,16 @@
       "url": "https://news.republika.co.id/berita/tf8py4451/bocoran-kegelisahan-pentagon-as-kehabisan-amunisi-takut-kalah-lawan-aliansi-chinarusia",
       "published_date": "2026-05-18T22:53:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "The CEO of Rumah Zakat said regarding his volunteers who were kidnapped by the Israeli army",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf8ib8458/kata-ceo-rumah-zakat-terkait-relawannya-yang-diculik-tentara-israel",
-      "published_date": "2026-05-18T13:18:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Malaysian PM Speaks Up About Kidnapping 100 Humanitarian Activists: Israel Is Savage",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tf8h5q430/pm-malaysia-angkat-bicara-soal-penculikan-100-aktivis-kemanusiaan-israel-biadab",
-      "published_date": "2026-05-18T12:53:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pastor Anton Withdraws Statement Regarding TNI Involvement in His Daughter's Death in Tembagapura",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf6nac484/pendeta-anton-tarik-pernyataan-soal-tni-terlibat-kematian-putrinya-di-tembagapura",
-      "published_date": "2026-05-17T23:06:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Como 1907 to the Champions League: A Touch of Indonesia, Fabregas, and a Fairy Tale That Came True",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfkd8q348/como-1907-ke-liga-champions-sentuhan-indonesia-fabregas-dan-kisah-dongeng-yang-jadi-kenyataan",
+      "published_date": "2026-05-24T23:00:26+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Buol Regency Government Collaborates with Investors to Mine Quartz Sand",
       "source": "Republika English",
@@ -307,6 +307,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Reynaldo Encourages Tourism as a Driver of the National Economy at the Second HIPMI Caketum Debate",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tfkesf456/reynaldo-dorong-pariwisata-sebagai-penggerak-ekonomi-nasional-pada-debat-kedua-caketum-hipmi",
+      "published_date": "2026-05-24T23:33:51+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Kebumen's Modern Shrimp Industry Becomes a Model of Food Independence",
       "source": "Republika English",
@@ -439,16 +446,79 @@
       "url": "https://ekonomi.republika.co.id/berita/tfc6i8368/siapsiap-jadi-miliarder-pengundian-bagi-hoki-2026-periode-1-segera-digelar",
       "published_date": "2026-05-20T12:54:08+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "VinFast Launches VF MPV 7 Assembled in Indonesia, Enlivening the Electric MPV Market for Families",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfc6al348/vinfast-luncurkan-vf-mpv-7-rakitan-indonesia-ramaikan-pasar-mpv-listrik-untuk-keluarga",
-      "published_date": "2026-05-20T12:49:33+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Muslim World League Holds Free Medical Clinic Program in Sukabumi",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfkff2484/muslim-world-league-gelar-program-klinik-medis-gratis-di-sukabumi",
+      "published_date": "2026-05-24T23:47:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian League Serie A Final Standings: Como and Roma Win Champions League Tickets in the Final Week",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfkexu348/klasemen-akhir-serie-a-liga-italia-como-dan-roma-rebut-tiket-liga-champions-di-pekan-terakhir",
+      "published_date": "2026-05-24T23:37:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A series of foods and drinks that are secretly the cause of heartburn",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfkegk425/deretan-makanan-dan-minuman-yang-diamdiam-jadi-biang-kerok-nyeri-ulu-hati",
+      "published_date": "2026-05-24T23:26:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Wants MRO Hercules in Indonesia, Governor of Lemhannas: This is the Investment Part",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfke2z484/as-ingin-mro-hercules-di-indonesia-gubernur-lemhannas-ini-bagian-investasi",
+      "published_date": "2026-05-24T23:18:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Last week of May 2026, this is the projected gold price movement",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfjqni490/pekan-terakhir-mei-2026-ini-proyeksi-pergerakan-harga-emas",
+      "published_date": "2026-05-24T23:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Model Gazini Ganados' Emotional Struggle to Save Her Family in Gaza",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfkdjz425/perjuangan-emosional-model-gazini-ganados-selamatkan-keluarganya-di-gaza",
+      "published_date": "2026-05-24T23:07:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AS Roma Secures Champions League Tickets After Beating Hellas Verona",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfkcja7130000/as-roma-pastikan-tiket-liga-champions-usai-kalahkan-hellas-verona",
+      "published_date": "2026-05-24T22:45:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The People Who Walk Wearing Faces on the Day of Judgment",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tfj9rs451/golongan-manusia-yang-berjalan-pakai-wajah-di-hari-kiamat",
+      "published_date": "2026-05-24T22:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Como 1907 Qualified for the Champions League after beating Cremonese 4-1",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfkbu83730000/como-1907-lolos-ke-liga-champions-usai-taklukkan-cremonese-41",
+      "published_date": "2026-05-24T22:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Papua Governor Prepares Biak Regional Hospital to Become Saireri's Main Reference",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfk7qu9430000/gubernur-papua-siapkan-rsud-biak-jadi-rujukan-utama-saireri",
+      "published_date": "2026-05-24T21:01:42+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Promising a Bonus of IDR 1 Billion for Persib Bandung, KDM: I'm Harvesting Cows",
       "source": "Republika English",
@@ -517,76 +587,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tfij02328/fase-kedatangan-berakhir-jamaah-haji-indonesia-bersiap-menuju-puncak-haji",
       "published_date": "2026-05-23T23:09:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UMJ Graduates from Yemen Convey Messages of Struggle and Humanity",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfiipb472/wisudawan-umj-asal-yaman-sampaikan-pesan-perjuangan-dan-kemanusiaan",
-      "published_date": "2026-05-23T23:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Competency Based Training for the Future Quality of Indonesian Human Resources",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tfihga472/pelatihan-berbasis-kompetensi-untuk-masa-depan-mutu-sdm-indonesia",
-      "published_date": "2026-05-23T22:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morut Regency Government: 34 thousand vulnerable workers are protected by Social Security",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfi9jf9830000/pemkab-morut-34-ribu-pekerja-rentan-sudah-terlindungi-jamsostek",
-      "published_date": "2026-05-23T19:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imran Nahumarury Determined to Return Semen Padang to the Super League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfi62a6830000/imran-nahumarury-bertekad-kembalikan-semen-padang-ke-super-league",
-      "published_date": "2026-05-23T18:30:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4.5 meter long spotted shark dies after stranding on Banjarsari Beach, Cilacap",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfhn8l375/hiu-tutul-sepanjang-45-meter-mati-usai-terdampar-di-pantai-banjarsari-cilacap",
-      "published_date": "2026-05-23T11:43:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KDM Invites Bobotoh to Be Orderly During the Persib Champions Parade",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfhmq9282/kdm-ajak-bobotoh-tertib-saat-pawai-juara-persib",
-      "published_date": "2026-05-23T11:32:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian Hajj Pilgrims Urged to Pray for Palestinian People During Wukuf at Arafah",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfhmau366/jamaah-haji-indonesia-diimbau-doakan-rakyat-palestina-saat-wukuf-di-arafah",
-      "published_date": "2026-05-23T11:23:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safari Park Launches IAPVC 2026 Wildlife Visual Competition",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfhldh366/taman-safari-luncurkan-kompetisi-visual-satwa-liar-iapvc-2026",
-      "published_date": "2026-05-23T11:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "While Pursuing Her Thesis, Ananda Hikmawati Successfully Won a Silver Medal in Pancasila Cup 2",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfhjpm368/sambil-kejar-skripsi-ananda-hikmawati-sukses-raih-medali-perak-pancasila-cup-2",
-      "published_date": "2026-05-23T10:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UBSI Student Anita Tri Ariani Putri Wins 3rd Place in Senior Kyourugi in Pancasila Cup 2",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfhjim368/mahasiswa-ubsi-anita-tri-ariani-putri-raih-juara-3-kyourugi-senior-di-pancasila-cup-2",
-      "published_date": "2026-05-23T10:23:10+00:00",
       "category": "Local Events"
     }
   ]
