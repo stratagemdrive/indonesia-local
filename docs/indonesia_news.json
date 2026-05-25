@@ -69,23 +69,23 @@
       "url": "https://news.republika.co.id/berita/tfabxs348/enzo-maresca-dikabarkan-sepakat-gantikan-pep-guardiola-di-manchester-city",
       "published_date": "2026-05-19T13:07:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia Urges Israel to Immediately Release All GSF Activists Arrested in the Mediterranean",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tf8j4d282/indonesia-desak-israel-segera-bebaskan-seluruh-aktivis-gsf-yang-ditangkap-di-mediterania",
-      "published_date": "2026-05-18T13:36:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Indonesian Ministry of Foreign Affairs condemns Israel's action to intercept the Global Sumud Flotilla ship",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf8hr4393/kemenlu-ri-kecam-tindakan-israel-cegat-kapal-global-sumud-flotilla",
-      "published_date": "2026-05-18T13:06:40+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Danseskoad Calls Historic, RI 1 Gives Briefing to 1,095 TNI and Polri Officers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tflh2d484/danseskoad-sebut-bersejarah-ri-1-beri-taklimat-ke-1095-perwira-tni-dan-polri",
+      "published_date": "2026-05-25T13:20:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The rise of misinformation about perimenopause can endanger women",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tflffr425/maraknya-misinformasi-soal-perimenopause-bisa-bahayakan-perempuan",
+      "published_date": "2026-05-25T12:45:27+00:00",
+      "category": "Military"
+    },
     {
       "title": "US's New AI Weapon Can Kill 50 Enemy Drones Without a Shot",
       "source": "Republika English",
@@ -211,23 +211,16 @@
       "url": "https://news.republika.co.id/berita/tfb3788530000/rafale-perkuat-pertahanan-udara-indonesia-babak-baru-modernisasi-tni-au",
       "published_date": "2026-05-19T22:45:08+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Denies giving instructions to disband Nobar, Army Chief of Staff Maruli questions funding for film 'Pesta Babi'",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfacd1409/bantah-beri-instruksi-pembubaran-nobar-ksad-maruli-pertanyakan-pendanaan-film-pesta-babi",
-      "published_date": "2026-05-19T13:05:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon Anxiety Leaks: US Running Out of Ammunition, Afraid of Losing Against China-Russia Alliance",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tf8py4451/bocoran-kegelisahan-pentagon-as-kehabisan-amunisi-takut-kalah-lawan-aliansi-chinarusia",
-      "published_date": "2026-05-18T22:53:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Incubation Program Encourages the Emergence of Clean Energy and Environmental Startups",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tflg5g416/program-inkubasi-dorong-munculnya-startup-energi-bersih-dan-lingkungan",
+      "published_date": "2026-05-25T13:01:45+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Como 1907 to the Champions League: A Touch of Indonesia, Fabregas, and a Fairy Tale That Came True",
       "source": "Republika English",
@@ -307,6 +300,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Drake's albums dominate the Billboard 200, including those highlighting the Palestinian issue",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tflh5y425/album-drake-kuasai-billboard-200-termasuk-yang-soroti-isu-palestina",
+      "published_date": "2026-05-25T13:22:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sharia Economic Review of the Impact of Qurban Sharia on the Growth of the National Economy",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tflfsm415/tinjauan-ekonomi-syariah-terhadap-dampak-syariat-qurban-bagi-geliat-perekonomian-nasional",
+      "published_date": "2026-05-25T12:53:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "We Learned To Accept Paradox For Too Long",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tflfee320/kita-terlalu-lama-belajar-menerima-paradoks-sebagai-kewajaran",
+      "published_date": "2026-05-25T12:44:38+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Reynaldo Encourages Tourism as a Driver of the National Economy at the Second HIPMI Caketum Debate",
       "source": "Republika English",
@@ -425,30 +439,58 @@
       "url": "https://ameera.republika.co.id/berita/tfczzf425/rupiah-melemah-ini-tips-bijak-atur-keuangan-menurut-pakar",
       "published_date": "2026-05-20T23:30:51+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "VinFast Waiting for the Results of the Green SM Taxi Accident Investigation in Bekasi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfczrh348/vinfast-tunggu-hasil-investigasi-kecelakaan-taksi-green-sm-di-bekasi",
-      "published_date": "2026-05-20T23:26:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rupiah Falls, Anies Urges Government to Seriously Face Economic Pressure",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfczfs484/rupiah-anjlok-anies-desak-pemerintah-serius-hadapi-tekanan-ekonomi",
-      "published_date": "2026-05-20T23:19:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Get Ready to Become a Billionaire! The draw for HOKI 2026 Period 1 will be held soon",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfc6i8368/siapsiap-jadi-miliarder-pengundian-bagi-hoki-2026-periode-1-segera-digelar",
-      "published_date": "2026-05-20T12:54:08+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Barcelona dominates the Spanish squad for the 2026 World Cup, Real Madrid is without a representative",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tflido348/barcelona-dominasi-skuad-spanyol-untuk-piala-dunia-2026-real-madrid-tanpa-wakil",
+      "published_date": "2026-05-25T13:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "YIS's Golden Village Program Can Export Coffee to Malaysia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tflibj484/program-desa-emas-binaan-yis-bisa-ekspor-kopi-ke-malaysia",
+      "published_date": "2026-05-25T13:47:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Minister of Haj ensured that the paper affixed by KBIHU to Arafah's tent had been removed",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tflgdb430/menhaj-pastikan-kertas-yang-ditempel-kbihu-di-tenda-arafah-telah-dilepas",
+      "published_date": "2026-05-25T13:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Review Adahi, Amirul Haj: The Slaughter of Indonesian Hajj Pilgrims Dam is Jurisprudentially Legal",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tflg1y430/tinjau-adahi-amirul-haj-penyembelihan-dam-jamaah-haji-indonesia-sah-secara-fikih",
+      "published_date": "2026-05-25T13:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cool! Vocational School Students in Bali Show Off Advanced Robots at Bali InnoTech 2026",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfla3s375/keren-siswa-smk-di-bali-pamerkan-robot-canggih-di-bali-innotech-2026",
+      "published_date": "2026-05-25T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of Thousands of Indonesian Hajj Pilgrims Perform Tarwiyah, Can't Walk",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tflfvu430/belasan-ribu-jamaah-haji-indonesia-lakukan-tarwiyah-tak-boleh-jalan-kaki",
+      "published_date": "2026-05-25T12:55:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Wamanaker Noel Ebenezer's sentencing hearing will be held on June 4, 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tflfj6409/sidang-vonis-eks-wamanaker-noel-ebenezer-digelar-4-juni-2026",
+      "published_date": "2026-05-25T12:47:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Muslim World League Holds Free Medical Clinic Program in Sukabumi",
       "source": "Republika English",
@@ -538,55 +580,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfjgjj487/butuh-lahan-1000-meter-persegi-jadi-hambatan-pembangunan-gedung-koperasi-desa-merah-putih",
       "published_date": "2026-05-24T11:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proclaiming an Indonesia without Violence, Female Ulama Launches Atlas of Traces of Struggle",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfjgie320/gaungkan-indonesia-tanpa-kekerasan-ulama-perempuan-luncurkan-atlas-jejak-perjuangan",
-      "published_date": "2026-05-24T11:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maimon Herawati: Türkiye Sends Three Planes, I Feel Türkiye is Behind the Scene",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfjg5r487/maimon-herawati-turki-kirim-tiga-pesawat-saya-merasa-turki-behind-the-scene",
-      "published_date": "2026-05-24T11:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breaking into the Top 20 Nationally, Unsoed Purwokerto Receives P2MW and PKM Funding 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfjd0w451/tembus-20-besar-nasional-unsoed-purwokerto-borong-pendanaan-p2mw-dan-pkm-2026",
-      "published_date": "2026-05-24T10:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Has the Sacrifice Law Ever Occurred in the Era of Prophet Adam?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfjf7r320/syariat-qurban-sudah-pernah-berlaku-di-era-nabi-adam",
-      "published_date": "2026-05-24T10:45:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persib Bandung is the key to winning the league title this season",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfjdc0451/persib-bandung-kunci-gelar-juara-liga-musim-ini",
-      "published_date": "2026-05-24T10:04:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Groups of People Who Should Not Follow the IF Diet Pattern",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tfijd0425/kelompok-orang-yang-sebaiknya-nggak-ikuti-pola-diet-if",
-      "published_date": "2026-05-23T23:17:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrival Phase Ends, Indonesian Hajj Pilgrims Prepare for the Peak of Hajj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfij02328/fase-kedatangan-berakhir-jamaah-haji-indonesia-bersiap-menuju-puncak-haji",
-      "published_date": "2026-05-23T23:09:38+00:00",
       "category": "Local Events"
     }
   ]
