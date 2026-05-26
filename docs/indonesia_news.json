@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "MHU Equal Education Program Helps Citizens Get Jobs",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tfncgv416/program-pendidikan-kesetaraan-mhu-bantu-warga-dapat-kerja",
+      "published_date": "2026-05-26T13:36:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "AFF U-19 Cup Participants Begin to Arrive, North Sumatra is Ready to Host the Southeast Asian Event",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfm9t6348/peserta-piala-aff-u19-mulai-tiba-sumut-siap-jadi-tuan-rumah-ajang-asia-tenggara",
@@ -69,16 +76,23 @@
       "url": "https://news.republika.co.id/berita/tfb24k393/seluruh-wni-peserta-armada-global-sumud-akhirnya-diculik-israel",
       "published_date": "2026-05-19T22:21:56+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Enzo Maresca Reportedly Agrees to Replace Pep Guardiola at Manchester City",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfabxs348/enzo-maresca-dikabarkan-sepakat-gantikan-pep-guardiola-di-manchester-city",
-      "published_date": "2026-05-19T13:07:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Surabaya Prison Facilitates Inmates Communication with Families via Wartelsuspas",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfna9s375/lapas-surabaya-fasilitasi-warga-binaan-komunikasi-dengan-keluarga-via-wartelsuspas",
+      "published_date": "2026-05-26T13:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI will Deploy Combat Battalions to Handle Robbery Actions, Civil Society Coalition: Excessive",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfn9dx409/tni-akan-kerahkan-batalyon-tempur-tangani-aksi-begal-koalisi-masyarakat-sipil-berlebihan",
+      "published_date": "2026-05-26T12:29:57+00:00",
+      "category": "Military"
+    },
     {
       "title": "Danseskoad Calls Historic, RI 1 Gives Briefing to 1,095 TNI and Polri Officers",
       "source": "Republika English",
@@ -204,20 +218,6 @@
       "url": "https://news.republika.co.id/berita/tfc7aa368/buku-karya-polri-kupas-perspektif-baru-tentang-ancaman-digital",
       "published_date": "2026-05-20T13:10:58+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Pete Hegseth Offers MRO C-130 Hercules USAF Asia Centered in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfb0zh484/pete-hegseth-tawarkan-mro-c130-hercules-usaf-asia-dipusatkan-di-indonesia",
-      "published_date": "2026-05-19T23:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rafale Strengthens Indonesia's Air Defense, New Chapter of TNI AU Modernization",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfb3788530000/rafale-perkuat-pertahanan-udara-indonesia-babak-baru-modernisasi-tni-au",
-      "published_date": "2026-05-19T22:45:08+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -307,6 +307,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "PTP Non-Containerized Tanjung Priok Branch Implements Environmentally Friendly Port Loading and Unloading Equipment",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfnd2y472/ptp-nonpetikemas-cabang-tanjung-priok-implementasikan-alat-bongkar-muat-pelabuhan-ramah-lingkungan",
+      "published_date": "2026-05-26T13:49:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Creative Economy: Government Agrees to Reduce Writer's Royalty Income Tax from 15 Percent to 1.5 Percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfnc7s472/menteri-ekraf-pemerintah-sepakati-turunkan-pph-royalti-penulis-dari-15-persen-jadi-15-persen",
+      "published_date": "2026-05-26T13:31:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Manpower Responds to Potential Layoffs Amid Weakening Rupiah",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfn8tx423/menaker-respons-potensi-phk-di-tengah-pelemahan-rupiah",
+      "published_date": "2026-05-26T12:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Deputy Minister of Agriculture: Making Rice Fields a Long-Term Food Investment",
       "source": "Republika English",
@@ -425,30 +446,65 @@
       "url": "https://visual.republika.co.id/berita/tfe131375/ihsg-terpukul-di-penutupan-perdagangan-turun-lebih-dari-200-poin",
       "published_date": "2026-05-21T13:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Corruption Eradication Committee Responds to Prabowo's Statement about the Minister of Finance being able to replace the Head of Customs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfe1v0409/kpk-respons-pernyataan-prabowo-soal-menkeu-bisa-ganti-pimpinan-bea-cukai",
-      "published_date": "2026-05-21T13:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Not just saving, this is how to maintain finances in the midst of global turmoil",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfdzba416/tak-cuma-menabung-ini-cara-jaga-keuangan-di-tengah-gejolak-global",
-      "published_date": "2026-05-21T13:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inter Miami Reportedly Soon to Recruit Casemiro",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfd0jf348/inter-miami-dilaporkan-segera-rekrut-casemiro",
-      "published_date": "2026-05-20T23:42:51+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Conditions are gradually improving, GSF volunteer Heru is scheduled to go home tonight",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfncik348/kondisi-berangsur-membaik-relawan-gsf-heru-dijadwalkan-pulang-malam-ini",
+      "published_date": "2026-05-26T13:37:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Types of Sleep: Qailulah to the Worst",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfn8eo458/jenisjenis-tidur-qailulah-hingga-yang-terburuk",
+      "published_date": "2026-05-26T13:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rows of World Women Activists Who Dare to Lay Down Their Lives to Break the Gaza Blockade",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfnbnk425/deretan-aktivis-perempuan-dunia-yang-berani-taruh-nyawa-tembus-blokade-gaza",
+      "published_date": "2026-05-26T13:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Makassar High Court judge was fired because he was proven to have received 1 billion in bribes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfn9rp409/hakim-pengadilan-tinggi-makassar-ini-dipecat-karena-terbukti-terima-suap-1-miliar",
+      "published_date": "2026-05-26T12:38:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRI Insurance-PNM Strengthens Coastal Ecosystems Through Mangrove Planting",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfn9jt370/bri-insurancepnm-perkuat-ekosistem-pesisir-lewat-penanaman-mangrove",
+      "published_date": "2026-05-26T12:33:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aladin Syariah Bank Collaborates with Muhammadiyah to Distribute Qurbani to Remote Areas",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfn5x5416/bank-aladin-syariah-gandeng-muhammadiyah-distribusikan-kurban-kedaerah-pelosok",
+      "published_date": "2026-05-26T12:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Story of Prophet Ibrahim Wanting to Slaughter His Son",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfn7uv458/kisah-nabi-ibrahim-hendak-menyembelih-putranya",
+      "published_date": "2026-05-26T12:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo’s foreign stooge myth: Are Indonesians buying it?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowos-foreign-stooge-myth-are-indonesians-buying-it/",
+      "published_date": "2026-05-26T00:23:48+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Colombia pins hopes on James Rodriguez and Luis Diaz at the 2026 World Cup",
       "source": "Republika English",
@@ -531,62 +587,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tfla3s375/keren-siswa-smk-di-bali-pamerkan-robot-canggih-di-bali-innotech-2026",
       "published_date": "2026-05-25T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of Thousands of Indonesian Hajj Pilgrims Perform Tarwiyah, Can't Walk",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tflfvu430/belasan-ribu-jamaah-haji-indonesia-lakukan-tarwiyah-tak-boleh-jalan-kaki",
-      "published_date": "2026-05-25T12:55:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Wamanaker Noel Ebenezer's sentencing hearing will be held on June 4, 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tflfj6409/sidang-vonis-eks-wamanaker-noel-ebenezer-digelar-4-juni-2026",
-      "published_date": "2026-05-25T12:47:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muslim World League Holds Free Medical Clinic Program in Sukabumi",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfkff2484/muslim-world-league-gelar-program-klinik-medis-gratis-di-sukabumi",
-      "published_date": "2026-05-24T23:47:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian League Serie A Final Standings: Como and Roma Win Champions League Tickets in the Final Week",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfkexu348/klasemen-akhir-serie-a-liga-italia-como-dan-roma-rebut-tiket-liga-champions-di-pekan-terakhir",
-      "published_date": "2026-05-24T23:37:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A series of foods and drinks that are secretly the cause of heartburn",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tfkegk425/deretan-makanan-dan-minuman-yang-diamdiam-jadi-biang-kerok-nyeri-ulu-hati",
-      "published_date": "2026-05-24T23:26:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Wants MRO Hercules in Indonesia, Governor of Lemhannas: This is the Investment Part",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfke2z484/as-ingin-mro-hercules-di-indonesia-gubernur-lemhannas-ini-bagian-investasi",
-      "published_date": "2026-05-24T23:18:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Last week of May 2026, this is the projected gold price movement",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfjqni490/pekan-terakhir-mei-2026-ini-proyeksi-pergerakan-harga-emas",
-      "published_date": "2026-05-24T23:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Model Gazini Ganados' Emotional Struggle to Save Her Family in Gaza",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tfkdjz425/perjuangan-emosional-model-gazini-ganados-selamatkan-keluarganya-di-gaza",
-      "published_date": "2026-05-24T23:07:11+00:00",
       "category": "Local Events"
     }
   ]
