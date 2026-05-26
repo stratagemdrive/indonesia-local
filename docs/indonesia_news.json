@@ -69,16 +69,23 @@
       "url": "https://news.republika.co.id/berita/tfe3ft377/menlu-ri-sembilan-wni-ditangkap-israel-telah-dibebaskan-sekarang-menuju-turki",
       "published_date": "2026-05-21T13:43:05+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "All Indonesian citizens participating in the Sumud Global Fleet were finally kidnapped by Israel",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfb24k393/seluruh-wni-peserta-armada-global-sumud-akhirnya-diculik-israel",
-      "published_date": "2026-05-19T22:21:56+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Entrepreneurs Warn of the Risk of Obstacles to Palm Oil Exports Through One-Stop Scheme",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfo3je490/pengusaha-ingatkan-risiko-hambatan-ekspor-sawit-lewat-skema-satu-pintu",
+      "published_date": "2026-05-26T23:21:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Cry of the Widow of an Elite Trooper: America Only Cares About War When It's All Over",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfn50v451/tangis-janda-pasukan-elite-amerika-hanya-peduli-perang-saat-semuanya-berakhir",
+      "published_date": "2026-05-26T23:02:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Surabaya Prison Facilitates Inmates Communication with Families via Wartelsuspas",
       "source": "Republika English",
@@ -204,23 +211,16 @@
       "url": "https://republika.co.id/berita//tfeawy451/bangun-jembatan-gantung-240-meter-di-aceh-tamiang-tni-ad-puluhan-tahun-warga-tak-punya-akses",
       "published_date": "2026-05-21T22:14:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "The government plans to make Kertajati Airport a maintenance center for US Hercules aircraft in Asia",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfe1o9282/pemerintah-berencana-jadikan-bandara-kertajati-jadi-pusat-perawatan-pesawat-hercules-as-di-asia",
-      "published_date": "2026-05-21T13:04:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "This book by the National Police examines new perspectives on digital threats",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfc7aa368/buku-karya-polri-kupas-perspektif-baru-tentang-ancaman-digital",
-      "published_date": "2026-05-20T13:10:58+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Cigasong-Jatiwangi Road Repairs Begin, West Java Provincial Government Disburses IDR 12 Billion Budget",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfnr61282/perbaikan-jalan-cigasongjatiwangi-dimulai-pemprov-jabar-kucurkan-anggaran-rp12-miliar",
+      "published_date": "2026-05-26T23:28:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Incubation Program Encourages the Emergence of Clean Energy and Environmental Startups",
       "source": "Republika English",
@@ -290,23 +290,30 @@
       "url": "https://ekonomi.republika.co.id/berita/tfc6x3484/organisasi-petani-soroti-rencana-pemerintah-ekspor-sawit-wajib-lewat-bumn",
       "published_date": "2026-05-20T13:03:03+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Kalimantan Surrounded by 9,853 Hot Spots Ahead of El Nino",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tfb3zz423/kalimantan-dikepung-9853-titik-panas-menjelang-el-nino",
-      "published_date": "2026-05-19T23:02:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Minister of Agriculture: Implementation of B50 Will Not Disrupt Cooking Oil Supply",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfb2ib8730000/mentan-implementasi-b50-tak-ganggu-pasokan-minyak-goreng",
-      "published_date": "2026-05-19T22:30:11+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Government Delays Tax Incentives for Electric Vehicles, This is Purbaya's Explanation",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tfo2nc490/pemerintah-tunda-insentif-pajak-kendaraan-listrik-ini-penjelasan-purbaya",
+      "published_date": "2026-05-26T23:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Tourism Develops System to Improve Digital Accommodation Governance",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfo1bx490/kemenpar-kembangkan-sistem-untuk-benahi-tata-kelola-akomodasi-digital",
+      "published_date": "2026-05-26T23:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Government Cuts Tax on Writers to 1.5 Percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfo26s490/pemerintah-pangkas-pajak-penulis-jadi-15-persen",
+      "published_date": "2026-05-26T22:52:04+00:00",
+      "category": "Economy"
+    },
     {
       "title": "PTP Non-Containerized Tanjung Priok Branch Implements Environmentally Friendly Port Loading and Unloading Equipment",
       "source": "Republika English",
@@ -425,30 +432,51 @@
       "url": "https://ekonomi.republika.co.id/berita/tfev1s423/kepala-bp-bumn-ungkap-syarat-jadi-direksi-bumn",
       "published_date": "2026-05-21T23:39:28+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Hana Bank Earns Profit of IDR 200.78 Billion, Encourages Business Through LINE Bank",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfetsv502/hana-bank-raup-laba-rp20078-miliar-dorong-bisnis-lewat-line-bank",
-      "published_date": "2026-05-21T23:12:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "West Sulawesi Ministry of Law Encourages MSMEs to Improve Business Legality",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfeqgy4030000/kemenkum-sulbar-dorong-umkm-tingkatkan-legalitas-usaha",
-      "published_date": "2026-05-21T22:00:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "JCI was hit at the close of trading, dropping more than 200 points",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfe131375/ihsg-terpukul-di-penutupan-perdagangan-turun-lebih-dari-200-poin",
-      "published_date": "2026-05-21T13:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Circling Takbir and Torch Parade Enliven the Night of Eid al-Adha in a Number of Districts",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfnjc5375/takbir-keliling-dan-pawai-obor-semarakkan-malam-idul-adha-di-sejumlah-daerah",
+      "published_date": "2026-05-26T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Falling while laying roof tiles, school guard in West Bandung dies covered in blood",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfnoxr282/jatuh-saat-betulin-genteng-penjaga-sekolah-di-bandung-barattewas-bersimbah-darah",
+      "published_date": "2026-05-26T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BPK Gives South Kalimantan Regional Government a 60 Day Deadline to Follow Up on Audit Findings",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfo1v78130000/bpk-beri-tenggat-60-hari-pemda-kalsel-tindaklanjuti-temuan-audit",
+      "published_date": "2026-05-26T22:45:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Central Sulawesi Directorate General of Police Searches Women's Prison in Sigi, Seizes Prohibited Items",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfo1671730000/ditjenpas-sulteng-geledah-lapas-perempuan-di-sigi-amankan-barang-terlarang",
+      "published_date": "2026-05-26T22:30:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Sulawesi Holds Cheap Food Movement Ahead of Eid al-Adha",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfo0h71030000/sulbar-gelar-gerakan-pangan-murah-jelang-idul-adha",
+      "published_date": "2026-05-26T22:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj pilgrims must know, these are the prohibitions on Ihram that are often forgotten",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfnaxd366/jamaah-haji-wajib-tahu-ini-larangan-ihram-yang-kerap-terlupakan",
+      "published_date": "2026-05-26T22:03:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Conditions are gradually improving, GSF volunteer Heru is scheduled to go home tonight",
       "source": "Republika English",
@@ -545,48 +573,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfm6vy368/bekali-guru-hadapi-era-ai-umj-gelar-workshop-koding-dan-kecerdasan-artifisial",
       "published_date": "2026-05-25T22:38:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tears of the King of Egypt",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tflgiu415/air-mata-raja-mesir",
-      "published_date": "2026-05-25T22:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona dominates the Spanish squad for the 2026 World Cup, Real Madrid is without a representative",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tflido348/barcelona-dominasi-skuad-spanyol-untuk-piala-dunia-2026-real-madrid-tanpa-wakil",
-      "published_date": "2026-05-25T13:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "YIS's Golden Village Program Can Export Coffee to Malaysia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tflibj484/program-desa-emas-binaan-yis-bisa-ekspor-kopi-ke-malaysia",
-      "published_date": "2026-05-25T13:47:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Haj ensured that the paper affixed by KBIHU to Arafah's tent had been removed",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tflgdb430/menhaj-pastikan-kertas-yang-ditempel-kbihu-di-tenda-arafah-telah-dilepas",
-      "published_date": "2026-05-25T13:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Review Adahi, Amirul Haj: The Slaughter of Indonesian Hajj Pilgrims Dam is Jurisprudentially Legal",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tflg1y430/tinjau-adahi-amirul-haj-penyembelihan-dam-jamaah-haji-indonesia-sah-secara-fikih",
-      "published_date": "2026-05-25T13:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cool! Vocational School Students in Bali Show Off Advanced Robots at Bali InnoTech 2026",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfla3s375/keren-siswa-smk-di-bali-pamerkan-robot-canggih-di-bali-innotech-2026",
-      "published_date": "2026-05-25T13:00:00+00:00",
       "category": "Local Events"
     }
   ]
