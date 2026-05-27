@@ -73,6 +73,20 @@
   ],
   "Military": [
     {
+      "title": "MIND ID Group Distributes 1,735 Sacrificial Animals from Sumatra to Papua",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfp7k0472/grup-mind-id-salurkan-1735-hewan-kurban-dari-sumatra-hingga-papua",
+      "published_date": "2026-05-27T13:45:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf Conflict Triggers Umrah-Hajj Costs to Rise, This is Marco Travel's Strategy",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfp5d5484/konflik-teluk-picu-biaya-umrahhaji-naik-ini-strategi-marco-travel",
+      "published_date": "2026-05-27T12:58:17+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Entrepreneurs Warn of the Risk of Obstacles to Palm Oil Exports Through One-Stop Scheme",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tfo3je490/pengusaha-ingatkan-risiko-hambatan-ekspor-sawit-lewat-skema-satu-pintu",
@@ -197,20 +211,6 @@
       "url": "https://visual.republika.co.id/berita/tffrdw375/polri-perkuat-digitalisasi-pelayanan-publik-lewat-inovasi-korlantas",
       "published_date": "2026-05-22T12:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Indonesian Consul General Reveals that Indonesian Citizens Kidnapped by Israel Experienced Torture: Kicked and Electrocuted",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfetep502/konjen-ri-ungkap-wni-yang-diculik-israel-alami-penyiksaan-ditendang-hingga-disetrum",
-      "published_date": "2026-05-21T23:04:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TNI AD Builds 240 Meter Suspension Bridge in Aceh Tamiang: Residents Have Had No Access for Decades",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tfeawy451/bangun-jembatan-gantung-240-meter-di-aceh-tamiang-tni-ad-puluhan-tahun-warga-tak-punya-akses",
-      "published_date": "2026-05-21T22:14:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -282,13 +282,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tfczd5522/hadapi-tantangan-geopolitik-indonesia-perkuat-kolaborasi-untuk-jaga-ketahanan-energi-nasional",
       "published_date": "2026-05-20T23:17:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Farmers' Organization Highlights Government's Plan to Compulsory Palm Oil Exports Through BUMN",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfc6x3484/organisasi-petani-soroti-rencana-pemerintah-ekspor-sawit-wajib-lewat-bumn",
-      "published_date": "2026-05-20T13:03:03+00:00",
       "category": "Energy"
     }
   ],
@@ -436,6 +429,83 @@
   ],
   "Local Events": [
     {
+      "title": "Jeje Regent Directly Monitors Busy Slaughterhouse During Eid al-Adha",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfp7zw472/bupati-jeje-pantau-langsung-kesibukan-rumah-jagal-saat-idul-adha",
+      "published_date": "2026-05-27T13:55:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BSN Bank Distributes Hundreds of Sacrificial Animals to Various Regions",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tfp7qy416/bank-bsn-salurkan-ratusan-hewan-kurban-ke-berbagai-daerah",
+      "published_date": "2026-05-27T13:49:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of tons of garbage in Cimahi City not transported to Sarimukti landfill",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfp7j7487/ratusan-ton-sampah-di-kota-cimahi-tak-terangkut-ke-tpa-sarimukti",
+      "published_date": "2026-05-27T13:45:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golkar DKI Jakarta Distributes 117 Sacrificial Animals in Five Areas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfp73x522/golkar-dki-jakarta-distribusikan-117-hewan-kurban-di-lima-wilayah",
+      "published_date": "2026-05-27T13:35:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government Prepares New Scheme for Infrastructure Funding in Regions",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfp685423/pemerintah-siapkan-skema-baru-pendanaan-infrastruktur-di-daerah",
+      "published_date": "2026-05-27T13:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motorcycle involved in accident on Purbaleunyi toll road, how come?",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfp6gz487/sepeda-motor-terlibat-kecelakaan-di-tol-purbaleunyi-kok-bisa",
+      "published_date": "2026-05-27T13:22:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qasidah Containing a Request to Cover One's Evils",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tfp67g451/kasidah-yang-berisikan-permohonan-menutup-keburukan-diri",
+      "published_date": "2026-05-27T13:16:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "112 Students Exposed to Radicalism from Social Media and Online Games, Here's KemenPPPA's Response",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfp5zw487/112-siswa-terpapar-radikalisme-dari-medsos-dan-game-online-begini-respons-kemenpppa",
+      "published_date": "2026-05-27T13:11:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Long Eid Al-Adha Weekend, KAI Records Nearly 1 Million Train Passengers",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfp5xj423/long-weekend-iduladha-kai-catat-penumpang-kereta-hampir-tembus-1-juta",
+      "published_date": "2026-05-27T13:10:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The President's Sacrificial Cow is Slaughtered at the Great Mosque of Manunggal Bantul on Thursday",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfp4k4484/sapi-kurban-presiden-disembelih-di-masjid-agung-manunggal-bantul-pada-kamis",
+      "published_date": "2026-05-27T12:40:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cow sacrificial animal weighing 1.25 tons, aided by the President, is slaughtered at Ciroyom Bandung RPH",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfp42i282/hewan-kurban-sapi-berbobot-125-ton-bantuan-presiden-dipotong-di-rph-ciroyom-bandung",
+      "published_date": "2026-05-27T12:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Circling Takbir and Torch Parade Enliven the Night of Eid al-Adha in a Number of Districts",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tfnjc5375/takbir-keliling-dan-pawai-obor-semarakkan-malam-idul-adha-di-sejumlah-daerah",
@@ -496,83 +566,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tfnbnk425/deretan-aktivis-perempuan-dunia-yang-berani-taruh-nyawa-tembus-blokade-gaza",
       "published_date": "2026-05-26T13:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Makassar High Court judge was fired because he was proven to have received 1 billion in bribes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfn9rp409/hakim-pengadilan-tinggi-makassar-ini-dipecat-karena-terbukti-terima-suap-1-miliar",
-      "published_date": "2026-05-26T12:38:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BRI Insurance-PNM Strengthens Coastal Ecosystems Through Mangrove Planting",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfn9jt370/bri-insurancepnm-perkuat-ekosistem-pesisir-lewat-penanaman-mangrove",
-      "published_date": "2026-05-26T12:33:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aladin Syariah Bank Collaborates with Muhammadiyah to Distribute Qurbani to Remote Areas",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfn5x5416/bank-aladin-syariah-gandeng-muhammadiyah-distribusikan-kurban-kedaerah-pelosok",
-      "published_date": "2026-05-26T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Story of Prophet Ibrahim Wanting to Slaughter His Son",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfn7uv458/kisah-nabi-ibrahim-hendak-menyembelih-putranya",
-      "published_date": "2026-05-26T12:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo’s foreign stooge myth: Are Indonesians buying it?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowos-foreign-stooge-myth-are-indonesians-buying-it/",
-      "published_date": "2026-05-26T00:23:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia pins hopes on James Rodriguez and Luis Diaz at the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfm9l0348/kolombia-gantungkan-harapan-pada-james-rodriguez-dan-luis-diaz-di-piala-dunia-2026",
-      "published_date": "2026-05-25T23:36:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shocking Data from the Ministry of Health: 663 Thousand Indonesian Children Experience a Spike in Blood Pressure",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tfm9k3425/data-mengejutkan-kemenkes-663-ribu-anak-indonesia-alami-lonjakan-tekanan-darah",
-      "published_date": "2026-05-25T23:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puncak Haji, Ministry of Haj Prepares Health Posts in Arafah and Mina",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfm7br366/puncak-haji-kemenhaj-siagakan-pos-kesehatan-di-arafah-dan-mina",
-      "published_date": "2026-05-25T23:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After winning the Super League, Persib changed to a new coach",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfm7fl348/usai-juara-super-league-persib-ganti-pelatih-baru",
-      "published_date": "2026-05-25T22:50:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AC Milan Fires Coach Massimiliano Allegri After Failing to Qualify for the Champions League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfm72q348/ac-milan-depak-pelatih-massimiliano-allegri-setelah-gagal-lolos-ke-liga-champions",
-      "published_date": "2026-05-25T22:42:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Equipping Teachers to Face the AI ​​Era, UMJ Holds a Coding and Artificial Intelligence Workshop",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfm6vy368/bekali-guru-hadapi-era-ai-umj-gelar-workshop-koding-dan-kecerdasan-artifisial",
-      "published_date": "2026-05-25T22:38:22+00:00",
       "category": "Local Events"
     }
   ]
