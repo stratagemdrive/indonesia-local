@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Barcelona agrees to transfer Anthony Gordon from Newcastle",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpv5c230000/barcelona-sepakati-transfer-anthony-gordon-dari-newcastle",
+      "published_date": "2026-05-27T22:15:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "MHU Equal Education Program Helps Citizens Get Jobs",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tfncgv416/program-pendidikan-kesetaraan-mhu-bantu-warga-dapat-kerja",
@@ -72,6 +79,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Diaspora Praises Prabowo as a Modern Warrior in Paris",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpmwj9730000/diaspora-puji-prabowo-sebagai-pejuang-modern-di-paris",
+      "published_date": "2026-05-27T19:17:07+00:00",
+      "category": "Military"
+    },
     {
       "title": "MIND ID Group Distributes 1,735 Sacrificial Animals from Sumatra to Papua",
       "source": "Republika English",
@@ -204,13 +218,6 @@
       "url": "https://analisis.republika.co.id/berita/tff6rp393/ketika-dunia-bergerak-menuju-hukum-rimba",
       "published_date": "2026-05-22T12:47:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Polri Strengthens Digitalization of Public Services Through Traffic Corps Innovation",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tffrdw375/polri-perkuat-digitalisasi-pelayanan-publik-lewat-inovasi-korlantas",
-      "published_date": "2026-05-22T12:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -268,20 +275,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tfe8sy416/penguatan-tata-kelola-ekspor-sawit-diharapkan-tetap-prioritaskan-petani",
       "published_date": "2026-05-21T23:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pertamina EP Secures Gas Supply for Oil and Gas Industry and Operations",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfcz0m423/pertamina-ep-amankan-pasokan-gas-untuk-industri-dan-operasi-migas",
-      "published_date": "2026-05-20T23:25:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Facing Geopolitical Challenges, Indonesia Strengthens Collaboration to Maintain National Energy Security",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfczd5522/hadapi-tantangan-geopolitik-indonesia-perkuat-kolaborasi-untuk-jaga-ketahanan-energi-nasional",
-      "published_date": "2026-05-20T23:17:29+00:00",
       "category": "Energy"
     }
   ],
@@ -429,6 +422,69 @@
   ],
   "Local Events": [
     {
+      "title": "Van Dijk becomes captain, Netherlands ready to aim for first world trophy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpzfh348/van-dijk-jadi-kapten-belanda-siap-bidik-trofi-dunia-pertama",
+      "published_date": "2026-05-27T23:47:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bogor Hornbills take turns defeating Bengawan Solo Knights, forcing third game of playoffs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpz5z348/bogor-hornbills-gantian-taklukkan-kesatria-bengawan-solo-paksakan-gim-ketiga-playoff",
+      "published_date": "2026-05-27T23:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yudha goes berserk in the final quarter, Satria Muda defeats Hangtuah and advances to the IBL semifinals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpylt348/yudha-mengamuk-di-kuarter-akhir-satria-muda-kalahkan-hangtuah-dan-lolos-ke-semifinal-ibl",
+      "published_date": "2026-05-27T23:29:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crystal Palace Wins 2025/26 Conference League After Beating Rayo Vallecano",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpvu95730000/crystal-palace-juara-liga-conference-202526-usai-kalahkan-rayo-vallecano",
+      "published_date": "2026-05-27T22:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vinicius Junior Affirms Commitment to Real Madrid",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpugc230000/vinicius-junior-tegaskan-komitmen-untuk-real-madrid",
+      "published_date": "2026-05-27T22:00:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Distributes 485 Sacrificial Cows, East Java PDIP Emphasizes Social Concern and Solidarity",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tfp264320/salurkan-485-sapi-qurban-pdip-jatim-tekankan-kepedulian-sosial-dan-solidaritas",
+      "published_date": "2026-05-27T20:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bintan Regent Hands Over Sacrificial Cow from President Prabowo",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpo7b7530000/bupati-bintan-serahkan-sapi-kurban-dari-presiden-prabowo",
+      "published_date": "2026-05-27T19:45:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Religion: Eid al-Adha is a Momentum for Sharing and Togetherness",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpnk15830000/menag-idul-adha-momentum-saling-berbagi-dan-kebersamaan",
+      "published_date": "2026-05-27T19:31:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kasper Schmeichel Officially Retires from Professional Football",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfpmvb5330000/kasper-schmeichel-resmi-pensiun-dari-sepak-bola-profesional",
+      "published_date": "2026-05-27T19:16:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Jeje Regent Directly Monitors Busy Slaughterhouse During Eid al-Adha",
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tfp7zw472/bupati-jeje-pantau-langsung-kesibukan-rumah-jagal-saat-idul-adha",
@@ -503,69 +559,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tfp42i282/hewan-kurban-sapi-berbobot-125-ton-bantuan-presiden-dipotong-di-rph-ciroyom-bandung",
       "published_date": "2026-05-27T12:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Circling Takbir and Torch Parade Enliven the Night of Eid al-Adha in a Number of Districts",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfnjc5375/takbir-keliling-dan-pawai-obor-semarakkan-malam-idul-adha-di-sejumlah-daerah",
-      "published_date": "2026-05-26T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Falling while laying roof tiles, school guard in West Bandung dies covered in blood",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfnoxr282/jatuh-saat-betulin-genteng-penjaga-sekolah-di-bandung-barattewas-bersimbah-darah",
-      "published_date": "2026-05-26T22:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BPK Gives South Kalimantan Regional Government a 60 Day Deadline to Follow Up on Audit Findings",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfo1v78130000/bpk-beri-tenggat-60-hari-pemda-kalsel-tindaklanjuti-temuan-audit",
-      "published_date": "2026-05-26T22:45:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Sulawesi Directorate General of Police Searches Women's Prison in Sigi, Seizes Prohibited Items",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfo1671730000/ditjenpas-sulteng-geledah-lapas-perempuan-di-sigi-amankan-barang-terlarang",
-      "published_date": "2026-05-26T22:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Sulawesi Holds Cheap Food Movement Ahead of Eid al-Adha",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfo0h71030000/sulbar-gelar-gerakan-pangan-murah-jelang-idul-adha",
-      "published_date": "2026-05-26T22:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj pilgrims must know, these are the prohibitions on Ihram that are often forgotten",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfnaxd366/jamaah-haji-wajib-tahu-ini-larangan-ihram-yang-kerap-terlupakan",
-      "published_date": "2026-05-26T22:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conditions are gradually improving, GSF volunteer Heru is scheduled to go home tonight",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfncik348/kondisi-berangsur-membaik-relawan-gsf-heru-dijadwalkan-pulang-malam-ini",
-      "published_date": "2026-05-26T13:37:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Types of Sleep: Qailulah to the Worst",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfn8eo458/jenisjenis-tidur-qailulah-hingga-yang-terburuk",
-      "published_date": "2026-05-26T13:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rows of World Women Activists Who Dare to Lay Down Their Lives to Break the Gaza Blockade",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tfnbnk425/deretan-aktivis-perempuan-dunia-yang-berani-taruh-nyawa-tembus-blokade-gaza",
-      "published_date": "2026-05-26T13:18:56+00:00",
       "category": "Local Events"
     }
   ]
