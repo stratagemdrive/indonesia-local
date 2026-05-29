@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "After being fired by Milan, Allegri prepares to move to Napoli",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrtzs348/usai-dipecat-milan-allegri-bersiap-merapat-ke-napoli",
+      "published_date": "2026-05-28T23:45:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Barcelona agrees to transfer Anthony Gordon from Newcastle",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfpv5c230000/barcelona-sepakati-transfer-anthony-gordon-dari-newcastle",
@@ -55,16 +62,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tfg0d5416/kpr-hingga-kredit-mobil-murah-ramaikan-bri-consumer-expo-2026",
       "published_date": "2026-05-22T22:30:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "To Reduce Methane Gas Reduction, Minister of Jumhur Collaborates with South Korea",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfevao484/kurangi-reduksi-gas-metan-menteri-jumhur-gandeng-korsel",
-      "published_date": "2026-05-21T23:44:48+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Marselino Ready to Defend the Indonesian National Team Again, Praises Coach John Herdman's Acceptance and Methods",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrsyz348/marselino-siap-bela-timnas-indonesia-lagi-puji-penerimaan-dan-metode-pelatih-john-herdman",
+      "published_date": "2026-05-28T23:23:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "First, London Hosts the 70th Edition of the Ballon d'Or",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrrh3348/perdana-london-jadi-tuan-rumah-ballon-dor-edisi-ke70",
+      "published_date": "2026-05-28T22:58:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "BSI Maslahat Wins Three Awards at the 2026 Top CSR Awards",
       "source": "Republika English",
@@ -190,23 +204,16 @@
       "url": "https://news.republika.co.id/berita/tfhzee451/dipersenjatai-rudal-berbasis-ai-f35b-inggris-lulus-uji-coba-tembus-pertahanan-rusiachina",
       "published_date": "2026-05-23T20:52:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Receiving the 2026 UMY Awards, Indonesian Imams in New York are considered to have a strategic role",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tfhk3j291/peroleh-penghargaan-umy-awards-2026-imam-indonesia-di-new-york-dinilai-punya-peran-strategis",
-      "published_date": "2026-05-23T10:35:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Jakarta Nicknamed 'Gotham City', Legislators Urge Patrols and CCTV in Spots Prone to Gangsters",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfgpeq484/jakbar-dijuluki-gotham-city-legislator-desak-patroli-dan-cctv-di-titik-rawan-begal",
-      "published_date": "2026-05-22T23:32:50+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Sumatra Blackout Becomes Momentum to Accelerate Electricity Transmission Development",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfru5d370/blackout-sumatra-jadi-momentum-percepat-pembangunan-transmisi-listrik",
+      "published_date": "2026-05-28T23:48:49+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Cigasong-Jatiwangi Road Repairs Begin, West Java Provincial Government Disburses IDR 12 Billion Budget",
       "source": "Republika English",
@@ -248,23 +255,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tffu8t416/anak-usaha-jakpro-dan-adpmet-kerja-sama-tingkatkan-pengelolaan-migas-daerah",
       "published_date": "2026-05-22T12:44:39+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "ESDM Offers 118 Oil and Gas Working Areas, Bahlil: No Need to Negotiate Behind the Desk",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfeu4i502/esdm-tawarkan-118-wilayah-kerja-migas-bahlil-tak-perlu-nego-di-belakang-meja",
-      "published_date": "2026-05-21T23:19:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "It is hoped that strengthening palm oil export governance will continue to prioritize farmers",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfe8sy416/penguatan-tata-kelola-ekspor-sawit-diharapkan-tetap-prioritaskan-petani",
-      "published_date": "2026-05-21T23:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Prabowo Welcomes the Establishment of the France-Indonesia High Level Business Council",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrtez484/prabowo-sambut-pembentukan-franceindonesia-high-level-business-council",
+      "published_date": "2026-05-28T23:32:59+00:00",
+      "category": "Economy"
+    },
     {
       "title": "KPPU Summons TikTok and Tokopedia",
       "source": "Republika English",
@@ -397,16 +397,65 @@
       "url": "https://ekonomi.republika.co.id/berita/tffzhw416/kisah-yanti-bangun-usaha-kriya-dari-rumah-dengan-modal-pembiayaan-ultra-mikro",
       "published_date": "2026-05-22T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Prabowo Invites SBY Era Economic Officials to Accommodate Experiences in Facing the 2008 Crisis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tffvsp377/prabowo-undang-pejabat-ekonomi-era-sby-tampung-pengalaman-hadapi-krisis-2008",
-      "published_date": "2026-05-22T12:53:13+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Crutchlow Comeback at Mugello, Bezzecchi Wants to Make His Dream of Winning the Italian GP a Reality",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfruef348/crutchlow-comeback-di-mugello-bezzecchi-ingin-wujudkan-mimpi-juara-gp-italia",
+      "published_date": "2026-05-28T23:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nova Arianto Sets Target of Qualifying as Group Winner in the U-20 Asian Cup Qualification",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrsht348/nova-arianto-pasang-target-lolos-sebagai-juara-grup-pada-kualifikasi-piala-asia-u20",
+      "published_date": "2026-05-28T23:13:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Must Know! This is the schedule and hours for the prohibition on throwing the pilgrimage for the Indonesian Hajj pilgrims",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfr5zl366/wajib-tahu-ini-jadwal-dan-jam-larangan-lontar-jumrah-jamaah-haji-indonesia",
+      "published_date": "2026-05-28T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dahnil: At 06.30 WAS the Muzdalifah area was cleared of Indonesian pilgrims",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfrs15483/dahnil-jam-0630-was-kawasan-muzdalifah-sudah-bersih-dari-jamaah-ri",
+      "published_date": "2026-05-28T23:03:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lontar Jamrah and Mabit di Mina: A Real Moral School",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tfrryj451/lontar-jamrah-dan-mabit-di-mina-sekolah-akhlak-yang-nyata",
+      "published_date": "2026-05-28T23:01:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola, US-Canada-Mexico Releases Strict Travel Rules Ahead of 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrrr6451/ebola-askanadameksiko-rilis-aturan-perjalanan-ketat-jelang-piala-dunia-2026",
+      "published_date": "2026-05-28T22:57:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anticipating emergencies during the Jumrah pilgrimage, the Mobile Crisis Center is on standby in Jamarat",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfrrk7483/antisipasi-gawat-darurat-saat-lontar-jumrah-mobile-crisis-center-siaga-di-jamarat",
+      "published_date": "2026-05-28T22:52:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nerve Injury Damages Marc Marquez's Confidence",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfrr9w348/cedera-saraf-usik-kepercayaan-diri-marc-marquez",
+      "published_date": "2026-05-28T22:46:44+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Following Sudirman to Tosari, Seniors Enjoy City Tours from the Open Top Tour Jakarta Double-Decker Bus",
       "source": "Republika English",
@@ -489,62 +538,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfpvu95730000/crystal-palace-juara-liga-conference-202526-usai-kalahkan-rayo-vallecano",
       "published_date": "2026-05-27T22:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vinicius Junior Affirms Commitment to Real Madrid",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpugc230000/vinicius-junior-tegaskan-komitmen-untuk-real-madrid",
-      "published_date": "2026-05-27T22:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Distributes 485 Sacrificial Cows, East Java PDIP Emphasizes Social Concern and Solidarity",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tfp264320/salurkan-485-sapi-qurban-pdip-jatim-tekankan-kepedulian-sosial-dan-solidaritas",
-      "published_date": "2026-05-27T20:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bintan Regent Hands Over Sacrificial Cow from President Prabowo",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpo7b7530000/bupati-bintan-serahkan-sapi-kurban-dari-presiden-prabowo",
-      "published_date": "2026-05-27T19:45:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Religion: Eid al-Adha is a Momentum for Sharing and Togetherness",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpnk15830000/menag-idul-adha-momentum-saling-berbagi-dan-kebersamaan",
-      "published_date": "2026-05-27T19:31:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kasper Schmeichel Officially Retires from Professional Football",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpmvb5330000/kasper-schmeichel-resmi-pensiun-dari-sepak-bola-profesional",
-      "published_date": "2026-05-27T19:16:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeje Regent Directly Monitors Busy Slaughterhouse During Eid al-Adha",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfp7zw472/bupati-jeje-pantau-langsung-kesibukan-rumah-jagal-saat-idul-adha",
-      "published_date": "2026-05-27T13:55:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BSN Bank Distributes Hundreds of Sacrificial Animals to Various Regions",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tfp7qy416/bank-bsn-salurkan-ratusan-hewan-kurban-ke-berbagai-daerah",
-      "published_date": "2026-05-27T13:49:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of tons of garbage in Cimahi City not transported to Sarimukti landfill",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfp7j7487/ratusan-ton-sampah-di-kota-cimahi-tak-terangkut-ke-tpa-sarimukti",
-      "published_date": "2026-05-27T13:45:07+00:00",
       "category": "Local Events"
     }
   ]
