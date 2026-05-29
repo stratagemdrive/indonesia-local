@@ -66,6 +66,13 @@
   ],
   "Military": [
     {
+      "title": "Central Java Regional Police Allows Its Members to Shoot Dead Robbers If They Threaten Residents' Lives",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tfsszy282/polda-jateng-izinkan-anggotanya-tembak-mati-begal-jika-mengancam-nyawa-warga",
+      "published_date": "2026-05-29T13:13:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Marselino Ready to Defend the Indonesian National Team Again, Praises Coach John Herdman's Acceptance and Methods",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfrsyz348/marselino-siap-bela-timnas-indonesia-lagi-puji-penerimaan-dan-metode-pelatih-john-herdman",
@@ -197,13 +204,6 @@
       "url": "https://news.republika.co.id/berita/tfi0u8451/tuding-politisi-republik-pengkhianat-amarah-trump-bikin-partai-pendukungnya-terguncang",
       "published_date": "2026-05-23T23:01:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Armed with AI-Based Missiles, British F-35B Passes Russia-China Defense Penetration Test",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfhzee451/dipersenjatai-rudal-berbasis-ai-f35b-inggris-lulus-uji-coba-tembus-pertahanan-rusiachina",
-      "published_date": "2026-05-23T20:52:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -248,16 +248,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tfg1mn416/cuaca-dan-harga-pupuk-jadi-tantangan-emiten-sawit",
       "published_date": "2026-05-22T23:30:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Jakpro and ADPMET Subsidiaries Collaborate to Improve Regional Oil and Gas Management",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tffu8t416/anak-usaha-jakpro-dan-adpmet-kerja-sama-tingkatkan-pengelolaan-migas-daerah",
-      "published_date": "2026-05-22T12:44:39+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Economist: Tax Stimulus to Ticket Discounts Maintain People's Purchasing Power",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfsu21423/ekonom-stimulus-pajak-hingga-diskon-tiket-jaga-daya-beli-masyarakat",
+      "published_date": "2026-05-29T12:50:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Prabowo Welcomes the Establishment of the France-Indonesia High Level Business Council",
       "source": "Republika English",
@@ -390,16 +390,65 @@
       "url": "https://ekonomi.republika.co.id/berita/tfg5xy490/purbaya-ramal-ihsg-menguat-pekan-depan-ini-alasannya",
       "published_date": "2026-05-22T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Yanti's Story of Building a Craft Business from Home with Ultra Micro Financing Capital",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tffzhw416/kisah-yanti-bangun-usaha-kriya-dari-rumah-dengan-modal-pembiayaan-ultra-mikro",
-      "published_date": "2026-05-22T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "BRI's Liquidity and Capital Remain Strong until March 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfswzi423/likuiditas-dan-permodalan-bri-tetap-kuat-hingga-maret-2026",
+      "published_date": "2026-05-29T13:47:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "About to be sacrificed, a cow weighing 4.5 quintals plunges into the river",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tfsvvl282/hendak-dikurbankan-sapi-seberat-45-kuintal-nyemplung-ke-kali",
+      "published_date": "2026-05-29T13:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not willing to see Pharaoh repent",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfsuur458/tak-sudi-melihat-firaun-bertobat",
+      "published_date": "2026-05-29T13:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guidelines for Parents in Naming Children",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfstys458/tuntunan-untuk-orang-tua-memberi-nama-anak",
+      "published_date": "2026-05-29T13:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collapsed Road in Lenteng Agung Immediately Repaired",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tfsvh2992510983/jalan-amblas-di-lenteng-agung-langsung-diperbaiki",
+      "published_date": "2026-05-29T13:15:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cry the Angel of Death",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfstoy458/tangis-malaikat-maut",
+      "published_date": "2026-05-29T13:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Everythinggate",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tfsu89415/everythinggate",
+      "published_date": "2026-05-29T12:48:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to find out the answer to the Istikharah prayer",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfsthn458/cara-mengetahui-jawaban-shalat-istikharah",
+      "published_date": "2026-05-29T12:45:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Crutchlow Comeback at Mugello, Bezzecchi Wants to Make His Dream of Winning the Italian GP a Reality",
       "source": "Republika English",
@@ -482,62 +531,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tfr30t282/santriwati-di-pekalongan-jadi-korban-pelecehan-seksual-pimpinan-ponpes-kemenag-bilang-begini",
       "published_date": "2026-05-28T14:02:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TPPO Modes Are Increasingly Complex, Internal Supervision Must Be Strengthened and Transparent",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfr0t7472/modus-tppo-kian-kompleks-pengawasan-internal-mesti-diperkuat-dan-transparan",
-      "published_date": "2026-05-28T13:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Just because of a wrong turn, a motorbike rider was beaten to death by residents in West Bandung",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfr0ph282/hanya-garagara-salah-belok-pengendara-motor-tewas-dihajar-warga-di-bandung-barat",
-      "published_date": "2026-05-28T13:12:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "APBN Sacrifice, Between Benefits and Public Ethics Tests",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tfqz9d472/kurban-apbn-antara-kemaslahatan-dan-ujian-etika-publik",
-      "published_date": "2026-05-28T12:41:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sexual Violence against Female Students in Pekalongan, Ministry of Religion: Not Islamic Boarding School, But Padepokan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfqz86430/kekerasan-seksual-santriwati-di-pekalongan-kemenag-bukan-pesantren-tapi-padepokan",
-      "published_date": "2026-05-28T12:40:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Van Dijk becomes captain, Netherlands ready to aim for first world trophy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpzfh348/van-dijk-jadi-kapten-belanda-siap-bidik-trofi-dunia-pertama",
-      "published_date": "2026-05-27T23:47:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bogor Hornbills take turns defeating Bengawan Solo Knights, forcing third game of playoffs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpz5z348/bogor-hornbills-gantian-taklukkan-kesatria-bengawan-solo-paksakan-gim-ketiga-playoff",
-      "published_date": "2026-05-27T23:41:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yudha goes berserk in the final quarter, Satria Muda defeats Hangtuah and advances to the IBL semifinals",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpylt348/yudha-mengamuk-di-kuarter-akhir-satria-muda-kalahkan-hangtuah-dan-lolos-ke-semifinal-ibl",
-      "published_date": "2026-05-27T23:29:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crystal Palace Wins 2025/26 Conference League After Beating Rayo Vallecano",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpvu95730000/crystal-palace-juara-liga-conference-202526-usai-kalahkan-rayo-vallecano",
-      "published_date": "2026-05-27T22:30:09+00:00",
       "category": "Local Events"
     }
   ]
