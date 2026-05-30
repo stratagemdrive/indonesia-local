@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "PSSI Releases U-19 National Team Squad for 2026 AFF U-19 Cup, Mission to Defend Title in North Sumatra",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tftg6g348/pssi-rilis-skuad-timnas-u19-untuk-piala-aff-u19-2026-misi-pertahankan-gelar-di-sumatera-utara",
+      "published_date": "2026-05-29T20:42:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Jumrah Palm Procession is still ongoing, communication between congregations is key",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tft180430/prosesi-lontar-jumrah-masih-berlangsung-komunikasi-antarjamaah-jadi-kunci",
+      "published_date": "2026-05-29T15:19:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "After being fired by Milan, Allegri prepares to move to Napoli",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfrtzs348/usai-dipecat-milan-allegri-bersiap-merapat-ke-napoli",
@@ -55,16 +69,16 @@
       "url": "https://republika.co.id/page/shorts/yt-tfjdt2774625148/dubes-palestina-sebut-relawan-global-sumud-flotilla-sudah-hirup-udara-gaza",
       "published_date": "2026-05-24T10:15:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "KPR and Cheap Car Loans Enliven the BRI Consumer Expo 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfg0d5416/kpr-hingga-kredit-mobil-murah-ramaikan-bri-consumer-expo-2026",
-      "published_date": "2026-05-22T22:30:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "It was revealed that one Whip Pink user experienced temporary paralysis",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tft1q7409/terungkap-satu-pengguna-whip-pink-alami-kelumpuhan-temporer",
+      "published_date": "2026-05-29T15:30:07+00:00",
+      "category": "Military"
+    },
     {
       "title": "Central Java Regional Police Allows Its Members to Shoot Dead Robbers If They Threaten Residents' Lives",
       "source": "Republika English",
@@ -197,16 +211,23 @@
       "url": "https://news.republika.co.id/berita/tfjh2b487/anggotanya-dinilai-arogan-saat-tertibkan-pedagang-di-hi-saat-cfd-kasatpol-pp-minta-maaf",
       "published_date": "2026-05-24T11:25:23+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Accusing Republican Politicians of Traitors, Trump's Anger Shaken His Supporting Party",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfi0u8451/tuding-politisi-republik-pengkhianat-amarah-trump-bikin-partai-pendukungnya-terguncang",
-      "published_date": "2026-05-23T23:01:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "IESR: 100 GW PLTS Program Must Start with Quick, Measurable Steps",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tftold423/iesr-program-plts-100-gw-harus-dimulai-dengan-langkah-cepat-yang-terukur",
+      "published_date": "2026-05-29T23:55:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Expert: 10 GW PLTS is more realistic as a first step towards 100 GW",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tftnrm423/pakar-plts-10-gw-lebih-realistis-sebagai-langkah-awal-menuju-100-gw",
+      "published_date": "2026-05-29T23:26:10+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Sumatra Blackout Becomes Momentum to Accelerate Electricity Transmission Development",
       "source": "Republika English",
@@ -241,16 +262,16 @@
       "url": "https://news.republika.co.id/berita/tfia8h2130000/pemkab-buol-gandeng-investor-untuk-tambang-pasir-kuarsa",
       "published_date": "2026-05-23T20:00:17+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Weather and Fertilizer Prices Are Challenges for Palm Oil Issuers",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfg1mn416/cuaca-dan-harga-pupuk-jadi-tantangan-emiten-sawit",
-      "published_date": "2026-05-22T23:30:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "China Shock 2.0 Hits Germany, Research Reveals New Threat to European Industry",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tft14e451/china-shock-20-menghantam-jerman-riset-ungkap-ancaman-baru-bagi-industri-eropa",
+      "published_date": "2026-05-29T22:57:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Economist: Tax Stimulus to Ticket Discounts Maintain People's Purchasing Power",
       "source": "Republika English",
@@ -369,30 +390,65 @@
       "url": "https://news.republika.co.id/berita/tfhnn8320/sejumlah-tokoh-berkumpul-di-paramadina-sikapi-sorotan-media-asing-tentang-kondisi-ekonomi",
       "published_date": "2026-05-23T11:52:20+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Many F&B Businesses Collapse During Intensive Expansion, This Is The Reason",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfg2o3416/banyak-bisnis-fb-tumbang-saat-gencar-ekspansi-ini-penyebabnya",
-      "published_date": "2026-05-22T23:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BI Interest Rates Rise, Indef Economist Reveals Pro-Stability Direction",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfg6lk490/suku-bunga-bi-naik-ekonom-indef-ungkap-arah-prostabilitas",
-      "published_date": "2026-05-22T23:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Purbaya Predicts IHSG Strengthening Next Week, Here's the Reason",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfg5xy490/purbaya-ramal-ihsg-menguat-pekan-depan-ini-alasannya",
-      "published_date": "2026-05-22T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Not just breaking promises, this is a sign of a hypocrite that is rarely recognized according to the Prophet",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tft1od451/bukan-cuma-ingkar-janji-ini-tanda-orang-munafik-yang-jarang-disadari-menurut-rasulullah",
+      "published_date": "2026-05-29T22:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barcelona Officially Brings in Anthony Gordon, Pays Newcastle IDR 1.45 Trillion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tftgsw348/barcelona-resmi-datangkan-anthony-gordon-bayar-newcastle-rp145-triliun",
+      "published_date": "2026-05-29T20:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colorful Decorative Lights Liven Up the Vesak Celebration at the Hotel Indonesia Roundabout",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tft3vo375/warnawarni-lampu-hias-semarakkan-perayaan-waisak-di-bundaran-hotel-indonesia",
+      "published_date": "2026-05-29T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eid al-Adha 1447 H, Thousands of Sacrificial Meat Packages Distributed to the Community",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfswh5451/iduladha-1447-h-ribuan-paket-daging-kurban-dibagikan-kepada-masyarakat",
+      "published_date": "2026-05-29T16:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A number of Indonesian Hajj pilgrims choose to sleep outside Mina tents, this is the reason",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tft1h2430/sejumlah-jamaah-haji-indonesia-pilih-tidur-di-luar-tenda-mina-ini-penyebabnya",
+      "published_date": "2026-05-29T16:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xiaomi Introduces 17T Series with Advanced Photography Features",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tft25u375/xiaomi-perkenalkan-17t-series-dengan-fitur-fotografi-canggih",
+      "published_date": "2026-05-29T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inspectorate Overseeing Hajj Implementation Until Tasyrik Day Finished in Mina",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tft1d0430/inspektorat-awasi-pelaksanaan-haji-hingga-hari-tasyrik-selesai-di-mina",
+      "published_date": "2026-05-29T15:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syekh Yusuf Gowa Regional Hospital Fires, Dozens of Patients Evacuated",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tft1js375/rsud-syekh-yusuf-gowa-kebakaran-puluhan-pasien-dievakuasi",
+      "published_date": "2026-05-29T15:26:16+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "BRI's Liquidity and Capital Remain Strong until March 2026",
       "source": "Republika English",
@@ -475,62 +531,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tfrs15483/dahnil-jam-0630-was-kawasan-muzdalifah-sudah-bersih-dari-jamaah-ri",
       "published_date": "2026-05-28T23:03:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lontar Jamrah and Mabit di Mina: A Real Moral School",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tfrryj451/lontar-jamrah-dan-mabit-di-mina-sekolah-akhlak-yang-nyata",
-      "published_date": "2026-05-28T23:01:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola, US-Canada-Mexico Releases Strict Travel Rules Ahead of 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfrrr6451/ebola-askanadameksiko-rilis-aturan-perjalanan-ketat-jelang-piala-dunia-2026",
-      "published_date": "2026-05-28T22:57:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anticipating emergencies during the Jumrah pilgrimage, the Mobile Crisis Center is on standby in Jamarat",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfrrk7483/antisipasi-gawat-darurat-saat-lontar-jumrah-mobile-crisis-center-siaga-di-jamarat",
-      "published_date": "2026-05-28T22:52:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nerve Injury Damages Marc Marquez's Confidence",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfrr9w348/cedera-saraf-usik-kepercayaan-diri-marc-marquez",
-      "published_date": "2026-05-28T22:46:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Following Sudirman to Tosari, Seniors Enjoy City Tours from the Open Top Tour Jakarta Double-Decker Bus",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfr3v8375/menyusuri-sudirman-hingga-tosari-lansia-nikmati-wisata-kota-dari-bus-tingkat-open-top-tour-jakarta",
-      "published_date": "2026-05-28T14:21:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pattimura International Big Fight Presents Indonesian vs Thai Boxer Duel",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfr3nw348/pattimura-international-big-fight-hadirkan-duel-petinju-indonesia-vs-thailand",
-      "published_date": "2026-05-28T14:16:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Round, Andy Prayoga Wins Champion of Men Elite 76 Indonesian Downhill 2026 Series I Yogyakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfqlv3456/putaran-perdana-andy-prayoga-raih-juara-men-elite-76-indonesian-downhill-2026-seri-i-yogyakarta",
-      "published_date": "2026-05-28T14:10:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Female Students in Pekalongan Become Victims of Sexual Harassment by Islamic Boarding School Leaders, Ministry of Religion Says This",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tfr30t282/santriwati-di-pekalongan-jadi-korban-pelecehan-seksual-pimpinan-ponpes-kemenag-bilang-begini",
-      "published_date": "2026-05-28T14:02:53+00:00",
       "category": "Local Events"
     }
   ]
