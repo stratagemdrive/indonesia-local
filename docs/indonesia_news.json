@@ -73,6 +73,13 @@
   ],
   "Military": [
     {
+      "title": "Other Countries Sue Israel for Persecution of GSF Activists, What About Indonesia?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfvfvz393/negara-lain-gugat-israel-atas-penganiayaan-aktivis-gsf-bagaimana-indonesia",
+      "published_date": "2026-05-30T22:31:11+00:00",
+      "category": "Military"
+    },
+    {
       "title": "High waves threaten a number of water bodies, BMKG issues warning",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tfujfq416/gelombang-tinggi-ancam-sejumlah-perairan-bmkg-keluarkan-peringatan",
@@ -204,13 +211,6 @@
       "url": "https://news.republika.co.id/berita/tfjr6a451/senjata-ai-baru-as-bisa-bantai-50-drone-musuh-tanpa-tembakan",
       "published_date": "2026-05-24T23:31:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "BMKG Warns of Heavy Rain in East Kalimantan Sunday Night",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfk7se8030000/bmkg-peringatkan-hujan-lebat-di-kalimantan-timur-minggu-malam",
-      "published_date": "2026-05-24T21:02:38+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -261,13 +261,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfkd8q348/como-1907-ke-liga-champions-sentuhan-indonesia-fabregas-dan-kisah-dongeng-yang-jadi-kenyataan",
       "published_date": "2026-05-24T23:00:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Buol Regency Government Collaborates with Investors to Mine Quartz Sand",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfia8h2130000/pemkab-buol-gandeng-investor-untuk-tambang-pasir-kuarsa",
-      "published_date": "2026-05-23T20:00:17+00:00",
       "category": "Energy"
     }
   ],
@@ -397,23 +390,72 @@
       "url": "https://republika.co.id/berita//tfkesf456/reynaldo-dorong-pariwisata-sebagai-penggerak-ekonomi-nasional-pada-debat-kedua-caketum-hipmi",
       "published_date": "2026-05-24T23:33:51+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Kebumen's Modern Shrimp Industry Becomes a Model of Food Independence",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfih666330000/industri-udang-modern-kebumen-jadi-model-kemandirian-pangan",
-      "published_date": "2026-05-23T22:30:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Indonesian Drift Series 2026 Boosts South Lampung's Economy and Tourism",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfi6r99830000/indonesian-drift-series-2026-dorong-ekonomi-dan-wisata-lampung-selatan",
-      "published_date": "2026-05-23T18:45:09+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Staying in Mina is still a challenge for pilgrims, the Hajj Team is proposing multi-story tents",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfvio4483/menginap-di-mina-masih-jadi-tantangan-bagi-jamaah-timwas-haji-usulkan-tenda-bertingkat",
+      "published_date": "2026-05-30T23:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luis Enrique: PSG's second Champions League title is more difficult than the first",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfvi4z348/luis-enrique-gelar-liga-champions-kedua-psg-lebih-sulit-daripada-yang-pertama",
+      "published_date": "2026-05-30T23:19:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Auctioned at Pattimura Big Fight, Ellyas Pical's painting was bought by the Governor of Maluku",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfvhwd348/dilelang-di-pattimura-big-fight-lukisan-ellyas-pical-dibeli-gubernur-maluku",
+      "published_date": "2026-05-30T23:14:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arteta Admits PSG is the Best Team in the World",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfvhpj483/arteta-akui-psg-tim-terbaik-di-dunia",
+      "published_date": "2026-05-30T23:10:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Child Falls into an Elephant Cage in Ragunan, Manager: There are indications that the animal is being used as content material",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfvh39409/seorang-anak-jatuh-ke-kandang-gajah-di-ragunan-pengelola-ada-indikasi-satwa-dijadikan-bahan-konten",
+      "published_date": "2026-05-30T22:57:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG Defends Champions League Title After Beating Arsenal on Penalties",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfvfdb348/psg-pertahankan-gelar-liga-champions-setelah-taklukkan-arsenal-lewat-adu-penalti",
+      "published_date": "2026-05-30T22:19:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pattimura Big Fight 2026: Two Indonesian Boxers Victorious in the Senayan Ring",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfv0ut348/pattimura-big-fight-2026-dua-petinju-indonesia-berjaya-di-ring-senayan",
+      "published_date": "2026-05-30T22:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Padati Residents Car Free Night Bogor's 544th Anniversary",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfuy8b375/ribuan-warga-padati-car-free-night-hari-jadi-bogor-ke544",
+      "published_date": "2026-05-30T16:09:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Handling Land Conversion and Forest Damage, Central Java DPRD Drafts Special Draft Regional Regulation",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tfuwdf282/tangani-alih-fungsi-lahan-dan-kerusakan-hutan-dprd-jateng-susun-raperda-khusus",
+      "published_date": "2026-05-30T15:29:39+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "John Herdman Improves the Physique of National Team Players from Local Competitions, Trained for 20 Days in Bali",
       "source": "Republika English",
@@ -489,69 +531,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tfswh5451/iduladha-1447-h-ribuan-paket-daging-kurban-dibagikan-kepada-masyarakat",
       "published_date": "2026-05-29T16:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A number of Indonesian Hajj pilgrims choose to sleep outside Mina tents, this is the reason",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tft1h2430/sejumlah-jamaah-haji-indonesia-pilih-tidur-di-luar-tenda-mina-ini-penyebabnya",
-      "published_date": "2026-05-29T16:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xiaomi Introduces 17T Series with Advanced Photography Features",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tft25u375/xiaomi-perkenalkan-17t-series-dengan-fitur-fotografi-canggih",
-      "published_date": "2026-05-29T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inspectorate Overseeing Hajj Implementation Until Tasyrik Day Finished in Mina",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tft1d0430/inspektorat-awasi-pelaksanaan-haji-hingga-hari-tasyrik-selesai-di-mina",
-      "published_date": "2026-05-29T15:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syekh Yusuf Gowa Regional Hospital Fires, Dozens of Patients Evacuated",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tft1js375/rsud-syekh-yusuf-gowa-kebakaran-puluhan-pasien-dievakuasi",
-      "published_date": "2026-05-29T15:26:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BRI's Liquidity and Capital Remain Strong until March 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfswzi423/likuiditas-dan-permodalan-bri-tetap-kuat-hingga-maret-2026",
-      "published_date": "2026-05-29T13:47:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "About to be sacrificed, a cow weighing 4.5 quintals plunges into the river",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfsvvl282/hendak-dikurbankan-sapi-seberat-45-kuintal-nyemplung-ke-kali",
-      "published_date": "2026-05-29T13:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not willing to see Pharaoh repent",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfsuur458/tak-sudi-melihat-firaun-bertobat",
-      "published_date": "2026-05-29T13:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guidelines for Parents in Naming Children",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfstys458/tuntunan-untuk-orang-tua-memberi-nama-anak",
-      "published_date": "2026-05-29T13:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Collapsed Road in Lenteng Agung Immediately Repaired",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tfsvh2992510983/jalan-amblas-di-lenteng-agung-langsung-diperbaiki",
-      "published_date": "2026-05-29T13:15:02+00:00",
       "category": "Local Events"
     }
   ]
