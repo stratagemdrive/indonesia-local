@@ -41,37 +41,16 @@
       "url": "https://news.republika.co.id/berita/tfm9t6348/peserta-piala-aff-u19-mulai-tiba-sumut-siap-jadi-tuan-rumah-ajang-asia-tenggara",
       "published_date": "2026-05-25T23:53:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Foreign Minister Soegiono Appreciates the Efforts of the Volunteers and the Turkish Government",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfjhtm475/menlu-soegiono-apresiasi-upaya-para-relawan-dan-pemerintah-turki",
-      "published_date": "2026-05-24T11:41:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minister of Foreign Affairs: Repatriation of 9 Indonesian Citizens from Global Sumud Flotilla Volunteers Result of Layered Diplomacy and Coordination",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfjgma490/menlu-pemulangan-9-wni-relawan-global-sumud-flotilla-hasil-diplomasi-dan-koordinasi-berlapis",
-      "published_date": "2026-05-24T11:15:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minister of Foreign Affairs Welcomes the Return of Nine Indonesian Citizens Fighting for Humanity, Says Israel Violates International Law",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfjfpc487/menlu-sambut-kepulangan-sembilan-wni-pejuang-kemanusiaan-sebut-israel-langgar-hukum-internasional",
-      "published_date": "2026-05-24T10:56:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinian Ambassador Says Global Sumud Flotilla Volunteers Have Breathed Gaza's Air",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tfjdt2774625148/dubes-palestina-sebut-relawan-global-sumud-flotilla-sudah-hirup-udara-gaza",
-      "published_date": "2026-05-24T10:15:02+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "TNI AD: Ryamizard Leaves a Legacy of Service to the Nation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfwgh6328/tni-adryamizard-tinggalkan-jejak-warisan-pengabdian-bagi-bangsa",
+      "published_date": "2026-05-31T11:41:30+00:00",
+      "category": "Military"
+    },
     {
       "title": "Other Countries Sue Israel for Persecution of GSF Activists, What About Indonesia?",
       "source": "Republika English",
@@ -204,16 +183,16 @@
       "url": "https://ameera.republika.co.id/berita/tflffr425/maraknya-misinformasi-soal-perimenopause-bisa-bahayakan-perempuan",
       "published_date": "2026-05-25T12:45:27+00:00",
       "category": "Military"
-    },
-    {
-      "title": "US's New AI Weapon Can Kill 50 Enemy Drones Without a Shot",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfjr6a451/senjata-ai-baru-as-bisa-bantai-50-drone-musuh-tanpa-tembakan",
-      "published_date": "2026-05-24T23:31:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Starting June 1, the Government will implement one-stop exports of coal, palm oil and ferro alloys",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfwc78375/mulai-1-juni-pemerintah-berlakukan-ekspor-satu-pintu-batu-bara-sawit-dan-ferro-alloy",
+      "published_date": "2026-05-31T11:30:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "The Impact of Climate Change is Increasingly Real, Bappenas: Potential World Loss of IDR 2 Thousand Trillion",
       "source": "Republika English",
@@ -265,6 +244,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Purbaya is confident that the Rupiah will soon rebound",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfwgtn370/purbaya-yakin-rupiah-segera-rebound",
+      "published_date": "2026-05-31T11:48:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Danantara: DSI Creates Added Value for Indonesian Natural Resources Exports",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tfwewl370/danantara-dsi-ciptakan-nilai-tambah-ekspor-sda-indonesia",
+      "published_date": "2026-05-31T11:07:33+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Solid Performance in Early 2026, Telkom Consistently Implements Operational Discipline and Transformation Execution",
       "source": "Republika English",
@@ -394,6 +387,69 @@
   ],
   "Local Events": [
     {
+      "title": "JK: Halal and Thayyib Have Universal Benefits",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfwgzl483/jk-halal-dan-thayyib-punya-manfaat-universal",
+      "published_date": "2026-05-31T11:52:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nutritious Breakfast with IHDC Youth-Pesantren Alam Pangrango",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfwgnm483/sarapan-bergizi-bersama-ihdc-youthpesantren-alam-pangrango",
+      "published_date": "2026-05-31T11:45:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olivia Rodrigo Responds to Rumors of Her Feud with Taylor Swift",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfwfcp328/olivia-rodrigo-tanggapi-soal-rumor-perseteruannya-dengan-taylor-swift",
+      "published_date": "2026-05-31T11:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manggala Agni works to extinguish 60 hectare forest fires in Riau",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfwfh1487/manggala-agni-berjibaku-padamkan-kebakaran-hutan-60-hektare-di-riau",
+      "published_date": "2026-05-31T11:19:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anne Hathaway's Story of Her Struggle Against Early Cataracts",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfwejs328/anne-hathaway-cerita-perjuangannya-lawan-katarak-dini",
+      "published_date": "2026-05-31T10:59:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Hajj Return Phase Begins Today, Following are the Conditions for Carrying Goods for Indonesian Pilgrims",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tfwdy4487/fase-kepulangan-haji-dimulai-hari-ini-berikut-ketentuan-barang-bawaan-jamaah-indonesia",
+      "published_date": "2026-05-31T10:46:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colorful Traditional Balloons Decorate the Sky of Ngawen Temple",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfw7wh375/warnawarni-balon-tradisional-hiasi-langit-candi-ngawen",
+      "published_date": "2026-05-31T10:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It's not about lack of time: Being busy actually makes you fall behind even more",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tfwcob328/bukan-soal-kurang-waktu-saat-kesibukan-justru-bikin-makin-tertinggal",
+      "published_date": "2026-05-31T10:19:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 Moto3 standings after Veda Ega Pratama finishes eighth at Mugello",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfwbuw409/klasemen-moto3-2026-usai-veda-ega-pratama-finish-kedelapan-di-mugello",
+      "published_date": "2026-05-31T10:01:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Staying in Mina is still a challenge for pilgrims, the Hajj Team is proposing multi-story tents",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tfvio4483/menginap-di-mina-masih-jadi-tantangan-bagi-jamaah-timwas-haji-usulkan-tenda-bertingkat",
@@ -468,69 +524,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tftxog349/wisatawan-kian-andalkan-jasa-pengiriman-untuk-bawa-oleholeh-dari-bali",
       "published_date": "2026-05-30T11:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamka Circle Holds First Discussion, Highlighting Multicultural Da'wah towards Chinese Ethnicity",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfulnv458/hamka-circle-gelar-diskusi-perdana-soroti-dakwah-multikultural-terhadap-etnis-tionghoa",
-      "published_date": "2026-05-30T11:38:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luke Vickery and Mitchell Baker Participate in Training with the Indonesian National Team",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfukok375/luke-vickery-dan-mitchell-baker-ikuti-latihan-bersama-timnas-indonesia",
-      "published_date": "2026-05-30T11:17:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Potential for Road Collapse Must Be Anticipated, Deputy Governor: Many PAM Jaya Pipes Are Old",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tfujld458/potensi-jalan-amblas-harus-diantisipasi-wagub-banyak-pipa-pam-jaya-sudah-tua",
-      "published_date": "2026-05-30T10:53:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Integrating ESG in Zakat Management: Efforts to Advance LAZ Governance",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tfui6a451/mengintegrasikan-esg-dalam-pengelolaan-zakat-ikhtiar-memajukan-tata-kelola-laz",
-      "published_date": "2026-05-30T10:22:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KCIC Reminds Rules for Using Sockets at Whoosh Stations and Trains",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfui44458/kcic-ingatkan-aturan-penggunaan-stopkontak-di-stasiun-dan-kereta-whoosh",
-      "published_date": "2026-05-30T10:21:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not just breaking promises, this is a sign of a hypocrite that is rarely recognized according to the Prophet",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tft1od451/bukan-cuma-ingkar-janji-ini-tanda-orang-munafik-yang-jarang-disadari-menurut-rasulullah",
-      "published_date": "2026-05-29T22:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona Officially Brings in Anthony Gordon, Pays Newcastle IDR 1.45 Trillion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tftgsw348/barcelona-resmi-datangkan-anthony-gordon-bayar-newcastle-rp145-triliun",
-      "published_date": "2026-05-29T20:55:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colorful Decorative Lights Liven Up the Vesak Celebration at the Hotel Indonesia Roundabout",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tft3vo375/warnawarni-lampu-hias-semarakkan-perayaan-waisak-di-bundaran-hotel-indonesia",
-      "published_date": "2026-05-29T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eid al-Adha 1447 H, Thousands of Sacrificial Meat Packages Distributed to the Community",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfswh5451/iduladha-1447-h-ribuan-paket-daging-kurban-dibagikan-kepada-masyarakat",
-      "published_date": "2026-05-29T16:33:00+00:00",
       "category": "Local Events"
     }
   ]
