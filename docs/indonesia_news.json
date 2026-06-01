@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "The Indonesian National Team is Targeted to Win the 2026 AFF Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfyntq348/timnas-indonesia-ditargetkan-juara-piala-aff-2026",
+      "published_date": "2026-06-01T16:15:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "PSSI Releases U-19 National Team Squad for 2026 AFF U-19 Cup, Mission to Defend Title in North Sumatra",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tftg6g348/pssi-rilis-skuad-timnas-u19-untuk-piala-aff-u19-2026-misi-pertahankan-gelar-di-sumatera-utara",
@@ -227,13 +234,6 @@
       "url": "https://rejabar.republika.co.id/berita/tfnr61282/perbaikan-jalan-cigasongjatiwangi-dimulai-pemprov-jabar-kucurkan-anggaran-rp12-miliar",
       "published_date": "2026-05-26T23:28:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Incubation Program Encourages the Emergence of Clean Energy and Environmental Startups",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tflg5g416/program-inkubasi-dorong-munculnya-startup-energi-bersih-dan-lingkungan",
-      "published_date": "2026-05-25T13:01:45+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -362,23 +362,51 @@
       "url": "https://news.republika.co.id/berita/tfm3qu5130000/wamentan-cetak-sawah-jadi-investasi-pangan-jangka-panjang",
       "published_date": "2026-05-25T21:30:30+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Drake's albums dominate the Billboard 200, including those highlighting the Palestinian issue",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tflh5y425/album-drake-kuasai-billboard-200-termasuk-yang-soroti-isu-palestina",
-      "published_date": "2026-05-25T13:22:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sharia Economic Review of the Impact of Qurban Sharia on the Growth of the National Economy",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tflfsm415/tinjauan-ekonomi-syariah-terhadap-dampak-syariat-qurban-bagi-geliat-perekonomian-nasional",
-      "published_date": "2026-05-25T12:53:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Challenging Draw Welcomes Host Representatives at Indonesia Open 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfyms1348/undian-menantang-sambut-wakil-tuan-rumah-di-indonesia-open-2026",
+      "published_date": "2026-06-01T15:52:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rizky Ridho returns as captain of the national team against Oman and Mozambi, Herdman: That's the team's choice",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfymh1348/rizky-ridho-kembali-jadi-kapten-timnas-lawan-oman-dan-mozambi-herdman-itu-pilihan-tim",
+      "published_date": "2026-06-01T15:46:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Indonesian national team is chasing victory over Oman and Mozambique on FIFA Match Day",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfym65348/timnas-indonesia-buru-kemenangan-atas-oman-dan-mozambik-pada-fifa-match-day",
+      "published_date": "2026-06-01T15:39:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Culture Fair to Carnival Enliven the Birthday of Pancasila in Various Districts",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tfykzz375/kirab-budaya-hingga-karnaval-semarakkan-hari-lahir-pancasila-di-berbagai-daerah",
+      "published_date": "2026-06-01T15:14:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Investigating the Role of KPIs in the Broadcasting Digital Content Wilderness",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tfyj9a282/menyelisik-peran-kpi-di-belantara-konten-digital-penyiaran",
+      "published_date": "2026-06-01T15:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ragunan Managers Have Difficulty Identifying Child Victims Who Fell into the Elephant Cage",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tfykpn409/pengelola-ragunan-kesulitan-identifikasi-korban-anak-jatuh-ke-kandang-gajah",
+      "published_date": "2026-06-01T15:08:11+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The President's Assistance Cattle for the Residents of the River Bank of Code is Slaughtered at the Giwangan RPH",
       "source": "Republika English",
@@ -475,48 +503,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tfwcob328/bukan-soal-kurang-waktu-saat-kesibukan-justru-bikin-makin-tertinggal",
       "published_date": "2026-05-31T10:19:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 Moto3 standings after Veda Ega Pratama finishes eighth at Mugello",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfwbuw409/klasemen-moto3-2026-usai-veda-ega-pratama-finish-kedelapan-di-mugello",
-      "published_date": "2026-05-31T10:01:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Staying in Mina is still a challenge for pilgrims, the Hajj Team is proposing multi-story tents",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfvio4483/menginap-di-mina-masih-jadi-tantangan-bagi-jamaah-timwas-haji-usulkan-tenda-bertingkat",
-      "published_date": "2026-05-30T23:31:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luis Enrique: PSG's second Champions League title is more difficult than the first",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfvi4z348/luis-enrique-gelar-liga-champions-kedua-psg-lebih-sulit-daripada-yang-pertama",
-      "published_date": "2026-05-30T23:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Auctioned at Pattimura Big Fight, Ellyas Pical's painting was bought by the Governor of Maluku",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfvhwd348/dilelang-di-pattimura-big-fight-lukisan-ellyas-pical-dibeli-gubernur-maluku",
-      "published_date": "2026-05-30T23:14:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arteta Admits PSG is the Best Team in the World",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfvhpj483/arteta-akui-psg-tim-terbaik-di-dunia",
-      "published_date": "2026-05-30T23:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Child Falls into an Elephant Cage in Ragunan, Manager: There are indications that the animal is being used as content material",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfvh39409/seorang-anak-jatuh-ke-kandang-gajah-di-ragunan-pengelola-ada-indikasi-satwa-dijadikan-bahan-konten",
-      "published_date": "2026-05-30T22:57:09+00:00",
       "category": "Local Events"
     }
   ]
