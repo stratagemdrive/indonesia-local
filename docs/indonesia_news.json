@@ -34,13 +34,6 @@
       "url": "https://news.republika.co.id/berita/tfpv5c230000/barcelona-sepakati-transfer-anthony-gordon-dari-newcastle",
       "published_date": "2026-05-27T22:15:12+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "MHU Equal Education Program Helps Citizens Get Jobs",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tfncgv416/program-pendidikan-kesetaraan-mhu-bantu-warga-dapat-kerja",
-      "published_date": "2026-05-26T13:36:31+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -238,6 +231,13 @@
   ],
   "Economy": [
     {
+      "title": "Due to the AI ​​Explosion, the IDR 24,000 Trillion Chip Industry Becomes a US-China Battlefield",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0cfz451/gegara-ledakan-ai-industri-cip-rp24000-triliun-jadi-medan-perang-aschina",
+      "published_date": "2026-06-02T14:04:47+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Leaving Liverpool, Konate follows in the footsteps of Salah and Robertson",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfxdj7348/tinggalkan-liverpool-konate-ikuti-jejak-salah-dan-robertson",
@@ -334,30 +334,100 @@
       "url": "https://ekonomi.republika.co.id/berita/tfo26s490/pemerintah-pangkas-pajak-penulis-jadi-15-persen",
       "published_date": "2026-05-26T22:52:04+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "PTP Non-Containerized Tanjung Priok Branch Implements Environmentally Friendly Port Loading and Unloading Equipment",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfnd2y472/ptp-nonpetikemas-cabang-tanjung-priok-implementasikan-alat-bongkar-muat-pelabuhan-ramah-lingkungan",
-      "published_date": "2026-05-26T13:49:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Creative Economy: Government Agrees to Reduce Writer's Royalty Income Tax from 15 Percent to 1.5 Percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfnc7s472/menteri-ekraf-pemerintah-sepakati-turunkan-pph-royalti-penulis-dari-15-persen-jadi-15-persen",
-      "published_date": "2026-05-26T13:31:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Manpower Responds to Potential Layoffs Amid Weakening Rupiah",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfn8tx423/menaker-respons-potensi-phk-di-tengah-pelemahan-rupiah",
-      "published_date": "2026-05-26T12:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Having performed the Hajj, Dadan Hindayana was removed as head of BGN",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0d10484/sempat-beribadah-haji-dadan-hindayana-dicopot-dari-kepala-bgn",
+      "published_date": "2026-06-02T14:17:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Removed as Head of BGN, Dadan Accompanied the President This Morning",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0crw377/dicopot-dari-kepala-bgn-dadan-sempat-dampingi-presiden-pagi-ini",
+      "published_date": "2026-06-02T14:11:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LPTK FITK UIN Sunan Kalijaga Inaugurates 3,031 New Professional Teachers",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tg0bue425/lptk-fitk-uin-sunan-kalijaga-kukuhkan-3031-guru-profesional-baru",
+      "published_date": "2026-06-02T14:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The True Reality of Obedience",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg0alt458/hakikat-taat-yang-sesungguhnya",
+      "published_date": "2026-06-02T13:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breaking News! Head of BGN Dadan Hindayana was removed and replaced by Nanik S Deyang",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0bgo484/breaking-news-kepala-bgn-dadan-hindayana-dicopot-digantikan-nanik-s-deyang",
+      "published_date": "2026-06-02T13:43:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egy Enthusiastic about Facing Tight Competition in the National Team, Impressed by Coach John Herdman's Thoroughness",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0b3l348/egy-antusias-hadapi-persaingan-ketat-di-timnas-terkesan-dengan-ketelitian-pelatih-john-herdman",
+      "published_date": "2026-06-02T13:35:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The emotional moment of the first group of Hajj pilgrims returning to their homeland",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg0azy375/momen-haru-kepulangan-jamaah-haji-kloter-pertama-ke-tanah-air",
+      "published_date": "2026-06-02T13:33:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taylor Swift Confirms Her New Song Will Be the OST for Toy Story 5",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tg0aum425/taylor-swift-konfirmasi-lagu-barunya-akan-jadi-ost-film-toy-story-5",
+      "published_date": "2026-06-02T13:30:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abusers and Housewreckers, What is the Punishment for Them According to Islam?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg0adg458/pelakor-dan-perusak-rumah-tangga-apa-hukuman-untuknya-menurut-islam",
+      "published_date": "2026-06-02T13:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is the Condition for Loving Allah",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg07ft458/ini-syarat-mencintai-alah",
+      "published_date": "2026-06-02T13:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haru Hajj Pilgrims Return to Homeland with Mother: This is their dream since childhood",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg09z8458/haru-jamaah-haji-kembali-ke-tanah-air-bersama-ibu-ini-citacita-sejak-kecil",
+      "published_date": "2026-06-02T13:11:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alwi beats 10th seed Lakshya Sen, challenges Jonatan Christie in the second round of the Indonesia Open",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg09hh348/alwi-tekuk-unggulan-10-lakshya-sen-tantang-jonatan-christie-pada-babak-kedua-indonesia-open",
+      "published_date": "2026-06-02T13:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "There are those who are curious about when the apocalypse will occur, this is the wise answer of Rasulullah",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg077j458/ada-yang-penasaran-kapan-kiamat-terjadi-ini-jawaban-bijak-rasulullah",
+      "published_date": "2026-06-02T12:46:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Respond to Dino's Criticism, Teddy: He Was Minister of State for Three Months",
       "source": "Republika English",
@@ -405,97 +475,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tfz3393630000/seamless-corridor-percepat-proses-kedatangan-jamaah-haji-di-surabaya",
       "published_date": "2026-06-01T23:09:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Challenging Draw Welcomes Host Representatives at Indonesia Open 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfyms1348/undian-menantang-sambut-wakil-tuan-rumah-di-indonesia-open-2026",
-      "published_date": "2026-06-01T15:52:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rizky Ridho returns as captain of the national team against Oman and Mozambi, Herdman: That's the team's choice",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfymh1348/rizky-ridho-kembali-jadi-kapten-timnas-lawan-oman-dan-mozambi-herdman-itu-pilihan-tim",
-      "published_date": "2026-06-01T15:46:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Indonesian national team is chasing victory over Oman and Mozambique on FIFA Match Day",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfym65348/timnas-indonesia-buru-kemenangan-atas-oman-dan-mozambik-pada-fifa-match-day",
-      "published_date": "2026-06-01T15:39:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Culture Fair to Carnival Enliven the Birthday of Pancasila in Various Districts",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfykzz375/kirab-budaya-hingga-karnaval-semarakkan-hari-lahir-pancasila-di-berbagai-daerah",
-      "published_date": "2026-06-01T15:14:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigating the Role of KPIs in the Broadcasting Digital Content Wilderness",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tfyj9a282/menyelisik-peran-kpi-di-belantara-konten-digital-penyiaran",
-      "published_date": "2026-06-01T15:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ragunan Managers Have Difficulty Identifying Child Victims Who Fell into the Elephant Cage",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfykpn409/pengelola-ragunan-kesulitan-identifikasi-korban-anak-jatuh-ke-kandang-gajah",
-      "published_date": "2026-06-01T15:08:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The President's Assistance Cattle for the Residents of the River Bank of Code is Slaughtered at the Giwangan RPH",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tfxdh1282/sapi-bantuan-presiden-untuk-warga-bantaran-kali-code-dipotong-di-rph-giwangan",
-      "published_date": "2026-05-31T23:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fajar/Fikri hopes to go all out at the Indonesia Open after being runner-up at the Singapore Open",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfxd9b348/fajarfikri-berharap-bisa-habishabisan-di-indonesia-open-selepas-jadi-runnerup-singapore-open",
-      "published_date": "2026-05-31T23:29:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reactivation of Husein Airport Triggers Dilemma, Bandung's Profit Kertajati Tourism is Threatened",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfxcrn423/reaktivasi-bandara-husein-picu-dilema-pariwisata-bandung-untung-kertajati-terancam",
-      "published_date": "2026-05-31T23:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explanation of Haji Mabrur from Prof Quraish Shihab",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfxcj3430/penjelasan-haji-mabrur-dari-prof-quraish-shihab",
-      "published_date": "2026-05-31T23:13:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veda Ega Pratama's Impressive Racing Review in Moto3: Crash in the US, Record at Jerez, and History in Brazil",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfwtbg409/ulasan-balap-impresif-veda-ega-pratama-di-moto3-crash-di-as-rekor-di-jerez-dan-sejarah-di-brasil",
-      "published_date": "2026-05-31T23:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Blue Full Moon Phenomenon is Seen in a Number of Regions in Indonesia",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfwt93375/fenomena-bulan-purnama-biru-terlihat-di-sejumlah-daerah-di-indonesia",
-      "published_date": "2026-05-31T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JK: Halal and Thayyib Have Universal Benefits",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfwgzl483/jk-halal-dan-thayyib-punya-manfaat-universal",
-      "published_date": "2026-05-31T11:52:33+00:00",
       "category": "Local Events"
     }
   ]
