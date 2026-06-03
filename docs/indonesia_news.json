@@ -45,6 +45,20 @@
   ],
   "Military": [
     {
+      "title": "Meeting with Ministry of Haj, Congregation with Disabilities Conveys Note: In the Field, Sometimes There is No Awareness",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg292r483/temui-kemenhaj-jamaah-disabilitas-sampaikan-catatan-di-lapangan-terkadang-belum-ada-kesadaran",
+      "published_date": "2026-06-03T14:47:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Terrorized by a stalker, Sabrina Carpenter asks for police protection",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tg27vy425/diteror-penguntit-sabrina-carpenter-minta-perlindungan-polisi",
+      "published_date": "2026-06-03T14:21:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Two Residents Hit by Stray Bullets at Yon TP 897/Singgalang",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg122s484/dua-warga-terkena-tembakan-peluru-nyasar-yon-tp-897singgalang",
@@ -169,20 +183,6 @@
       "url": "https://khazanah.republika.co.id/berita/tfqqjp483/bsi-maslahat-raih-tiga-penghargaan-dalam-top-csr-awards-2026",
       "published_date": "2026-05-28T14:25:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "DPR Commission I Supports TNI to Overcome Robberies: If the Police Need Help",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfqzu3484/komisi-i-dpr-dukung-tni-atasi-begal-jika-polri-butuh-bantuan",
-      "published_date": "2026-05-28T12:54:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Academic freedom in peril as Indonesian campuses face deepening state incursions",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/academic-freedom-in-peril-as-indonesian-campuses-face-deepening-state-incursions/",
-      "published_date": "2026-05-28T00:49:50+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -237,6 +237,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Minister of Tourism: Indonesian Tourism Continues to Grow Amid Global Turmoil",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg29es416/menpar-pariwisata-indonesia-tetap-tumbuh-di-tengah-gejolak-global",
+      "published_date": "2026-06-03T14:55:45+00:00",
+      "category": "Economy"
+    },
     {
       "title": "JumpStart Obtains Series C Funding from Cool Japan Fund Inc",
       "source": "Republika English",
@@ -345,6 +352,62 @@
   ],
   "Local Events": [
     {
+      "title": "UI and Binus University Compete to Develop Tomohon",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tg269p483/ui-dan-binus-university-bersaing-demi-kembangkan-tomohon",
+      "published_date": "2026-06-03T15:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Napoli officially makes Hojlund permanent after scoring 16 goals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg2aa2348/hojlund-resmi-dipermanenkan-napoli-usai-cetak-16-gol",
+      "published_date": "2026-06-03T15:13:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sabar/Reza Rises Following Raymond/Joaquin to Qualify for the Second Round of the Indonesia Open",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg29rg348/sabarreza-bangkit-susul-raymondjoaquin-lolos-ke-babak-kedua-indonesia-open",
+      "published_date": "2026-06-03T15:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Human Rights Bill is considered to strengthen the independence of Komnas HAM",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg27mo377/ruu-ham-dinilai-perkuat-independensi-komnas-ham",
+      "published_date": "2026-06-03T15:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Signs of a Riya Person According to the Hadith, One of which is the Spirit of Worship When Seen by People",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg29hx451/tiga-tanda-orang-riya-menurut-hadis-salah-satunya-semangat-beribadah-saat-dilihat-orang",
+      "published_date": "2026-06-03T14:56:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fadia/Tiwi Eliminate Lee/Baek, Jafar/Felisha Reply to Defeat of Korean Representatives",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg28wc348/fadiatiwi-singkirkan-leebaek-jafarfelisha-balas-kekalahan-dari-wakil-korea",
+      "published_date": "2026-06-03T14:43:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Foods That Are Healthier If Consumed Raw Than Cooked",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tg28qg425/lima-makanan-yang-lebih-sehat-jika-dikonsumsi-mentah-daripada-dimasak",
+      "published_date": "2026-06-03T14:39:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Incomplete TB treatment in children can trigger heart inflammation",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tg2868425/pengobatan-tbc-yang-tak-tuntas-pada-anak-bisa-picu-peradangan-jantung",
+      "published_date": "2026-06-03T14:27:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Economist: MBG will remain in trouble if BGN governance does not change",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tg14cv423/ekonom-mbg-akan-tetap-bermasalah-jika-tata-kelola-bgn-tak-berubah",
@@ -426,62 +489,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tg0adg458/pelakor-dan-perusak-rumah-tangga-apa-hukuman-untuknya-menurut-islam",
       "published_date": "2026-06-02T13:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is the Condition for Loving Allah",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg07ft458/ini-syarat-mencintai-alah",
-      "published_date": "2026-06-02T13:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haru Hajj Pilgrims Return to Homeland with Mother: This is their dream since childhood",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg09z8458/haru-jamaah-haji-kembali-ke-tanah-air-bersama-ibu-ini-citacita-sejak-kecil",
-      "published_date": "2026-06-02T13:11:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alwi beats 10th seed Lakshya Sen, challenges Jonatan Christie in the second round of the Indonesia Open",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg09hh348/alwi-tekuk-unggulan-10-lakshya-sen-tantang-jonatan-christie-pada-babak-kedua-indonesia-open",
-      "published_date": "2026-06-02T13:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There are those who are curious about when the apocalypse will occur, this is the wise answer of Rasulullah",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg077j458/ada-yang-penasaran-kapan-kiamat-terjadi-ini-jawaban-bijak-rasulullah",
-      "published_date": "2026-06-02T12:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Respond to Dino's Criticism, Teddy: He Was Minister of State for Three Months",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfz82f484/jawab-kritikan-dino-teddy-beliau-pernah-jadi-wamenlu-tiga-bulan",
-      "published_date": "2026-06-01T23:32:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rayhan Hannan has been called up again to the Indonesian Senior National Team",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfyzm88230000/rayhan-hannan-kembali-dipanggil-timnas-senior-indonesia",
-      "published_date": "2026-06-01T23:16:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Jakarta Police Deploys 200 Personnel to Evacuate Kemayoran Fire Victims",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfyrz94930000/polres-jakarta-pusat-kerahkan-200-personel-evakuasi-korban-kebakaran-kemayoran",
-      "published_date": "2026-06-01T23:16:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian National Team Coach Lured by Marselino Ferdinand's Quality",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfyqla4030000/pelatih-timnas-indonesia-terpikat-kualitas-marselino-ferdinan",
-      "published_date": "2026-06-01T23:15:45+00:00",
       "category": "Local Events"
     }
   ]
