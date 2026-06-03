@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Coordinating Minister AHY Leads Bilateral Consultation, Indonesia-Russia Strengthens Maritime Connectivity Cooperation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0zpw472/menko-ahy-pimpin-konsultasi-bilateral-indonesiarusia-perkuat-kerja-sama-konektivitas-maritim",
+      "published_date": "2026-06-02T22:27:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The Indonesian National Team is Targeted to Win the 2026 AFF Cup",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfyntq348/timnas-indonesia-ditargetkan-juara-piala-aff-2026",
@@ -37,6 +44,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "Two Residents Hit by Stray Bullets at Yon TP 897/Singgalang",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg122s484/dua-warga-terkena-tembakan-peluru-nyasar-yon-tp-897singgalang",
+      "published_date": "2026-06-02T23:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Feeling cheated by the Pig Party director, Mama Sinta reports Polda Metro Jaya",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg11mp484/merasa-ditipu-sutradara-pesta-babi-mama-sinta-lapor-polda-metro-jaya",
+      "published_date": "2026-06-02T23:08:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police Arrest Perpetrator of Stabbing and Motorbike Theft in Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg0zu95130000/polisi-tangkap-pelaku-pembacokan-dan-pencurian-motor-di-jakarta",
+      "published_date": "2026-06-02T22:30:09+00:00",
+      "category": "Military"
+    },
     {
       "title": "After meeting RI 1 at the Palace, the Minister of Defense of Qatar will visit the Indonesian Ministry of Defense",
       "source": "Republika English",
@@ -155,30 +183,16 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/academic-freedom-in-peril-as-indonesian-campuses-face-deepening-state-incursions/",
       "published_date": "2026-05-28T00:49:50+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Diaspora Praises Prabowo as a Modern Warrior in Paris",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfpmwj9730000/diaspora-puji-prabowo-sebagai-pejuang-modern-di-paris",
-      "published_date": "2026-05-27T19:17:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MIND ID Group Distributes 1,735 Sacrificial Animals from Sumatra to Papua",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfp7k0472/grup-mind-id-salurkan-1735-hewan-kurban-dari-sumatra-hingga-papua",
-      "published_date": "2026-05-27T13:45:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf Conflict Triggers Umrah-Hajj Costs to Rise, This is Marco Travel's Strategy",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfp5d5484/konflik-teluk-picu-biaya-umrahhaji-naik-ini-strategi-marco-travel",
-      "published_date": "2026-05-27T12:58:17+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "In 2026, BPBD will increase the scholarship quota to 5,000 recipients",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg12h8484/pada-2026-bpbd-tingkatkan-kuota-beasiswa-jadi-5000-penerima",
+      "published_date": "2026-06-02T23:41:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Electricity Bills Soaring? This is how to check electricity consumption via PLN Mobile",
       "source": "Republika English",
@@ -220,16 +234,30 @@
       "url": "https://ekonomi.republika.co.id/berita/tfru5d370/blackout-sumatra-jadi-momentum-percepat-pembangunan-transmisi-listrik",
       "published_date": "2026-05-28T23:48:49+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Cigasong-Jatiwangi Road Repairs Begin, West Java Provincial Government Disburses IDR 12 Billion Budget",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tfnr61282/perbaikan-jalan-cigasongjatiwangi-dimulai-pemprov-jabar-kucurkan-anggaran-rp12-miliar",
-      "published_date": "2026-05-26T23:28:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "JumpStart Obtains Series C Funding from Cool Japan Fund Inc",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg13ym472/jumpstart-peroleh-pendanaan-series-c-dari-cool-japan-fund-inc",
+      "published_date": "2026-06-02T23:59:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reflecting on the New Narrative of Saudi Arabia: A Historical Leap to the Future",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tg134c320/berkaca-kepada-narasi-baru-arab-saudi-loncatan-sejarah-menuju-masa-depan",
+      "published_date": "2026-06-02T23:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Menpora Erick ensures that preparations for the 2026 Asian Games remain optimal even though the national training budget is reduced",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg12id348/menpora-erick-pastikan-persiapan-asian-games-2026-tetap-maksimal-walau-anggaran-pelatnas-berkurang",
+      "published_date": "2026-06-02T23:27:49+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Due to the AI ​​Explosion, the IDR 24,000 Trillion Chip Industry Becomes a US-China Battlefield",
       "source": "Republika English",
@@ -313,30 +341,30 @@
       "url": "https://news.republika.co.id/berita/tfqxy7483/kppu-panggil-tiktok-dan-tokopedia",
       "published_date": "2026-05-28T14:04:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Government Delays Tax Incentives for Electric Vehicles, This is Purbaya's Explanation",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tfo2nc490/pemerintah-tunda-insentif-pajak-kendaraan-listrik-ini-penjelasan-purbaya",
-      "published_date": "2026-05-26T23:50:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministry of Tourism Develops System to Improve Digital Accommodation Governance",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfo1bx490/kemenpar-kembangkan-sistem-untuk-benahi-tata-kelola-akomodasi-digital",
-      "published_date": "2026-05-26T23:24:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Government Cuts Tax on Writers to 1.5 Percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfo26s490/pemerintah-pangkas-pajak-penulis-jadi-15-persen",
-      "published_date": "2026-05-26T22:52:04+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Economist: MBG will remain in trouble if BGN governance does not change",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg14cv423/ekonom-mbg-akan-tetap-bermasalah-jika-tata-kelola-bgn-tak-berubah",
+      "published_date": "2026-06-03T00:07:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atlanta Welcomes the 2026 World Cup at Mercedes-Benz Stadium",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg1226348/atlanta-sambut-piala-dunia-2026-di-stadion-mercedesbenz",
+      "published_date": "2026-06-02T23:18:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "151 Hectares of Rice Fields Affected by Floods in Kendari Begin to Be Cultivated Again",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg0ja6375/151-hektare-sawah-terdampak-banjir-di-kendari-mulai-digarap-kembali",
+      "published_date": "2026-06-02T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Having performed the Hajj, Dadan Hindayana was removed as head of BGN",
       "source": "Republika English",
@@ -454,27 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfyqla4030000/pelatih-timnas-indonesia-terpikat-kualitas-marselino-ferdinan",
       "published_date": "2026-06-01T23:15:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Jakarta Fire Department Extinguishes Stilt House Fire in Muara Karang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfyso93730000/damkar-jakarta-utara-padamkan-kebakaran-rumah-panggung-di-muara-karang",
-      "published_date": "2026-06-01T23:15:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mathew Baker Receives Guidance from Kevin Diks in the Indonesian National Team",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfz10w3630000/mathew-baker-dapat-bimbingan-dari-kevin-diks-di-timnas-indonesia",
-      "published_date": "2026-06-01T23:11:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seamless Corridor Speeds Up the Arrival Process of Hajj Pilgrims in Surabaya",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfz3393630000/seamless-corridor-percepat-proses-kedatangan-jamaah-haji-di-surabaya",
-      "published_date": "2026-06-01T23:09:18+00:00",
       "category": "Local Events"
     }
   ]
