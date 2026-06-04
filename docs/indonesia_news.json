@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Attacking Russian Tanker, France Dismantles Strategy of Kremlin's Shadow Fleet, This Is What President Macron Says",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4swh451/sergap-kapal-tanker-rusia-prancis-bongkar-siasat-armada-bayangan-kremlin-ini-kata-presiden-macron",
+      "published_date": "2026-06-04T23:50:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Turkish Foreign Minister says Prabowo is interested in getting involved with KAAN fighter jets and submarines",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg2yeb484/menlu-turki-ungkap-prabowo-tertarik-terlibat-jet-tempur-kaan-dan-kapa-selam",
@@ -40,13 +47,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tft180430/prosesi-lontar-jumrah-masih-berlangsung-komunikasi-antarjamaah-jadi-kunci",
       "published_date": "2026-05-29T15:19:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "After being fired by Milan, Allegri prepares to move to Napoli",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfrtzs348/usai-dipecat-milan-allegri-bersiap-merapat-ke-napoli",
-      "published_date": "2026-05-28T23:45:28+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -169,30 +169,16 @@
       "url": "https://rejogja.republika.co.id/berita/tfsszy282/polda-jateng-izinkan-anggotanya-tembak-mati-begal-jika-mengancam-nyawa-warga",
       "published_date": "2026-05-29T13:13:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Marselino Ready to Defend the Indonesian National Team Again, Praises Coach John Herdman's Acceptance and Methods",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfrsyz348/marselino-siap-bela-timnas-indonesia-lagi-puji-penerimaan-dan-metode-pelatih-john-herdman",
-      "published_date": "2026-05-28T23:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "First, London Hosts the 70th Edition of the Ballon d'Or",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfrrh3348/perdana-london-jadi-tuan-rumah-ballon-dor-edisi-ke70",
-      "published_date": "2026-05-28T22:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BSI Maslahat Wins Three Awards at the 2026 Top CSR Awards",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tfqqjp483/bsi-maslahat-raih-tiga-penghargaan-dalam-top-csr-awards-2026",
-      "published_date": "2026-05-28T14:25:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Investment alone is not enough, ESG is the key to the future of nickel downstreaming",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tg4qq5522/investasi-saja-tak-cukup-esg-jadi-kunci-masa-depan-hilirisasi-nikel",
+      "published_date": "2026-06-04T23:03:41+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Hot Weather Can Make Electricity Bills Rise, Rooftop PLTS is the Solution",
       "source": "Republika English",
@@ -241,16 +227,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tftnrm423/pakar-plts-10-gw-lebih-realistis-sebagai-langkah-awal-menuju-100-gw",
       "published_date": "2026-05-29T23:26:10+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Sumatra Blackout Becomes Momentum to Accelerate Electricity Transmission Development",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfru5d370/blackout-sumatra-jadi-momentum-percepat-pembangunan-transmisi-listrik",
-      "published_date": "2026-05-28T23:48:49+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "State Secretary Has No Problem Increasing the Attorney General's Budget to Prevent Corruption Cases",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4s2q484/mensesneg-tak-masalah-tambah-anggaran-kejagung-cegah-kasus-korupsi",
+      "published_date": "2026-06-04T23:32:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Presidential spokesman denies news that Chatib Basri has replaced Purbaya",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4rn5484/jubir-presiden-bantah-kabar-purbaya-digantikan-chatib-basri",
+      "published_date": "2026-06-04T23:23:29+00:00",
+      "category": "Economy"
+    },
     {
       "title": "How to Be Sensitive to Other People's Feelings? This is guidance from the Prophet Muhammad",
       "source": "Republika English",
@@ -376,23 +369,65 @@
       "url": "https://esgnow.republika.co.id/berita/tfuir5416/bukan-hanya-harga-ini-faktor-yang-tentukan-daya-saing-komoditas-ri",
       "published_date": "2026-05-30T10:35:48+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "China Shock 2.0 Hits Germany, Research Reveals New Threat to European Industry",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tft14e451/china-shock-20-menghantam-jerman-riset-ungkap-ancaman-baru-bagi-industri-eropa",
-      "published_date": "2026-05-29T22:57:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Economist: Tax Stimulus to Ticket Discounts Maintain People's Purchasing Power",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfsu21423/ekonom-stimulus-pajak-hingga-diskon-tiket-jaga-daya-beli-masyarakat",
-      "published_date": "2026-05-29T12:50:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Alarm for the Top Teams: France Collapses, Spain and Sweden Stuck Ahead of the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4rgc348/alarm-untuk-tim-unggulan-prancis-tumbang-spanyol-dan-swedia-tertahan-jelang-piala-dunia-2026",
+      "published_date": "2026-06-04T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 World Cup Group B: Favorites Switzerland, Canada and Qatar Ready to Disturb",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg2ww0348/grup-b-piala-dunia-2026-swiss-favorit-kanada-dan-qatar-siap-mengganggu",
+      "published_date": "2026-06-04T23:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Deputy Head of BGN, Agustina Focuses on Improving Governance",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4r0r484/jadi-wakil-kepala-bgn-agustina-fokus-perbaiki-tata-kelola",
+      "published_date": "2026-06-04T23:10:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Main Focuses for Organizing the Post-Armuzna Hajj",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg4qvo430/dua-fokus-utama-penyelenggaraan-haji-pascaarmuzna",
+      "published_date": "2026-06-04T23:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liverpool Appoints Andoni Iraola as Coach, Architect of Bournemouth's Revival in the Premier League",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4qus348/liverpool-angkat-andoni-iraola-jadi-pelatih-sosok-arsitek-kebangkitan-bournemouth-di-liga-inggris",
+      "published_date": "2026-06-04T23:06:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Levi's Stadium, the Modern Face of the 2026 World Cup in the Heart of Silicon Valley",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4qit348/stadion-levis-wajah-modern-piala-dunia-2026-di-jantung-silicon-valley",
+      "published_date": "2026-06-04T22:59:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haj Pilgrims Leave Hospital Returned to Homeland Earlier",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg4pwh430/jamaah-haji-keluar-dari-rs-dipulangkan-ke-tanah-air-lebih-awal",
+      "published_date": "2026-06-04T22:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Jakarta Transportation Agency Prepares Traffic Engineering for EXO and Raisa Concert",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg4pv8830000/dishub-dki-jakarta-siapkan-rekayasa-lalu-lintas-saat-konser-exo-dan-raisa",
+      "published_date": "2026-06-04T22:45:08+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Between Revelation and Reason",
       "source": "Republika English",
@@ -475,62 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tg2w9x430/indonesia-salurkan-daging-dam-jamaah-haji-untuk-palestina",
       "published_date": "2026-06-03T23:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jetour T1 Officially Launched, This is the Difference from its Big Brother Jetour T2",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg2jr1348/jetour-t1-resmi-meluncur-ini-perbedaannya-dengan-dengan-sang-kakak-jetour-t2",
-      "published_date": "2026-06-03T22:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UI and Binus University Compete to Develop Tomohon",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tg269p483/ui-dan-binus-university-bersaing-demi-kembangkan-tomohon",
-      "published_date": "2026-06-03T15:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Napoli officially makes Hojlund permanent after scoring 16 goals",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2aa2348/hojlund-resmi-dipermanenkan-napoli-usai-cetak-16-gol",
-      "published_date": "2026-06-03T15:13:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabar/Reza Rises Following Raymond/Joaquin to Qualify for the Second Round of the Indonesia Open",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg29rg348/sabarreza-bangkit-susul-raymondjoaquin-lolos-ke-babak-kedua-indonesia-open",
-      "published_date": "2026-06-03T15:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Human Rights Bill is considered to strengthen the independence of Komnas HAM",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg27mo377/ruu-ham-dinilai-perkuat-independensi-komnas-ham",
-      "published_date": "2026-06-03T15:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Signs of a Riya Person According to the Hadith, One of which is the Spirit of Worship When Seen by People",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg29hx451/tiga-tanda-orang-riya-menurut-hadis-salah-satunya-semangat-beribadah-saat-dilihat-orang",
-      "published_date": "2026-06-03T14:56:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fadia/Tiwi Eliminate Lee/Baek, Jafar/Felisha Reply to Defeat of Korean Representatives",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg28wc348/fadiatiwi-singkirkan-leebaek-jafarfelisha-balas-kekalahan-dari-wakil-korea",
-      "published_date": "2026-06-03T14:43:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Foods That Are Healthier If Consumed Raw Than Cooked",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tg28qg425/lima-makanan-yang-lebih-sehat-jika-dikonsumsi-mentah-daripada-dimasak",
-      "published_date": "2026-06-03T14:39:52+00:00",
       "category": "Local Events"
     }
   ]
