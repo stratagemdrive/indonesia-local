@@ -52,6 +52,13 @@
   ],
   "Military": [
     {
+      "title": "Allegedly Supporting Drug Trafficking, Former Member of the East Kalimantan Police Mobile Brigade Is Examined by Bareskrim",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg5oqp375/diduga-bekingi-peredaran-narkoba-eks-anggota-brimob-polda-kaltim-diperiksa-bareskrim",
+      "published_date": "2026-06-05T13:30:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Meeting with Ministry of Haj, Congregation with Disabilities Conveys Note: In the Field, Sometimes There is No Awareness",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tg292r483/temui-kemenhaj-jamaah-disabilitas-sampaikan-catatan-di-lapangan-terkadang-belum-ada-kesadaran",
@@ -162,13 +169,6 @@
       "url": "https://ameera.republika.co.id/berita/tft1q7409/terungkap-satu-pengguna-whip-pink-alami-kelumpuhan-temporer",
       "published_date": "2026-05-29T15:30:07+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Central Java Regional Police Allows Its Members to Shoot Dead Robbers If They Threaten Residents' Lives",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tfsszy282/polda-jateng-izinkan-anggotanya-tembak-mati-begal-jika-mengancam-nyawa-warga",
-      "published_date": "2026-05-29T13:13:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -230,6 +230,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Survey: Gen Z is the Lowest in Sacrifice, Waqf, and Paying Zakat Maal",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg5v0v430/survei-gen-z-paling-rendah-berkurban-berwakaf-dan-bayar-zakat-maal",
+      "published_date": "2026-06-05T13:34:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BCA Disburses Interim Dividend of IDR 20 per Share at the End of June",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg5uui370/bca-cairkan-dividen-interim-rp20-per-saham-akhir-juni",
+      "published_date": "2026-06-05T13:30:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rupiah Continues to Be Corrected, Is There Potential for a Bank Rush? This is what the OJK said",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg5qpk370/rupiah-terus-terkoreksi-adakah-potensi-bank-rush-ini-kata-ojk",
+      "published_date": "2026-06-05T12:00:56+00:00",
+      "category": "Economy"
+    },
     {
       "title": "State Secretary Has No Problem Increasing the Attorney General's Budget to Prevent Corruption Cases",
       "source": "Republika English",
@@ -348,30 +369,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tfwewl370/danantara-dsi-ciptakan-nilai-tambah-ekspor-sda-indonesia",
       "published_date": "2026-05-31T11:07:33+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Solid Performance in Early 2026, Telkom Consistently Implements Operational Discipline and Transformation Execution",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tful0w472/kinerja-solid-di-awal-2026-telkom-konsisten-jalankan-disiplin-operasional-dan-eksekusi-transformasi",
-      "published_date": "2026-05-30T11:24:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Welcoming Jakarta's Anniversary, DKI Provincial Government Removes Vehicle Tax Fines until August 31",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tfuj2e458/sambut-hut-jakarta-pemprov-dki-hapus-denda-pajak-kendaraan-hingga-31-agustus",
-      "published_date": "2026-05-30T10:42:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "It's not just price, this is a factor that determines the competitiveness of Indonesian commodities",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tfuir5416/bukan-hanya-harga-ini-faktor-yang-tentukan-daya-saing-komoditas-ri",
-      "published_date": "2026-05-30T10:35:48+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Targeting Malaysian and Singaporean Tourists, Bukit Peramun Residents Introduce Community-Based Ecotourism",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tg5vpd522/sasar-turis-malaysia-dan-singapura-warga-bukit-peramun-kenalkan-ekowisata-berbasis-komunitas",
+      "published_date": "2026-06-05T13:48:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Empowerment is the key, PNM encourages customers to move up in class and avoid loan sharks",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg5v57368/pemberdayaan-jadi-kunci-pnm-dorong-nasabah-naik-kelas-dan-terhindar-dari-rentenir",
+      "published_date": "2026-06-05T13:36:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Considering Reactivating the Old Zone in the Midst of the Sarimukti Landfill Crisis, West Java Provincial Government Needs IDR 24 Billion",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tg5u8a282/pertimbangkan-reaktivasi-zona-lama-di-tengah-krisis-tpa-sarimukti-pemprov-jabar-butuh-rp24-miliar",
+      "published_date": "2026-06-05T13:16:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gradual Saving and Secure Fund Management, Two Supports for the Sustainability of the Indonesian Hajj",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg5mya366/menabung-bertahap-dan-dana-kelolaan-yang-aman-dua-penopang-keberlanjutan-haji-indonesia",
+      "published_date": "2026-06-05T12:41:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Searches Silmy Karim's House Regarding Corruption Case on Foreigners' Residence Permits",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg5o13375/kpk-geledah-rumah-silmy-karim-terkait-kasus-korupsi-izin-tinggal-wna",
+      "published_date": "2026-06-05T12:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feeling neglected by the Governor, Residents will return to planting banana trees on the damaged Randulatung-Cepu road",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tg5rty282/merasa-disepelekan-gubernur-warga-akan-kembali-tanam-pohon-pisang-di-jalan-rusak-randulatungcepu",
+      "published_date": "2026-06-05T12:25:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "[CALL FOR APPLICATIONS] Ibrahim Sjarief Assegaf Fellowships",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/ibrahim-sjarief-assegaf-fellowships/",
+      "published_date": "2026-06-05T00:14:01+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Alarm for the Top Teams: France Collapses, Spain and Sweden Stuck Ahead of the 2026 World Cup",
       "source": "Republika English",
@@ -461,55 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tg3yld458/tolok-ukur-keberuntungan-yang-hakiki",
       "published_date": "2026-06-04T13:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of FIFA Matchday, the Indonesian National Team Holds Official Training at GBK",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tg3yj9375/jelang-fifa-matchday-timnas-indonesia-gelar-latihan-resmi-di-gbk",
-      "published_date": "2026-06-04T12:54:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: the people versus Fadli Zon",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-the-people-versus-fadli-zon/",
-      "published_date": "2026-06-04T01:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 Indonesian Representatives Hunting for Quarter Final Tickets for the 2026 Indonesia Open Today",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2y4g348/10-wakil-indonesia-berburu-tiket-perempat-final-indonesia-open-2026-hari-ini",
-      "published_date": "2026-06-03T23:48:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corruption Eradication Commission Confiscates Foreign Currency Up to Gold from OTT Immigrant Employees",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2x8u484/kpk-sita-valuta-asing-hingga-emas-dari-ott-pegawai-imigrais",
-      "published_date": "2026-06-03T23:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Group A of the 2026 World Cup: Mexico is the favorite, three rivals are ready to spread threats",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2wl9348/grup-a-piala-dunia-2026-meksiko-diunggulkan-tiga-rival-siap-menebar-ancaman",
-      "published_date": "2026-06-03T23:15:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attorney General: MBG Should Be Managed by Schools, In Fact the Foundation Appointed is Affiliated with BGN Officials",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2g3x409/kejagung-mbg-seharusnya-dikelola-sekolah-faktanya-yayasan-yang-ditunjuk-terafiliasi-pejabat-bgn",
-      "published_date": "2026-06-03T23:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Distributes Hajj Dam Meat to Palestine",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg2w9x430/indonesia-salurkan-daging-dam-jamaah-haji-untuk-palestina",
-      "published_date": "2026-06-03T23:08:21+00:00",
       "category": "Local Events"
     }
   ]
