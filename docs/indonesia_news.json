@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "The Indonesian Ambassador to Saudi hopes that there will be no more raids on Wisma Haji in the future",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg6ivv430/dubes-ri-untuk-saudi-harapkan-tak-ada-lagi-razia-wisma-haji-di-masa-mendatang",
+      "published_date": "2026-06-05T22:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Attacking Russian Tanker, France Dismantles Strategy of Kremlin's Shadow Fleet, This Is What President Macron Says",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg4swh451/sergap-kapal-tanker-rusia-prancis-bongkar-siasat-armada-bayangan-kremlin-ini-kata-presiden-macron",
@@ -34,23 +41,30 @@
       "url": "https://news.republika.co.id/berita/tfyntq348/timnas-indonesia-ditargetkan-juara-piala-aff-2026",
       "published_date": "2026-06-01T16:15:26+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "PSSI Releases U-19 National Team Squad for 2026 AFF U-19 Cup, Mission to Defend Title in North Sumatra",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tftg6g348/pssi-rilis-skuad-timnas-u19-untuk-piala-aff-u19-2026-misi-pertahankan-gelar-di-sumatera-utara",
-      "published_date": "2026-05-29T20:42:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Jumrah Palm Procession is still ongoing, communication between congregations is key",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tft180430/prosesi-lontar-jumrah-masih-berlangsung-komunikasi-antarjamaah-jadi-kunci",
-      "published_date": "2026-05-29T15:19:12+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Indonesia did not get the Best Hajj Organizer Award from Saudi Arabia, Deputy Minister of Hajj Gives an Explanation",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg6jo4430/indonesia-tak-dapat-penghargaan-penyelenggara-haji-terbaik-dari-arab-saudi-wamenhaj-beri-penjelasan",
+      "published_date": "2026-06-05T22:26:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anwar Abbas: Rupiah Reaches IDR 18,000 per US Dollar, Time for Conglomerates to Show Nationalism",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg5y6t366/anwar-abbas-rupiah-tembus-rp-18000-per-dolar-as-saatnya-konglomerat-tunjukkan-nasionalisme",
+      "published_date": "2026-06-05T21:27:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bogor City Wins Top Three Creative Financing Awards",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6f1e730000/kota-bogor-raih-penghargaan-tiga-besar-pembiayaan-kreatif",
+      "published_date": "2026-06-05T20:46:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "Allegedly Supporting Drug Trafficking, Former Member of the East Kalimantan Police Mobile Brigade Is Examined by Bareskrim",
       "source": "Republika English",
@@ -162,16 +176,16 @@
       "url": "https://khazanah.republika.co.id/berita/tfuklk320/ini-rahasia-mengapa-madinah-bisa-berubah-dari-kawasan-terbelakang-menjadi-kota-peradaban",
       "published_date": "2026-05-30T11:15:20+00:00",
       "category": "Military"
-    },
-    {
-      "title": "It was revealed that one Whip Pink user experienced temporary paralysis",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tft1q7409/terungkap-satu-pengguna-whip-pink-alami-kelumpuhan-temporer",
-      "published_date": "2026-05-29T15:30:07+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Minister of Cooperatives Ferry Supports the Laskar Juang Cooperative to Move from Upstream",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6kjc3430000/menkop-ferry-dukung-koperasi-laskar-juang-bergerak-dari-hulu",
+      "published_date": "2026-06-05T22:45:12+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Investment alone is not enough, ESG is the key to the future of nickel downstreaming",
       "source": "Republika English",
@@ -213,23 +227,23 @@
       "url": "https://esgnow.republika.co.id/berita/tfukb0451/dampak-perubahan-iklim-kian-nyata-bappenas-potensi-kerugian-dunia-rp2-ribu-triliun",
       "published_date": "2026-05-30T11:09:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "IESR: 100 GW PLTS Program Must Start with Quick, Measurable Steps",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tftold423/iesr-program-plts-100-gw-harus-dimulai-dengan-langkah-cepat-yang-terukur",
-      "published_date": "2026-05-29T23:55:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Expert: 10 GW PLTS is more realistic as a first step towards 100 GW",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tftnrm423/pakar-plts-10-gw-lebih-realistis-sebagai-langkah-awal-menuju-100-gw",
-      "published_date": "2026-05-29T23:26:10+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "State Expenditures Reach IDR 1,365.4 Trillion Until May 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6frn8230000/belanja-negara-capai-rp13654-triliun-hingga-mei-2026",
+      "published_date": "2026-06-05T21:02:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cimahi Strengthens Creative Industry Ecosystem with Human Resource Development",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6c8h6130000/cimahi-perkuat-ekosistem-industri-kreatif-dengan-pengembangan-sdm",
+      "published_date": "2026-06-05T19:45:53+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Survey: Gen Z is the Lowest in Sacrifice, Waqf, and Paying Zakat Maal",
       "source": "Republika English",
@@ -355,23 +369,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tfxc8b423/danantara-siapkan-dsi-untuk-awasi-ekspor-sda-dan-cegah-underinvoicing",
       "published_date": "2026-05-31T23:07:23+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Purbaya is confident that the Rupiah will soon rebound",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfwgtn370/purbaya-yakin-rupiah-segera-rebound",
-      "published_date": "2026-05-31T11:48:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Danantara: DSI Creates Added Value for Indonesian Natural Resources Exports",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfwewl370/danantara-dsi-ciptakan-nilai-tambah-ekspor-sda-indonesia",
-      "published_date": "2026-05-31T11:07:33+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Group C 2026 World Cup: Brazil Chasing Sixth Title, Morocco Ready to Challenge",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg2xnz348/grup-c-piala-dunia-2026-brasil-memburu-gelar-keenam-maroko-siap-menantang",
+      "published_date": "2026-06-05T23:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tightening Istithaah is the Key to the Decline in the Number of Sick Hajj Pilgrims This Year",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg6iro430/pengetatan-istithaah-jadi-kunci-angka-jamaah-haji-sakit-tahun-ini-menurun",
+      "published_date": "2026-06-05T22:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HKTI Says MBG Increases Absorption of Agricultural Products",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg61x7416/hkti-sebut-mbg-tingkatkan-serapan-hasil-pertanian",
+      "published_date": "2026-06-05T21:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agam Regency Government Assets Will Reach IDR 2.20 Trillion by the End of 2025",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6ecg7030000/aset-pemkab-agam-tembus-rp220-triliun-di-akhir-2025",
+      "published_date": "2026-06-05T20:31:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emil Audero Becomes a Hero, Indonesia Beats Oman 3-0 at SUGBK",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6dlh8530000/emil-audero-jadi-pahlawan-indonesia-taklukkan-oman-30-di-sugbk",
+      "published_date": "2026-06-05T20:15:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irfan Bachdim Supports Japan in the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6cw8530000/irfan-bachdim-dukung-jepang-di-piala-dunia-2026",
+      "published_date": "2026-06-05T20:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irfan Bachdim and Arlyansyah Celebrate the Opening of the adidas Home of Football in Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg6bjb9430000/irfan-bachdim-dan-arlyansyah-meriahkan-pembukaan-adidas-home-of-football-di-jakarta",
+      "published_date": "2026-06-05T19:30:47+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Targeting Malaysian and Singaporean Tourists, Bukit Peramun Residents Introduce Community-Based Ecotourism",
       "source": "Republika English",
@@ -461,55 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg4qit348/stadion-levis-wajah-modern-piala-dunia-2026-di-jantung-silicon-valley",
       "published_date": "2026-06-04T22:59:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haj Pilgrims Leave Hospital Returned to Homeland Earlier",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg4pwh430/jamaah-haji-keluar-dari-rs-dipulangkan-ke-tanah-air-lebih-awal",
-      "published_date": "2026-06-04T22:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DKI Jakarta Transportation Agency Prepares Traffic Engineering for EXO and Raisa Concert",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg4pv8830000/dishub-dki-jakarta-siapkan-rekayasa-lalu-lintas-saat-konser-exo-dan-raisa",
-      "published_date": "2026-06-04T22:45:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Between Revelation and Reason",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg3z4y458/antara-wahyu-dan-akal",
-      "published_date": "2026-06-04T13:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Randublatung Blora Residents Protest, Central Java, Diligently Paying Taxes, But Roads Still Damaged",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg40vo377/protes-warga-randublatung-blora-jateng-rajin-bayar-pajak-tapi-jalan-tetap-rusak",
-      "published_date": "2026-06-04T13:45:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Every Day is a New Leaf",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg3yyl458/setiap-hari-adalah-lembaran-baru",
-      "published_date": "2026-06-04T13:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poltracking Survey: Level of Public Satisfaction with Prabowo-Gibran Stagnant",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg3yxy484/survei-poltracking-tingkat-kepuasan-publik-terhadap-prabowogibran-stagnan",
-      "published_date": "2026-06-04T13:03:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Benchmark of True Luck",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg3yld458/tolok-ukur-keberuntungan-yang-hakiki",
-      "published_date": "2026-06-04T13:01:00+00:00",
       "category": "Local Events"
     }
   ]
