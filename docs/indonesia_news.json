@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Pornography and Child Trafficking Case in France, Embassy in Indonesia Dragged",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg88hl484/kasus-pornografi-dan-perdagangan-anak-di-perancis-kedutaan-di-indonesia-terseret",
+      "published_date": "2026-06-06T20:20:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The Indonesian Ambassador to Saudi hopes that there will be no more raids on Wisma Haji in the future",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tg6ivv430/dubes-ri-untuk-saudi-harapkan-tak-ada-lagi-razia-wisma-haji-di-masa-mendatang",
@@ -155,13 +162,6 @@
       "url": "https://news.republika.co.id/berita/tfwgh6328/tni-adryamizard-tinggalkan-jejak-warisan-pengabdian-bagi-bangsa",
       "published_date": "2026-05-31T11:41:30+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Other Countries Sue Israel for Persecution of GSF Activists, What About Indonesia?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfvfvz393/negara-lain-gugat-israel-atas-penganiayaan-aktivis-gsf-bagaimana-indonesia",
-      "published_date": "2026-05-30T22:31:11+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -209,6 +209,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "The Prophet's Example Facing Price Increases, Banning Hoarding and Market Manipulation",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg7xro366/teladan-rasulullah-hadapi-kenaikan-harga-larang-penimbunan-dan-manipulasi-pasar",
+      "published_date": "2026-06-06T23:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Agriculture: Printing Rice Fields in Kalimantan 2026 100 Percent Realized",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg8f765130000/kementan-cetak-sawah-di-kalimantan-2026-terealisasi-100-persen",
+      "published_date": "2026-06-06T22:45:06+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Purbaya: Stable Rupiah Will Lighten Household Burdens",
       "source": "Republika English",
@@ -334,23 +348,65 @@
       "url": "https://ekonomi.republika.co.id/berita/tg2yt6423/rupiah-dekati-rp-18000-per-dolar-as-pemerintah-optimistis-akan-menguat-lagi",
       "published_date": "2026-06-04T00:03:06+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Houston Stadium, 2026 World Cup Arena in America's Space City",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2vq6348/stadion-houston-arena-piala-dunia-2026-di-kota-antariksa-amerika",
-      "published_date": "2026-06-03T22:56:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Tourism: Indonesian Tourism Continues to Grow Amid Global Turmoil",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg29es416/menpar-pariwisata-indonesia-tetap-tumbuh-di-tengah-gejolak-global",
-      "published_date": "2026-06-03T14:55:45+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The detention of Dadan Hindayana and Silmy Karim colored the legal news for the week",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg8cf64030000/penahanan-dadan-hindayana-dan-silmy-karim-warnai-berita-hukum-sepekan",
+      "published_date": "2026-06-06T21:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Transportation Strengthens Aviation Regulations to Face ICAO Audit",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg8bsb1630000/kemenhub-perkuat-regulasi-penerbangan-hadapi-audit-icao",
+      "published_date": "2026-06-06T21:31:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Ministry of PU Accelerated the Development of Public Schools Level II",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg8b339030000/kementerian-pu-percepat-pembangunan-sekolah-rakyat-tahap-ii",
+      "published_date": "2026-06-06T21:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Public Works Completes 222 SPPG Buildings in 30 Provinces",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg89ok2930000/kementerian-pu-selesaikan-222-gedung-sppg-di-30-provinsi",
+      "published_date": "2026-06-06T20:45:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Balinale 2023 Supports Ministry of Culture Programs Through Film",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg88yd1830000/balinale-2023-dukung-program-kemenbud-melalui-perfilman",
+      "published_date": "2026-06-06T20:30:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5.7 Magnitude Earthquake Rocks Tutuyan, North Sulawesi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg8895830000/gempa-magnitudo-57-guncang-tutuyan-sulawesi-utara",
+      "published_date": "2026-06-06T20:15:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor of South Papua: PSN Accelerates Regional Development",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg87l68330000/gubernur-papua-selatan-psn-percepat-pembangunan-daerah",
+      "published_date": "2026-06-06T20:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banjarmasin City Government Gets Support from South Kalimantan Provincial Government to Handle Waste Emergency",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg84s97130000/pemkot-banjarmasin-dapat-dukungan-pemprov-kalsel-tangani-darurat-sampah",
+      "published_date": "2026-06-06T19:00:09+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Distribution of 40 Thousand Korans Completed in North Sumatra",
       "source": "Republika English",
@@ -433,62 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg6bjb9430000/irfan-bachdim-dan-arlyansyah-meriahkan-pembukaan-adidas-home-of-football-di-jakarta",
       "published_date": "2026-06-05T19:30:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Targeting Malaysian and Singaporean Tourists, Bukit Peramun Residents Introduce Community-Based Ecotourism",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tg5vpd522/sasar-turis-malaysia-dan-singapura-warga-bukit-peramun-kenalkan-ekowisata-berbasis-komunitas",
-      "published_date": "2026-06-05T13:48:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Empowerment is the key, PNM encourages customers to move up in class and avoid loan sharks",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg5v57368/pemberdayaan-jadi-kunci-pnm-dorong-nasabah-naik-kelas-dan-terhindar-dari-rentenir",
-      "published_date": "2026-06-05T13:36:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Considering Reactivating the Old Zone in the Midst of the Sarimukti Landfill Crisis, West Java Provincial Government Needs IDR 24 Billion",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tg5u8a282/pertimbangkan-reaktivasi-zona-lama-di-tengah-krisis-tpa-sarimukti-pemprov-jabar-butuh-rp24-miliar",
-      "published_date": "2026-06-05T13:16:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gradual Saving and Secure Fund Management, Two Supports for the Sustainability of the Indonesian Hajj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg5mya366/menabung-bertahap-dan-dana-kelolaan-yang-aman-dua-penopang-keberlanjutan-haji-indonesia",
-      "published_date": "2026-06-05T12:41:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Searches Silmy Karim's House Regarding Corruption Case on Foreigners' Residence Permits",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tg5o13375/kpk-geledah-rumah-silmy-karim-terkait-kasus-korupsi-izin-tinggal-wna",
-      "published_date": "2026-06-05T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feeling neglected by the Governor, Residents will return to planting banana trees on the damaged Randulatung-Cepu road",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tg5rty282/merasa-disepelekan-gubernur-warga-akan-kembali-tanam-pohon-pisang-di-jalan-rusak-randulatungcepu",
-      "published_date": "2026-06-05T12:25:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "[CALL FOR APPLICATIONS] Ibrahim Sjarief Assegaf Fellowships",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/ibrahim-sjarief-assegaf-fellowships/",
-      "published_date": "2026-06-05T00:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alarm for the Top Teams: France Collapses, Spain and Sweden Stuck Ahead of the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg4rgc348/alarm-untuk-tim-unggulan-prancis-tumbang-spanyol-dan-swedia-tertahan-jelang-piala-dunia-2026",
-      "published_date": "2026-06-04T23:30:00+00:00",
       "category": "Local Events"
     }
   ]
