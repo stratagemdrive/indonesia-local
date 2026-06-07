@@ -155,16 +155,16 @@
       "url": "https://news.republika.co.id/berita/tfxb7j348/kvaratskhelia-dinobatkan-sebagai-pemain-terbaik-liga-champions-20252026",
       "published_date": "2026-05-31T22:45:19+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TNI AD: Ryamizard Leaves a Legacy of Service to the Nation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfwgh6328/tni-adryamizard-tinggalkan-jejak-warisan-pengabdian-bagi-bangsa",
-      "published_date": "2026-05-31T11:41:30+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Government Targets National Implementation of B50 Starting July 1",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg9cl6375/pemerintah-targetkan-implementasi-b50-secara-nasional-mulai-1-juli",
+      "published_date": "2026-06-07T12:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Minister of Cooperatives Ferry Supports the Laskar Juang Cooperative to Move from Upstream",
       "source": "Republika English",
@@ -199,16 +199,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tfz8b1522/tagihan-listrik-melonjak-ini-cara-cek-konsumsi-listrik-lewat-pln-mobile",
       "published_date": "2026-06-01T23:37:49+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Starting June 1, the Government will implement one-stop exports of coal, palm oil and ferro alloys",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tfwc78375/mulai-1-juni-pemerintah-berlakukan-ekspor-satu-pintu-batu-bara-sawit-dan-ferro-alloy",
-      "published_date": "2026-05-31T11:30:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "KAI Operates 391 New Generation Trains, Modernization Investment Reaches IDR 5.5 Trillion",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg9dsh349/kai-operasikan-391-kereta-new-generation-investasi-modernisasi-capai-rp55-triliun",
+      "published_date": "2026-06-07T11:12:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Strengthening Pancasila Economy, DPR Members Propose Law on National Economic System",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tg9cfr416/perkuat-ekonomi-pancasila-anggota-dpr-usul-uu-sistem-ekonomi-nasional",
+      "published_date": "2026-06-07T10:56:14+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The Prophet's Example Facing Price Increases, Banning Hoarding and Market Manipulation",
       "source": "Republika English",
@@ -334,23 +341,79 @@
       "url": "https://ekonomi.republika.co.id/berita/tg3w2c416/rupiah-melemah-dan-harga-kedelai-naik-produsen-tahu-mulai-kewalahan",
       "published_date": "2026-06-04T13:01:32+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Expert: Price Certainty Helps Households and MSMEs Manage Budgets",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg3vze349/pakar-kepastian-harga-bantu-rumah-tangga-dan-umkm-kelola-anggaran",
-      "published_date": "2026-06-04T12:54:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rupiah Approaches IDR 18,000 per US Dollar, Government Optimistic It Will Strengthen Again",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg2yt6423/rupiah-dekati-rp-18000-per-dolar-as-pemerintah-optimistis-akan-menguat-lagi",
-      "published_date": "2026-06-04T00:03:06+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The story of a student who was finally able to study again after dropping out of school for 2 years",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tg9gp2655124131/kisah-seorang-siswi-yang-akhirnya-bisa-belajar-lagi-2-tahun-putus-sekolah",
+      "published_date": "2026-06-07T12:15:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java Prosecutor's Office Denies Indramayu Deputy Regent Named Suspect, Admits Elevating Case to Special Investigation",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tg9glh282/kejati-jabar-bantah-wabup-indramayu-ditetapkan-tersangka-akui-tingkatkan-kasus-ke-penyidikan-khusus",
+      "published_date": "2026-06-07T12:12:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moto3 standings after Veda Ega finished 16th in his debut race at the Hungarian GP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg9f5f409/klasemen-moto3-setelah-veda-ega-finish-urutan-16-pada-balapan-debutnya-di-gp-hungaria",
+      "published_date": "2026-06-07T11:41:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Whip Fighting in the Tiban Tradition, an Ancestral Heritage That Still Survives",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg9cgp375/adu-cambuk-dalam-tradisi-tiban-warisan-leluhur-yang-tetap-bertahan",
+      "published_date": "2026-06-07T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Criticizing Religion Is Called A Sign Of Stupidity? This is the Prophet's explanation",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tg8oho451/mengapa-mencela-agama-disebut-tanda-kebodohan-ini-penjelasan-rasulullah",
+      "published_date": "2026-06-07T11:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jonathan Christie Falls in the Indonesian Open Final",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tg9cj21920190522/jonathan-christie-tumbang-di-final-indonesia-open",
+      "published_date": "2026-06-07T10:45:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Having Lunch with People's School Students, Prabowo Expresses Hope for the Future of Indonesian Children",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tg9cb4375/makan-siang-bersama-siswa-sekolah-rakyat-prabowo-sampaikan-harapan-untuk-masa-depan-anak-indonesia",
+      "published_date": "2026-06-07T10:40:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Learning is no longer confined to walls, Cyber ​​University students are invited to explore the world via Edutrip",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg9c8i472/belajar-tak-lagi-berbatas-dinding-mahasiswa-cyber-university-diajak-jelajah-dunia-lewat-edutrip",
+      "published_date": "2026-06-07T10:38:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamic Boarding Schools Ready to Lead the Productive Waqf Revolution",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tg9bbo416/pesantren-siap-pimpin-revolusi-wakaf-produktif",
+      "published_date": "2026-06-07T10:21:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Constantinople to Colonialism: The Impact of the Conquest of 1453 on the World",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tg987f393/dari-konstantinopel-ke-kolonialisme-dampak-penaklukan-1453-terhadap-dunia",
+      "published_date": "2026-06-07T10:09:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The detention of Dadan Hindayana and Silmy Karim colored the legal news for the week",
       "source": "Republika English",
@@ -419,76 +482,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tg7jee368/pemprov-jabar-siapkan-langkah-mitigasi-hadapi-krisis-sampah-dan-kemarau-panjang",
       "published_date": "2026-06-06T11:18:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Does Allah SWT's Help Seem to Come 'Too Late' when Disasters Come Continuously?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg7gom320/mengapa-pertolongan-allah-swt-seolaholah-datang-terlambat-saat-musibah-datang-bertubitubi",
-      "published_date": "2026-06-06T10:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Observers say the discourse on increasing Transjabodetabek fares is still reasonable",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg7gcn423/wacana-kenaikan-tarif-transjabodetabek-pengamat-sebut-masih-wajar",
-      "published_date": "2026-06-06T10:12:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PNM Prepares New Chapter of Benefit-Based Transformation",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg7ewz368/pnm-siapkan-babak-baru-transformasi-berbasis-kebermanfaatan",
-      "published_date": "2026-06-06T09:41:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Group C 2026 World Cup: Brazil Chasing Sixth Title, Morocco Ready to Challenge",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg2xnz348/grup-c-piala-dunia-2026-brasil-memburu-gelar-keenam-maroko-siap-menantang",
-      "published_date": "2026-06-05T23:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tightening Istithaah is the Key to the Decline in the Number of Sick Hajj Pilgrims This Year",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg6iro430/pengetatan-istithaah-jadi-kunci-angka-jamaah-haji-sakit-tahun-ini-menurun",
-      "published_date": "2026-06-05T22:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HKTI Says MBG Increases Absorption of Agricultural Products",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg61x7416/hkti-sebut-mbg-tingkatkan-serapan-hasil-pertanian",
-      "published_date": "2026-06-05T21:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agam Regency Government Assets Will Reach IDR 2.20 Trillion by the End of 2025",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg6ecg7030000/aset-pemkab-agam-tembus-rp220-triliun-di-akhir-2025",
-      "published_date": "2026-06-05T20:31:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emil Audero Becomes a Hero, Indonesia Beats Oman 3-0 at SUGBK",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg6dlh8530000/emil-audero-jadi-pahlawan-indonesia-taklukkan-oman-30-di-sugbk",
-      "published_date": "2026-06-05T20:15:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irfan Bachdim Supports Japan in the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg6cw8530000/irfan-bachdim-dukung-jepang-di-piala-dunia-2026",
-      "published_date": "2026-06-05T20:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irfan Bachdim and Arlyansyah Celebrate the Opening of the adidas Home of Football in Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg6bjb9430000/irfan-bachdim-dan-arlyansyah-meriahkan-pembukaan-adidas-home-of-football-di-jakarta",
-      "published_date": "2026-06-05T19:30:47+00:00",
       "category": "Local Events"
     }
   ]
