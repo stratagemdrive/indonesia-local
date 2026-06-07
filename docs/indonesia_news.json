@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "2026 Hajj Evaluation: Amirul Hajj Highlights KKHI, Congregation Tent and Plastic Waste",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tg9ogc483/evaluasi-haji-2026-amirul-hajj-soroti-kkhi-tenda-jamaah-hingga-sampah-plastik",
+      "published_date": "2026-06-07T22:39:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pornography and Child Trafficking Case in France, Embassy in Indonesia Dragged",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg88hl484/kasus-pornografi-dan-perdagangan-anak-di-perancis-kedutaan-di-indonesia-terseret",
@@ -51,6 +58,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "2026 World Cup Warm-up: Modric Brings Croatia to Win, Norway Detained by Morocco",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgabqq348/pemanasan-piala-dunia-2026-modric-bawa-kroasia-menang-norwegia-ditahan-maroko",
+      "published_date": "2026-06-07T23:25:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Majalengka Regent Supports Kertajati Airport Becoming an MRO, But Refuses to Be Converted to a Military Base",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tga0cp282/bupati-majalengka-dukung-bandara-kertajati-jadi-mro-tapi-tolak-diubah-jadi-pangkalan-militer",
+      "published_date": "2026-06-07T22:45:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Indonesia did not get the Best Hajj Organizer Award from Saudi Arabia, Deputy Minister of Hajj Gives an Explanation",
       "source": "Republika English",
@@ -133,27 +154,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tfz5v86630000/polisi-bandara-soetta-tangkap-pemuda-tegal-bawa-obat-terlarang",
       "published_date": "2026-06-01T23:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On the Front Line Against Russia, This NATO Country Is Short of Male Soldiers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfwqci451/di-garis-depan-hadapi-rusia-negara-nato-ini-kekurangan-tentara-pria",
-      "published_date": "2026-05-31T23:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TNI is considered to have a strategic role in monitoring village cooperatives",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tfxbyx416/tni-dinilai-punya-peran-strategis-dalam-pengawasan-koperasi-desa",
-      "published_date": "2026-05-31T23:01:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kvaratskhelia Named the Best Player in the 2025/2026 Champions League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tfxb7j348/kvaratskhelia-dinobatkan-sebagai-pemain-terbaik-liga-champions-20252026",
-      "published_date": "2026-05-31T22:45:19+00:00",
       "category": "Military"
     }
   ],
@@ -345,6 +345,34 @@
   ],
   "Local Events": [
     {
+      "title": "3 Official Education Units Under UIN Jakarta, Unilateral Claims Will Have Legal Impact",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tgad1y320/3-satuan-pendidikan-resmi-di-bawah-uin-jakarta-klaim-sepihak-akan-berdampak-hukum",
+      "published_date": "2026-06-07T23:53:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laying Chicken Coop in Kuningan Burned, 6,300 Lives Lost",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tga0zd282/kandang-ayam-petelur-di-kuningan-terbakar-6300-nyawa-melayang",
+      "published_date": "2026-06-07T23:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group E 2026 World Cup: Favorites Germany, Ecuador and Ivory Coast ready to face off",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgac51348/grup-e-piala-dunia-2026-jerman-favorit-ekuador-dan-pantai-gading-siap-mengadang",
+      "published_date": "2026-06-07T23:34:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garuda Baru Beats Oman 3-0 at the Gelora Bung Karno Stadium",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tga9v69630000/garuda-baru-tundukkan-oman-30-di-stadion-gelora-bung-karno",
+      "published_date": "2026-06-07T22:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "The story of a student who was finally able to study again after dropping out of school for 2 years",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tg9gp2655124131/kisah-seorang-siswi-yang-akhirnya-bisa-belajar-lagi-2-tahun-putus-sekolah",
@@ -454,34 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tg8895830000/gempa-magnitudo-57-guncang-tutuyan-sulawesi-utara",
       "published_date": "2026-06-06T20:15:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor of South Papua: PSN Accelerates Regional Development",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg87l68330000/gubernur-papua-selatan-psn-percepat-pembangunan-daerah",
-      "published_date": "2026-06-06T20:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banjarmasin City Government Gets Support from South Kalimantan Provincial Government to Handle Waste Emergency",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg84s97130000/pemkot-banjarmasin-dapat-dukungan-pemprov-kalsel-tangani-darurat-sampah",
-      "published_date": "2026-06-06T19:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Distribution of 40 Thousand Korans Completed in North Sumatra",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg7kn8483/distribusi-40-ribu-alquran-tuntas-di-sumatra-utara",
-      "published_date": "2026-06-06T11:45:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Provincial Government Prepares Mitigation Steps to Face Waste Crisis and Long Drought",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tg7jee368/pemprov-jabar-siapkan-langkah-mitigasi-hadapi-krisis-sampah-dan-kemarau-panjang",
-      "published_date": "2026-06-06T11:18:14+00:00",
       "category": "Local Events"
     }
   ]
