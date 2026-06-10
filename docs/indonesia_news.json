@@ -55,16 +55,23 @@
       "url": "https://news.republika.co.id/berita/tg27yf320/kunjungan-kenegaraan-ke-prancis-dinilai-langkah-strategis-ini-keuntungannya",
       "published_date": "2026-06-03T23:14:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Coordinating Minister AHY Leads Bilateral Consultation, Indonesia-Russia Strengthens Maritime Connectivity Cooperation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg0zpw472/menko-ahy-pimpin-konsultasi-bilateral-indonesiarusia-perkuat-kerja-sama-konektivitas-maritim",
-      "published_date": "2026-06-02T22:27:32+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "A US Apache Combat Helicopter Mysteriously Crashes in the Strait of Hormuz",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tge1oe320/sebuah-helikopter-tempur-apache-as-jatuh-misterius-di-selat-hormuz",
+      "published_date": "2026-06-09T23:38:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Description of the Grave Realm According to Scholars and Four Practices in order to be safe from the Torment of the Grave",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgcn6x366/gambaran-alam-kubur-menurut-ulama-dan-empat-amalan-agar-selamat-dari-siksa-kubur",
+      "published_date": "2026-06-09T23:05:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Army War Story of BTS Concert Tickets: Just Entering the Queue Reaching Hundreds of Thousands, VIPs Are Immediately Sold Out",
       "source": "Republika English",
@@ -148,30 +155,16 @@
       "url": "https://ameera.republika.co.id/berita/tg27vy425/diteror-penguntit-sabrina-carpenter-minta-perlindungan-polisi",
       "published_date": "2026-06-03T14:21:34+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Two Residents Hit by Stray Bullets at Yon TP 897/Singgalang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg122s484/dua-warga-terkena-tembakan-peluru-nyasar-yon-tp-897singgalang",
-      "published_date": "2026-06-02T23:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Feeling cheated by the Pig Party director, Mama Sinta reports Polda Metro Jaya",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg11mp484/merasa-ditipu-sutradara-pesta-babi-mama-sinta-lapor-polda-metro-jaya",
-      "published_date": "2026-06-02T23:08:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police Arrest Perpetrator of Stabbing and Motorbike Theft in Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg0zu95130000/polisi-tangkap-pelaku-pembacokan-dan-pencurian-motor-di-jakarta",
-      "published_date": "2026-06-02T22:30:09+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamax and Pertamax Green Officially Increase, This is Pertamina's Latest Fuel Price List",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgdzna370/pertamax-dan-pertamax-green-resmi-naik-ini-daftar-harga-bbm-terbaru-pertamina",
+      "published_date": "2026-06-09T22:54:46+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Resilience of the Indonesian Mining Industry amidst Global Uncertainty in 2025",
       "source": "Republika English",
@@ -227,16 +220,23 @@
       "url": "https://esgnow.republika.co.id/berita/tg29xe416/cuaca-panas-bisa-bikin-tagihan-listrik-naik-plts-atap-jadi-solusi",
       "published_date": "2026-06-03T23:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "In 2026, BPBD will increase the scholarship quota to 5,000 recipients",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg12h8484/pada-2026-bpbd-tingkatkan-kuota-beasiswa-jadi-5000-penerima",
-      "published_date": "2026-06-02T23:41:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "BMO Field, the stadium that will be the stage for Canada's first match in the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tge0kk348/bmo-field-stadion-yang-jadi-panggung-laga-perdana-kanada-di-piala-dunia-2026",
+      "published_date": "2026-06-09T23:14:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From the Palace, Chatib Basri admitted that he had no offers to become Minister of Finance",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgdz4l484/dari-istana-chatib-basri-akui-tak-ada-tawaran-jadi-menkeu",
+      "published_date": "2026-06-09T22:43:33+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Minister of Finance Purbaya Explains Strategy to Pursue Economic Growth of 6.5 Percent",
       "source": "Republika English",
@@ -362,23 +362,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tg7fks502/purbaya-akui-persepsi-negatif-jadi-kendala-utama-pasar",
       "published_date": "2026-06-06T09:55:40+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "State Expenditures Reach IDR 1,365.4 Trillion Until May 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg6frn8230000/belanja-negara-capai-rp13654-triliun-hingga-mei-2026",
-      "published_date": "2026-06-05T21:02:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cimahi Strengthens Creative Industry Ecosystem with Human Resource Development",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg6c8h6130000/cimahi-perkuat-ekosistem-industri-kreatif-dengan-pengembangan-sdm",
-      "published_date": "2026-06-05T19:45:53+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "These are the Reasons Why You Fail to Save and Effective Solutions",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgcx65472/inilah-alasan-kenapa-gagal-menabung-dan-solusi-efektifnya",
+      "published_date": "2026-06-10T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group H 2026 World Cup: Favorites Spain and Uruguay to Qualify",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tge14h348/grup-h-piala-dunia-2026-spanyol-dan-uruguay-favorit-lolos",
+      "published_date": "2026-06-09T23:26:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funds from BGN have not been disbursed, SPPG in Semarang has stopped operating",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tge0e9484/dana-dari-bgn-belum-cair-sppg-di-semarang-berhenti-beroperasi",
+      "published_date": "2026-06-09T23:10:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Direct distribution of alms is still higher than online, says Baznas",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgdz2e430/penyaluran-sedekah-langsung-masih-tinggi-ketimbangonline-ini-kata-baznas",
+      "published_date": "2026-06-09T22:42:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Tragic Story of the Traitor of the Prophet, His Body Rejected by the Earth Many Times",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgdyxf430/kisah-tragis-pengkhianat-rasulullah-jasadnya-ditolak-bumi-berkalikali",
+      "published_date": "2026-06-09T22:39:15+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ministry of Forestry Releases Two Javan Eagles and Inaugurates Conservation Facilities in Megamendung",
       "source": "Republika English",
@@ -482,41 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgc4tk348/sty-jadi-pelatih-persija-pramono-semoga-bisa-bawa-kado-istimewa-untuk-500-tahun-jakarta",
       "published_date": "2026-06-08T22:51:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islam Prioritizes Social Justice over Wealth Equalization",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgc3zx430/islam-lebih-mengutamakan-keadilan-sosial-daripada-penyamarataan-kekayaan",
-      "published_date": "2026-06-08T22:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When the Prophet was asked to set prices due to the goods becoming expensive",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgc3uy430/ketika-rasulullah-diminta-menetapkan-harga-akibat-barangbarang-jadi-mahal",
-      "published_date": "2026-06-08T22:30:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is what the Muara Enim Regent's office looks like, which was sealed by the KPK",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgbcqi375/begini-penampakan-ruang-kerja-bupati-muara-enim-yang-disegel-kpk",
-      "published_date": "2026-06-08T14:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This book reveals how companies can remain profitable without destroying the environment",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tgbfn1416/buku-ini-ungkap-cara-perusahaan-tetap-untung-tanpa-merusak-lingkungan",
-      "published_date": "2026-06-08T13:50:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BRI Insurance and PP PORDASI Launch Accident Insurance for Equestrian Athletes",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgb8qa370/bri-insurance-dan-pp-pordasi-luncurkan-asuransi-kecelakaan-bagi-atlet-berkuda",
-      "published_date": "2026-06-08T13:49:00+00:00",
       "category": "Local Events"
     }
   ]
