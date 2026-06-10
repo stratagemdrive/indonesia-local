@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "The Indonesian Deputy Minister of Foreign Affairs talks about the two-country solution and the fate of the BoP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgf312393/wamenlu-ri-bicara-soal-solusi-dua-negara-sampai-nasib-bop",
+      "published_date": "2026-06-10T13:05:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Complete schedule for Persib and Borneo FC in the 2026/2027 ASEAN Club Championship",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgd5sd409/jadwal-lengkap-persib-dan-borneo-fc-di-asean-club-championship-20262027",
@@ -58,6 +65,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "WHO: 1.5 Million People Die Every Year Due to Contaminated Food",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgf404425/who-15-juta-jiwa-meninggal-setiap-tahun-akibat-makanan-terkontaminasi",
+      "published_date": "2026-06-10T13:26:28+00:00",
+      "category": "Military"
+    },
     {
       "title": "A US Apache Combat Helicopter Mysteriously Crashes in the Strait of Hormuz",
       "source": "Republika English",
@@ -224,6 +238,34 @@
   ],
   "Economy": [
     {
+      "title": "Mouth Sewing Action, Students Protest about the Weakening of the Rupiah",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgf4pg375/aksi-jahit-mulut-mahasiswa-protes-soal-pelemahan-rupiah",
+      "published_date": "2026-06-10T14:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Himbara is optimistic that the increase in the BI Rate will not hinder credit growth",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgf48h423/himbara-optimistis-kenaikan-bi-rate-tak-hambat-pertumbuhan-kredit",
+      "published_date": "2026-06-10T13:31:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revitalization of Kemayoran Indah Golf Prepared to Become Regional Economic Engine",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgf3ns370/revitalisasi-kemayoran-indah-golf-disiapkan-jadi-motor-ekonomi-kawasan",
+      "published_date": "2026-06-10T13:19:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "5 Ways to Prepare Wedding Funds Without Going into Debt",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgcyh1472/5-cara-menyiapkan-dana-pernikahan-tanpa-harus-berutang",
+      "published_date": "2026-06-10T12:59:41+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "BMO Field, the stadium that will be the stage for Canada's first match in the 2026 World Cup",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tge0kk348/bmo-field-stadion-yang-jadi-panggung-laga-perdana-kanada-di-piala-dunia-2026",
@@ -334,37 +376,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tg7gv9416/pasar-valas-indonesia-diproyeksikan-terus-tumbuh",
       "published_date": "2026-06-06T10:24:55+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ministry of Finance Reveals Tax Revenue from Under Luxury Areas Increased by 41.3 Percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg7gpg502/kemenkeu-ungkap-penerimaan-pajak-dari-bawah-mewah-naik-413-persen",
-      "published_date": "2026-06-06T10:20:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Calming the Rupiah Exchange Rate",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tg7g1m502/menenangkan-kurs-rupiah",
-      "published_date": "2026-06-06T10:05:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "6 'Satset' Ways to Increase Nutrition in Food, Let's Try It!",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tg7foz425/6-cara-satset-tingkatkan-nutrisi-pada-makanan-yuk-dicoba",
-      "published_date": "2026-06-06T09:58:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Purbaya admits that negative perception is the main obstacle to the market",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg7fks502/purbaya-akui-persepsi-negatif-jadi-kendala-utama-pasar",
-      "published_date": "2026-06-06T09:55:40+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "National Library of Indonesia Launches Two-Volume Book \"A Century and a Year of Asrul Sani\"",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgf5vc484/perpusnas-ri-luncurkan-buku-dua-jilid-seabad-setahun-asrul-sani",
+      "published_date": "2026-06-10T14:06:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opening the Hipmi National Conference, Prabowo Alludes to Parties Who Can Only 'Sneak'",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgf4tz377/buka-munas-hipmi-prabowo-singgung-pihakpihak-yang-cuma-bisa-nyinyir",
+      "published_date": "2026-06-10T13:44:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo Responds to The Economist's Criticism, Affirms that Indonesia Chooses Its Own Path",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgf4rj416/prabowo-jawab-kritik-the-economist-tegaskan-indonesia-pilih-jalannya-sendiri",
+      "published_date": "2026-06-10T13:42:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Residents' Enthusiasm Receives Government Food Assistance",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgf3f1375/antusiasme-warga-jakarta-terima-bantuan-pangan-pemerintah",
+      "published_date": "2026-06-10T13:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transjabodetabek becomes a subsidy burden, Pramono: Thank God if someone wants to join in a joint venture",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tgf0on349/transjabodetabek-jadi-beban-subsidi-pramono-alhamdulillah-kalau-ada-yang-mau-patungan",
+      "published_date": "2026-06-10T13:12:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "These are the Reasons Why You Fail to Save and Effective Solutions",
       "source": "Republika English",
@@ -468,41 +517,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgc5vn368/kadin-sebut-industri-keramik-lokal-butuh-keberpihakan-pemerintah",
       "published_date": "2026-06-08T23:14:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Haj: RI 2027 Hajj Quota Still Requires 221 Thousand Pilgrims",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgc5o6483/menhaj-kuota-haji-ri-2027-tetap-mengacu-sebanyak-221-ribu-jamaah",
-      "published_date": "2026-06-08T23:09:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KDM Invites Residents to Shop at Neighboring Stalls to Reduce Poverty",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgc5gu370/kdm-ajak-warga-belanja-di-warung-tetangga-untuk-tekan-kemiskinan",
-      "published_date": "2026-06-08T23:05:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Group F World Cup 2026: Seeded Netherlands, Japan and Sweden Ready to Challenge",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgc5e3348/grup-f-piala-dunia-2026-belanda-unggulan-jepang-dan-swedia-siap-menantang",
-      "published_date": "2026-06-08T23:03:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dam and Badal Hajj Fraud Revealed in the Holy Land, Dahnil: The Perpetrator Actually Understands Jurisprudence and Religion",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgc4zp483/penipuan-dam-dan-badal-haji-terungkap-di-tanah-suci-dahnil-pelakunya-justru-paham-fikih-dan-agama",
-      "published_date": "2026-06-08T22:55:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "STY Becomes Persija Coach, Pramono: Hopefully he can bring a special gift for 500 years of Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgc4tk348/sty-jadi-pelatih-persija-pramono-semoga-bisa-bawa-kado-istimewa-untuk-500-tahun-jakarta",
-      "published_date": "2026-06-08T22:51:20+00:00",
       "category": "Local Events"
     }
   ]
