@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Cooperation on Digitalization of Payments on the MaritimHub Platform Inaugurated",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tgh11l456/kerja-sama-digitalisasi-pembayaran-pada-platform-maritimhub-diresmikan",
+      "published_date": "2026-06-11T14:17:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The Indonesian Deputy Minister of Foreign Affairs talks about the two-country solution and the fate of the BoP",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgf312393/wamenlu-ri-bicara-soal-solusi-dua-negara-sampai-nasib-bop",
@@ -51,6 +58,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Legislators Warn of Hidden Threats of Unemployment and Poverty in Jakarta",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tggv72416/legislator-ingatkan-ancaman-pengangguran-dan-kemiskinan-tersembunyi-di-jakarta",
+      "published_date": "2026-06-11T14:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "The Three Great Wars That Shaped Islamic Civilization After the Prophet's Death",
       "source": "Republika English",
@@ -217,6 +231,41 @@
   ],
   "Economy": [
     {
+      "title": "US Inflation Highest in 3 Years, Trump: I Like Inflation, This Is What Analysts Say",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgh1hn451/inflasi-as-tertinggi-dalam-3-tahun-trump-saya-suka-inflasi-begini-kata-analis",
+      "published_date": "2026-06-11T14:27:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will MBG's budget be cut? This is what Purbaya said",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tggxer416/anggaran-mbg-bakal-dipangkas-begini-kata-purbaya",
+      "published_date": "2026-06-11T14:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Campus and Industry Collaboration Strengthens Young Generation's Cyber ​​Competence",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tggtrl349/kolaborasi-kampus-dan-industri-perkuat-kompetensi-siber-generasi-muda",
+      "published_date": "2026-06-11T13:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesia Ranks 7th in the World for Crypto Adoption, Industry Strengthens Security and Compliance",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tggyo2416/indonesia-peringkat-7-dunia-adopsi-kripto-industri-perkuat-keamanan-dan-kepatuhan",
+      "published_date": "2026-06-11T13:27:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Don't fall into the trap of the failed MoU narrative, observer: Japanese investment continues to grow",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tggcz9451/jangan-terjebak-narasi-mou-gagal-pengamat-investasi-jepang-tetap-tumbuh",
+      "published_date": "2026-06-11T13:27:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mouth Sewing Action, Students Protest about the Weakening of the Rupiah",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tgf4pg375/aksi-jahit-mulut-mahasiswa-protes-soal-pelemahan-rupiah",
@@ -320,44 +369,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tg9dsh349/kai-operasikan-391-kereta-new-generation-investasi-modernisasi-capai-rp55-triliun",
       "published_date": "2026-06-07T11:12:17+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Strengthening Pancasila Economy, DPR Members Propose Law on National Economic System",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg9cfr416/perkuat-ekonomi-pancasila-anggota-dpr-usul-uu-sistem-ekonomi-nasional",
-      "published_date": "2026-06-07T10:56:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Prophet's Example Facing Price Increases, Banning Hoarding and Market Manipulation",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tg7xro366/teladan-rasulullah-hadapi-kenaikan-harga-larang-penimbunan-dan-manipulasi-pasar",
-      "published_date": "2026-06-06T23:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministry of Agriculture: Printing Rice Fields in Kalimantan 2026 100 Percent Realized",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg8f765130000/kementan-cetak-sawah-di-kalimantan-2026-terealisasi-100-persen",
-      "published_date": "2026-06-06T22:45:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Purbaya: Stable Rupiah Will Lighten Household Burdens",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg7h52423/purbaya-rupiah-stabil-akan-ringankan-beban-rumah-tangga",
-      "published_date": "2026-06-06T10:29:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Indonesian Forex Market is Projected to Continue Growing",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg7gv9416/pasar-valas-indonesia-diproyeksikan-terus-tumbuh",
-      "published_date": "2026-06-06T10:24:55+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "KONI Klungkung Supports Student Athletes to Show Sportsmanship and Achievement at Porjar Bali 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgh1gz456/koni-klungkung-dukung-atlet-pelajar-tampil-sportif-dan-berprestasi-di-porjar-bali-2026",
+      "published_date": "2026-06-11T14:26:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cak Imin Appointed Najmi Mumtaza Rabbany to be the Daily Leader of PKB",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgh11b416/cak-imin-tunjuk-najmi-mumtaza-rabbany-jadi-ketua-harian-pkb",
+      "published_date": "2026-06-11T14:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Disease Threat Seen Behind the 2026 World Cup Party",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgh0r8348/ancaman-penyakit-yang-terlihat-di-balik-pesta-piala-dunia-2026",
+      "published_date": "2026-06-11T14:11:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Hosts 2026 APREMIC Congress, Promotes Development of Regenerative Medicine Therapy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgfnso320/indonesia-tuan-rumah-kongres-apremic-2026-angkat-perkembangan-terapi-pengobatan-regeneratif",
+      "published_date": "2026-06-11T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Highlighted Players in Group G of the 2026 World Cup, Veterans Still Mainstays",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tggz4q348/lima-pemain-sorotan-di-grup-g-piala-dunia-2026-para-veteran-masih-jadi-andalan",
+      "published_date": "2026-06-11T13:36:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Muharram Called the Month of Orphans? This is the Ministry of Religion's explanation",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tggy2l430/mengapa-muharram-disebut-bulan-anak-yatim-ini-penjelasan-kemenag",
+      "published_date": "2026-06-11T13:13:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Highlighted Players in Group F of the 2026 World Cup: From the Dutch Wall to the Swedish Goal Machine",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tggxzb348/lima-pemain-sorotan-di-grup-f-piala-dunia-2026-dari-tembok-belanda-hingga-mesin-gol-swedia",
+      "published_date": "2026-06-11T13:11:35+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Abundant Egg Production, Farmers Face Pressure on Selling Prices",
       "source": "Republika English",
@@ -447,55 +510,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgf4rj416/prabowo-jawab-kritik-the-economist-tegaskan-indonesia-pilih-jalannya-sendiri",
       "published_date": "2026-06-10T13:42:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Residents' Enthusiasm Receives Government Food Assistance",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgf3f1375/antusiasme-warga-jakarta-terima-bantuan-pangan-pemerintah",
-      "published_date": "2026-06-10T13:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transjabodetabek becomes a subsidy burden, Pramono: Thank God if someone wants to join in a joint venture",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tgf0on349/transjabodetabek-jadi-beban-subsidi-pramono-alhamdulillah-kalau-ada-yang-mau-patungan",
-      "published_date": "2026-06-10T13:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are the Reasons Why You Fail to Save and Effective Solutions",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgcx65472/inilah-alasan-kenapa-gagal-menabung-dan-solusi-efektifnya",
-      "published_date": "2026-06-10T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Group H 2026 World Cup: Favorites Spain and Uruguay to Qualify",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tge14h348/grup-h-piala-dunia-2026-spanyol-dan-uruguay-favorit-lolos",
-      "published_date": "2026-06-09T23:26:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funds from BGN have not been disbursed, SPPG in Semarang has stopped operating",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tge0e9484/dana-dari-bgn-belum-cair-sppg-di-semarang-berhenti-beroperasi",
-      "published_date": "2026-06-09T23:10:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Direct distribution of alms is still higher than online, says Baznas",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgdz2e430/penyaluran-sedekah-langsung-masih-tinggi-ketimbangonline-ini-kata-baznas",
-      "published_date": "2026-06-09T22:42:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Tragic Story of the Traitor of the Prophet, His Body Rejected by the Earth Many Times",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgdyxf430/kisah-tragis-pengkhianat-rasulullah-jasadnya-ditolak-bumi-berkalikali",
-      "published_date": "2026-06-09T22:39:15+00:00",
       "category": "Local Events"
     }
   ]
