@@ -48,16 +48,16 @@
       "url": "https://khazanah.republika.co.id/berita/tg6ivv430/dubes-ri-untuk-saudi-harapkan-tak-ada-lagi-razia-wisma-haji-di-masa-mendatang",
       "published_date": "2026-06-05T22:15:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Attacking Russian Tanker, France Dismantles Strategy of Kremlin's Shadow Fleet, This Is What President Macron Says",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg4swh451/sergap-kapal-tanker-rusia-prancis-bongkar-siasat-armada-bayangan-kremlin-ini-kata-presiden-macron",
-      "published_date": "2026-06-04T23:50:41+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Iranian Players in Mexico Camp Receive Warm Welcome from Local Supporters",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tghpjp348/para-pemain-iran-di-kamp-meksiko-dapat-sambutan-hangat-dari-suporter-lokal",
+      "published_date": "2026-06-11T23:07:01+00:00",
+      "category": "Military"
+    },
     {
       "title": "Legislators Warn of Hidden Threats of Unemployment and Poverty in Jakarta",
       "source": "Republika English",
@@ -173,6 +173,13 @@
   ],
   "Energy": [
     {
+      "title": "Pertamax Price Increases to IDR 16 Thousand, People Switch to Pertalite to Reduce Expenditures",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tghdi9282/harga-pertamax-naik-jadi-rp16-ribu-rakyat-beralih-ke-pertalite-demi-tekan-pengeluaran",
+      "published_date": "2026-06-11T22:43:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamax and Pertamax Green Officially Increase, This is Pertamina's Latest Fuel Price List",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgdzna370/pertamax-dan-pertamax-green-resmi-naik-ini-daftar-harga-bbm-terbaru-pertamina",
@@ -220,16 +227,23 @@
       "url": "https://news.republika.co.id/berita/tg6kjc3430000/menkop-ferry-dukung-koperasi-laskar-juang-bergerak-dari-hulu",
       "published_date": "2026-06-05T22:45:12+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Investment alone is not enough, ESG is the key to the future of nickel downstreaming",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tg4qq5522/investasi-saja-tak-cukup-esg-jadi-kunci-masa-depan-hilirisasi-nikel",
-      "published_date": "2026-06-04T23:03:41+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "US Dollar Strengthens, Triggers Prices of Basic Necessities on the Market to Rise, Traders' Turnover Freefalls",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tghggf282/dolar-as-menguat-picu-harga-barang-kebutuhan-pokok-di-pasar-naik-omset-pedagang-terjun-bebas",
+      "published_date": "2026-06-12T00:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hendri Satrio's New Book Unpacks Prabowo Subianto's Flow of Economic Thought",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgho3y451/buku-baru-hendri-satrio-bongkar-alur-pemikiran-ekonomi-prabowo-subianto",
+      "published_date": "2026-06-11T22:35:58+00:00",
+      "category": "Economy"
+    },
     {
       "title": "US Inflation Highest in 3 Years, Trump: I Like Inflation, This Is What Analysts Say",
       "source": "Republika English",
@@ -355,23 +369,72 @@
       "url": "https://khazanah.republika.co.id/berita/tgbeed430/alquran-larang-harta-hanya-berputar-di-segelintir-orang-kaya-dan-berkuasa-saja",
       "published_date": "2026-06-08T13:32:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Property value is not only determined by location, there are other factors",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgbd8l416/nilai-properti-tak-hanya-ditentukan-lokasi-ini-faktor-lainnya",
-      "published_date": "2026-06-08T13:02:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "KAI Operates 391 New Generation Trains, Modernization Investment Reaches IDR 5.5 Trillion",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tg9dsh349/kai-operasikan-391-kereta-new-generation-investasi-modernisasi-capai-rp55-triliun",
-      "published_date": "2026-06-07T11:12:17+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Handling Stunting Requires Accurate Data up to Village Level",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tghrtg416/penanganan-stunting-butuh-data-akurat-hingga-tingkat-desa",
+      "published_date": "2026-06-11T23:57:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final Maung School Selection, Final Day PCMB Registration at SMAN 2 Indramayu Soars",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tghfx7282/seleksi-sekolah-maung-final-pendaftar-hari-terakhir-pcmb-di-sman-2-indramayu-melonjak",
+      "published_date": "2026-06-11T23:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Highlighted Players in Group L of the 2026 World Cup, Kane's Productivity to Modric's Last Action",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tghqun348/lima-pemain-sorotan-di-grup-l-piala-dunia-2026-produktivitas-kane-hingga-aksi-terakhir-modric",
+      "published_date": "2026-06-11T23:35:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Highlighted Players in Group K, From Ronaldo's Sharpness to Luis Diaz's Magic",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tghqf3348/lima-pemain-sorotan-di-grup-k-dari-ketajaman-ronaldo-hingga-magis-luis-diaz",
+      "published_date": "2026-06-11T23:25:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As a suspect in molesting female students, Fake Habib in Semarang filed for pre-trial",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tghdnk282/jadi-tersangka-pencabulan-santriwati-habib-palsu-di-semarang-sempat-ajukan-praperadilan",
+      "published_date": "2026-06-11T23:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In the aftermath of the PCMB chaos, KDM removes West Java Education Department officials",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tghfo8282/buntut-kisruh-pcmb-kdm-copot-pejabat-disdik-jabar",
+      "published_date": "2026-06-11T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coffee Cooperative in West Bandung Produces Tens of Tons of Coffee with Microhydro Energy",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgh4q2375/koperasi-kopi-di-bandung-barat-produksi-puluhan-ton-kopi-dengan-energi-mikrohidro",
+      "published_date": "2026-06-11T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baturaja Detention Center Educates Inmates to Prevent Hantavirus Transmission",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tghonk8130000/rutan-baturaja-edukasi-warga-binaan-cegah-penularan-hantavirus",
+      "published_date": "2026-06-11T22:47:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Skips First US Match in 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgha8k348/trump-lewatkan-pertandingan-pertama-as-di-piala-dunia-2026",
+      "published_date": "2026-06-11T22:38:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "KONI Klungkung Supports Student Athletes to Show Sportsmanship and Achievement at Porjar Bali 2026",
       "source": "Republika English",
@@ -447,69 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgfwlg348/grup-k-piala-dunia-2026-ronaldo-kejar-mimpi-terakhir-bersama-portugal",
       "published_date": "2026-06-10T23:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gwyneth Paltrow Blasphemed! His video promoting luxury Israeli properties is considered disgusting",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgfw9i425/gwyneth-paltrow-dihujat-videonya-yang-promosikan-properti-mewah-israel-dinilai-menjijikkan",
-      "published_date": "2026-06-10T23:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Akron Stadium Prepares to Welcome Lamine Yamal to the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgfw8d348/stadion-akron-bersiap-menyambut-lamine-yamal-di-piala-dunia-2026",
-      "published_date": "2026-06-10T23:36:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The banks of the Batang Kuranji River are still filled with flash flood material",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgfd4r375/bantaran-sungai-batang-kuranji-masih-dipenuhi-material-banjir-bandang",
-      "published_date": "2026-06-10T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inspector General: There is a Major Evaluation for Next Year's Hajj Season, Including the Mina Issue",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgftzs483/irjen-ada-evaluasi-besar-untuk-musim-haji-tahun-depan-termasuk-soal-mina",
-      "published_date": "2026-06-10T22:47:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haji Dam Violation, Seven People Examined",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgftw8430/pelanggaran-dam-haji-tujuh-orang-diperiksa",
-      "published_date": "2026-06-10T22:45:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic New Year Coming Soon, This is the Priority of the Month of Muharram",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgftq8430/tahun-baru-islam-sebentar-lagi-ini-keutamaan-bulan-muharram",
-      "published_date": "2026-06-10T22:42:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Library of Indonesia Launches Two-Volume Book \"A Century and a Year of Asrul Sani\"",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgf5vc484/perpusnas-ri-luncurkan-buku-dua-jilid-seabad-setahun-asrul-sani",
-      "published_date": "2026-06-10T14:06:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opening the Hipmi National Conference, Prabowo Alludes to Parties Who Can Only 'Sneak'",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgf4tz377/buka-munas-hipmi-prabowo-singgung-pihakpihak-yang-cuma-bisa-nyinyir",
-      "published_date": "2026-06-10T13:44:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Responds to The Economist's Criticism, Affirms that Indonesia Chooses Its Own Path",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgf4rj416/prabowo-jawab-kritik-the-economist-tegaskan-indonesia-pilih-jalannya-sendiri",
-      "published_date": "2026-06-10T13:42:55+00:00",
       "category": "Local Events"
     }
   ]
