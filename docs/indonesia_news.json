@@ -52,6 +52,20 @@
   ],
   "Military": [
     {
+      "title": "Police Open Blockade, All Demonstrators Retreat Orderly",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgiuqw502/polisi-buka-blokade-seluruh-massa-aksi-mundur-teratur",
+      "published_date": "2026-06-12T13:56:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arriving in Indonesia, greeted by Sjafrie, Japanese Defense Minister wearing batik",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgirmz484/tiba-di-indonesia-disambut-sjafrie-menhan-jepang-pakai-batik",
+      "published_date": "2026-06-12T12:49:47+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iranian Players in Mexico Camp Receive Warm Welcome from Local Supporters",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tghpjp348/para-pemain-iran-di-kamp-meksiko-dapat-sambutan-hangat-dari-suporter-lokal",
@@ -162,16 +176,30 @@
       "url": "https://news.republika.co.id/berita/tg6f1e730000/kota-bogor-raih-penghargaan-tiga-besar-pembiayaan-kreatif",
       "published_date": "2026-06-05T20:46:26+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Allegedly Supporting Drug Trafficking, Former Member of the East Kalimantan Police Mobile Brigade Is Examined by Bareskrim",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tg5oqp375/diduga-bekingi-peredaran-narkoba-eks-anggota-brimob-polda-kaltim-diperiksa-bareskrim",
-      "published_date": "2026-06-05T13:30:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Economist Responds to Pertamax Increase: Pertamina Bailout Fund Cannot Continue to Hold Pertamax Prices",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tgiumr522/ekonom-tanggapi-kenaikan-pertamax-dana-talangan-pertamina-tak-bisa-terus-menahan-harga-pertamax",
+      "published_date": "2026-06-12T13:54:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Carrying out the role of downstreaming driver, MIND ID optimizes contributions to the country",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgiuh6472/jalankan-peran-penggerak-hilirisasi-mind-id-optimalkan-kontribusi-bagi-negara",
+      "published_date": "2026-06-12T13:51:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil Production Reaches 70 Thousand Barrels per Day, PEPC Exceeds 2025 Target",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgiu1f416/produksi-minyak-tembus-70-ribu-barel-per-hari-pepc-lampaui-target-2025",
+      "published_date": "2026-06-12T13:41:56+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamax Price Increases to IDR 16 Thousand, People Switch to Pertalite to Reduce Expenditures",
       "source": "Republika English",
@@ -373,6 +401,27 @@
   ],
   "Local Events": [
     {
+      "title": "One Practice that the Prophet SAW Bequeathed This Will Bring the Love of Allah SWT and Humans",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgiu5g320/satu-amalan-yang-diwasiatkan-rasulullah-saw-ini-akan-datangkan-cinta-allah-swt-dan-manusia",
+      "published_date": "2026-06-12T13:44:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Human Rights Collaborates with Regional Government to Increase Human Rights Index Program",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgital484/kemenham-gandeng-pemda-gencarkan-program-indeks-ham",
+      "published_date": "2026-06-12T13:25:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesian Muslim Student Union Schedules Congress in Banten",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgirzv320/serikat-mahasiswa-muslimin-indonesia-agendakan-kongres-di-banten",
+      "published_date": "2026-06-12T12:57:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Handling Stunting Requires Accurate Data up to Village Level",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tghrtg416/penanganan-stunting-butuh-data-akurat-hingga-tingkat-desa",
@@ -489,27 +538,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tgfd7v375/produksi-telur-melimpah-peternak-hadapi-tekanan-harga-jual",
       "published_date": "2026-06-11T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government targets 10 million new entrepreneurs by 2029",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgfx6j370/pemerintah-targetkan-10-juta-wirausaha-baru-hingga-2029",
-      "published_date": "2026-06-10T23:56:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probiotics in Kimchi Have the Potential to Remove Microplastics from the Gut",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgfx3m425/probiotik-dalam-kimchi-berpotensi-usir-mikroplastik-dari-usus",
-      "published_date": "2026-06-10T23:54:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 World Cup Group K: Ronaldo Chasing His Final Dream With Portugal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgfwlg348/grup-k-piala-dunia-2026-ronaldo-kejar-mimpi-terakhir-bersama-portugal",
-      "published_date": "2026-06-10T23:44:04+00:00",
       "category": "Local Events"
     }
   ]
