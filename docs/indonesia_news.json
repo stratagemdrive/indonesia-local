@@ -41,16 +41,16 @@
       "url": "https://khazanah.republika.co.id/berita/tg9ogc483/evaluasi-haji-2026-amirul-hajj-soroti-kkhi-tenda-jamaah-hingga-sampah-plastik",
       "published_date": "2026-06-07T22:39:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Pornography and Child Trafficking Case in France, Embassy in Indonesia Dragged",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tg88hl484/kasus-pornografi-dan-perdagangan-anak-di-perancis-kedutaan-di-indonesia-terseret",
-      "published_date": "2026-06-06T20:20:09+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "US Suddenly Blocks 2 Super Advanced AI, Europe: We Are Too Dependent",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgksw2451/as-mendadak-blokir-2-ai-super-canggih-eropa-kita-terlalu-bergantung",
+      "published_date": "2026-06-13T23:52:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Minister of Agriculture Invites Red and White Troops to Guard Food Self-Sufficiency, Emphasizes Not to Be Afraid to Fight Food Mafia",
       "source": "Republika English",
@@ -273,6 +273,13 @@
   ],
   "Economy": [
     {
+      "title": "Walhi: Planned Transjabodetabek Tariff Increase Could Make Residents Return to Using Private Vehicles",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgleth409/walhi-rencana-kenaikan-tarif-transjabodetabek-bisa-buat-warga-kembali-naik-kendaraan-pribadi",
+      "published_date": "2026-06-13T23:13:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Enesis Develops Talent and Adaptive Work Culture to Support Business Growth",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgkhu3416/enesis-kembangkan-talenta-dan-budaya-kerja-adaptif-untuk-dukung-pertumbuhan-bisnis",
@@ -404,16 +411,72 @@
       "url": "https://news.republika.co.id/berita/tgdz4l484/dari-istana-chatib-basri-akui-tak-ada-tawaran-jadi-menkeu",
       "published_date": "2026-06-09T22:43:33+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Minister of Finance Purbaya Explains Strategy to Pursue Economic Growth of 6.5 Percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgd7jg416/menkeu-purbaya-beberkan-strategi-kejar-pertumbuhan-ekonomi-65-persen",
-      "published_date": "2026-06-09T13:15:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Digitalization: Aceh's Economic Airway",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tgko2r451/digitalisasi-saluran-napas-ekonomi-aceh",
+      "published_date": "2026-06-13T22:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Of the 4,635 SPPGs in Central Java, only 575 have Halal certification, 715 SPPGs do not have SLH",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgl2sw282/dari-4635-sppg-di-jateng-hanya-575-yang-kantongi-sertifikasi-halal-715-sppg-tak-punya-slh",
+      "published_date": "2026-06-13T22:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Claims of Not Receiving Reports on Sale and Purchase of Seats at SPMB, KDM: Many Children of Sajja Officials Did Not Graduate",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tgl2ig282/klaim-belum-dapat-laporan-jual-beli-kursi-di-spmb-kdm-anak-pejabat-sajja-banyak-tak-lulus",
+      "published_date": "2026-06-13T21:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Failing to go to HI Roundabout, Students Ready to Consolidate to Hold Another Action",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgl96b484/gagal-ke-bundaran-hi-mahasiswa-siap-konsolidasi-gelar-aksi-lagi",
+      "published_date": "2026-06-13T21:03:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "400 SPPGs in Central Java have stopped operating due to failure in disbursement of funds",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgl0zd282/400-sppg-di-jateng-berhenti-beroperasi-karena-pencairan-dana-macet",
+      "published_date": "2026-06-13T21:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mentioning that Indonesia is heading towards crisis, BEM Undip states that it will continue the government demonstration",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgl0si282/singgung-indonesia-menuju-krisis-bem-undip-nyatakan-akan-lanjutkan-demo-pemerintah",
+      "published_date": "2026-06-13T20:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stories of Parents of Students in West Java Upset by PCMB and SPMB, DPRD Urges Disdik to Improve",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tgl21v282/cerita-orang-tua-murid-di-jabar-dibuat-kesal-pcmb-hingga-spmb-dprd-desak-disdik-berbenah",
+      "published_date": "2026-06-13T19:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Round of Corruption in Indramayu DPRD Housing Benefits, Deputy Regent Examined by Prosecutor as Suspect",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tgl1jy282/babak-baru-korupsi-tunjangan-perumahan-dprd-indramayu-wabup-diperiksa-kejati-sebagai-tersangka",
+      "published_date": "2026-06-13T19:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosecutor's Office Names Indramayu Deputy Regent as Suspect in Alleged DPRD Tuper Corruption",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tgl29m282/kejati-tetapkan-wabup-indramayu-sebagai-tersangka-dugaan-korupsi-tuper-dprd",
+      "published_date": "2026-06-13T18:53:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "El Nino threatens harvest results in West Bandung, farmers are advised not to force them to plant rice",
       "source": "Republika English",
@@ -489,69 +552,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tgjl80425/dwayne-johnson-ungkap-cerita-menegangkan-temukan-benjolan-di-alat-vitalnya",
       "published_date": "2026-06-12T23:28:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta's air is unhealthy on Saturday morning, residents are advised to wear masks",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tgjkwy423/udara-jakarta-tak-sehat-pada-sabtu-pagi-warga-disarankan-pakai-masker",
-      "published_date": "2026-06-12T23:22:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to Prevent Brain 'Rust' in Your 30s",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgjk8y425/cara-mencegah-otak-berkarat-pada-usia-30an",
-      "published_date": "2026-06-12T23:07:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1,117 Cases of Violence in Islamic Boarding Schools, Kiai Strengthens Child Protection System",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgjjgc393/1117-kasus-kekerasan-di-pesantren-kiai-perkuat-sistem-perlindungan-anak",
-      "published_date": "2026-06-12T22:50:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG: Saturday's weather will be dominated by cloudy skies and light to moderate rain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgjj7u7930000/bmkg-cuaca-sabtu-didominasi-berawan-dan-hujan-ringansedang",
-      "published_date": "2026-06-12T22:45:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One Practice that the Prophet SAW Bequeathed This Will Bring the Love of Allah SWT and Humans",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgiu5g320/satu-amalan-yang-diwasiatkan-rasulullah-saw-ini-akan-datangkan-cinta-allah-swt-dan-manusia",
-      "published_date": "2026-06-12T13:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Human Rights Collaborates with Regional Government to Increase Human Rights Index Program",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgital484/kemenham-gandeng-pemda-gencarkan-program-indeks-ham",
-      "published_date": "2026-06-12T13:25:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian Muslim Student Union Schedules Congress in Banten",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgirzv320/serikat-mahasiswa-muslimin-indonesia-agendakan-kongres-di-banten",
-      "published_date": "2026-06-12T12:57:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Handling Stunting Requires Accurate Data up to Village Level",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tghrtg416/penanganan-stunting-butuh-data-akurat-hingga-tingkat-desa",
-      "published_date": "2026-06-11T23:57:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final Maung School Selection, Final Day PCMB Registration at SMAN 2 Indramayu Soars",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tghfx7282/seleksi-sekolah-maung-final-pendaftar-hari-terakhir-pcmb-di-sman-2-indramayu-melonjak",
-      "published_date": "2026-06-11T23:43:00+00:00",
       "category": "Local Events"
     }
   ]
