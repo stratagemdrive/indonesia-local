@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "BYD Expands Social Support Program for Education to 45 Cities in Indonesia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgmfcw348/byd-perluas-program-sosial-dukungan-untuk-pendidikan-ke-45-kota-di-indonesia",
+      "published_date": "2026-06-14T12:14:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Not Passing UTBK 2026, Should Your Dream of Going to College Be Buried? UNM Rawamangun Campus Opens New Road",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgkg4t472/tak-lolos-utbk-2026-haruskah-mimpi-kuliah-dikubur-unm-kampus-rawamangun-buka-jalan-baru",
@@ -44,6 +51,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Zakat, Inflation and Social Safety Nets",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tgmg9k368/zakat-inflasi-dan-jaring-pengaman-sosial",
+      "published_date": "2026-06-14T12:34:32+00:00",
+      "category": "Military"
+    },
     {
       "title": "US Suddenly Blocks 2 Super Advanced AI, Europe: We Are Too Dependent",
       "source": "Republika English",
@@ -262,16 +276,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tgbe34472/digital-edge-rampungkan-topping-out-cgk1-serta-amankan-perjanjian-pasokan-listrik-pln",
       "published_date": "2026-06-08T13:13:52+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Government Targets National Implementation of B50 Starting July 1",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tg9cl6375/pemerintah-targetkan-implementasi-b50-secara-nasional-mulai-1-juli",
-      "published_date": "2026-06-07T12:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Menpora Erick: BTN Jakarta International Marathon 2026 Will Become a Driver of the Economy and Sports Tourism",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmfno348/menpora-erick-btn-jakarta-international-marathon-2026-jadi-penggerak-ekonomi-dan-sport-tourism",
+      "published_date": "2026-06-14T12:21:24+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Walhi: Planned Transjabodetabek Tariff Increase Could Make Residents Return to Using Private Vehicles",
       "source": "Republika English",
@@ -404,16 +418,65 @@
       "url": "https://news.republika.co.id/berita/tge0kk348/bmo-field-stadion-yang-jadi-panggung-laga-perdana-kanada-di-piala-dunia-2026",
       "published_date": "2026-06-09T23:14:44+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "From the Palace, Chatib Basri admitted that he had no offers to become Minister of Finance",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgdz4l484/dari-istana-chatib-basri-akui-tak-ada-tawaran-jadi-menkeu",
-      "published_date": "2026-06-09T22:43:33+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Revenge of being imprisoned, youth in Demak burn down the house of a former village head and retired ASN",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgmgx2282/dendam-pernah-dipenjarakan-pemuda-di-demak-bakar-rumah-mantan-kades-dan-pensiunan-asn",
+      "published_date": "2026-06-14T12:48:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi finally returns to full training, ready to lead Argentina against Algeria",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmfvn348/messi-akhirnya-kembali-berlatih-penuh-siap-pimpin-argentina-hadapi-aljazair",
+      "published_date": "2026-06-14T12:26:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPI FAI UMJ Study Program Reviews and Strengthens Curriculum for Competitive Graduates",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmet2368/prodi-kpi-fai-umj-tinjau-dan-perkuat-kurikulum-demi-lulusan-berdaya-saing",
+      "published_date": "2026-06-14T12:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menpora Erick Thohir Releases 8,000 Runners at the 2026 BTN Jakarta International Marathon",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmf8l348/menpora-erick-thohir-lepas-8000-pelari-di-btn-jakarta-international-marathon-2026",
+      "published_date": "2026-06-14T12:12:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ancelotti apologizes to Brazil being held to a draw by Morocco in the first match of the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmey2348/ancelotti-minta-maaf-brasil-ditahan-imbang-maroko-pada-laga-perdana-piala-dunia-2026",
+      "published_date": "2026-06-14T12:06:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Blood Donor Day 2026, PMI Invites the Community to Strengthen Humanitarian Solidarity Through Blood Donation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmehe368/hari-donor-darah-sedunia-2026-pmi-ajak-masyarakat-perkuat-solidaritas-kemanusiaan-lewat-donor-darah",
+      "published_date": "2026-06-14T12:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Encouraging Global Collaboration, UMJ Attends Conference and Signs MoU in China",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmeft368/dorong-kolaborasi-global-umj-hadiri-konferensi-dan-teken-mou-di-china",
+      "published_date": "2026-06-14T11:55:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Highlighting Draft Regional Regulation P2APBD 2025, PKS Faction: Jakarta Needs Fiscal Independence",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgmdla368/soroti-raperda-p2apbd-2025-fraksi-pks-jakarta-perlu-kemandirian-fiskal",
+      "published_date": "2026-06-14T11:36:46+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Digitalization: Aceh's Economic Airway",
       "source": "Republika English",
@@ -496,62 +559,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tgkiz6487/kerap-dikritik-soal-jalan-rusak-gubernur-luthfi-realokasi-rp-200-miliar-untuk-pengaspalan-dan-beton",
       "published_date": "2026-06-13T11:37:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunt for discounts at the 2026 Jakarta Great Sale Festival",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgkhey375/berburu-diskon-di-festival-jakarta-great-sale-2026",
-      "published_date": "2026-06-13T11:04:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Welcoming the Islamic New Year, Practice Worship That Can Erase the Sins of the Past Year",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgk4cb430/sambut-tahun-baru-islam-amalkan-ibadah-yang-bisa-hapus-dosa-setahun-lalu-ini",
-      "published_date": "2026-06-13T11:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zakat Forum: Direct Alms Risks Perpetuating Poverty",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgkgkc430/forum-zakat-sedekah-langsung-berisiko-melestarikan-kemiskinan",
-      "published_date": "2026-06-13T10:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wuling Collaborates with Toy Story 5 to Bring Electric Vehicles Closer to Consumers",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgkg22349/wuling-gandeng-toy-story-5-untuk-dekatkan-kendaraan-listrik-ke-konsumen",
-      "published_date": "2026-06-13T10:34:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BTS Concert in Busan 75 Minutes Late, HYBE Apologizes",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgkfxr425/konser-bts-di-busan-telat-75-menit-hybe-minta-maaf",
-      "published_date": "2026-06-13T10:32:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are the two major modes of corruption cases at MBG, the number of suspects is likely to increase",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgjmhi377/ini-dua-modus-besar-perkara-korupsi-di-mbg-tersangka-kemungkinan-bakal-bertambah",
-      "published_date": "2026-06-12T23:56:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taylor Swift's tears of emotion become the youngest woman in the Songwriters Hall of Fame",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgjlvj425/tangis-haru-taylor-swift-jadi-perempuan-termuda-di-songwriters-hall-of-fame",
-      "published_date": "2026-06-12T23:42:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dwayne Johnson Reveals the Thrilling Story of Finding a Lump on His Vital Tool",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgjl80425/dwayne-johnson-ungkap-cerita-menegangkan-temukan-benjolan-di-alat-vitalnya",
-      "published_date": "2026-06-12T23:28:48+00:00",
       "category": "Local Events"
     }
   ]
