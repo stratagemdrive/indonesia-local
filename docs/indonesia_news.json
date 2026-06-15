@@ -45,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "Demonstrating at the Horse Statue, Students Criticize the Pertamax Price Increase and the National Police Law",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgog86375/demo-di-patung-kuda-mahasiswa-kritik-kenaikan-harga-pertamax-dan-uu-polri",
+      "published_date": "2026-06-15T14:28:54+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Zakat, Inflation and Social Safety Nets",
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tgmg9k368/zakat-inflasi-dan-jaring-pengaman-sosial",
@@ -248,30 +255,23 @@
       "url": "https://news.republika.co.id/berita/tgc4ja4330000/ketangguhan-industri-tambang-indonesia-di-tengah-ketidakpastian-global-2025",
       "published_date": "2026-06-08T22:45:10+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "MIND ID's Downstream Strategy Supports Performance in the Midst of Global Turmoil",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgbfem522/strategi-hilirisasi-mind-id-jadi-penopang-kinerja-di-tengah-gejolak-global",
-      "published_date": "2026-06-08T13:42:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Job Seekers Crowded Bogor City Job Exchange, 3,212 Vacancies Offered",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgbc75375/pencari-kerja-padati-bursa-kerja-kota-bogor-3212-lowongan-ditawarkan",
-      "published_date": "2026-06-08T13:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Digital Edge Completes CGK1 Topping Out and Secures PLN Electricity Supply Agreement",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgbe34472/digital-edge-rampungkan-topping-out-cgk1-serta-amankan-perjanjian-pasokan-listrik-pln",
-      "published_date": "2026-06-08T13:13:52+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Indonesian Association Presents Free Study and Training Space for Young People",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgo826451/persatuan-indonesia-hadirkan-ruang-belajar-dan-pelatihan-gratis-untuk-anak-muda",
+      "published_date": "2026-06-15T15:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Eliminating 90 Percent of Import Duty, President Steinmeier Says Germany is Ready to Boost Investment in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgogv3451/hapus-90-persen-bea-masuk-presiden-steinmeier-sebut-jerman-siap-genjot-investasi-di-ri",
+      "published_date": "2026-06-15T14:42:39+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Prabowo Orders Rosan to Submit Investment Data to the Public",
       "source": "Republika English",
@@ -397,23 +397,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tggyo2416/indonesia-peringkat-7-dunia-adopsi-kripto-industri-perkuat-keamanan-dan-kepatuhan",
       "published_date": "2026-06-11T13:27:37+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Don't fall into the trap of the failed MoU narrative, observer: Japanese investment continues to grow",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tggcz9451/jangan-terjebak-narasi-mou-gagal-pengamat-investasi-jepang-tetap-tumbuh",
-      "published_date": "2026-06-11T13:27:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mouth Sewing Action, Students Protest about the Weakening of the Rupiah",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgf4pg375/aksi-jahit-mulut-mahasiswa-protes-soal-pelemahan-rupiah",
-      "published_date": "2026-06-10T14:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Three State Officials were raided by students during a discussion at Joglo GIK UGM",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgokq4282/tiga-pejabat-negara-digeruduk-mahasiswa-saat-isi-diskusi-di-joglo-gik-ugm",
+      "published_date": "2026-06-15T16:06:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Semarang Students Demonstrate to Voice the People's Five Demands",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgok5j282/seribuan-mahasiswa-semarang-demo-suarakan-panca-tuntutan-rakyat",
+      "published_date": "2026-06-15T15:53:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPIH Palembang: Insurance for Pilgrims Who Die is Disbursed After Hajj Operations are Completed",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgo70o366/ppih-palembang-asuransi-jamaah-yang-wafat-cair-setelah-operasional-haji-selesai",
+      "published_date": "2026-06-15T15:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electric Torch Parade Enlivens the Muharram 1448 Hijri Festival in Jakarta",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgoi1x375/pawai-obor-elektrik-semarakkan-festival-muharram-1448-hijriah-di-jakarta",
+      "published_date": "2026-06-15T15:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children under 16 are prohibited from using social media, British PM: Technology giants are failing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgoi4o451/anak-di-bawah-16-tahun-dilarang-bermedsos-pm-inggris-raksasa-teknologi-gagal",
+      "published_date": "2026-06-15T15:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olivia Rodrigo Reveals Her Left Ear Is 60 Percent Deaf, Claims She Has Made Peace With This Condition",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgogec425/olivia-rodrigo-ungkap-telinga-kirinya-60-persen-tuli-mengaku-sudah-berdamai-dengan-kondisi-itu",
+      "published_date": "2026-06-15T14:32:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 World Cup Schedule: From Spain to Belgium, Great Action From Tonight Until Tomorrow Morning",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgog1v348/jadwal-piala-dunia-2026-dari-spanyol-hingga-belgia-aksi-hebat-mulai-malam-ini-sampai-besok-pagi",
+      "published_date": "2026-06-15T14:25:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgium vs Egypt Preview: A Match between the Influence of Salah and De Bruyne",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgofpi348/preview-belgia-vs-mesir-adu-pengaruh-salah-kontra-de-bruyne",
+      "published_date": "2026-06-15T14:17:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Performance Evaluation, Head of BP BUMN Gathers Himbara Directors and Commissioners",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgof8h370/evaluasi-kinerja-kepala-bp-bumn-kumpulkan-direksikomisaris-himbara",
+      "published_date": "2026-06-15T14:07:29+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The charm of Ternate's Kastela Beach is tarnished by marine debris",
       "source": "Republika English",
@@ -489,69 +538,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgmdla368/soroti-raperda-p2apbd-2025-fraksi-pks-jakarta-perlu-kemandirian-fiskal",
       "published_date": "2026-06-14T11:36:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Digitalization: Aceh's Economic Airway",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tgko2r451/digitalisasi-saluran-napas-ekonomi-aceh",
-      "published_date": "2026-06-13T22:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Of the 4,635 SPPGs in Central Java, only 575 have Halal certification, 715 SPPGs do not have SLH",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgl2sw282/dari-4635-sppg-di-jateng-hanya-575-yang-kantongi-sertifikasi-halal-715-sppg-tak-punya-slh",
-      "published_date": "2026-06-13T22:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Claims of Not Receiving Reports on Sale and Purchase of Seats at SPMB, KDM: Many Children of Sajja Officials Did Not Graduate",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgl2ig282/klaim-belum-dapat-laporan-jual-beli-kursi-di-spmb-kdm-anak-pejabat-sajja-banyak-tak-lulus",
-      "published_date": "2026-06-13T21:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Failing to go to HI Roundabout, Students Ready to Consolidate to Hold Another Action",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgl96b484/gagal-ke-bundaran-hi-mahasiswa-siap-konsolidasi-gelar-aksi-lagi",
-      "published_date": "2026-06-13T21:03:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "400 SPPGs in Central Java have stopped operating due to failure in disbursement of funds",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgl0zd282/400-sppg-di-jateng-berhenti-beroperasi-karena-pencairan-dana-macet",
-      "published_date": "2026-06-13T21:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mentioning that Indonesia is heading towards crisis, BEM Undip states that it will continue the government demonstration",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgl0si282/singgung-indonesia-menuju-krisis-bem-undip-nyatakan-akan-lanjutkan-demo-pemerintah",
-      "published_date": "2026-06-13T20:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stories of Parents of Students in West Java Upset by PCMB and SPMB, DPRD Urges Disdik to Improve",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgl21v282/cerita-orang-tua-murid-di-jabar-dibuat-kesal-pcmb-hingga-spmb-dprd-desak-disdik-berbenah",
-      "published_date": "2026-06-13T19:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Round of Corruption in Indramayu DPRD Housing Benefits, Deputy Regent Examined by Prosecutor as Suspect",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgl1jy282/babak-baru-korupsi-tunjangan-perumahan-dprd-indramayu-wabup-diperiksa-kejati-sebagai-tersangka",
-      "published_date": "2026-06-13T19:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecutor's Office Names Indramayu Deputy Regent as Suspect in Alleged DPRD Tuper Corruption",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgl29m282/kejati-tetapkan-wabup-indramayu-sebagai-tersangka-dugaan-korupsi-tuper-dprd",
-      "published_date": "2026-06-13T18:53:00+00:00",
       "category": "Local Events"
     }
   ]
