@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Interactive Science Show Invites Children to Learn While Playing",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgq3s0375/pertunjukan-sains-interaktif-ajak-anak-belajar-sambil-bermain",
+      "published_date": "2026-06-16T13:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "BYD Expands Social Support Program for Education to 45 Cities in Indonesia",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgmfcw348/byd-perluas-program-sosial-dukungan-untuk-pendidikan-ke-45-kota-di-indonesia",
@@ -27,23 +34,23 @@
       "url": "https://news.republika.co.id/berita/tgf312393/wamenlu-ri-bicara-soal-solusi-dua-negara-sampai-nasib-bop",
       "published_date": "2026-06-10T13:05:26+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Complete schedule for Persib and Borneo FC in the 2026/2027 ASEAN Club Championship",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgd5sd409/jadwal-lengkap-persib-dan-borneo-fc-di-asean-club-championship-20262027",
-      "published_date": "2026-06-09T13:23:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jabodebek LRT Trials Adding Trips during Morning Rush Hour",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgd5py349/lrt-jabodebek-uji-coba-tambah-perjalanan-pada-jam-sibuk-pagi",
-      "published_date": "2026-06-09T12:08:22+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Doctor of Laws Initiate Sociopreneurship Policing to Strengthen Community-Based Security",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgqa8u368/doktor-ilmu-hukum-gagas-sociopreneurship-policing-untuk-perkuat-keamanan-berbasis-komunitas",
+      "published_date": "2026-06-16T14:14:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Head of BEM UGM Tiyo Ardianto Becomes 'Shoot' Target, Fortuner Linked to Retired TNI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgq78r377/eks-ketua-bem-ugm-tiyo-ardianto-jadi-sasaran-tembak-fortuner-dikaitkan-purnawirawan-tni",
+      "published_date": "2026-06-16T13:10:03+00:00",
+      "category": "Military"
+    },
     {
       "title": "Demonstrating at the Horse Statue, Students Criticize the Pertamax Price Increase and the National Police Law",
       "source": "Republika English",
@@ -148,27 +155,6 @@
       "url": "https://khazanah.republika.co.id/berita/tgcn6x366/gambaran-alam-kubur-menurut-ulama-dan-empat-amalan-agar-selamat-dari-siksa-kubur",
       "published_date": "2026-06-09T23:05:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Army War Story of BTS Concert Tickets: Just Entering the Queue Reaching Hundreds of Thousands, VIPs Are Immediately Sold Out",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgd9ft425/kisah-army-war-tiket-konser-bts-baru-masuk-antrean-tembus-ratusan-ribu-vip-langsung-habis",
-      "published_date": "2026-06-09T13:28:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White Collar Crime Scheme Through Fraud, Layering, Image That Prosecutors Accuse Nadiem Makarim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgd6nn409/skema-kejahatan-kerah-putih-lewat-fraud-layering-image-yang-dituduhkan-jaksa-ke-nadiem-makarim",
-      "published_date": "2026-06-09T13:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Prabowo is expanding the military’s civilian role as an instrument of presidential rule",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/how-prabowo-is-expanding-the-militarys-civilian-role-as-an-instrument-of-presidential-rule/",
-      "published_date": "2026-06-09T00:57:47+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -251,6 +237,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Purbaya: Easing US-Iran Conflict Opens Up Additional Space in APBN",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgqd1v490/purbaya-meredanya-konflik-asiran-buka-ruang-tambahan-di-apbn",
+      "published_date": "2026-06-16T15:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "INDEF: The Government Must Maintain Credibility so that the Rupiah and IHSG Strengthen",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgqcdh490/indef-pemerintah-harus-jaga-kredibilitas-agar-rupiah-dan-ihsg-menguat",
+      "published_date": "2026-06-16T15:00:53+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Indonesian Association Presents Free Study and Training Space for Young People",
       "source": "Republika English",
@@ -376,23 +376,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tggxer416/anggaran-mbg-bakal-dipangkas-begini-kata-purbaya",
       "published_date": "2026-06-11T14:15:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Campus and Industry Collaboration Strengthens Young Generation's Cyber ​​Competence",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tggtrl349/kolaborasi-kampus-dan-industri-perkuat-kompetensi-siber-generasi-muda",
-      "published_date": "2026-06-11T13:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Indonesia Ranks 7th in the World for Crypto Adoption, Industry Strengthens Security and Compliance",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tggyo2416/indonesia-peringkat-7-dunia-adopsi-kripto-industri-perkuat-keamanan-dan-kepatuhan",
-      "published_date": "2026-06-11T13:27:37+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "228 Paskibraka Candidates from 38 Provinces Undergo Central Level Verification",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgqe07416/228-calon-paskibraka-dari-38-provinsi-jalani-verifikasi-tingkat-pusat",
+      "published_date": "2026-06-16T15:39:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One person reportedly died as a result of the earthquake in Central Sulawesi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgqcda393/satu-orang-dilaporkan-meninggal-dunia-akibat-gempa-di-sulawesi-tengah",
+      "published_date": "2026-06-16T15:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven Hundred Children Take Part in Fun Run in Surabaya",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgq9g4483/tujuh-ratus-anak-ikuti-fun-run-di-surabaya",
+      "published_date": "2026-06-16T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egyptian Professor: The Koran is the Foundation for Civilization Change",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgqa7j483/profesor-asal-mesir-alquran-jadi-fondasi-perubahan-peradaban",
+      "published_date": "2026-06-16T14:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reimagining the Fairness of the Higher Education Ecosystem",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tgq9pa368/menata-ulang-keadilan-ekosistem-pendidikan-tinggi",
+      "published_date": "2026-06-16T14:03:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muslims with Deaf and Speech Disabilities Also Have the Right to Understand Religion, Jurisprudence Vocabulary Compiled",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgq8n6483/muslim-disabilitas-rungu-wicara-pun-berhak-paham-agama-kosa-isyarat-fikih-disusun",
+      "published_date": "2026-06-16T13:40:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The World Quranic Civilization Forum Issues the Jakarta Declaration: Civilization is Born from Home",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgq7p2483/forum-peradaban-qurani-dunia-lahirkan-deklarasi-jakarta-peradaban-lahir-dari-rumah",
+      "published_date": "2026-06-16T13:19:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Approaching 1 Muharram 1448 H, Congregants Can Witness the Replacement of the Kiswah of the Kaaba at the Grand Mosque",
       "source": "Republika English",
@@ -482,55 +517,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgoi4o451/anak-di-bawah-16-tahun-dilarang-bermedsos-pm-inggris-raksasa-teknologi-gagal",
       "published_date": "2026-06-15T15:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olivia Rodrigo Reveals Her Left Ear Is 60 Percent Deaf, Claims She Has Made Peace With This Condition",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgogec425/olivia-rodrigo-ungkap-telinga-kirinya-60-persen-tuli-mengaku-sudah-berdamai-dengan-kondisi-itu",
-      "published_date": "2026-06-15T14:32:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 World Cup Schedule: From Spain to Belgium, Great Action From Tonight Until Tomorrow Morning",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgog1v348/jadwal-piala-dunia-2026-dari-spanyol-hingga-belgia-aksi-hebat-mulai-malam-ini-sampai-besok-pagi",
-      "published_date": "2026-06-15T14:25:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgium vs Egypt Preview: A Match between the Influence of Salah and De Bruyne",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgofpi348/preview-belgia-vs-mesir-adu-pengaruh-salah-kontra-de-bruyne",
-      "published_date": "2026-06-15T14:17:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Performance Evaluation, Head of BP BUMN Gathers Himbara Directors and Commissioners",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgof8h370/evaluasi-kinerja-kepala-bp-bumn-kumpulkan-direksikomisaris-himbara",
-      "published_date": "2026-06-15T14:07:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The charm of Ternate's Kastela Beach is tarnished by marine debris",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgmlzu375/pesona-pantai-kastela-ternate-tercoreng-sampah-laut",
-      "published_date": "2026-06-14T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Home Affairs Accelerates Determination of Village Boundaries in Southeast Sulawesi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmopm416/kemendagri-percepat-penetapan-batas-desa-di-sulawesi-tenggara",
-      "published_date": "2026-06-14T15:38:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colorful Flowers Enliven the 2026 Jakarta International Flower Festival Parade",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgmlxp375/warnawarni-bunga-semarakkan-parade-jakarta-international-flower-festival-2026",
-      "published_date": "2026-06-14T14:37:01+00:00",
       "category": "Local Events"
     }
   ]
