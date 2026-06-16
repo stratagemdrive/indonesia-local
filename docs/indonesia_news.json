@@ -169,16 +169,16 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/how-prabowo-is-expanding-the-militarys-civilian-role-as-an-instrument-of-presidential-rule/",
       "published_date": "2026-06-09T00:57:47+00:00",
       "category": "Military"
-    },
-    {
-      "title": "John Herdman Beware of Mozambique's Speed, Indonesia Aims for Second Victory on FIFA Matchday",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgc7jz348/john-herdman-waspadai-kecepatan-mozambik-indonesia-bidik-kemenangan-kedua-di-fifa-matchday",
-      "published_date": "2026-06-08T23:50:23+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Not from Portable Gas, Cause of Death of One Family at Glamping Temanggung Revealed",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgovhe282/bukan-dari-gas-portable-penyebab-kematian-satu-keluarga-di-glamping-temanggung-terungkap",
+      "published_date": "2026-06-15T21:04:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Government Asked to Provide Stimulus for Middle Class",
       "source": "Republika English",
@@ -247,13 +247,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgdzna370/pertamax-dan-pertamax-green-resmi-naik-ini-daftar-harga-bbm-terbaru-pertamina",
       "published_date": "2026-06-09T22:54:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Resilience of the Indonesian Mining Industry amidst Global Uncertainty in 2025",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgc4ja4330000/ketangguhan-industri-tambang-indonesia-di-tengah-ketidakpastian-global-2025",
-      "published_date": "2026-06-08T22:45:10+00:00",
       "category": "Energy"
     }
   ],
@@ -401,6 +394,62 @@
   ],
   "Local Events": [
     {
+      "title": "Approaching 1 Muharram 1448 H, Congregants Can Witness the Replacement of the Kiswah of the Kaaba at the Grand Mosque",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgp683423/jelang-1-muharram-1448-h-jamaah-bisa-saksikan-pergantian-kiswah-kabah-di-masjidil-haram",
+      "published_date": "2026-06-15T23:50:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MK Targets Lawsuit Case Against MBG Program to Be Discontinued Next Month",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgp4au409/mk-targetkan-perkara-gugatan-terhadap-program-mbg-diputus-bulan-depan",
+      "published_date": "2026-06-15T23:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of UII Students Take to the Streets, Zero Point Yogya is Filled with Voices of Criticism",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgou50282/ratusan-mahasiswa-uii-turun-ke-jalan-titik-nol-yogya-dipenuhi-suara-kritik",
+      "published_date": "2026-06-15T19:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudewo Undertakes Initial Trial, Hundreds of His Supporters Ask for the Former Regent of Pati to be Released",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgot73282/sudewo-jalani-sidang-perdana-ratusan-pendukungnya-minta-mantan-bupati-pati-dibebaskan",
+      "published_date": "2026-06-15T19:09:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heroic! Cape Verde Holds Spain Goalless in World Cup Debut",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgot3z348/heroik-tanjung-verde-tahan-spanyol-tanpa-gol-dalam-debut-piala-dunia",
+      "published_date": "2026-06-15T19:07:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meeting Students at the Vice President's Palace, Gibran Appreciated the Expression of Aspirations",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgoo73484/temui-mahasiswa-di-istana-wapres-gibran-hargai-penyampaian-aspirasi",
+      "published_date": "2026-06-15T17:21:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo Receives Call from Mahmoud Abbas, Affirms Support for Palestine",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgonlx484/prabowo-terima-telepon-dari-mahmoud-abbas-tegaskan-dukungan-palestina",
+      "published_date": "2026-06-15T17:08:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Striker Concerned, Political Tensions Will Take Happiness at the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgomx1348/penyerang-iran-prihatin-ketegangan-politik-renggut-kebahagiaan-di-piala-dunia-2026",
+      "published_date": "2026-06-15T17:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Three State Officials were raided by students during a discussion at Joglo GIK UGM",
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tgokq4282/tiga-pejabat-negara-digeruduk-mahasiswa-saat-isi-diskusi-di-joglo-gik-ugm",
@@ -482,62 +531,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tgmlxp375/warnawarni-bunga-semarakkan-parade-jakarta-international-flower-festival-2026",
       "published_date": "2026-06-14T14:37:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Revenge of being imprisoned, youth in Demak burn down the house of a former village head and retired ASN",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgmgx2282/dendam-pernah-dipenjarakan-pemuda-di-demak-bakar-rumah-mantan-kades-dan-pensiunan-asn",
-      "published_date": "2026-06-14T12:48:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Messi finally returns to full training, ready to lead Argentina against Algeria",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmfvn348/messi-akhirnya-kembali-berlatih-penuh-siap-pimpin-argentina-hadapi-aljazair",
-      "published_date": "2026-06-14T12:26:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPI FAI UMJ Study Program Reviews and Strengthens Curriculum for Competitive Graduates",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmet2368/prodi-kpi-fai-umj-tinjau-dan-perkuat-kurikulum-demi-lulusan-berdaya-saing",
-      "published_date": "2026-06-14T12:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menpora Erick Thohir Releases 8,000 Runners at the 2026 BTN Jakarta International Marathon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmf8l348/menpora-erick-thohir-lepas-8000-pelari-di-btn-jakarta-international-marathon-2026",
-      "published_date": "2026-06-14T12:12:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancelotti apologizes to Brazil being held to a draw by Morocco in the first match of the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmey2348/ancelotti-minta-maaf-brasil-ditahan-imbang-maroko-pada-laga-perdana-piala-dunia-2026",
-      "published_date": "2026-06-14T12:06:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Blood Donor Day 2026, PMI Invites the Community to Strengthen Humanitarian Solidarity Through Blood Donation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmehe368/hari-donor-darah-sedunia-2026-pmi-ajak-masyarakat-perkuat-solidaritas-kemanusiaan-lewat-donor-darah",
-      "published_date": "2026-06-14T12:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Encouraging Global Collaboration, UMJ Attends Conference and Signs MoU in China",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmeft368/dorong-kolaborasi-global-umj-hadiri-konferensi-dan-teken-mou-di-china",
-      "published_date": "2026-06-14T11:55:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highlighting Draft Regional Regulation P2APBD 2025, PKS Faction: Jakarta Needs Fiscal Independence",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgmdla368/soroti-raperda-p2apbd-2025-fraksi-pks-jakarta-perlu-kemandirian-fiskal",
-      "published_date": "2026-06-14T11:36:46+00:00",
       "category": "Local Events"
     }
   ]
