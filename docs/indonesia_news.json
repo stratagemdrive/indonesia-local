@@ -38,6 +38,13 @@
   ],
   "Military": [
     {
+      "title": "The Biggest Paradox of the Ukraine War: The More It Goes On, The Harder It Is to Ignore Putin",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgqedt451/paradoks-terbesar-perang-ukraina-semakin-berlangsung-kian-sulit-mengabaikan-putin",
+      "published_date": "2026-06-17T00:02:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Doctor of Laws Initiate Sociopreneurship Policing to Strengthen Community-Based Security",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgqa8u368/doktor-ilmu-hukum-gagas-sociopreneurship-policing-untuk-perkuat-keamanan-berbasis-komunitas",
@@ -141,20 +148,6 @@
       "url": "https://ameera.republika.co.id/berita/tgf404425/who-15-juta-jiwa-meninggal-setiap-tahun-akibat-makanan-terkontaminasi",
       "published_date": "2026-06-10T13:26:28+00:00",
       "category": "Military"
-    },
-    {
-      "title": "A US Apache Combat Helicopter Mysteriously Crashes in the Strait of Hormuz",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tge1oe320/sebuah-helikopter-tempur-apache-as-jatuh-misterius-di-selat-hormuz",
-      "published_date": "2026-06-09T23:38:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Description of the Grave Realm According to Scholars and Four Practices in order to be safe from the Torment of the Grave",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgcn6x366/gambaran-alam-kubur-menurut-ulama-dan-empat-amalan-agar-selamat-dari-siksa-kubur",
-      "published_date": "2026-06-09T23:05:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -227,16 +220,16 @@
       "url": "https://rejogja.republika.co.id/berita/tghdi9282/harga-pertamax-naik-jadi-rp16-ribu-rakyat-beralih-ke-pertalite-demi-tekan-pengeluaran",
       "published_date": "2026-06-11T22:43:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamax and Pertamax Green Officially Increase, This is Pertamina's Latest Fuel Price List",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgdzna370/pertamax-dan-pertamax-green-resmi-naik-ini-daftar-harga-bbm-terbaru-pertamina",
-      "published_date": "2026-06-09T22:54:46+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Important Milestones of Two Banks",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tgqxq4415/tonggak-penting-dua-bank",
+      "published_date": "2026-06-16T22:42:04+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Purbaya: Easing US-Iran Conflict Opens Up Additional Space in APBN",
       "source": "Republika English",
@@ -369,16 +362,58 @@
       "url": "https://news.republika.co.id/berita/tgh1hn451/inflasi-as-tertinggi-dalam-3-tahun-trump-saya-suka-inflasi-begini-kata-analis",
       "published_date": "2026-06-11T14:27:23+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Will MBG's budget be cut? This is what Purbaya said",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tggxer416/anggaran-mbg-bakal-dipangkas-begini-kata-purbaya",
-      "published_date": "2026-06-11T14:15:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Haaland Shines, Norway Defeats Iraq 4-1 in First Group I Match of the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgr1gg348/haaland-bersinar-norwegia-tekuk-irak-41-pada-laga-perdana-grup-i-piala-dunia-2026",
+      "published_date": "2026-06-17T00:02:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 7 Million Passengers Use Trains and LRT to Access Airports",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgr0ko423/hampir-7-juta-penumpang-gunakan-kereta-dan-lrt-untuk-akses-bandara",
+      "published_date": "2026-06-17T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mount Semeru will become the most active volcano in Indonesia in 2026",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgqd8k375/gunung-semeru-jadi-gunung-api-teraktif-di-indonesia-pada-2026",
+      "published_date": "2026-06-17T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tom Holland finally confirms that he is married to Zendaya",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgr0yn328/tom-holland-akhirnya-konfirmasi-sudah-menikah-dengan-zendaya",
+      "published_date": "2026-06-16T23:51:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Ranks Second in the City with the Worst Air in the World",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tgqzc7423/jakarta-peringkat-kedua-kota-dengan-udara-terburuk-di-dunia",
+      "published_date": "2026-06-16T23:16:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbappe's two goals between France defeat Senegal 3-1 in the first match of the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgqyx9348/dua-gol-mbappe-antar-prancis-tekuk-senegal-31-di-laga-perdana-piala-dunia-2026",
+      "published_date": "2026-06-16T23:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI assessed as failing to detect patient's emergency until death, family: My sister is not a number!",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgq9p3451/ai-dinilai-gagal-deteksi-kegawatan-pasien-hingga-wafat-keluarga-adik-saya-bukan-angka",
+      "published_date": "2026-06-16T22:50:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "228 Paskibraka Candidates from 38 Provinces Undergo Central Level Verification",
       "source": "Republika English",
@@ -468,55 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgoo73484/temui-mahasiswa-di-istana-wapres-gibran-hargai-penyampaian-aspirasi",
       "published_date": "2026-06-15T17:21:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Receives Call from Mahmoud Abbas, Affirms Support for Palestine",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgonlx484/prabowo-terima-telepon-dari-mahmoud-abbas-tegaskan-dukungan-palestina",
-      "published_date": "2026-06-15T17:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Striker Concerned, Political Tensions Will Take Happiness at the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgomx1348/penyerang-iran-prihatin-ketegangan-politik-renggut-kebahagiaan-di-piala-dunia-2026",
-      "published_date": "2026-06-15T17:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three State Officials were raided by students during a discussion at Joglo GIK UGM",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgokq4282/tiga-pejabat-negara-digeruduk-mahasiswa-saat-isi-diskusi-di-joglo-gik-ugm",
-      "published_date": "2026-06-15T16:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Semarang Students Demonstrate to Voice the People's Five Demands",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgok5j282/seribuan-mahasiswa-semarang-demo-suarakan-panca-tuntutan-rakyat",
-      "published_date": "2026-06-15T15:53:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPIH Palembang: Insurance for Pilgrims Who Die is Disbursed After Hajj Operations are Completed",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgo70o366/ppih-palembang-asuransi-jamaah-yang-wafat-cair-setelah-operasional-haji-selesai",
-      "published_date": "2026-06-15T15:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electric Torch Parade Enlivens the Muharram 1448 Hijri Festival in Jakarta",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgoi1x375/pawai-obor-elektrik-semarakkan-festival-muharram-1448-hijriah-di-jakarta",
-      "published_date": "2026-06-15T15:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children under 16 are prohibited from using social media, British PM: Technology giants are failing",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgoi4o451/anak-di-bawah-16-tahun-dilarang-bermedsos-pm-inggris-raksasa-teknologi-gagal",
-      "published_date": "2026-06-15T15:16:00+00:00",
       "category": "Local Events"
     }
   ]
