@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "APWNU Expands Cooperation, Prepares a Number of National Programs",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgtts4416/apwnu-perluas-kerja-sama-siapkan-sejumlah-program-nasional",
+      "published_date": "2026-06-18T13:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Interactive Science Show Invites Children to Learn While Playing",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tgq3s0375/pertunjukan-sains-interaktif-ajak-anak-belajar-sambil-bermain",
@@ -231,6 +238,20 @@
   ],
   "Economy": [
     {
+      "title": "BI: The increase in Pertamax prices has the potential to increase inflation by 0.25 percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgtvz1370/bi-kenaikan-harga-pertamax-berpotensi-tambah-inflasi-025-persen",
+      "published_date": "2026-06-18T12:57:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BPS: Economic Census Not to Increase Taxes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgtvjk377/bps-sensus-ekonomi-bukan-untuk-menaikkan-pajak",
+      "published_date": "2026-06-18T12:47:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Harry Kane's Two Goals Help England Defeat Croatia 4-2",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgsshm348/dua-gol-harry-kane-bantu-inggris-bekuk-kroasia-42",
@@ -355,23 +376,58 @@
       "url": "https://ameera.republika.co.id/berita/tgjj0t425/tips-keuangan-buat-gen-z-supaya-nggak-belanja-impulsif",
       "published_date": "2026-06-12T22:41:17+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "US Dollar Strengthens, Triggers Prices of Basic Necessities on the Market to Rise, Traders' Turnover Freefalls",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tghggf282/dolar-as-menguat-picu-harga-barang-kebutuhan-pokok-di-pasar-naik-omset-pedagang-terjun-bebas",
-      "published_date": "2026-06-12T00:07:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hendri Satrio's New Book Unpacks Prabowo Subianto's Flow of Economic Thought",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgho3y451/buku-baru-hendri-satrio-bongkar-alur-pemikiran-ekonomi-prabowo-subianto",
-      "published_date": "2026-06-11T22:35:58+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Mark Ruffalo returns as Hulk in Spider-Man: Brand New Day",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgtye1425/mark-ruffalo-kembali-perankan-hulk-di-film-spiderman-brand-new-day",
+      "published_date": "2026-06-18T13:49:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wamensesneg Tanah Ex Sultan Hotel Freed Since 1959",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tgty721543715610/wamensesneg-tanah-eks-hotel-sultan-dibebaskan-sejak-1959",
+      "published_date": "2026-06-18T13:45:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BesTeam with Orphans Launched, Dompet Dhuafa Encourages Orphans to Grow Empowered",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgtxvl366/besteam-bersama-yatim-diluncurkan-dompet-dhuafa-dorong-anak-yatim-tumbuh-berdaya",
+      "published_date": "2026-06-18T13:38:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Investigates Fuad Hasan Masyhur regarding Alleged Hajj Quota Corruption",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgtthb375/kpk-periksa-fuad-hasan-masyhur-terkait-dugaan-korupsi-kuota-haji",
+      "published_date": "2026-06-18T13:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK admits that it is passively investigating MBG because there have been coercive efforts from the AGO",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgtw8d377/kpk-akui-pasif-selidiki-mbg-karena-sudah-ada-upaya-paksa-dari-kejagung",
+      "published_date": "2026-06-18T13:02:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MBG Partners Protest School Holiday Policy Not Getting IDR 6 Million Per Day Incentive, This is BGN's Answer",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgtw0y487/mitra-mbg-protes-kebijakan-libur-sekolah-tak-dapat-insentif-rp-6-juta-per-hari-ini-jawaban-bgn",
+      "published_date": "2026-06-18T12:58:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Electric Motorcycles, Allegations of CCTV Corruption in the MBG Program Appear",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgtw0g393/setelah-motor-listrik-muncul-dugaan-korupsi-cctv-di-program-mbg",
+      "published_date": "2026-06-18T12:57:52+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hajj pilgrims still have the opportunity to improve themselves before returning home",
       "source": "Republika English",
@@ -461,55 +517,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tgs245425/bahaya-selfdiagnosis-orang-tua-jangan-asal-tebak-gejala-alergi-susu-anak",
       "published_date": "2026-06-17T13:14:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Students Criticize the MBG Program to the Red and White Kopdes, Here's Vice President Gibran's Response",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgs1pr487/mahasiswa-kritik-program-mbg-hingga-kopdes-merah-putih-begini-respons-wapres-gibran",
-      "published_date": "2026-06-17T13:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Professor Calls RI Like a 'Human Bomb', No Less Than Nuclear Pakistan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgs16d483/profesor-asal-suriah-sebut-ri-bagai-bom-manusia-tidak-kalah-dengan-nuklir-pakistan",
-      "published_date": "2026-06-17T12:54:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Satisfied with Organizing the 2026 Hajj, Encourages Acceleration of the Waiting Period for Pilgrims",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgs0wy484/prabowo-puas-penyelenggaraan-haji-2026-dorong-percepatan-masa-tunggu-jamaah",
-      "published_date": "2026-06-17T12:48:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Making Jakarta a Global City, Governor Pramono Expands World Inter-City Partnership",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgs0gu487/wujudkan-jakarta-kota-global-gubernur-pramono-perluas-kemitraan-antarkota-dunia",
-      "published_date": "2026-06-17T12:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haaland Shines, Norway Defeats Iraq 4-1 in First Group I Match of the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgr1gg348/haaland-bersinar-norwegia-tekuk-irak-41-pada-laga-perdana-grup-i-piala-dunia-2026",
-      "published_date": "2026-06-17T00:02:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 7 Million Passengers Use Trains and LRT to Access Airports",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgr0ko423/hampir-7-juta-penumpang-gunakan-kereta-dan-lrt-untuk-akses-bandara",
-      "published_date": "2026-06-17T00:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mount Semeru will become the most active volcano in Indonesia in 2026",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgqd8k375/gunung-semeru-jadi-gunung-api-teraktif-di-indonesia-pada-2026",
-      "published_date": "2026-06-17T00:00:00+00:00",
       "category": "Local Events"
     }
   ]
