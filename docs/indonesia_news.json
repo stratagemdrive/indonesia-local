@@ -31,6 +31,13 @@
   ],
   "Military": [
     {
+      "title": "AI War Heats Up, China Relies on Big Data 1.4 M Population, Challenges US Silicon Valley?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgsrtf451/perang-ai-memanas-china-andalkan-big-data-14-m-penduduk-tantang-silicon-valley-as",
+      "published_date": "2026-06-17T22:29:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Whitewashing military responsibility: disappointing verdicts in Andrie Yunus acid attack trial",
       "source": "Indonesia at Melbourne",
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/whitewashing-military-responsibility-disappointing-verdicts-in-andrie-yunus-acid-attack-trial/",
@@ -127,23 +134,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tggv72416/legislator-ingatkan-ancaman-pengangguran-dan-kemiskinan-tersembunyi-di-jakarta",
       "published_date": "2026-06-11T14:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "The Three Great Wars That Shaped Islamic Civilization After the Prophet's Death",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgfxj9451/tiga-perang-besar-yang-membentuk-peradaban-islam-setelah-rasulullah-wafat",
-      "published_date": "2026-06-11T00:04:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Pig Feast’: a test case for alternative media, Papua, and Indonesian democracy",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/pig-feast-a-test-case-for-alternative-media-papua-and-indonesian-democracy/",
-      "published_date": "2026-06-10T23:56:57+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Indonesia Strengthens ESG Standards for Sustainable Downstreaming of Critical Minerals",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tgsvze423/indonesia-perkuat-standar-esg-demi-hilirisasi-mineral-kritis-yang-berkelanjutan",
+      "published_date": "2026-06-17T23:59:38+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Will Pertamax prices fall when world oil prices fall? ESDM: Absolutely",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgsubo409/apakah-harga-pertamax-akan-turun-saat-harga-minyak-dunia-turun-esdm-pasti",
+      "published_date": "2026-06-17T23:23:48+00:00",
+      "category": "Energy"
+    },
     {
       "title": "US-Iran peace, world oil prices potentially falling?",
       "source": "Republika English",
@@ -223,6 +230,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Harry Kane's Two Goals Help England Defeat Croatia 4-2",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgsshm348/dua-gol-harry-kane-bantu-inggris-bekuk-kroasia-42",
+      "published_date": "2026-06-17T22:44:10+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Important Milestones of Two Banks",
       "source": "Republika English",
@@ -355,16 +369,58 @@
       "url": "https://news.republika.co.id/berita/tgho3y451/buku-baru-hendri-satrio-bongkar-alur-pemikiran-ekonomi-prabowo-subianto",
       "published_date": "2026-06-11T22:35:58+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "US Inflation Highest in 3 Years, Trump: I Like Inflation, This Is What Analysts Say",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgh1hn451/inflasi-as-tertinggi-dalam-3-tahun-trump-saya-suka-inflasi-begini-kata-analis",
-      "published_date": "2026-06-11T14:27:23+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Hajj pilgrims still have the opportunity to improve themselves before returning home",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgsw4q430/jamaah-haji-masih-punya-kesempatan-memperbaiki-diri-menjelang-kepulangan",
+      "published_date": "2026-06-18T00:02:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Lionel Messi Refuses to Get Old on the World Cup Stage",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgsv5t348/saat-lionel-messi-menolak-tua-di-panggung-piala-dunia",
+      "published_date": "2026-06-17T23:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1.4 Million Svalbard Seeds Prepared to Face Global Crisis",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgsvlc451/14-juta-benih-svalbard-disiapkan-untuk-hadapi-krisis-global",
+      "published_date": "2026-06-17T23:51:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Cape Verde, Congo now proves that the unseeded team can shake up the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgsu7o348/setelah-tanjung-verde-kini-kongo-buktikan-tim-nonunggulan-mampu-mengguncang-piala-dunia-2026",
+      "published_date": "2026-06-17T23:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kane Praises Tuchel's Motivational Message, Bellingham Says England Were Braver in Pressing Croatia in the Second Half",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgstgl348/kane-puji-pesan-motivasi-tuchel-bellingham-sebut-inggris-lebih-berani-tekan-kroasia-di-babak-kedua",
+      "published_date": "2026-06-17T23:05:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coach Roberto Martinez admits that Portugal lost their attacking variations when they were held to a draw by Congo",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgst0i348/pelatih-roberto-martinez-akui-portugal-kehilangan-variasi-serangan-saat-ditahan-imbang-kongo",
+      "published_date": "2026-06-17T22:55:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Corruption Eradication Committee Chairman doesn't yet know when he will summon the Director General of Customs and Excise after receiving Rp. 21 billion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgsr2d484/ketua-kpk-belum-tahu-kapan-panggil-dirjen-bea-cukai-usai-disebut-terima-rp-21-miliar",
+      "published_date": "2026-06-17T22:13:25+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "I've brushed my teeth many times but my mouth still smells, this could be the culprit",
       "source": "Republika English",
@@ -454,55 +510,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tgqd8k375/gunung-semeru-jadi-gunung-api-teraktif-di-indonesia-pada-2026",
       "published_date": "2026-06-17T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tom Holland finally confirms that he is married to Zendaya",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgr0yn328/tom-holland-akhirnya-konfirmasi-sudah-menikah-dengan-zendaya",
-      "published_date": "2026-06-16T23:51:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Ranks Second in the City with the Worst Air in the World",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tgqzc7423/jakarta-peringkat-kedua-kota-dengan-udara-terburuk-di-dunia",
-      "published_date": "2026-06-16T23:16:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbappe's two goals between France defeat Senegal 3-1 in the first match of the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgqyx9348/dua-gol-mbappe-antar-prancis-tekuk-senegal-31-di-laga-perdana-piala-dunia-2026",
-      "published_date": "2026-06-16T23:07:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI assessed as failing to detect patient's emergency until death, family: My sister is not a number!",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgq9p3451/ai-dinilai-gagal-deteksi-kegawatan-pasien-hingga-wafat-keluarga-adik-saya-bukan-angka",
-      "published_date": "2026-06-16T22:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "228 Paskibraka Candidates from 38 Provinces Undergo Central Level Verification",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgqe07416/228-calon-paskibraka-dari-38-provinsi-jalani-verifikasi-tingkat-pusat",
-      "published_date": "2026-06-16T15:39:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One person reportedly died as a result of the earthquake in Central Sulawesi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgqcda393/satu-orang-dilaporkan-meninggal-dunia-akibat-gempa-di-sulawesi-tengah",
-      "published_date": "2026-06-16T15:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven Hundred Children Take Part in Fun Run in Surabaya",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgq9g4483/tujuh-ratus-anak-ikuti-fun-run-di-surabaya",
-      "published_date": "2026-06-16T14:35:00+00:00",
       "category": "Local Events"
     }
   ]
