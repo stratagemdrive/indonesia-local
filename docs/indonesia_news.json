@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Inorganic Waste Can Now Be Exchanged For BSI Gold Savings",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tgvssa490/sampah-anorganik-kini-bisa-ditukar-jadi-tabungan-emas-bsi",
+      "published_date": "2026-06-19T13:43:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "APWNU Expands Cooperation, Prepares a Number of National Programs",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgtts4416/apwnu-perluas-kerja-sama-siapkan-sejumlah-program-nasional",
@@ -30,6 +37,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Shop for Puma Speedcat Ballet at BRI Consumer Expo 2026, Get a Gift Card Bonus of IDR 250 Thousand",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgvro2368/belanja-puma-speedcat-ballet-di-bri-consumer-expo-2026-dapat-bonus-gift-card-rp-250-ribu",
+      "published_date": "2026-06-19T13:19:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Corruption Case Convict Joins PSI, KPK Gives Warning: Be Careful",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgvq16409/terpidana-kasus-korupsi-gabung-psi-kpk-beri-peringatan-hatihati",
+      "published_date": "2026-06-19T12:43:54+00:00",
+      "category": "Military"
+    },
     {
       "title": "AI War Heats Up, China Relies on Big Data 1.4 M Population, Challenges US Silicon Valley?",
       "source": "Republika English",
@@ -106,20 +127,6 @@
       "url": "https://ameera.republika.co.id/berita/tgjjod425/tom-hanks-usul-oscar-buka-kategori-baru-khusus-pengisi-suara",
       "published_date": "2026-06-12T22:55:25+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Police Open Blockade, All Demonstrators Retreat Orderly",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgiuqw502/polisi-buka-blokade-seluruh-massa-aksi-mundur-teratur",
-      "published_date": "2026-06-12T13:56:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arriving in Indonesia, greeted by Sjafrie, Japanese Defense Minister wearing batik",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgirmz484/tiba-di-indonesia-disambut-sjafrie-menhan-jepang-pakai-batik",
-      "published_date": "2026-06-12T12:49:47+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -185,30 +192,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tgigtv472/lima-rekomendasi-minyak-goreng-pilihan-keluarga-indonesia",
       "published_date": "2026-06-13T00:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Economist Responds to Pertamax Increase: Pertamina Bailout Fund Cannot Continue to Hold Pertamax Prices",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tgiumr522/ekonom-tanggapi-kenaikan-pertamax-dana-talangan-pertamina-tak-bisa-terus-menahan-harga-pertamax",
-      "published_date": "2026-06-12T13:54:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Carrying out the role of downstreaming driver, MIND ID optimizes contributions to the country",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgiuh6472/jalankan-peran-penggerak-hilirisasi-mind-id-optimalkan-kontribusi-bagi-negara",
-      "published_date": "2026-06-12T13:51:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil Production Reaches 70 Thousand Barrels per Day, PEPC Exceeds 2025 Target",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgiu1f416/produksi-minyak-tembus-70-ribu-barel-per-hari-pepc-lampaui-target-2025",
-      "published_date": "2026-06-12T13:41:56+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Airlangga: MSCI's note is a reminder of capital market reform",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgvqp8490/airlangga-catatan-msci-jadi-pengingat-reformasi-pasar-modal",
+      "published_date": "2026-06-19T12:58:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Social Commerce Shifts Marketplace, Are Indonesian Digital Talents Ready?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgvq0w368/social-commerce-menggeser-marketplace-siapkah-talenta-digital-indonesia",
+      "published_date": "2026-06-19T12:43:44+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Seriousness in Closing the Tap on Rice Imports",
       "source": "Republika English",
@@ -334,23 +334,58 @@
       "url": "https://news.republika.co.id/berita/tgmfno348/menpora-erick-btn-jakarta-international-marathon-2026-jadi-penggerak-ekonomi-dan-sport-tourism",
       "published_date": "2026-06-14T12:21:24+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Walhi: Planned Transjabodetabek Tariff Increase Could Make Residents Return to Using Private Vehicles",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgleth409/walhi-rencana-kenaikan-tarif-transjabodetabek-bisa-buat-warga-kembali-naik-kendaraan-pribadi",
-      "published_date": "2026-06-13T23:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Enesis Develops Talent and Adaptive Work Culture to Support Business Growth",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgkhu3416/enesis-kembangkan-talenta-dan-budaya-kerja-adaptif-untuk-dukung-pertumbuhan-bisnis",
-      "published_date": "2026-06-13T11:14:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "YESIST12 UNM Pilot Selection Produces Candidates for Indonesian Representatives at the World Event",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgvs9e368/seleksi-yesist12-pilot-unm-lahirkan-calon-wakil-indonesia-ke-ajang-dunia",
+      "published_date": "2026-06-19T13:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Routine power outages, management prepares to mitigate service disruptions at Cimahi City MPP",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tgvss6282/rutin-pemadaman-listrik-pengelola-siapkan-mitigasi-gangguan-pelayanan-di-mpp-kota-cimahi",
+      "published_date": "2026-06-19T13:43:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNM Data Science Students Reach the 2026 IEEE YESIST12 Grand Final Through the iMosque AI Application",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgvs2l368/mahasiswa-sains-data-unm-tembus-grand-final-ieee-yesist12-2026-lewat-aplikasi-ai-imosque",
+      "published_date": "2026-06-19T13:27:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Authoritative Indonesia",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tgvopu393/indonesia-berwibawa",
+      "published_date": "2026-06-19T13:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BGN admits that many SPPGs have been suspended due to purchasing raw materials under the HAP",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tgvqxd282/bgn-akui-banyak-sppg-ditangguhkan-gegara-beli-bahan-baku-di-bawah-hap",
+      "published_date": "2026-06-19T13:03:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Can Delaying Checking for Brain Tumor Symptoms Have Fatal Consequences?",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgvqwu425/mengapa-menunda-cek-gejala-tumor-otak-bisa-berakibat-fatal",
+      "published_date": "2026-06-19T13:02:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Velodrome-Manggarai LRT Targeted to Operate in August 2026",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tgvlg9375/lrt-jakarta-velodromemanggarai-ditargetkan-beroperasi-agustus-2026",
+      "published_date": "2026-06-19T13:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Brawijaya Hospital Offers Natural Regeneration Options Through Stem Cells",
       "source": "Republika English",
@@ -440,55 +475,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tgtthb375/kpk-periksa-fuad-hasan-masyhur-terkait-dugaan-korupsi-kuota-haji",
       "published_date": "2026-06-18T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK admits that it is passively investigating MBG because there have been coercive efforts from the AGO",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgtw8d377/kpk-akui-pasif-selidiki-mbg-karena-sudah-ada-upaya-paksa-dari-kejagung",
-      "published_date": "2026-06-18T13:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG Partners Protest School Holiday Policy Not Getting IDR 6 Million Per Day Incentive, This is BGN's Answer",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgtw0y487/mitra-mbg-protes-kebijakan-libur-sekolah-tak-dapat-insentif-rp-6-juta-per-hari-ini-jawaban-bgn",
-      "published_date": "2026-06-18T12:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Electric Motorcycles, Allegations of CCTV Corruption in the MBG Program Appear",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgtw0g393/setelah-motor-listrik-muncul-dugaan-korupsi-cctv-di-program-mbg",
-      "published_date": "2026-06-18T12:57:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj pilgrims still have the opportunity to improve themselves before returning home",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgsw4q430/jamaah-haji-masih-punya-kesempatan-memperbaiki-diri-menjelang-kepulangan",
-      "published_date": "2026-06-18T00:02:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When Lionel Messi Refuses to Get Old on the World Cup Stage",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgsv5t348/saat-lionel-messi-menolak-tua-di-panggung-piala-dunia",
-      "published_date": "2026-06-17T23:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1.4 Million Svalbard Seeds Prepared to Face Global Crisis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgsvlc451/14-juta-benih-svalbard-disiapkan-untuk-hadapi-krisis-global",
-      "published_date": "2026-06-17T23:51:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Cape Verde, Congo now proves that the unseeded team can shake up the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgsu7o348/setelah-tanjung-verde-kini-kongo-buktikan-tim-nonunggulan-mampu-mengguncang-piala-dunia-2026",
-      "published_date": "2026-06-17T23:37:00+00:00",
       "category": "Local Events"
     }
   ]
