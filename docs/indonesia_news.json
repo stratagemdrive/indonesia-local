@@ -27,13 +27,6 @@
       "url": "https://news.republika.co.id/berita/tgkg4t472/tak-lolos-utbk-2026-haruskah-mimpi-kuliah-dikubur-unm-kampus-rawamangun-buka-jalan-baru",
       "published_date": "2026-06-13T10:36:29+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Cooperation on Digitalization of Payments on the MaritimHub Platform Inaugurated",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tgh11l456/kerja-sama-digitalisasi-pembayaran-pada-platform-maritimhub-diresmikan",
-      "published_date": "2026-06-11T14:17:45+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -127,20 +120,6 @@
       "url": "https://news.republika.co.id/berita/tgirmz484/tiba-di-indonesia-disambut-sjafrie-menhan-jepang-pakai-batik",
       "published_date": "2026-06-12T12:49:47+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Iranian Players in Mexico Camp Receive Warm Welcome from Local Supporters",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tghpjp348/para-pemain-iran-di-kamp-meksiko-dapat-sambutan-hangat-dari-suporter-lokal",
-      "published_date": "2026-06-11T23:07:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Legislators Warn of Hidden Threats of Unemployment and Poverty in Jakarta",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tggv72416/legislator-ingatkan-ancaman-pengangguran-dan-kemiskinan-tersembunyi-di-jakarta",
-      "published_date": "2026-06-11T14:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -227,16 +206,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tgiu1f416/produksi-minyak-tembus-70-ribu-barel-per-hari-pepc-lampaui-target-2025",
       "published_date": "2026-06-12T13:41:56+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamax Price Increases to IDR 16 Thousand, People Switch to Pertalite to Reduce Expenditures",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tghdi9282/harga-pertamax-naik-jadi-rp16-ribu-rakyat-beralih-ke-pertalite-demi-tekan-pengeluaran",
-      "published_date": "2026-06-11T22:43:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Seriousness in Closing the Tap on Rice Imports",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tgt46f472/keseriusan-menutup-keran-impor-beras",
+      "published_date": "2026-06-19T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "President Prabowo Strengthens Himbara's Role Through One-Stop Export Policy",
+      "source": "Republika English",
+      "url": "https://en.republika.co.id/berita/tguotb415/president-prabowo-strengthens-himbaras-role-through-onestop-export-policy",
+      "published_date": "2026-06-18T23:19:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MotoGP Mandalika 2026 Held October: Ready to Boost Indonesia's Economy and Tourism",
+      "source": "Republika English",
+      "url": "https://en.republika.co.id/berita/tguofl415/motogp-mandalika-2026-held-october-ready-to-boost-indonesias-economy-and-tourism",
+      "published_date": "2026-06-18T23:11:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BGN will correct the IDR 270 T MBG budget for 2027, the SPPG incentive of IDR 6 million per day is considered inappropriate",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgunwv409/bgn-akan-koreksi-anggaran-rp270-t-mbg-untuk-2027-insentif-sppg-rp6-juta-per-hari-dinilai-tak-tepat",
+      "published_date": "2026-06-18T23:00:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Having Clear Vision Can Improve Quality of Life",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgun9n484/memiliki-penglihatan-jernih-bisa-tunjang-kualitas-hidup",
+      "published_date": "2026-06-18T22:46:35+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BI: The increase in Pertamax prices has the potential to increase inflation by 0.25 percent",
       "source": "Republika English",
@@ -341,44 +348,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tgkhu3416/enesis-kembangkan-talenta-dan-budaya-kerja-adaptif-untuk-dukung-pertumbuhan-bisnis",
       "published_date": "2026-06-13T11:14:10+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Nusa Mandiri University Encourages Cipinang Melayu PKK MSMEs to Go Digital",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgkfmx472/universitas-nusa-mandiri-dorong-umkm-pkk-cipinang-melayu-go-digital",
-      "published_date": "2026-06-13T10:25:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Paying vehicle tax can be done at the Jakarta Fair",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgjn4e425/bayar-pajak-kendaraan-bisa-dilakukan-di-jakarta-fair",
-      "published_date": "2026-06-13T00:09:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Study: Socioeconomic Conditions Influence Children's Brain Development",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgjmox425/studi-kondisi-sosial-ekonomi-pengaruhi-perkembangan-otak-anak",
-      "published_date": "2026-06-13T00:00:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "64 Percent of Gen Z Indonesia is Said to Experience Financial Stress",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgjkpu425/64-persen-gen-z-indonesia-disebut-alami-stres-finansial",
-      "published_date": "2026-06-12T23:17:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Financial Tips for Gen Z so they don't shop impulsively",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgjj0t425/tips-keuangan-buat-gen-z-supaya-nggak-belanja-impulsif",
-      "published_date": "2026-06-12T22:41:17+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Brawijaya Hospital Offers Natural Regeneration Options Through Stem Cells",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgura6425/brawijaya-hospital-tawarkan-opsi-regenerasi-alami-melalui-stem-cell",
+      "published_date": "2026-06-19T00:13:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada Beats Qatar Half a Dozen Goals in Group B of the 2026 World Cup, on the Verge of Qualifying for the Top 32",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgur4t348/kanada-hajar-qatar-setengah-lusin-gol-di-grup-b-piala-dunia-2026-di-ambang-lolos-ke-32-besar",
+      "published_date": "2026-06-19T00:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MSCI Gives Negative Signal to Indonesia, JCI Threatened with Outflow of IDR 214 Trillion",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tgur0o502/msci-beri-sinyal-negatif-ke-indonesia-ihsg-terancam-outflow-rp214-triliun",
+      "published_date": "2026-06-19T00:07:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Friday Sermon Manuscript: Upholding the Supremacy of Law",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tgup8s366/naskah-khutbah-jumat-menegakkan-supremasi-hukum",
+      "published_date": "2026-06-19T00:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hornbills Coach Cesar Camara Beware of Pelita Jaya's Local Strength in the 2026 IBL Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tguqqc348/pelatih-hornbills-cesar-camara-waspadai-kekuatan-lokal-pelita-jaya-di-final-ibl-2026",
+      "published_date": "2026-06-19T00:01:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian Film Occupational Hazards Offers a Dark Comedy Point of View",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tguorq425/film-palestina-occupational-hazards-tawarkan-sudut-pandang-komedi-gelap",
+      "published_date": "2026-06-18T23:19:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "There is a Grand Ulema Haul at Monas, This is the Traffic Engineering and Parking Location that has been Prepared",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tguob6366/ada-haul-akbar-ulama-di-monas-ini-rekayasa-lalu-lintas-dan-lokasi-parkir-yang-disiapkan",
+      "published_date": "2026-06-18T23:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The criteria for MBG recipients will be revised, these are the indicators that BGN will use",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgu1wh487/kriteria-penerima-mbg-bakal-direvisi-ini-indikator-yang-akan-dipakai-bgn",
+      "published_date": "2026-06-18T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Fatal Mistakes When Treating Heat Stroke in Children",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tgunf8425/tiga-kesalahan-fatal-saat-menangani-heat-stroke-pada-anak",
+      "published_date": "2026-06-18T22:49:56+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Mark Ruffalo returns as Hulk in Spider-Man: Brand New Day",
       "source": "Republika English",
@@ -454,69 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgsu7o348/setelah-tanjung-verde-kini-kongo-buktikan-tim-nonunggulan-mampu-mengguncang-piala-dunia-2026",
       "published_date": "2026-06-17T23:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kane Praises Tuchel's Motivational Message, Bellingham Says England Were Braver in Pressing Croatia in the Second Half",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgstgl348/kane-puji-pesan-motivasi-tuchel-bellingham-sebut-inggris-lebih-berani-tekan-kroasia-di-babak-kedua",
-      "published_date": "2026-06-17T23:05:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coach Roberto Martinez admits that Portugal lost their attacking variations when they were held to a draw by Congo",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgst0i348/pelatih-roberto-martinez-akui-portugal-kehilangan-variasi-serangan-saat-ditahan-imbang-kongo",
-      "published_date": "2026-06-17T22:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Corruption Eradication Committee Chairman doesn't yet know when he will summon the Director General of Customs and Excise after receiving Rp. 21 billion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgsr2d484/ketua-kpk-belum-tahu-kapan-panggil-dirjen-bea-cukai-usai-disebut-terima-rp-21-miliar",
-      "published_date": "2026-06-17T22:13:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I've brushed my teeth many times but my mouth still smells, this could be the culprit",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgs581425/sudah-sikat-gigi-berkalikali-tapi-mulut-tetap-bau-bisa-jadi-ini-biang-keroknya",
-      "published_date": "2026-06-17T14:21:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Single Parents Want to Introduce a 'New Figure' to Their Children? Psychologists Remind This Problem",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgs4d3425/orang-tua-tunggal-mau-kenalkan-sosok-baru-ke-anak-psikolog-ingatkan-soal-ini",
-      "published_date": "2026-06-17T14:03:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Behind Israel's Dangerous Move to Take Over Hebron's Ibrahimi Mosque",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgs3g8483/di-balik-langkah-berbahaya-israel-ambil-alih-masjid-ibrahimi-hebron",
-      "published_date": "2026-06-17T13:43:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents Vote Support for Continuation of the Free Nutritious Meal Program",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgrua1375/warga-suarakan-dukungan-untuk-kelanjutan-program-makan-bergizi-gratis",
-      "published_date": "2026-06-17T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reluctant to Comment on the Appearance of the Name of the Minister of Religion, Gus Ulil: Usually PBNU Chairmen Have Two Terms",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgs27w483/ogah-komentari-munculnya-nama-menag-gus-ulil-biasanya-ketum-pbnu-dua-periode",
-      "published_date": "2026-06-17T13:16:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Dangers of Self-Diagnosis, Parents Don't Just Guess Their Child's Milk Allergy Symptoms",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgs245425/bahaya-selfdiagnosis-orang-tua-jangan-asal-tebak-gejala-alergi-susu-anak",
-      "published_date": "2026-06-17T13:14:29+00:00",
       "category": "Local Events"
     }
   ]
