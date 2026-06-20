@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Raining Sanctions, European Union Now Wants to Talk Directly, What Will Russia Ask for?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgycwd451/hujani-sanksi-uni-eropa-kini-ingin-bicara-langsung-apa-yang-akan-diminta-rusia",
+      "published_date": "2026-06-20T22:53:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Inorganic Waste Can Now Be Exchanged For BSI Gold Savings",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tgvssa490/sampah-anorganik-kini-bisa-ditukar-jadi-tabungan-emas-bsi",
@@ -30,6 +37,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Netherlands Breaks World Cup Record, Koeman Sends Warning to Oranje Rivals in the World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgyewv348/belanda-pecahkan-rekor-piala-dunia-koeman-kirim-peringatan-untuk-para-rival-oranje-di-piala-dunia",
+      "published_date": "2026-06-20T23:36:31+00:00",
+      "category": "Military"
+    },
     {
       "title": "Indonesia Sustainability Award Appreciates PNM's ESG Commitment and Sustainable Empowerment",
       "source": "Republika English",
@@ -113,13 +127,6 @@
       "url": "https://analisis.republika.co.id/berita/tgmg9k368/zakat-inflasi-dan-jaring-pengaman-sosial",
       "published_date": "2026-06-14T12:34:32+00:00",
       "category": "Military"
-    },
-    {
-      "title": "US Suddenly Blocks 2 Super Advanced AI, Europe: We Are Too Dependent",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgksw2451/as-mendadak-blokir-2-ai-super-canggih-eropa-kita-terlalu-bergantung",
-      "published_date": "2026-06-13T23:52:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -181,6 +188,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Ministry of MSMEs Prepares Free Halal Certification for 500 Thousand Business Actors",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tgyfmf490/kementerian-umkm-siapkan-sertifikasi-halal-gratis-bagi-500-ribu-pelaku-usaha",
+      "published_date": "2026-06-20T23:51:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pretext for Investment Leads to Deportation, Method of 3 Chinese Citizens Detected by Twin Stamps",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgyf2k451/dalih-investasi-berujung-deportasi-modus-3-wn-china-terendus-dari-materai-kembar",
+      "published_date": "2026-06-20T23:39:56+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Synergy between Institutions is Important to Maintain Economic Stability",
       "source": "Republika English",
@@ -306,23 +327,51 @@
       "url": "https://news.republika.co.id/berita/tgn7sx484/prabowo-perintahkan-rosan-sampaikan-data-investasi-ke-publik",
       "published_date": "2026-06-14T22:29:21+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "When Powerful Nations Misidentify Themselves",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tglkp0320/saat-bangsa-digdaya-keliru-mengidentifikasi-dirinya-sendiri",
-      "published_date": "2026-06-14T16:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deputy Minister for Food: MBG Program is an Opportunity to Increase Milk Consumption",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgmmwp490/wamenko-pangan-program-mbg-jadi-kesempatan-tingkatkan-konsumsi-susu",
-      "published_date": "2026-06-14T14:58:01+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "So Determinant of Germany's Victory Over Ivory Coast, Undav: Reserves Can Also Determine the Outcome of the Match",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgyfcx348/jadi-penentu-kemenangan-jerman-atas-pantai-gading-undav-cadangan-juga-bisa-menentukan-hasil-laga",
+      "published_date": "2026-06-20T23:46:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dahnil: President asks for Hajj waiting period to be shortened",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tgyf9n483/dahnil-presiden-minta-masa-tunggu-haji-dipangkas",
+      "published_date": "2026-06-20T23:44:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The charm of Lembang makes foreign tourists fall in love",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tgyetp483/pesona-lembang-bikin-turis-mancanegara-jatuh-cinta",
+      "published_date": "2026-06-20T23:34:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden learns from crushing defeat against Netherlands, Brobbey praises Oranje's solidity",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgyeba348/swedia-belajar-dari-kekalahan-telak-kontra-belanda-brobbey-puji-kesolidan-oranje",
+      "published_date": "2026-06-20T23:23:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viral Ojol Motorbike Transported by Officers, Head of East Jakarta Sudinhub Apologizes: This is Our Evaluation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgye96483/viral-motor-ojol-diangkut-petugas-kepala-sudinhub-jaktim-minta-maaf-ini-jadi-evaluasi-kami",
+      "published_date": "2026-06-20T23:22:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netherlands Goes Rampage, Destroys Sweden 5-1 in Group F of the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tgycp5348/belanda-mengamuk-hancurkan-swedia-51-di-grup-f-piala-dunia-2026",
+      "published_date": "2026-06-20T22:48:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Meeting Prabowo in Hambalang Erick Discusses the Future of Indonesian Sports",
       "source": "Republika English",
@@ -419,48 +468,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tgwcdh230000/kpk-tegaskan-tak-akan-duplikasi-kasus-korupsi-mbg-yang-ditangani-kejagung",
       "published_date": "2026-06-19T20:46:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "YESIST12 UNM Pilot Selection Produces Candidates for Indonesian Representatives at the World Event",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgvs9e368/seleksi-yesist12-pilot-unm-lahirkan-calon-wakil-indonesia-ke-ajang-dunia",
-      "published_date": "2026-06-19T13:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Routine power outages, management prepares to mitigate service disruptions at Cimahi City MPP",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgvss6282/rutin-pemadaman-listrik-pengelola-siapkan-mitigasi-gangguan-pelayanan-di-mpp-kota-cimahi",
-      "published_date": "2026-06-19T13:43:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNM Data Science Students Reach the 2026 IEEE YESIST12 Grand Final Through the iMosque AI Application",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgvs2l368/mahasiswa-sains-data-unm-tembus-grand-final-ieee-yesist12-2026-lewat-aplikasi-ai-imosque",
-      "published_date": "2026-06-19T13:27:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Authoritative Indonesia",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tgvopu393/indonesia-berwibawa",
-      "published_date": "2026-06-19T13:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BGN admits that many SPPGs have been suspended due to purchasing raw materials under the HAP",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgvqxd282/bgn-akui-banyak-sppg-ditangguhkan-gegara-beli-bahan-baku-di-bawah-hap",
-      "published_date": "2026-06-19T13:03:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Can Delaying Checking for Brain Tumor Symptoms Have Fatal Consequences?",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgvqwu425/mengapa-menunda-cek-gejala-tumor-otak-bisa-berakibat-fatal",
-      "published_date": "2026-06-19T13:02:54+00:00",
       "category": "Local Events"
     }
   ]
