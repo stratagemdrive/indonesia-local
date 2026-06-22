@@ -38,6 +38,13 @@
   ],
   "Military": [
     {
+      "title": "KDM Prohibits Celebrations on the Road, Indramayu Police Prohibits Closing Provincial Roads for Wedding Parties",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/th1npw282/kdm-larang-hajatan-di-jalan-polres-indramayu-larang-tutup-jalan-provinsi-untuk-pesta-pernikahan",
+      "published_date": "2026-06-22T22:14:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "KONI DKI Athletes Receive DPRD Awards on Jakarta's 499th Anniversary",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/th1i9o348/atlet-binaan-koni-dki-terima-penghargaan-dprd-pada-hut-ke499-jakarta",
@@ -199,16 +206,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tgs4os370/asiran-damai-harga-minyak-dunia-berpotensi-turun",
       "published_date": "2026-06-17T14:10:04+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Not from Portable Gas, Cause of Death of One Family at Glamping Temanggung Revealed",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tgovhe282/bukan-dari-gas-portable-penyebab-kematian-satu-keluarga-di-glamping-temanggung-terungkap",
-      "published_date": "2026-06-15T21:04:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "US-Indonesia Partnership Increases Farmers' Daily Milk Production by 32.5 Percent",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th23iu484/kemitraan-asindonesia-tingkatkan-produksi-susu-harian-peternak-325-persen",
+      "published_date": "2026-06-22T23:20:54+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Council Encourages Affirmative Policy on Class III Excise Tariffs for Small Cigarette Industries",
       "source": "Republika English",
@@ -341,16 +348,72 @@
       "url": "https://news.republika.co.id/berita/tgtvjk377/bps-sensus-ekonomi-bukan-untuk-menaikkan-pajak",
       "published_date": "2026-06-18T12:47:44+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Harry Kane's Two Goals Help England Defeat Croatia 4-2",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgsshm348/dua-gol-harry-kane-bantu-inggris-bekuk-kroasia-42",
-      "published_date": "2026-06-17T22:44:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "West Java MBG Workers Union Protests SPPG Policy to Close During School Holidays",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/th24kx484/serikat-pekerja-mbg-jabar-protes-kebijakan-sppg-tutup-saat-libur-sekolah",
+      "published_date": "2026-06-22T23:43:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Do Salaf Cry When Remembering Death?",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/th23xc451/mengapa-para-salaf-menangis-saat-mengingat-kematian",
+      "published_date": "2026-06-22T23:29:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mac Allister: It's hard to find words to explain Messi's greatness",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th233r348/mac-allister-sulit-mencari-kata-untuk-jelaskan-kehebatan-messi",
+      "published_date": "2026-06-22T23:11:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KAI Gives Promo for KRL Rides to JIS Station for IDR 1 for a Week",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th22x9484/kai-beri-promo-naik-krl-ke-stasiun-jis-bertarif-rp-1-selama-sepekan",
+      "published_date": "2026-06-22T23:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Messi: Victory over Austria Makes Argentina Calmer in Facing the Knockout Phase",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th22p1348/lionel-messi-kemenangan-atas-austria-bawa-argentina-lebih-tenang-hadapi-fase-gugur",
+      "published_date": "2026-06-22T23:03:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java Regional Police Forms Joint Team to Hunt Perpetrators of Sadistic Abuse of Yuvita, Here's the Development",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th1eq9487/polda-jabar-bentuk-tim-gabungan-buru-pelaku-penganiayaan-sadis-terhadap-yuvita-ini-perkembangannya",
+      "published_date": "2026-06-22T22:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorm Postpones France vs Iraq Match in 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th228s348/badai-petir-tunda-laga-prancis-vs-irak-di-piala-dunia-2026",
+      "published_date": "2026-06-22T22:53:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG: Light Rain Predicted to Fall in Most of Indonesia Today",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th21vg8730000/bmkg-hujan-ringan-diprediksi-guyur-sebagian-besar-wilayah-indonesia-hari-ini",
+      "published_date": "2026-06-22T22:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madura United Officially Recruits Goalkeeper Angga Saputro for BRI Liga 1 2026/2027",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th20ie2030000/madura-united-resmi-rekrut-kiper-angga-saputro-untuk-bri-liga-1-20262027",
+      "published_date": "2026-06-22T22:15:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hundreds of Jakarta Citizen Groups Move to Grow Food Together",
       "source": "Republika English",
@@ -426,69 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/th06ii4630000/bnpb-53-hektare-lahan-di-banjar-terbakar-tim-gabungan-masih-berjibaku-padamkan-api",
       "published_date": "2026-06-21T22:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coordinating Minister for Food Targets 80 Percent of National Waste Problem Resolved by 2029",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tgzfku423/menkopangan-targetkan-80-persen-masalah-sampah-nasional-tuntas-pada-2029",
-      "published_date": "2026-06-21T12:48:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Data Science to BAZNAS RI, UNM Alumni Prove the Breadth of Career Opportunities in the Digital Era",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgzejs368/dari-sains-data-ke-baznas-ri-alumni-unm-buktikan-luasnya-peluang-karier-di-era-digital",
-      "published_date": "2026-06-21T12:26:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tasmi' 11 Juz of the Koran Al-Azhar Elementary School Students Kelapa Gading Welcomed with Gratitude Full of Emotion",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgyowv320/tasmi-11-juz-alquran-siswa-sd-alazhar-kelapa-gading-disambut-syukur-penuh-haru",
-      "published_date": "2026-06-21T12:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourists' Nissan X-Trail car from Jakarta caught fire in Lembang, Bandung",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgzdp5282/mobil-nissan-xtrail-wisatawan-asal-jakarta-terbakar-di-lembang-bandung",
-      "published_date": "2026-06-21T12:07:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "So Determinant of Germany's Victory Over Ivory Coast, Undav: Reserves Can Also Determine the Outcome of the Match",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgyfcx348/jadi-penentu-kemenangan-jerman-atas-pantai-gading-undav-cadangan-juga-bisa-menentukan-hasil-laga",
-      "published_date": "2026-06-20T23:46:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dahnil: President asks for Hajj waiting period to be shortened",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tgyf9n483/dahnil-presiden-minta-masa-tunggu-haji-dipangkas",
-      "published_date": "2026-06-20T23:44:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The charm of Lembang makes foreign tourists fall in love",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tgyetp483/pesona-lembang-bikin-turis-mancanegara-jatuh-cinta",
-      "published_date": "2026-06-20T23:34:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden learns from crushing defeat against Netherlands, Brobbey praises Oranje's solidity",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgyeba348/swedia-belajar-dari-kekalahan-telak-kontra-belanda-brobbey-puji-kesolidan-oranje",
-      "published_date": "2026-06-20T23:23:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viral Ojol Motorbike Transported by Officers, Head of East Jakarta Sudinhub Apologizes: This is Our Evaluation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgye96483/viral-motor-ojol-diangkut-petugas-kepala-sudinhub-jaktim-minta-maaf-ini-jadi-evaluasi-kami",
-      "published_date": "2026-06-20T23:22:18+00:00",
       "category": "Local Events"
     }
   ]
