@@ -27,16 +27,37 @@
       "url": "https://ekonomi.republika.co.id/berita/tgtts4416/apwnu-perluas-kerja-sama-siapkan-sejumlah-program-nasional",
       "published_date": "2026-06-18T13:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Interactive Science Show Invites Children to Learn While Playing",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tgq3s0375/pertunjukan-sains-interaktif-ajak-anak-belajar-sambil-bermain",
-      "published_date": "2026-06-16T13:30:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Nadiem Makarim's Sentencing Trial Scheduled for Tuesday, June 30 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th36n0409/sidang-vonis-nadiem-makarim-dijadwalkan-selasa-30-juni-2026",
+      "published_date": "2026-06-23T13:25:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Receiving money from the police to shift the location of the action, the chairman of BEM FH Bung Karno University was disabled",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th34wa409/terima-uang-dari-polisi-agar-geser-lokasi-aksi-ketua-bem-fh-universitas-bung-karno-dinonaktifkan",
+      "published_date": "2026-06-23T12:48:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Women's Confinement Cases, Legislators: Arrest the Perpetrator and Restore the Victim's Life",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th34jd416/kasus-penyekapan-perempuan-legislator-tangkap-pelaku-dan-pulihkan-kehidupan-korban",
+      "published_date": "2026-06-23T12:42:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Jakarta turning into Gotham? How viral crime panics become pretext for expanding military visibility",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/is-jakarta-turning-into-gotham-how-viral-crime-panics-become-pretext-for-expanding-military-visibility/",
+      "published_date": "2026-06-23T01:25:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "KDM Prohibits Celebrations on the Road, Indramayu Police Prohibits Closing Provincial Roads for Wedding Parties",
       "source": "Republika English",
@@ -134,13 +155,6 @@
       "url": "https://news.republika.co.id/berita/tgqa8u368/doktor-ilmu-hukum-gagas-sociopreneurship-policing-untuk-perkuat-keamanan-berbasis-komunitas",
       "published_date": "2026-06-16T14:14:54+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Former Head of BEM UGM Tiyo Ardianto Becomes 'Shoot' Target, Fortuner Linked to Retired TNI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgq78r377/eks-ketua-bem-ugm-tiyo-ardianto-jadi-sasaran-tembak-fortuner-dikaitkan-purnawirawan-tni",
-      "published_date": "2026-06-16T13:10:03+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -209,6 +223,34 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Purbaya Says There Are No Plans for the Ministry of Finance to Open Shares on the IDX",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/th36op423/purbaya-sebut-belum-ada-rencana-kemenkeu-buka-saham-di-bei",
+      "published_date": "2026-06-23T13:26:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From the Snares of Loan sharks to the 2026 PFL Final, PNM Customers Get the Opportunity to Expand the Market",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/th36ml522/dari-jerat-rentenir-hingga-final-pfl-2026-nasabah-pnm-dapat-kesempatan-perluas-pasar",
+      "published_date": "2026-06-23T13:25:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Krista Interfood 2026 Encourages Business Expansion and Competitiveness of the F&B Industry",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/th35pj370/krista-interfood-2026-dorong-ekspansi-bisnis-dan-daya-saing-industri-fb",
+      "published_date": "2026-06-23T13:05:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KedaiKopi Founder: Public Aspirations Need to be Read as Input for Economic Policy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th2ry8451/founder-kedaikopi-aspirasi-publik-perlu-dibaca-sebagai-masukan-untuk-kebijakan-ekonomi",
+      "published_date": "2026-06-23T13:05:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "US-Indonesia Partnership Increases Farmers' Daily Milk Production by 32.5 Percent",
       "source": "Republika English",
@@ -320,37 +362,51 @@
       "url": "https://en.republika.co.id/berita/tguofl415/motogp-mandalika-2026-held-october-ready-to-boost-indonesias-economy-and-tourism",
       "published_date": "2026-06-18T23:11:45+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BGN will correct the IDR 270 T MBG budget for 2027, the SPPG incentive of IDR 6 million per day is considered inappropriate",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgunwv409/bgn-akan-koreksi-anggaran-rp270-t-mbg-untuk-2027-insentif-sppg-rp6-juta-per-hari-dinilai-tak-tepat",
-      "published_date": "2026-06-18T23:00:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Having Clear Vision Can Improve Quality of Life",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tgun9n484/memiliki-penglihatan-jernih-bisa-tunjang-kualitas-hidup",
-      "published_date": "2026-06-18T22:46:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BI: The increase in Pertamax prices has the potential to increase inflation by 0.25 percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgtvz1370/bi-kenaikan-harga-pertamax-berpotensi-tambah-inflasi-025-persen",
-      "published_date": "2026-06-18T12:57:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BPS: Economic Census Not to Increase Taxes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgtvjk377/bps-sensus-ekonomi-bukan-untuk-menaikkan-pajak",
-      "published_date": "2026-06-18T12:47:44+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Triggering Hajj Pilgrims' Fatigue, City Tour will be Evaluated",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th34yd458/picu-kelelahan-jamaah-haji-city-tour-akan-dievaluasi",
+      "published_date": "2026-06-23T13:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Including Serious Persecution, Commission 3 Requests that the Perpetrators of Confinement in Cileunyi be Sentenced to the Severe Punishment",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th36lk483/termasuk-penganiayaan-berat-komisi-3-minta-pelaku-penyekapan-di-cileunyi-dihukum-seberatberatnya",
+      "published_date": "2026-06-23T13:24:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Ulama Meat considered poisonous?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th3471458/mengapa-daging-ulama-diibaratkan-beracun",
+      "published_date": "2026-06-23T13:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dialogue with Dajjal",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th356p458/berdialog-dengan-dajjal",
+      "published_date": "2026-06-23T12:54:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Characteristics of Ulama Su'",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th33xy458/ciriciri-ulama-su",
+      "published_date": "2026-06-23T12:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Prabowo Attends Closing of National Conference and NU Konbes",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/th34nq375/presiden-prabowo-hadiri-penutupan-munas-dan-konbes-nu",
+      "published_date": "2026-06-23T12:43:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "West Java MBG Workers Union Protests SPPG Policy to Close During School Holidays",
       "source": "Republika English",
@@ -447,48 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/th0a8y348/pelatih-arab-saudi-akui-timnya-kewalahan-hadapi-spanyol",
       "published_date": "2026-06-21T23:50:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yamal's historic goal puts Spain close to the top 32 in the World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th089l348/gol-bersejarah-yamal-antar-spanyol-dekati-32-besar-piala-dunia",
-      "published_date": "2026-06-21T23:08:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgium Blunt Frustrated Ahead, Iran Grateful to Secure One Point",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th07n4348/belgia-frustrasi-tumpul-di-depan-iran-bersyukur-amankan-satu-poin",
-      "published_date": "2026-06-21T22:54:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "QS WUR Named This Muhammadiyah Campus the Best Islamic University in Indonesia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th07d2483/qs-wur-nobatkan-kampus-muhammadiyah-ini-jadi-universitas-islam-terbaik-di-indonesia",
-      "published_date": "2026-06-21T22:48:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Holds Belgium, Group G Competition is Tight Until the Final Match",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th073s348/iran-tahan-belgia-persaingan-grup-g-ketat-sampai-laga-akhir",
-      "published_date": "2026-06-21T22:43:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Din Syamsuddin: Apart from being a proclaimer, Bung Karno is also a figure in the Indonesian Muslim community",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th06xz483/din-syamsuddin-selain-proklamator-bung-karno-juga-tokoh-umat-islam-indonesia",
-      "published_date": "2026-06-21T22:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BNPB: 5.3 Hectares of Land in Banjar Burned, Joint Team Still Struggling to Put Out the Fire",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th06ii4630000/bnpb-53-hektare-lahan-di-banjar-terbakar-tim-gabungan-masih-berjibaku-padamkan-api",
-      "published_date": "2026-06-21T22:30:18+00:00",
       "category": "Local Events"
     }
   ]
