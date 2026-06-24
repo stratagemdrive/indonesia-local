@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Russia is Open to Discussions with ASEAN to Harmonize Digital Transactions",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/th4zzr423/rusia-terbuka-berdiskusi-dengan-asean-untuk-selaraskan-transaksi-digital",
+      "published_date": "2026-06-24T12:57:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pramono Suggests City Check-in and Duty Free Facilities at Donat Bridge",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/th05ut484/pramono-usul-ada-fasilitas-city-checkin-dan-duty-free-di-jembatan-donat",
@@ -134,20 +141,6 @@
       "url": "https://news.republika.co.id/berita/tgsrtf451/perang-ai-memanas-china-andalkan-big-data-14-m-penduduk-tantang-silicon-valley-as",
       "published_date": "2026-06-17T22:29:39+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Whitewashing military responsibility: disappointing verdicts in Andrie Yunus acid attack trial",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/whitewashing-military-responsibility-disappointing-verdicts-in-andrie-yunus-acid-attack-trial/",
-      "published_date": "2026-06-17T00:41:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Biggest Paradox of the Ukraine War: The More It Goes On, The Harder It Is to Ignore Putin",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgqedt451/paradoks-terbesar-perang-ukraina-semakin-berlangsung-kian-sulit-mengabaikan-putin",
-      "published_date": "2026-06-17T00:02:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -216,6 +209,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Starting in 2027, Honorary Madrasah Teachers are projected to receive an incentive of IDR 1 million per month",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th4yra458/mulai-2027-guru-madrasah-honorer-diproyeksikan-dapat-insentif-rp1-juta-per-bulan",
+      "published_date": "2026-06-24T12:30:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Strengthening MSMEs is a Pillar of National Economic Stability amidst Global Pressure",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/766141/penguatan-umkm-jadi-pilar-stabilitas-ekonomi-nasional-di-tengah-tekanan-global",
+      "published_date": "2026-06-24T12:26:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BSPD 2026 Brings Startups and Investors Together",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/th4yfv416/bspd-2026-pertemukan-startup-dan-investor",
+      "published_date": "2026-06-24T12:26:07+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Quality Internet Strengthens the Competitiveness of MSMEs in the Digital Economy Era",
       "source": "Republika English",
@@ -334,30 +348,51 @@
       "url": "https://ekonomi.republika.co.id/berita/tgxfoq416/sinergi-lintas-lembaga-penting-jaga-stabilitas-ekonomi",
       "published_date": "2026-06-20T10:55:38+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Pelita Jaya admits that it hasn't been optimal even though it won the first game of the IBL final, the Hornbills lost momentum",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgwitd348/pelita-jaya-akui-belum-maksimal-meski-menang-di-gim-pertama-final-ibl-hornbills-kehilangan-momentum",
-      "published_date": "2026-06-19T23:05:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Airlangga: MSCI's note is a reminder of capital market reform",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgvqp8490/airlangga-catatan-msci-jadi-pengingat-reformasi-pasar-modal",
-      "published_date": "2026-06-19T12:58:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Social Commerce Shifts Marketplace, Are Indonesian Digital Talents Ready?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgvq0w368/social-commerce-menggeser-marketplace-siapkah-talenta-digital-indonesia",
-      "published_date": "2026-06-19T12:43:44+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "How does the Koran view same-sex relationships? Listen to these eight verses",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/th50lt430/bagaimana-alquran-memandang-hubungan-sesama-jenis-simak-delapan-ayat-ini",
+      "published_date": "2026-06-24T13:10:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The emptying of the former Sultan Hotel is targeted to be completed within a month",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/th4xwf375/pengosongan-eks-hotel-sultan-ditargetkan-rampung-dalam-sebulan",
+      "published_date": "2026-06-24T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MBG, School Holidays, and the Importance of Risk Management",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/th5038393/mbg-libur-sekolah-dan-pentingnya-manajemen-risiko",
+      "published_date": "2026-06-24T12:59:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada Vs Switzerland Preview: Hosts on the Verge of History, Rossocrociati Becomes the Last Barrier",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th4zyq348/preview-kanada-vs-swiss-tuan-rumah-di-ambang-sejarah-rossocrociati-jadi-penghalang-terakhir",
+      "published_date": "2026-06-24T12:56:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UMJ Receives Three Decrees on Opening New Study Programs from the Minister of Education and Technology",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th4zgw472/umj-terima-tiga-sk-pembukaan-program-studi-baru-dari-mendiktisaintek",
+      "published_date": "2026-06-24T12:46:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AMALI: State Must Help Islamic Boarding School Education",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th4zcf458/amali-negara-wajib-bantu-pendidikan-pesantren",
+      "published_date": "2026-06-24T12:43:27+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Indonesia is overall champion of the 2026 World Para Athletics Grand Prix, aiming for tickets to the Asian Para Games",
       "source": "Republika English",
@@ -454,48 +489,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/th356p458/berdialog-dengan-dajjal",
       "published_date": "2026-06-23T12:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Characteristics of Ulama Su'",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th33xy458/ciriciri-ulama-su",
-      "published_date": "2026-06-23T12:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Prabowo Attends Closing of National Conference and NU Konbes",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/th34nq375/presiden-prabowo-hadiri-penutupan-munas-dan-konbes-nu",
-      "published_date": "2026-06-23T12:43:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java MBG Workers Union Protests SPPG Policy to Close During School Holidays",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/th24kx484/serikat-pekerja-mbg-jabar-protes-kebijakan-sppg-tutup-saat-libur-sekolah",
-      "published_date": "2026-06-22T23:43:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Do Salaf Cry When Remembering Death?",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/th23xc451/mengapa-para-salaf-menangis-saat-mengingat-kematian",
-      "published_date": "2026-06-22T23:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mac Allister: It's hard to find words to explain Messi's greatness",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th233r348/mac-allister-sulit-mencari-kata-untuk-jelaskan-kehebatan-messi",
-      "published_date": "2026-06-22T23:11:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KAI Gives Promo for KRL Rides to JIS Station for IDR 1 for a Week",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th22x9484/kai-beri-promo-naik-krl-ke-stasiun-jis-bertarif-rp-1-selama-sepekan",
-      "published_date": "2026-06-22T23:07:57+00:00",
       "category": "Local Events"
     }
   ]
