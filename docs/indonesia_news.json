@@ -38,6 +38,20 @@
   ],
   "Military": [
     {
+      "title": "Warship Not Finished Yet, Germany Has Cost IDR 46 Trillion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th58bu451/kapal-perang-belum-jadi-jerman-sudah-boncos-rp46-triliun",
+      "published_date": "2026-06-24T22:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Manokwari Regency Government Improves Archives Management to Achieve Orderly Administration",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th5lp21030000/pemkab-manokwari-benahi-tata-kelola-arsip-untuk-wujudkan-tertib-administrasi",
+      "published_date": "2026-06-24T20:46:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nadiem Makarim's Sentencing Trial Scheduled for Tuesday, June 30 2026",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/th36n0409/sidang-vonis-nadiem-makarim-dijadwalkan-selasa-30-juni-2026",
@@ -134,13 +148,6 @@
       "url": "https://news.republika.co.id/berita/tgvq16409/terpidana-kasus-korupsi-gabung-psi-kpk-beri-peringatan-hatihati",
       "published_date": "2026-06-19T12:43:54+00:00",
       "category": "Military"
-    },
-    {
-      "title": "AI War Heats Up, China Relies on Big Data 1.4 M Population, Challenges US Silicon Valley?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgsrtf451/perang-ai-memanas-china-andalkan-big-data-14-m-penduduk-tantang-silicon-valley-as",
-      "published_date": "2026-06-17T22:29:39+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -192,23 +199,16 @@
       "url": "https://esgnow.republika.co.id/berita/tgsvze423/indonesia-perkuat-standar-esg-demi-hilirisasi-mineral-kritis-yang-berkelanjutan",
       "published_date": "2026-06-17T23:59:38+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Will Pertamax prices fall when world oil prices fall? ESDM: Absolutely",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgsubo409/apakah-harga-pertamax-akan-turun-saat-harga-minyak-dunia-turun-esdm-pasti",
-      "published_date": "2026-06-17T23:23:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US-Iran peace, world oil prices potentially falling?",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgs4os370/asiran-damai-harga-minyak-dunia-berpotensi-turun",
-      "published_date": "2026-06-17T14:10:04+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "West Sulawesi DKP Maps Maritime Investment Potential for Business Investment Expo 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th5ok84130000/dkp-sulbar-petakan-potensi-investasi-kelautan-untuk-business-investment-expo-2026",
+      "published_date": "2026-06-24T21:48:08+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Starting in 2027, Honorary Madrasah Teachers are projected to receive an incentive of IDR 1 million per month",
       "source": "Republika English",
@@ -341,16 +341,37 @@
       "url": "https://news.republika.co.id/berita/tgyf2k451/dalih-investasi-berujung-deportasi-modus-3-wn-china-terendus-dari-materai-kembar",
       "published_date": "2026-06-20T23:39:56+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Synergy between Institutions is Important to Maintain Economic Stability",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgxfoq416/sinergi-lintas-lembaga-penting-jaga-stabilitas-ekonomi",
-      "published_date": "2026-06-20T10:55:38+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th5r7d7630000/prakiraan-cuaca-dki-jakarta-kamis-ini-jaksel-dan-jaktim-hujan-ringan",
+      "published_date": "2026-06-24T22:45:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Türkiye Ready to Strengthen Muslim Countries'",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th51g2393/turki-siap-perkuat-negara-muslim",
+      "published_date": "2026-06-24T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dharmasraya Regency Government Distributes Agricultural Machinery Assistance and 95 Tons of Rice Seeds Worth IDR 1.9 Billion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th5n4n2930000/pemkab-dharmasraya-salurkan-bantuan-alsintan-dan-95-ton-benih-padi-senilai-rp19-miliar",
+      "published_date": "2026-06-24T21:17:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The rise of LGBT continues to recur, this is what social activists say who often accompany them to emigrate",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/th5a1y483/maraknya-lgbt-terus-berulang-ini-kata-pegiat-sosial-yang-kerap-dampingi-mereka-untuk-hijrah",
+      "published_date": "2026-06-24T21:17:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "How does the Koran view same-sex relationships? Listen to these eight verses",
       "source": "Republika English",
@@ -461,34 +482,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/th3ugh3530000/polda-jabar-tempatkan-tersangka-penyekapan-wanita-di-sel-khusus",
       "published_date": "2026-06-23T22:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Triggering Hajj Pilgrims' Fatigue, City Tour will be Evaluated",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th34yd458/picu-kelelahan-jamaah-haji-city-tour-akan-dievaluasi",
-      "published_date": "2026-06-23T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Including Serious Persecution, Commission 3 Requests that the Perpetrators of Confinement in Cileunyi be Sentenced to the Severe Punishment",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th36lk483/termasuk-penganiayaan-berat-komisi-3-minta-pelaku-penyekapan-di-cileunyi-dihukum-seberatberatnya",
-      "published_date": "2026-06-23T13:24:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Ulama Meat considered poisonous?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th3471458/mengapa-daging-ulama-diibaratkan-beracun",
-      "published_date": "2026-06-23T13:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dialogue with Dajjal",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th356p458/berdialog-dengan-dajjal",
-      "published_date": "2026-06-23T12:54:25+00:00",
       "category": "Local Events"
     }
   ]
