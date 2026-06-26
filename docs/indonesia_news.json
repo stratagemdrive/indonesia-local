@@ -31,6 +31,20 @@
   ],
   "Military": [
     {
+      "title": "Latsarmil Death Casualties Increase, Ministry of Defense: Participants Participate Voluntarily",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th8pio393/korban-jiwa-latsarmil-bertambah-kemenhan-peserta-ikut-secara-sukarela",
+      "published_date": "2026-06-26T13:01:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Following Latsarmir, 4 Prospective Red and White Kopdes Managers Died",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th8nuh484/ikut-latsarmir-4-calon-manajer-kopdes-merah-putih-meninggal",
+      "published_date": "2026-06-26T12:25:29+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nurses Want to Leave: Graduate Surplus or Awards Deficit?",
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/th71ed472/perawat-ingin-pergi-surplus-lulusan-atau-defisit-penghargaan",
@@ -154,13 +168,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tgvro2368/belanja-puma-speedcat-ballet-di-bri-consumer-expo-2026-dapat-bonus-gift-card-rp-250-ribu",
       "published_date": "2026-06-19T13:19:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Corruption Case Convict Joins PSI, KPK Gives Warning: Be Careful",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgvq16409/terpidana-kasus-korupsi-gabung-psi-kpk-beri-peringatan-hatihati",
-      "published_date": "2026-06-19T12:43:54+00:00",
       "category": "Military"
     }
   ],
@@ -366,6 +373,62 @@
   ],
   "Local Events": [
     {
+      "title": "MBG Volunteers Hold Joint Prayer, Urge to Investigate Allegations of BGN Corruption",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/th8k43375/relawan-mbg-gelar-doa-bersama-desak-usut-dugaan-korupsi-bgn",
+      "published_date": "2026-06-26T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ibrahimovic cries when Bosnia and Herzegovina qualify for the World Cup group stage",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th8p2o393/tangis-ibrahimovic-kala-bosnia-dan-herzegovina-lolos-fase-grup-piala-dunia",
+      "published_date": "2026-06-26T12:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Residents Fight Tomatoes in Lembang, a Tradition of Getting Rid of Negative Energy and Sowing New Hope",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/th8orq282/ribuan-warga-perang-tomat-di-lembang-tradisi-buang-energi-negatif-dan-menyemai-harapan-baru",
+      "published_date": "2026-06-26T12:45:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lots of Excavations on the Road, PAM Jaya Apologizes to Jakarta Residents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/th8ofi484/banyak-galian-di-jalan-pam-jaya-minta-maaf-ke-warga-jakarta",
+      "published_date": "2026-06-26T12:38:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When European Desire Changes the Destiny of the Archipelago",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/766849/ketika-hasrat-eropa-mengubah-takdir-nusantara",
+      "published_date": "2026-06-26T12:28:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Transportation: New Airline Ticket Upper Limit Rates Ready to Be Implemented when Avtur Prices Stable",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/th8nwx423/menhub-tarif-batas-atas-tiket-pesawat-baru-siap-diberlakukan-saat-harga-avtur-stabil",
+      "published_date": "2026-06-26T12:26:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Hallyu Becomes a Lifestyle: Reading the Korean Phenomenon from a Sociological Perspective",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/766864/ketika-hallyu-menjadi-gaya-hidup-membaca-fenomena-korea-dari-perspektif-sosiologi",
+      "published_date": "2026-06-26T12:25:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colonial Legacy: How Sultanates in the Archipelago Lost Their Sovereignty",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/766792/warisan-kolonial-bagaimana-kesultanan-di-nusantara-kehilangan-kedaulatannya",
+      "published_date": "2026-06-26T12:24:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Dudung: YTR's Torture in Bandung is Beyond the Limits of Humanity",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/th7nyi377/dudung-penyiksaan-terharap-ytr-di-bandung-di-luar-batas-kemanusiaan",
@@ -447,62 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/th5a1y483/maraknya-lgbt-terus-berulang-ini-kata-pegiat-sosial-yang-kerap-dampingi-mereka-untuk-hijrah",
       "published_date": "2026-06-24T21:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How does the Koran view same-sex relationships? Listen to these eight verses",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/th50lt430/bagaimana-alquran-memandang-hubungan-sesama-jenis-simak-delapan-ayat-ini",
-      "published_date": "2026-06-24T13:10:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The emptying of the former Sultan Hotel is targeted to be completed within a month",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/th4xwf375/pengosongan-eks-hotel-sultan-ditargetkan-rampung-dalam-sebulan",
-      "published_date": "2026-06-24T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG, School Holidays, and the Importance of Risk Management",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/th5038393/mbg-libur-sekolah-dan-pentingnya-manajemen-risiko",
-      "published_date": "2026-06-24T12:59:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada Vs Switzerland Preview: Hosts on the Verge of History, Rossocrociati Becomes the Last Barrier",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th4zyq348/preview-kanada-vs-swiss-tuan-rumah-di-ambang-sejarah-rossocrociati-jadi-penghalang-terakhir",
-      "published_date": "2026-06-24T12:56:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UMJ Receives Three Decrees on Opening New Study Programs from the Minister of Education and Technology",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th4zgw472/umj-terima-tiga-sk-pembukaan-program-studi-baru-dari-mendiktisaintek",
-      "published_date": "2026-06-24T12:46:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMALI: State Must Help Islamic Boarding School Education",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th4zcf458/amali-negara-wajib-bantu-pendidikan-pesantren",
-      "published_date": "2026-06-24T12:43:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia is overall champion of the 2026 World Para Athletics Grand Prix, aiming for tickets to the Asian Para Games",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th3z2d348/indonesia-juara-umum-world-para-athletics-grand-prix-2026-bidik-tiket-asian-para-games",
-      "published_date": "2026-06-23T23:39:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ronaldo chooses to talk about the team rather than personal records after Portugal celebrates a five-goal win",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th3y3v348/ronaldo-pilih-bicara-tim-ketimbang-rekor-pribadi-setelah-portugal-berpesta-kemenangan-lima-gol",
-      "published_date": "2026-06-23T23:19:07+00:00",
       "category": "Local Events"
     }
   ]
