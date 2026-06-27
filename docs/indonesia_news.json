@@ -13,16 +13,23 @@
       "url": "https://news.republika.co.id/berita/th05ut484/pramono-usul-ada-fasilitas-city-checkin-dan-duty-free-di-jembatan-donat",
       "published_date": "2026-06-21T22:16:05+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Raining Sanctions, European Union Now Wants to Talk Directly, What Will Russia Ask for?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgycwd451/hujani-sanksi-uni-eropa-kini-ingin-bicara-langsung-apa-yang-akan-diminta-rusia",
-      "published_date": "2026-06-20T22:53:01+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Not Dependent on the West, Ukraine Creates Its Own Missiles with a Range of 3,000 Km, Can Reach Moscow",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thaok8451/tak-bergantung-barat-ukraina-buat-rudal-sendiri-jangkau-3000-km-bisa-sampai-moskow",
+      "published_date": "2026-06-27T23:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Aiming for 460 Thousand Troops, Germany Only Gets 530 Volunteers, Ready to Face Russia?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thapne451/bidik-460-ribu-tentara-jerman-malah-hanya-dapat-530-relawan-siap-hadapi-rusia",
+      "published_date": "2026-06-27T23:18:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Russian Commander Threatens Uprising Against Putin: Soldiers Point Weapons at the Kremlin",
       "source": "Republika English",
@@ -134,20 +141,6 @@
       "url": "https://news.republika.co.id/berita/tgzfa0456/polda-jateng-dan-ipot-kolaborasi-beri-literasi-generasi-muda-esports-di-kapolda-jateng-cup-2026",
       "published_date": "2026-06-21T12:42:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Netherlands Breaks World Cup Record, Koeman Sends Warning to Oranje Rivals in the World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tgyewv348/belanda-pecahkan-rekor-piala-dunia-koeman-kirim-peringatan-untuk-para-rival-oranje-di-piala-dunia",
-      "published_date": "2026-06-20T23:36:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia Sustainability Award Appreciates PNM's ESG Commitment and Sustainable Empowerment",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tgxj8a472/indonesia-sustainability-award-apresiasi-komitmen-esg-dan-pemberdayaan-berkelanjutan-pnm",
-      "published_date": "2026-06-20T12:12:10+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -202,6 +195,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Construction of the Kalimantan Logistics Train Purely Using Private Funds, Not APBN",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thb6cj2630000/pembangunan-kereta-logistik-kalimantan-murni-pakai-dana-swasta-bukan-apbn",
+      "published_date": "2026-06-27T21:00:19+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Water Management Efficiency is an Important Part of the Company's ESG Implementation",
       "source": "Republika English",
@@ -334,16 +334,65 @@
       "url": "https://ekonomi.republika.co.id/berita/th3b6b416/pendapatan-tumbuh-34-persen-blibli-masuk-fortune-southeast-asia-500-tahun-2026",
       "published_date": "2026-06-23T22:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Purbaya Says There Are No Plans for the Ministry of Finance to Open Shares on the IDX",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/th36op423/purbaya-sebut-belum-ada-rencana-kemenkeu-buka-saham-di-bei",
-      "published_date": "2026-06-23T13:26:49+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Veda Ega's starting position and Moto3 GP Assen 2026 Live Broadcast Schedule",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thbdnu409/posisi-start-veda-ega-dan-jadwal-siaran-langsung-moto3-gp-assen-2026",
+      "published_date": "2026-06-27T23:38:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Wants to Make the Lives of Jakarta Residents More Comfortable",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thbd89409/pramono-ingin-buat-hidup-warga-jakarta-lebih-nyaman",
+      "published_date": "2026-06-27T23:28:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England to the top of Group L after beating Panama, Kane breaks record",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thbcjk348/inggris-ke-puncak-grup-l-usai-bekuk-panama-kane-pecahkan-rekor",
+      "published_date": "2026-06-27T23:14:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gus Irfan Emphasizes the Synergy of the Hajj and Umrah Ecosystem for Dignified Services",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thaqip366/gus-irfan-tekankan-sinergi-ekosistem-haji-dan-umrah-demi-pelayanan-bermartabat",
+      "published_date": "2026-06-27T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Croatia Beat Ghana, Accompany England to the Round of 32 of the World Cup from Group L",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thbbzd348/kroasia-kalahkan-ghana-dampingi-inggris-ke-babak-32-besar-piala-dunia-dari-grup-l",
+      "published_date": "2026-06-27T23:02:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG Weather Forecast: Jakarta will be sunny and cloudy throughout the week",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thbb7f1730000/prakiraan-cuaca-bmkg-jakarta-cerah-berawan-sepanjang-minggu",
+      "published_date": "2026-06-27T22:45:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donggala Regency Government Invites Youth to Build Superior Character Through Sports",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thbaig8430000/pemkab-donggala-ajak-pemuda-bangun-karakter-unggul-melalui-olahraga",
+      "published_date": "2026-06-27T22:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Transportation Accelerates Electrification of Cikarang-Cikampek KRL, Shorter Travel Time",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thb5nl2530000/kemenhub-percepat-elektrifikasi-krl-cikarangcikampek-waktu-tempuh-makin-singkat",
+      "published_date": "2026-06-27T20:45:21+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Jokowi Attends PSI Bandar Lampung Coordination Meeting, Meets Residents and Volunteers",
       "source": "Republika English",
@@ -426,62 +475,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/th8uhl425/enam-cara-digital-detox-yang-efektif-buat-gen-z",
       "published_date": "2026-06-26T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zohran Mamdani's Breakthrough to Freeze Rental Prices of 1 Million Apartments, Called Relief for Workers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th8rcf451/gebrakan-zohran-mamdani-bekukan-harga-sewa-1-juta-apartemen-disebut-kelegaan-bagi-para-pekerja",
-      "published_date": "2026-06-26T22:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chairman of the Wamena District Court Appoints Five Members of the Central Mamberamo DPRK on Traditional Lines",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th9f5n2330000/ketua-pn-wamena-lantik-lima-anggota-dprk-mamberamo-tengah-jalur-adat",
-      "published_date": "2026-06-26T22:15:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Haj Evaluation of Sharia Performance Regarding Tents in Mina",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/th9f4u430/kemenhaj-evaluasi-kinerja-syarikah-soal-tenda-di-mina",
-      "published_date": "2026-06-26T22:14:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold Now Offers a New Approach to Buying and Selling Precious Metals",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/th8wo4425/emas-now-tawarkan-pendekatan-baru-dalam-jual-beli-logam-mulia",
-      "published_date": "2026-06-26T21:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Sumatra Ombudsman: 320 New SMAN Students Threatened Not Being Registered with Dapodik",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th9bop2430000/ombudsman-sumsel-320-siswa-baru-sman-terancam-tak-terdaftar-dapodik",
-      "published_date": "2026-06-26T21:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Kalimantan Builds Integrated Heart Services and Nuclear Medicine at Ansari Saleh Regional Hospital",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th9azz1130000/kalsel-bangun-layanan-jantung-terpadu-dan-kedokteran-nuklir-di-rsud-ansari-saleh",
-      "published_date": "2026-06-26T20:45:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Governor Hands Over IDR 250 Million Competition Prize for the Future of Captivity Victims",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th9aai430000/gubernur-jabar-serahkan-hadiah-sayembara-rp250-juta-untuk-masa-depan-korban-penyekapan",
-      "published_date": "2026-06-26T20:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG Volunteers Hold Joint Prayer, Urge to Investigate Allegations of BGN Corruption",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/th8k43375/relawan-mbg-gelar-doa-bersama-desak-usut-dugaan-korupsi-bgn",
-      "published_date": "2026-06-26T13:00:00+00:00",
       "category": "Local Events"
     }
   ]
