@@ -134,16 +134,16 @@
       "url": "https://news.republika.co.id/berita/th5lp21030000/pemkab-manokwari-benahi-tata-kelola-arsip-untuk-wujudkan-tertib-administrasi",
       "published_date": "2026-06-24T20:46:14+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Nadiem Makarim's Sentencing Trial Scheduled for Tuesday, June 30 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th36n0409/sidang-vonis-nadiem-makarim-dijadwalkan-selasa-30-juni-2026",
-      "published_date": "2026-06-23T13:25:48+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Belarus asks RI to supply 14 thousand tons of CPO and 120 thousand tons of cocoa per year",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgv7f330000/belarus-minta-ri-pasok-14-ribu-ton-cpo-dan-120-ribu-ton-kakao-per-tahun",
+      "published_date": "2026-06-30T22:45:15+00:00",
+      "category": "Energy"
+    },
     {
       "title": "The Association Collaborates with the Corruption Eradication Commission and the Attorney General's Office to Strengthen Governance of 10 Percent Participation Rights",
       "source": "Republika English",
@@ -188,6 +188,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Jayapura Tourism Department: Tourism Development Needs Support from Indigenous Communities",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgrrk8930000/dispar-jayapura-pengembangan-wisata-butuh-dukungan-masyarakat-adat",
+      "published_date": "2026-06-30T21:30:56+00:00",
+      "category": "Economy"
+    },
     {
       "title": "SAL funds of IDR 400 trillion go to Himbara, MSMEs and KPR become priorities",
       "source": "Republika English",
@@ -320,16 +327,79 @@
       "url": "https://ekonomi.republika.co.id/berita/th6uet370/indef-konflik-timur-tengah-bisa-pangkas-pertumbuhan-ekonomi-indonesia-hingga-021-persen",
       "published_date": "2026-06-25T12:52:05+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "PNM Strengthens Customer Digital Applications for Stronger Empowerment Benefits",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/th6u7i522/pnm-perkuat-aplikasi-digital-nasabah-untuk-manfaat-pemberdayaan-yang-semakin-kuat",
-      "published_date": "2026-06-25T12:47:42+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Husein Sastranegara Airport Starts Operating September 17 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgxyw484/bandara-husein-sastranegara-mulai-beroperasi-17-september-2026",
+      "published_date": "2026-06-30T23:44:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brace Mbappe Brings France to Eliminate Sweden, Competition for the Golden Shoe Gets More Exciting",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgxgv348/brace-mbappe-bawa-prancis-singkirkan-swedia-persaingan-sepatu-emas-semakin-seru",
+      "published_date": "2026-06-30T23:34:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bring Norway to Make History, Haaland: It Feels Amazing",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgvwr348/bawa-norwegia-ukir-sejarah-haaland-rasanya-luar-biasa",
+      "published_date": "2026-06-30T23:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joao Felix is ​​confident that Portugal can eliminate Croatia in the last 32 of the World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgk83348/joao-felix-pede-portugal-bisa-singkirkan-kroasia-di-32-besar-piala-dunia",
+      "published_date": "2026-06-30T22:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KY Has Not Received the Nadiem Camp's Complaint Regarding the Verdict in the Chromebook Case",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgupl484/ky-belum-terima-aduan-kubu-nadiem-soal-vonis-kasus-chromebook",
+      "published_date": "2026-06-30T22:34:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jamkrida Papua Supports MSMEs in Promotion of Featured Products at the Makassar Dekranas Event",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgt4k2130000/jamkrida-papua-dukung-umkm-promosi-produk-unggulan-di-ajang-dekranas-makassar",
+      "published_date": "2026-06-30T22:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Legislators Support Construction of LRT Manggarai-Dukuh Atas Route",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgsnd484/legislator-dukung-pembangunan-lrt-rute-manggaraidukuh-atas",
+      "published_date": "2026-06-30T21:50:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banjarmasin City Government Holds Public Consultation Forum, Improves Services for MSMEs and Job Seekers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgsfm2530000/pemkot-banjarmasin-gelar-forum-konsultasi-publik-tingkatkan-layanan-umkm-dan-pencari-kerja",
+      "published_date": "2026-06-30T21:45:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Will Make Transportation and Tourism Free during Jakarta's 500th Anniversary",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thgrgg484/pramono-bakal-gratiskan-transportasi-dan-wisata-saat-500-tahun-jakarta",
+      "published_date": "2026-06-30T21:24:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The President of Cape Verde believes his country can beat Argentina in the World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thglx4348/presiden-tanjung-verde-yakin-negaranya-mampu-kalahkan-argentina-di-piala-dunia",
+      "published_date": "2026-06-30T21:21:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "UNAS Proposes Sutan Takdir Alisjahbana to Become a National Hero",
       "source": "Republika English",
@@ -398,76 +468,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/theosk484/putusan-mk-pembayaran-dana-pensiun-sukarela-bisa-sekaligus-atau-berkala",
       "published_date": "2026-06-29T23:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Religion Reminds People Not to Immediately Believe AI Da'wah Content on Social Media",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thf14g430/kemenag-ingatkan-umat-jangan-langsung-percaya-konten-dakwah-ai-di-media-sosial",
-      "published_date": "2026-06-29T22:57:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lewandowski Leaves Barcelona, ​​Officially Joins Chicago Fire",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thf115348/lewandowski-tinggalkan-barcelona-resmi-gabung-chicago-fire",
-      "published_date": "2026-06-29T22:55:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Home Affairs Encourages Regional Heads to Strengthen Forkopimda to Maintain Regional Stability",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/themr8484/mendagri-dorong-kepala-daerah-perkuat-forkopimda-jaga-stabilitas-wilayah",
-      "published_date": "2026-06-29T22:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan Picks Up Suitcase, Moriyasu Promises Blue Samurai Will Rise Stronger in World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thf0d0348/jepang-angkat-koper-moriyasu-janji-samurai-biru-bangkit-lebih-kuat-di-piala-dunia",
-      "published_date": "2026-06-29T22:41:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Susy Susanti Leads PB Jaya Raya, Ready to Continue the Tradition of Creating World Champions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thench348/susy-susanti-pimpin-pb-jaya-raya-siap-lanjutkan-tradisi-cetak-juara-dunia",
-      "published_date": "2026-06-29T22:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Betawi Villages Disappeared Swallowed by Development",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/theonw282/kampungkampung-betawi-hilang-ditelan-pembangunan",
-      "published_date": "2026-06-29T22:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven Signs of Dehydration that are Rarely Noticed",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/thedgt425/tujuh-tanda-dehidrasi-yang-jarang-disadari",
-      "published_date": "2026-06-29T22:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Danantara Collaborates with KPK to Strengthen Corruption Prevention in Strategic Projects",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/theb22375/danantara-gandeng-kpk-perkuat-pencegahan-korupsi-pada-proyek-strategis",
-      "published_date": "2026-06-29T14:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass of Sudewo Supporters Angry at Trial, Former Regent of Pati Claims Not to Be an Unjust Leader",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/thedba282/massa-pendukung-sudewo-ngamuk-di-persidangan-eks-bupati-pati-klaim-bukan-pemimpin-zalim",
-      "published_date": "2026-06-29T14:23:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supporting Sanitation Program, Bank Jakarta Builds Communal MCK",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/thec28416/dukung-program-sanitasi-bank-jakarta-bangun-mck-komunal",
-      "published_date": "2026-06-29T13:57:34+00:00",
       "category": "Local Events"
     }
   ]
