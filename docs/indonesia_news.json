@@ -45,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "News about tapirs being slaughtered and cooked in Mesuji, the Ministry of Forestry intervenes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thlvfo377/kabar-tapir-disembelih-dan-dimasak-di-mesuji-kemenhut-turun-tangan",
+      "published_date": "2026-07-03T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "RI-France Start Physical Construction of Two Scorpène Submarines Ahead of Schedule",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thkkjk130000/riprancis-mulai-konstruksi-fisik-dua-kapal-selam-scorpne-lebih-cepat-dari-jadwal",
@@ -141,23 +148,16 @@
       "url": "https://news.republika.co.id/berita/thapne451/bidik-460-ribu-tentara-jerman-malah-hanya-dapat-530-relawan-siap-hadapi-rusia",
       "published_date": "2026-06-27T23:18:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Russian Commander Threatens Uprising Against Putin: Soldiers Point Weapons at the Kremlin",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th8sph451/komandan-rusia-ancam-pemberontakan-lawan-putin-tentara-arahkan-senjata-ke-kremlin",
-      "published_date": "2026-06-26T23:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latsarmil Death Casualties Increase, Ministry of Defense: Participants Participate Voluntarily",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/th8pio393/korban-jiwa-latsarmil-bertambah-kemenhan-peserta-ikut-secara-sukarela",
-      "published_date": "2026-06-26T13:01:36+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "KSP Accelerates Construction of Tanjung Enim CNG Mother Station for Energy Security",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thmdtj6130000/ksp-percepat-pembangunan-mother-station-cng-tanjung-enim-demi-ketahanan-energi",
+      "published_date": "2026-07-03T22:15:19+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Patra Niaga together with KKP Strengthen Energy Provision for Fishermen",
       "source": "Republika English",
@@ -209,6 +209,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Collaboration with KAI, Ministry of Tourism Targets Malaysian Tourist Market",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thlyhc490/kolaborasi-dengan-kai-kemenpar-incar-pasar-wisatawan-malaysia",
+      "published_date": "2026-07-03T23:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Nusa Mandiri University Students Become Publicity Volunteers for IEEE YESIST12 Grand Finale 2026",
       "source": "Republika English",
@@ -341,16 +348,79 @@
       "url": "https://ekonomi.republika.co.id/berita/thg345423/dana-sal-rp-400-triliun-masuk-ke-himbara-umkm-hingga-kpr-jadi-prioritas",
       "published_date": "2026-06-30T12:38:29+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Menpora Erick Encourages Long-Term National Training to Produce Judoka with Achievements",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/theca9348/menpora-erick-dorong-pelatnas-jangka-panjang-untuk-cetak-judoka-berprestasi",
-      "published_date": "2026-06-29T14:01:21+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Commission VIII asks that strict health requirements for Hajj next year be implemented seriously",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thmh9e483/komisi-viii-minta-pengetatan-syarat-kesehatan-haji-tahun-depan-diterapkan-serius",
+      "published_date": "2026-07-03T23:29:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "So far it is free, Jaklingko is proposed to pay IDR 2,000",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//thmgou483/selama-ini-gratis-jaklingko-diusulkan-jadi-berbayar-rp2-000",
+      "published_date": "2026-07-03T23:17:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The slopes of Mount Pasrean are covered by unlicensed heavy equipment, West Bandung residents protest for fear of landslides",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thmgcf483/lereng-gunung-pasrean-dipapas-alat-berat-tak-berizin-warga-bandung-barat-protes-takut-longsor",
+      "published_date": "2026-07-03T23:09:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Health Finds Hospital Negligence in Doctor Icha's Case",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thmfts377/kemenkes-temukan-kelalaian-rumah-sakit-dalam-kasus-dokter-icha",
+      "published_date": "2026-07-03T22:58:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare World Cup Moment, This Australian National Team Striker Converted to Islam Ahead of the Match Against Egypt",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thmfaj320/momen-langka-piala-dunia-penyerang-timnas-australia-ini-masuk-islam-jelang-laga-lawan-mesir",
+      "published_date": "2026-07-03T22:47:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany Needs Skilled Workers, Doors Wide Open for Indonesian Talents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thmeik9630000/jerman-butuh-pekerja-terampil-pintu-terbuka-lebar-untuk-talenta-indonesia",
+      "published_date": "2026-07-03T22:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Agent: Secret Service Failed to Secure Trump Even Though Perpetrator Was Detected",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thls6b451/mantan-agen-secret-service-gagal-amankan-trump-meski-pelaku-sudah-terdeteksi",
+      "published_date": "2026-07-03T22:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The New Criminal Code is a Momentum to Strengthen Religious Harmony",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thlzji416/kuhp-baru-jadi-momentum-perkuat-harmoni-beragama",
+      "published_date": "2026-07-03T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The defendant in the murder of a family in Indramayu was sentenced to life imprisonment",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thlxbx375/terdakwa-pembunuhan-satu-keluarga-di-indramayu-divonis-penjara-seumur-hidup",
+      "published_date": "2026-07-03T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Corruption Eradication Committee (KPK) Reveals that the Regent of Langkat Received IDR 3.5 Billion in Gratuity Regarding the Sale and Purchase of Principal Positions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thmcfk8630000/kpk-ungkap-bupati-langkat-terima-gratifikasi-rp35-miliar-terkait-jual-beli-jabatan-kepsek",
+      "published_date": "2026-07-03T21:45:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Curriculum Reform: Hopes and Challenges of Indonesian Education",
       "source": "Republika English",
@@ -419,76 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thkhrj2030000/asn-kabupaten-bogor-dilatih-kampanye-antikorupsi-lewat-media-digital",
       "published_date": "2026-07-02T21:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ponorogo Regency Government Prioritizes Open Selection to Fill Vacant Positions Before Transfers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkh2j6530000/pemkab-ponorogo-prioritaskan-seleksi-terbuka-isi-jabatan-kosong-sebelum-mutasi",
-      "published_date": "2026-07-02T21:30:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal vs Croatia is in the spotlight, three matches in the round of 32 will be held starting early Friday WIB",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thjsz2348/portugal-vs-kroasia-jadi-sorotan-tiga-laga-babak-32-besar-digelar-mulai-jumat-dini-hari-wib",
-      "published_date": "2026-07-02T12:49:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nadiem Officially Files an Appeal, Files Have Been Received in Court",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thjso7377/nadiem-resmi-ajukan-banding-berkas-sudah-diterima-di-pengadilan",
-      "published_date": "2026-07-02T12:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal vs Croatia: Meeting of Two Legends at the End of Their Careers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thjscj348/portugal-vs-kroasia-pertemuan-dua-legenda-di-pengujung-karier",
-      "published_date": "2026-07-02T12:36:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Cooperatives: 30 Thousand Red and White Kopdes Managers Will Be Placed in August 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thjrvh490/menkop-30-ribu-manajer-kopdes-merah-putih-mulai-ditempatkan-pada-agustus-2026",
-      "published_date": "2026-07-02T12:26:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pension Savings of IDR 3 Billion Lost DSI Victims Forced to Sell Assets to Survive",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-thjqo41265313400/tabungan-pensiun-rp3-miliar-raib-korban-dsi-terpaksa-jual-aset-demi-bertahan",
-      "published_date": "2026-07-02T12:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MUI Holds National Legal Mudzakarah as Pre-KUII VIII Preparation",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thjqdu430/mui-gelar-mudzakarah-hukum-nasional-sebagai-persiapan-prakuii-viii",
-      "published_date": "2026-07-02T11:53:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Netflix Series Criticized for Using AI Voice of Late Actor Gene Wilder",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/thjprg425/serial-baru-netflix-dikritik-karena-pakai-suara-ai-mendiang-aktor-gene-wilder",
-      "published_date": "2026-07-02T11:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: environmental activism, the law and SLAPP",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-environmental-activism-the-law-and-slapp/",
-      "published_date": "2026-07-01T23:48:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menpora Collaborates with KONI, Prosecutor's Office and BPKP to Monitor PON 2028 to Make It Efficient and Achievement Oriented",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thirou348/menpora-gandeng-koni-kejaksaan-dan-bpkp-kawal-pon-2028-agar-efisien-dan-berorientasi-prestasi",
-      "published_date": "2026-07-01T23:24:30+00:00",
       "category": "Local Events"
     }
   ]
