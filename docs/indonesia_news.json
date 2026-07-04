@@ -45,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "National Police Chief Inaugurates Kakorlantas, Head of Research and Development Center, and Six Regional Police Chiefs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thnflu484/kapolri-lantik-kakorlantas-kapuslitbang-dan-enam-kapolda",
+      "published_date": "2026-07-04T11:51:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "News about tapirs being slaughtered and cooked in Mesuji, the Ministry of Forestry intervenes",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thlvfo377/kabar-tapir-disembelih-dan-dimasak-di-mesuji-kemenhut-turun-tangan",
@@ -152,6 +159,20 @@
   ],
   "Energy": [
     {
+      "title": "Nobel Prize Winner Reveals Terrifying Fact, 90 Percent of Geothermal Heat is Still Stored in the Sea",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/thn8c3451/peraih-nobel-ungkap-fakta-mengerikan-90-persen-panas-bumi-masih-tersimpan-di-laut",
+      "published_date": "2026-07-04T11:05:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PLN Revamps PLTU, Prepares to Use Low Calorie Coal",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thncka490/pln-permak-pltu-siapkan-penggunaan-batu-bara-kalori-rendah",
+      "published_date": "2026-07-04T10:45:46+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "KSP Accelerates Construction of Tanjung Enim CNG Mother Station for Energy Security",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thmdtj6130000/ksp-percepat-pembangunan-mother-station-cng-tanjung-enim-demi-ketahanan-energi",
@@ -198,13 +219,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/thenjr484/implementasi-b50-dinilai-perkuat-ketahanan-energi-nasional",
       "published_date": "2026-06-29T23:06:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "PGN Holds Mass Weddings, Helps Couples Obtain Legality of Marriage",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/thaczd370/pgn-gelar-nikah-massal-bantu-pasangan-peroleh-legalitas-pernikahan",
-      "published_date": "2026-06-27T10:26:01+00:00",
       "category": "Energy"
     }
   ],
@@ -352,6 +366,27 @@
   ],
   "Local Events": [
     {
+      "title": "Changing the Name of West Java to Tatar Sunda to Save Sundanese Identity which is Increasingly Marginalized",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thnea1282/perubahan-nama-jawa-barat-jadi-tatar-sunda-untuk-selamatkan-identitas-sunda-yang-kian-terpinggirkan",
+      "published_date": "2026-07-04T11:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java DPRD Agrees to Change the Name of West Java Province to Tatar Sunda",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thndwb282/dprd-jabar-setuju-nama-provinsi-jawa-barat-diganti-jadi-tatar-sunda",
+      "published_date": "2026-07-04T11:14:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pelita Air Collaborates with BNI to Provide Airline Ticket Discounts",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thnbf7416/pelita-air-gandeng-bni-berikan-diskon-tiket-pesawat",
+      "published_date": "2026-07-04T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Commission VIII asks that strict health requirements for Hajj next year be implemented seriously",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/thmh9e483/komisi-viii-minta-pengetatan-syarat-kesehatan-haji-tahun-depan-diterapkan-serius",
@@ -468,27 +503,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/thk5ut348/menjajal-vinfast-vf-mpv-7-di-jalan-jakarta-begini-rasanya",
       "published_date": "2026-07-02T22:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Batang KPU Records 644,644 Voters in Second Quarter 2026, Increase by 6,057 People",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkj5i8930000/kpu-batang-catat-644644-pemilih-triwulan-ii-2026-naik-6057-orang",
-      "published_date": "2026-07-02T22:15:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Gaza to Bogor, the Palestinian Koran Method Forges a Generation of Indonesian Hafizh",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thk2yv366/dari-gaza-ke-bogor-metode-alquran-palestina-tempa-generasi-hafizh-indonesia",
-      "published_date": "2026-07-02T22:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bogor Regency ASN Trained in Anti-Corruption Campaign Using Digital Media",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkhrj2030000/asn-kabupaten-bogor-dilatih-kampanye-antikorupsi-lewat-media-digital",
-      "published_date": "2026-07-02T21:45:19+00:00",
       "category": "Local Events"
     }
   ]
