@@ -45,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "Soekarno-Hatta Airport Police Dismantles International Network of Marijuana Vape Syndicates",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thp798416/polresta-bandara-soekarnohatta-bongkar-sindikat-vape-ganja-jaringan-internasional",
+      "published_date": "2026-07-05T10:49:43+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Canada's path to the top eight thwarted by Morocco, Marsch says small details are decisive",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thoc05348/jalan-kanada-ke-delapan-besar-digagalkan-maroko-marsch-sebut-detail-kecil-jadi-penentu",
@@ -217,6 +224,27 @@
   ],
   "Economy": [
     {
+      "title": "Educating Traders with the 3 EMA Strategy, Ms Cenli Yani Proves Analysis Through Live Trading",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/thp8ys291/edukasi-trader-dengan-strategi-3-ema-ms-cenli-yani-buktikan-analisis-lewat-live-trading",
+      "published_date": "2026-07-05T11:23:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "7 UNM Students Qualify to Become IEEE YESIST12 2026 Volunteers, Ready to Network with World Innovators",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thp8da368/7-mahasiswa-unm-lolos-jadi-volunteer-ieee-yesist12-2026-siap-berjejaring-dengan-inovator-dunia",
+      "published_date": "2026-07-05T11:10:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indef: Indonesia's Export Structure Must Shift to Value-Added Products",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thp63s370/indef-struktur-ekspor-indonesia-harus-beralih-ke-produk-bernilai-tambah",
+      "published_date": "2026-07-05T10:21:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Collaboration with KAI, Ministry of Tourism Targets Malaysian Tourist Market",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/thlyhc490/kolaborasi-dengan-kai-kemenpar-incar-pasar-wisatawan-malaysia",
@@ -334,30 +362,37 @@
       "url": "https://retizen.republika.co.id/posts/768238/fiqih-muamalah-di-tengah-arus-ekonomi-digital",
       "published_date": "2026-07-01T12:00:32+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "The Role of MSMEs in Increasing Microeconomic Growth in Indonesia",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/768193/peran-umkm-dalam-meningkatkan-pertumbuhan-ekonomi-mikro-di-indonesia",
-      "published_date": "2026-07-01T11:51:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jayapura Tourism Department: Tourism Development Needs Support from Indigenous Communities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thgrrk8930000/dispar-jayapura-pengembangan-wisata-butuh-dukungan-masyarakat-adat",
-      "published_date": "2026-06-30T21:30:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SAL funds of IDR 400 trillion go to Himbara, MSMEs and KPR become priorities",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thg345423/dana-sal-rp-400-triliun-masuk-ke-himbara-umkm-hingga-kpr-jadi-prioritas",
-      "published_date": "2026-06-30T12:38:29+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The Prophet's Hadith about Three Things That Save and Eliminate Sin",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thp6qf366/hadits-rasulullah-tentang-tiga-perkara-yang-menyelamatkan-dan-menghapus-dosa",
+      "published_date": "2026-07-05T11:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Run for Free Palestine 2026 Unites Sports and Humanitarian Action for Gaza",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thp9fc375/run-for-free-palestine-2026-satukan-olahraga-dan-aksi-kemanusiaan-untuk-gaza",
+      "published_date": "2026-07-05T11:33:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bloody Night of US Independence, Eight People Shot in Brooklyn",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thp8wp451/malam-kemerdekaan-as-berdarah-delapan-orang-ditembak-di-brooklyn",
+      "published_date": "2026-07-05T11:22:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Measuring Study Patterns in Indonesian Student Dormitories",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/769139/mengukur-pola-belajar-asrama-mahasiswa-nusantara",
+      "published_date": "2026-07-05T10:29:33+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "England National Team Welcomed by Taunts in Mexico City, Security Tightened Ahead of Fierce Duel vs Mexico",
       "source": "Republika English",
@@ -468,34 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thmfts377/kemenkes-temukan-kelalaian-rumah-sakit-dalam-kasus-dokter-icha",
       "published_date": "2026-07-03T22:58:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rare World Cup Moment, This Australian National Team Striker Converted to Islam Ahead of the Match Against Egypt",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thmfaj320/momen-langka-piala-dunia-penyerang-timnas-australia-ini-masuk-islam-jelang-laga-lawan-mesir",
-      "published_date": "2026-07-03T22:47:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany Needs Skilled Workers, Doors Wide Open for Indonesian Talents",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thmeik9630000/jerman-butuh-pekerja-terampil-pintu-terbuka-lebar-untuk-talenta-indonesia",
-      "published_date": "2026-07-03T22:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Agent: Secret Service Failed to Secure Trump Even Though Perpetrator Was Detected",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thls6b451/mantan-agen-secret-service-gagal-amankan-trump-meski-pelaku-sudah-terdeteksi",
-      "published_date": "2026-07-03T22:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The New Criminal Code is a Momentum to Strengthen Religious Harmony",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thlzji416/kuhp-baru-jadi-momentum-perkuat-harmoni-beragama",
-      "published_date": "2026-07-03T22:00:00+00:00",
       "category": "Local Events"
     }
   ]
