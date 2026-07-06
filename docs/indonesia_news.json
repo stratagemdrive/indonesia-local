@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Foreign Minister Sugiono will go to Iran to attend Ali Khamenei's funeral",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thrz3r484/menlu-sugiono-akan-berangkat-ke-iran-hadiri-pemakaman-ali-khamenei",
+      "published_date": "2026-07-06T22:43:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Meeting with Singapore PM Results in 26 Agreements",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-thrbl21389481866/pertemuan-dengan-pm-singapura-hasilkan-26-kesepakatan",
@@ -44,6 +51,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "Kompolnas: Thesis 3: Police Fleeing into the River is Unproven, They Were Killed First and Thrown Away",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ths1ut377/kompolnas-tesis-3-polisi-kabur-ke-sungai-tak-terbukti-mereka-dibunuh-dulu-dan-dibuang",
+      "published_date": "2026-07-06T23:42:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Singapore PM Wants to Strengthen TNI and SAF Relations",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thrzhf484/pm-singapura-ingin-perkuat-hubungan-tni-dan-saf",
+      "published_date": "2026-07-06T22:51:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Melawi Police Chief Aide Sentenced to 10 Years in Prison in Case of 499 Grams of Shabu",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thrd6w375/mantan-ajudan-kapolres-melawi-divonis-10-tahun-penjara-dalam-kasus-499-gram-sabu",
+      "published_date": "2026-07-06T16:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "PT Pindad Builds 85 Million Ammunition Factory per Year in Batulicin",
       "source": "Republika English",
@@ -141,13 +169,6 @@
       "url": "https://visual.republika.co.id/berita/thg2j6375/nadiem-makarim-divonis-10-tahun-penjara-dan-bayar-uang-pengganti-rp809-miliar",
       "published_date": "2026-06-30T12:25:54+00:00",
       "category": "Military"
-    },
-    {
-      "title": "After Kopdes, it will be the turn of the People's School to be 'Accompanied' by the Military",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thf03v393/setelah-kopdes-giliran-sekolah-rakyat-bakal-didampingi-militer",
-      "published_date": "2026-06-29T22:35:55+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -206,16 +227,23 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/what-the-new-orders-failed-clove-monopoly-tells-us-about-prabowos-single-door-export-policy/",
       "published_date": "2026-06-30T00:05:29+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Implementation of B50 is considered to strengthen national energy security",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thenjr484/implementasi-b50-dinilai-perkuat-ketahanan-energi-nasional",
-      "published_date": "2026-06-29T23:06:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "At the Global Forum, the Minister of Law Affirmed Indonesia's Commitment to Building Transparent Royalty Governance",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ths22l368/di-forum-global-menkum-tegaskan-komitmen-indonesia-bangun-tata-kelola-royalti-yang-transparan",
+      "published_date": "2026-07-06T23:47:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "OJK Cuts SLIK Data Updates to 3 Days, Accelerates Access to KPR and MSME Credit",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ths0gd370/ojk-pangkas-pembaruan-data-slik-jadi-3-hari-akses-kpr-dan-kredit-umkm-dipercepat",
+      "published_date": "2026-07-06T23:12:13+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Fundamental Analysis is the Key to Understanding Currency Exchange Rate Movements",
       "source": "Republika English",
@@ -341,23 +369,58 @@
       "url": "https://khazanah.republika.co.id/berita/thisxz430/wamenhaj-apresiasi-komitmen-republika-kawal-ekonomi-syariah-ingatkan-bahaya-topeng-syariah",
       "published_date": "2026-07-01T23:51:35+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Deputy Minister Dahnil Says the Sharia Economy is Experiencing Moral Hazard Challenges",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/thipzh484/wamen-dahnil-sebut-ekonomi-syariah-alami-tantangan-moral-hazard",
-      "published_date": "2026-07-01T22:47:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maluku Immigration Strengthens Supervision to Support Investment and Tourism",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thipvf6830000/imigrasi-maluku-perkuat-pengawasan-untuk-dukung-investasi-dan-pariwisata",
-      "published_date": "2026-07-01T22:45:15+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Bruno Fernandes regrets that Portugal defended too deep when beaten by Spain",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ths2em348/bruno-fernandes-sesali-portugal-bertahan-terlalu-dalam-saat-dikalahkan-spanyol",
+      "published_date": "2026-07-06T23:54:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Story of Two Thousand Numbers, Between the World Cup Celebration and the Gaza Tragedy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ths2a7393/kisah-dua-angka-seribu-antara-perayaan-piala-dunia-dan-tragedi-gaza",
+      "published_date": "2026-07-06T23:51:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Sakaratul Maut Satan is said to come to tempt, the Prophet taught this practice",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/ths1rl451/saat-sakaratul-maut-setan-disebut-datang-menggoda-rasulullah-ajarkan-amalan-ini",
+      "published_date": "2026-07-06T23:40:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA Rejects Belgium's Protest, Folarin Balogun Remains Legal to Strengthen the USA in the Round of 16 of the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ths0zc348/fifa-tolak-protes-belgia-folarin-balogun-tetap-sah-perkuat-as-di-babak-16-besar-piala-dunia-2026",
+      "published_date": "2026-07-06T23:23:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cristiano Ronaldo's tears mark the end of Portugal's journey to the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ths0bk348/air-mata-cristiano-ronaldo-warnai-akhir-perjalanan-portugal-di-piala-dunia-2026",
+      "published_date": "2026-07-06T23:09:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Human Rights Highlights Cases of Human Trafficking and Sexual Violence in Sumba",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thrzxl484/kemenham-soroti-kasus-perdagangan-orang-dan-kekerasan-seksual-di-sumba",
+      "published_date": "2026-07-06T23:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Merino's Dramatic Goal Eliminates Portugal, Spain Waits for the Winner of USA vs Belgium in the Quarter Finals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thrzoi348/gol-dramatis-merino-singkirkan-portugal-spanyol-tunggu-pemenang-as-vs-belgia-di-perempat-final",
+      "published_date": "2026-07-06T22:55:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "2026 President's Cup Ready to Roll",
       "source": "Republika English",
@@ -447,55 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/thq4qr430/imam-alghazali-istri-shalehah-menjadi-sarana-meraih-kebahagiaan-akhirat",
       "published_date": "2026-07-05T22:49:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don't Sleep Again After Fajr Prayer! Better Read the Koran",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thq06b458/jangan-tidur-lagi-usai-shalat-subuh-lebih-baik-baca-alquran",
-      "published_date": "2026-07-05T22:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Sunnah Prayer Before Fajr Better Than the World and Everything in It?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thq003458/mengapa-shalat-sunah-sebelum-subuh-lebih-baik-dibanding-dunia-dan-seisinya",
-      "published_date": "2026-07-05T21:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The priority of the morning prayer",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thpzki458/keutamaan-shalat-subuh",
-      "published_date": "2026-07-05T21:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Benefits of Congregational Morning Prayer at the Mosque",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thpzr8458/manfaat-kesehatan-dari-shalat-subuh-berjamaah-di-masjid",
-      "published_date": "2026-07-05T21:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Prophet's Hadith about Three Things That Save and Eliminate Sin",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thp6qf366/hadits-rasulullah-tentang-tiga-perkara-yang-menyelamatkan-dan-menghapus-dosa",
-      "published_date": "2026-07-05T11:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Run for Free Palestine 2026 Unites Sports and Humanitarian Action for Gaza",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/thp9fc375/run-for-free-palestine-2026-satukan-olahraga-dan-aksi-kemanusiaan-untuk-gaza",
-      "published_date": "2026-07-05T11:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bloody Night of US Independence, Eight People Shot in Brooklyn",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thp8wp451/malam-kemerdekaan-as-berdarah-delapan-orang-ditembak-di-brooklyn",
-      "published_date": "2026-07-05T11:22:01+00:00",
       "category": "Local Events"
     }
   ]
