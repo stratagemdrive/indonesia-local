@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Meeting with Singapore PM Results in 26 Agreements",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-thrbl21389481866/pertemuan-dengan-pm-singapura-hasilkan-26-kesepakatan",
+      "published_date": "2026-07-06T14:15:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "8 Percent Ojol Commission Already In Effect, DPR Says Customer Rates Remain Stable",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/thln7u370/komisi-8-persen-ojol-sudah-berlaku-dpr-sebut-tarif-pelanggan-tetap-stabil",
@@ -33,13 +40,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/thfyky416/konsolidasi-bumn-tujuh-perusahaan-logistik-resmi-bergabung",
       "published_date": "2026-06-30T13:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "BPJS Health Collaborates with MUI to Strengthen JKN's Spirit of Mutual Cooperation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thecbk368/bpjs-kesehatan-gandeng-mui-perkuat-semangat-gotong-royong-jkn",
-      "published_date": "2026-06-29T14:02:08+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -148,20 +148,6 @@
       "url": "https://news.republika.co.id/berita/thf03v393/setelah-kopdes-giliran-sekolah-rakyat-bakal-didampingi-militer",
       "published_date": "2026-06-29T22:35:55+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PBSI Shifts Ester Nurumi to Women's Doubles, Paired with Lanny Tria",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thecit348/pbsi-geser-ester-nurumi-ke-ganda-putri-dipasangkan-dengan-lanny-tria",
-      "published_date": "2026-06-29T14:06:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Training for Kopdes Manager Candidates Discontinued, Replaced with State Defense Plus Managerial Training",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/theaeb377/latsarmil-untuk-calon-manajer-kopdes-disetop-diganti-dengan-latihan-bela-negara-plus-manajerial",
-      "published_date": "2026-06-29T13:20:35+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -230,6 +216,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Fundamental Analysis is the Key to Understanding Currency Exchange Rate Movements",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thr81p423/analisis-fundamental-jadi-kunci-memahami-pergerakan-nilai-tukar-mata-uang",
+      "published_date": "2026-07-06T14:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesia will export electricity to Singapore, this is the agreement between Prabowo and PM Wong",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thr8ti490/indonesia-bakal-ekspor-listrik-ke-singapura-ini-kesepakatan-prabowo-dan-pm-wong",
+      "published_date": "2026-07-06T13:15:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vietnam and the Philippines move up in class, Indef warns that ASEAN economic competition is increasingly tight",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thr8q1423/vietnam-dan-filipina-naik-kelas-indef-ingatkan-persaingan-ekonomi-asean-kian-ketat",
+      "published_date": "2026-07-06T13:13:13+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Participating in IFBC, BPDP Expands Access to Plantation MSMEs",
       "source": "Republika English",
@@ -348,30 +355,65 @@
       "url": "https://news.republika.co.id/berita/thipvf6830000/imigrasi-maluku-perkuat-pengawasan-untuk-dukung-investasi-dan-pariwisata",
       "published_date": "2026-07-01T22:45:15+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "The NIB policy is considered to provide legal certainty for creators",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/thhzcl425/kebijakan-nib-dinilai-beri-kepastian-hukum-bagi-kreator",
-      "published_date": "2026-07-01T13:12:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "LPS Chairman: Halal Beyond Label is a necessity to build a Sharia economy",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/thhy3c370/ketua-lps-halal-beyond-label-adalah-keniscayaan-bangun-ekonomi-syariah",
-      "published_date": "2026-07-01T12:45:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saving IDR 100 Billion, BPKH Ensures Hajj Funds Remain Safe",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thhxm5366/penghematan-rp-100-miliar-bpkh-pastikan-dana-haji-tetap-aman",
-      "published_date": "2026-07-01T12:34:53+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "2026 President's Cup Ready to Roll",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thrbs3375/piala-presiden-2026-siap-bergulir",
+      "published_date": "2026-07-06T14:19:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Urges Made to Win Gold at World Rock Climbing Championships",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-thrbl61052096419/desak-made-raih-emas-di-kejuaraan-dunia-panjat-tebing",
+      "published_date": "2026-07-06T14:15:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traces of Palestinian Civilization Began Since the Stone Age",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thr8fo430/jejak-peradaban-palestina-dimulai-sejak-zaman-batu",
+      "published_date": "2026-07-06T14:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo and PM Wong agree that the Malacca Strait will remain open",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thrab6393/prabowopm-wong-sepakat-selat-malaka-akan-tetap-terbuka",
+      "published_date": "2026-07-06T13:47:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KEK Prepared to Become the Location of Indonesia's International Financial Center",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thr9nq423/kek-disiapkan-jadi-lokasi-pusat-finansial-internasional-indonesia",
+      "published_date": "2026-07-06T13:33:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java DPRD confirms the discourse on changing the name of the new province is limited to accommodating aspirations",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thr8w6472/dprd-jabar-tegaskan-wacana-perubahan-nama-provinsi-baru-sebatas-tampung-aspirasi",
+      "published_date": "2026-07-06T13:16:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four Verses of the Koran that Affirm Palestine as a Land Full of Blessings",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thr8a0430/empat-ayat-alquran-yang-menegaskan-palestina-sebagai-tanah-penuh-berkah",
+      "published_date": "2026-07-06T13:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BPOM: Microplastics Can Trigger Blood Vessel Disorders, Global Laboratory Urges to Strengthen",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thr301451/bpom-mikroplastik-bisa-picu-gangguan-pembuluh-darah-laboratorium-global-mendesak-diperkuat",
+      "published_date": "2026-07-06T13:09:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Bad Weather Forces Mexico Vs England Match to Be Postponed by One Hour",
       "source": "Republika English",
@@ -454,62 +496,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thp8wp451/malam-kemerdekaan-as-berdarah-delapan-orang-ditembak-di-brooklyn",
       "published_date": "2026-07-05T11:22:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Measuring Study Patterns in Indonesian Student Dormitories",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/769139/mengukur-pola-belajar-asrama-mahasiswa-nusantara",
-      "published_date": "2026-07-05T10:29:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England National Team Welcomed by Taunts in Mexico City, Security Tightened Ahead of Fierce Duel vs Mexico",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thocqf348/timnas-inggris-disambut-cemoohan-di-mexico-city-keamanan-diperketat-jelang-duel-sengit-vs-meksiko",
-      "published_date": "2026-07-04T23:47:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holding 2026 Hajj Evaluation National Working Meeting, Ministry of Haj Discusses Recruitment of Officers and Health Istithaah",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thocln430/gelar-rakernas-evaluasi-haji-2026-kemenhaj-bahas-rekrutmen-petugas-hingga-istithaah-kesehatan",
-      "published_date": "2026-07-04T23:44:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian Coach Dedicates Victory to Palestine",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thobxj393/pelatih-mesir-dedikasikan-kemenangan-untuk-palestina",
-      "published_date": "2026-07-04T23:29:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France overcomes Paraguay's resistance through Mbappe penalty, fierce duel against Morocco awaits in the last 16",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thob02348/prancis-atasi-perlawanan-paraguay-lewat-penalti-mbappe-duel-sengit-lawan-maroko-menanti-di-16-besar",
-      "published_date": "2026-07-04T23:09:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ounahi's two goals send Morocco crushing Canada and make history at the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tho9yd348/dua-gol-ounahi-antar-maroko-gilas-kanada-dan-cetak-sejarah-di-piala-dunia-2026",
-      "published_date": "2026-07-04T22:47:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG: Jakarta is sunny this morning, light rain falls at night",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tho96g3130000/bmkg-jakarta-cerah-pagi-ini-hujan-ringan-guyur-malam-hari",
-      "published_date": "2026-07-04T22:30:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jasa Marga Strengthens Technology-Based Toll Services, Prioritizing User Safety",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tho8j33430000/jasa-marga-perkuat-layanan-tol-berbasis-teknologi-utamakan-keselamatan-pengguna",
-      "published_date": "2026-07-04T22:16:15+00:00",
       "category": "Local Events"
     }
   ]
