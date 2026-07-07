@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Rows of houses are starting to be demolished, new road Pasar Minggu will soon be built",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thsyib375/deretan-rumah-mulai-dirobohkan-jalan-baru-pasar-minggu-segera-dibangun",
+      "published_date": "2026-07-07T12:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ayatollah Khamenei and Death That Changed the World",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thsyay320/ayatollah-khamenei-dan-kematian-yang-mengubah-dunia",
+      "published_date": "2026-07-07T11:23:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Foreign Minister Sugiono will go to Iran to attend Ali Khamenei's funeral",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thrz3r484/menlu-sugiono-akan-berangkat-ke-iran-hadiri-pemakaman-ali-khamenei",
@@ -41,16 +55,23 @@
       "url": "https://ekonomi.republika.co.id/berita/thjrte348/leapmotor-perkenalkan-b10-ke-media-sebelum-debut-di-giias-smart-suv-listrik-berjarak-tempuh-516-km",
       "published_date": "2026-07-02T12:24:50+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "BUMN Consolidation, Seven Logistics Companies Officially Merge",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thfyky416/konsolidasi-bumn-tujuh-perusahaan-logistik-resmi-bergabung",
-      "published_date": "2026-06-30T13:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Commitment to Grassroots Sharia Economic Empowerment, PNM Wins Prestigious Award",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tht327472/komitmen-pemberdayaan-ekonomi-syariah-akar-rumput-pnm-raih-penghargaan-bergengsi",
+      "published_date": "2026-07-07T13:06:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tegal Police Abuse Couple Repeatedly and Use Drugs, Once Demoted for Violating Ethics",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/thsyp5282/polisi-tegal-aniaya-pasangan-berulang-kali-dan-pakai-narkoba-pernah-demosi-karena-langgar-etik",
+      "published_date": "2026-07-07T11:31:53+00:00",
+      "category": "Military"
+    },
     {
       "title": "Kompolnas: Thesis 3: Police Fleeing into the River is Unproven, They Were Killed First and Thrown Away",
       "source": "Republika English",
@@ -155,23 +176,30 @@
       "url": "https://news.republika.co.id/berita/thiqh0451/rp16-triliun-untuk-modernisasi-dari-amazon-bos-cia-ai-seperti-senjata-nuklir-digital",
       "published_date": "2026-07-01T22:58:12+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TPNPB-OPM claims a GKI pastor was shot dead in Intan Jaya",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thg2ui393/tpnpbopm-klaim-seorang-pendeta-gki-tewas-ditembak-di-intan-jaya",
-      "published_date": "2026-06-30T12:32:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nadiem Makarim Sentenced to 10 Years in Prison and Paid IDR 809 Billion in Replacement Money",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/thg2j6375/nadiem-makarim-divonis-10-tahun-penjara-dan-bayar-uang-pengganti-rp809-miliar",
-      "published_date": "2026-06-30T12:25:54+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "El Nino Threatens Hydroelectric Power Plants, Strengthening the Electricity Network is Considered Urgent",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tht1w8416/el-nino-ancam-plta-penguatan-jaringan-listrik-dinilai-mendesak",
+      "published_date": "2026-07-07T12:41:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Civil Society is the Key to Encouraging State Compliance with the ICJ Climate Fatwa",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tht0fk423/masyarakat-sipil-jadi-kunci-mendorong-kepatuhan-negara-terhadap-fatwa-iklim-icj",
+      "published_date": "2026-07-07T12:09:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Minister for Science and Technology: Campus Research Cannot Stop in Journals, It Must Become a Product",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thsys8451/mendiktisaintek-riset-kampus-tak-boleh-berhenti-di-jurnal-harus-jadi-produk",
+      "published_date": "2026-07-07T11:33:44+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Nobel Prize Winner Reveals Terrifying Fact, 90 Percent of Geothermal Heat is Still Stored in the Sea",
       "source": "Republika English",
@@ -213,23 +241,30 @@
       "url": "https://news.republika.co.id/berita/thgv7f330000/belarus-minta-ri-pasok-14-ribu-ton-cpo-dan-120-ribu-ton-kakao-per-tahun",
       "published_date": "2026-06-30T22:45:15+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "The Association Collaborates with the Corruption Eradication Commission and the Attorney General's Office to Strengthen Governance of 10 Percent Participation Rights",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thg386416/asosiasi-gandeng-kpk-dan-kejagung-perkuat-tata-kelola-hak-partisipasi-10-persen",
-      "published_date": "2026-06-30T12:40:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What the New Order’s failed clove monopoly tells us about Prabowo’s single-door export policy",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/what-the-new-orders-failed-clove-monopoly-tells-us-about-prabowos-single-door-export-policy/",
-      "published_date": "2026-06-30T00:05:29+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "West Java DPRD Targets Discussion of Draft Regional Regulation P2APBD 2025 to be Completed on Time",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tht2qm472/dprd-jabar-targetkan-pembahasan-ranperda-p2apbd-2025-rampung-tepat-waktu",
+      "published_date": "2026-07-07T12:59:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MMA Marketing Talk 2026 Raises Leadership Issues, 35 Executives Share Inspiration",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tht0a8423/mma-marketing-talk-2026-angkat-isu-kepemimpinan-35-eksekutif-berbagi-inspirasi",
+      "published_date": "2026-07-07T12:45:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesia’s economic centralisation under Prabowo",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-economic-centralisation-under-prabowo/",
+      "published_date": "2026-07-07T01:42:56+00:00",
+      "category": "Economy"
+    },
     {
       "title": "At the Global Forum, the Minister of Law Affirmed Indonesia's Commitment to Building Transparent Royalty Governance",
       "source": "Republika English",
@@ -348,30 +383,37 @@
       "url": "https://ekonomi.republika.co.id/berita/thk9h4349/jll-indonesia-berpeluang-tarik-investasi-dari-tren-china1",
       "published_date": "2026-07-02T21:38:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "The government will add a marketplace for PPh 22 collectors, taking effect in stages",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thjssw370/pemerintah-akan-tambah-marketplace-pemungut-pph-22-berlaku-bertahap",
-      "published_date": "2026-07-02T12:46:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "MSMEs fostered by Astra International reach exports",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/thjqr4430/umkm-binaan-astra-international-tembus-ekspor",
-      "published_date": "2026-07-02T12:01:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deputy Minister of Haj Appreciates Republika's Commitment to Guarding Sharia Economy, Reminds of the Dangers of 'Sharia Masks'",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thisxz430/wamenhaj-apresiasi-komitmen-republika-kawal-ekonomi-syariah-ingatkan-bahaya-topeng-syariah",
-      "published_date": "2026-07-01T23:51:35+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The Hope of a Peaceful Retirement Actually Gets Tested at DSI",
+      "source": "Republika English",
+      "url": "https://tv.republika.co.id/berita/yt-tht0p1567455982/harapan-pensiun-tenang-malah-kena-ujian-di-dsi",
+      "published_date": "2026-07-07T12:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tourist who drowned while creating content at Saguling Reservoir was found dead",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thszk2282/wisatawan-yang-tenggelam-saat-buat-konten-di-waduk-saguling-ditemukan-meninggal-dunia",
+      "published_date": "2026-07-07T11:50:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ride a Bluebird with a BRI Credit Card, you can save up to IDR 20 thousand",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thszdo472/naik-bluebird-dengan-bri-kartu-kredit-bisa-hemat-hingga-rp-20-ribu",
+      "published_date": "2026-07-07T11:46:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Benefit Value Proposed 60 Percent to Reduce Hajj Costs 2027, This is the Suggestion from MUI",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thszad483/nilai-manfaat-diusulkan-60-persen-untuk-turunkan-biaya-haji-2027-ini-saran-dari-mui",
+      "published_date": "2026-07-07T11:44:37+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Bruno Fernandes regrets that Portugal defended too deep when beaten by Spain",
       "source": "Republika English",
@@ -482,34 +524,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thq7gk348/cuaca-buruk-paksa-laga-meksiko-vs-inggris-ditunda-satu-jam",
       "published_date": "2026-07-05T23:48:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haaland called his goals against Brazil a gift from God",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thq6rb348/haaland-sebut-golgolnya-ke-gawang-brasil-sebagai-anugerah-tuhan",
-      "published_date": "2026-07-05T23:33:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haaland shines when Norway gets rid of Brazil, making history by qualifying for the World Cup quarter-finals",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thq5ie348/haaland-gemilang-saat-norwegia-singkirkan-brasil-ukir-sejarah-lolos-ke-perempat-final-piala-dunia",
-      "published_date": "2026-07-05T23:06:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prophet Muhammad's character has become proof of prophethood, these are his five miracles",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thq59o430/akhlak-nabi-muhammad-sudah-menjadi-bukti-kenabian-ini-lima-mukjizatnya",
-      "published_date": "2026-07-05T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imam Al-Ghazali: A pious wife is a means of achieving happiness in the afterlife",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thq4qr430/imam-alghazali-istri-shalehah-menjadi-sarana-meraih-kebahagiaan-akhirat",
-      "published_date": "2026-07-05T22:49:39+00:00",
       "category": "Local Events"
     }
   ]
