@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Brokering is rampant, Ministry of Religion will Improve Management of Sending Indonesian Students to Al Azhar Cairo",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thticn483/marak-percaloan-kemenag-akan-benahi-tata-kelola-pengiriman-mahasiswa-ri-ke-al-azhar-kairo",
+      "published_date": "2026-07-07T23:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The foreign delegation has returned home and the airspace is closed, how will the Indonesian Foreign Minister go to Iran?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thtvdy484/delegasi-asing-sudah-pulang-dan-ruang-udara-ditutup-bagaimana-menlu-ri-ke-iran",
+      "published_date": "2026-07-07T23:17:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Rows of houses are starting to be demolished, new road Pasar Minggu will soon be built",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/thsyib375/deretan-rumah-mulai-dirobohkan-jalan-baru-pasar-minggu-segera-dibangun",
@@ -180,6 +194,13 @@
   ],
   "Energy": [
     {
+      "title": "Pharmaceutical Industry Begins to Implement Green Operations",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/thtbbi416/industri-farmasi-mulai-terapkan-operasional-hijau",
+      "published_date": "2026-07-07T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "El Nino Threatens Hydroelectric Power Plants, Strengthening the Electricity Network is Considered Urgent",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tht1w8416/el-nino-ancam-plta-penguatan-jaringan-listrik-dinilai-mendesak",
@@ -234,16 +255,16 @@
       "url": "https://news.republika.co.id/berita/thiol85430000/ekspor-jatim-januarimei-2026-terkoreksi-292-persen-migas-anjlok-paling-dalam",
       "published_date": "2026-07-01T22:17:32+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Belarus asks RI to supply 14 thousand tons of CPO and 120 thousand tons of cocoa per year",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thgv7f330000/belarus-minta-ri-pasok-14-ribu-ton-cpo-dan-120-ribu-ton-kakao-per-tahun",
-      "published_date": "2026-06-30T22:45:15+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "As an electric car option for Indonesian families, here are the seven advantages of the VinFast VF MPV 7",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thtdri348/jadi-opsi-mobil-listrik-keluarga-indonesia-ini-tujuh-keunggulan-vinfast-vf-mpv-7",
+      "published_date": "2026-07-07T22:25:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "West Java DPRD Targets Discussion of Draft Regional Regulation P2APBD 2025 to be Completed on Time",
       "source": "Republika English",
@@ -376,16 +397,58 @@
       "url": "https://analisis.republika.co.id/berita/thkn1t472/sawah-investasi-kehidupan",
       "published_date": "2026-07-02T23:39:29+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "JLL: Indonesia Has the Opportunity to Attract Investment from the China+1 Trend",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thk9h4349/jll-indonesia-berpeluang-tarik-investasi-dari-tren-china1",
-      "published_date": "2026-07-02T21:38:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "World Chess Players and Nobel Prize Winners Criticize the Referee of the Argentina-Egypt Match",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thtwhz393/pecatur-dunia-hingga-peraih-nobel-kecam-wasit-laga-argentinamesir",
+      "published_date": "2026-07-07T23:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Switzerland Wins on Penalties over Colombia, Challenges Argentina in the 2026 World Cup Quarter-Finals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thtw0w348/swiss-menang-adu-penalti-atas-kolombia-tantang-argentina-di-perempat-final-piala-dunia-2026",
+      "published_date": "2026-07-07T23:31:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "35th NU Congress in Tambak Beras, Gus Ipul Asks Participants to Follow with Joy",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thtvtj483/muktamar-ke35-nu-di-tambak-beras-gus-ipul-minta-peserta-ikuti-dengan-kegembiraan",
+      "published_date": "2026-07-07T23:27:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Home Affairs Monitors Efforts to Change West Java to Tatar Sundanese",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thtvng393/kemendagri-pantau-upaya-perubahan-jabar-jadi-tatar-sunda",
+      "published_date": "2026-07-07T23:23:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina Wins Dramatically, Paredes: We Play So That Messi's Last Game Never Comes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thtvlv348/argentina-menang-dramatis-paredes-kami-bermain-agar-laga-terakhir-messi-tak-pernah-tiba",
+      "published_date": "2026-07-07T23:22:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Brazilian Striker Praises Lionel Messi, Says Argentina Captain Still Decisive",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thtuzi348/eks-penyerang-brasil-puji-lionel-messi-sebut-sang-kapten-argentina-masih-jadi-penentu",
+      "published_date": "2026-07-07T23:09:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish Gripen Challenges American F-35, Why is Canada Starting to Look Away?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tht11w451/gripen-swedia-menantang-f35-amerika-mengapa-kanada-mulai-berpaling",
+      "published_date": "2026-07-07T23:01:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The Hope of a Peaceful Retirement Actually Gets Tested at DSI",
       "source": "Republika English",
@@ -475,55 +538,6 @@
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-thrbl61052096419/desak-made-raih-emas-di-kejuaraan-dunia-panjat-tebing",
       "published_date": "2026-07-06T14:15:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traces of Palestinian Civilization Began Since the Stone Age",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thr8fo430/jejak-peradaban-palestina-dimulai-sejak-zaman-batu",
-      "published_date": "2026-07-06T14:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo and PM Wong agree that the Malacca Strait will remain open",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thrab6393/prabowopm-wong-sepakat-selat-malaka-akan-tetap-terbuka",
-      "published_date": "2026-07-06T13:47:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KEK Prepared to Become the Location of Indonesia's International Financial Center",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thr9nq423/kek-disiapkan-jadi-lokasi-pusat-finansial-internasional-indonesia",
-      "published_date": "2026-07-06T13:33:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java DPRD confirms the discourse on changing the name of the new province is limited to accommodating aspirations",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/thr8w6472/dprd-jabar-tegaskan-wacana-perubahan-nama-provinsi-baru-sebatas-tampung-aspirasi",
-      "published_date": "2026-07-06T13:16:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Verses of the Koran that Affirm Palestine as a Land Full of Blessings",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thr8a0430/empat-ayat-alquran-yang-menegaskan-palestina-sebagai-tanah-penuh-berkah",
-      "published_date": "2026-07-06T13:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BPOM: Microplastics Can Trigger Blood Vessel Disorders, Global Laboratory Urges to Strengthen",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thr301451/bpom-mikroplastik-bisa-picu-gangguan-pembuluh-darah-laboratorium-global-mendesak-diperkuat",
-      "published_date": "2026-07-06T13:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad Weather Forces Mexico Vs England Match to Be Postponed by One Hour",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thq7gk348/cuaca-buruk-paksa-laga-meksiko-vs-inggris-ditunda-satu-jam",
-      "published_date": "2026-07-05T23:48:20+00:00",
       "category": "Local Events"
     }
   ]
