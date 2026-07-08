@@ -73,6 +73,13 @@
   ],
   "Military": [
     {
+      "title": "PRESISI Survey: 74.2 Percent of East Lombok Residents Are Satisfied with Regent Haerul Warisin's Performance",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/769798/survei-presisi-742-persen-warga-lombok-timur-puas-terhadap-kinerja-bupati-haerul-warisin",
+      "published_date": "2026-07-08T11:19:08+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Commitment to Grassroots Sharia Economic Empowerment, PNM Wins Prestigious Award",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tht327472/komitmen-pemberdayaan-ekonomi-syariah-akar-rumput-pnm-raih-penghargaan-bergengsi",
@@ -259,6 +266,13 @@
   ],
   "Economy": [
     {
+      "title": "Minister of Finance Purbaya Encourages Local Halal Gelatin to Replace Imports",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/thutwd484/menkeu-purbaya-dorong-gelatin-halal-lokal-gantikan-impor",
+      "published_date": "2026-07-08T11:43:25+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "As an electric car option for Indonesian families, here are the seven advantages of the VinFast VF MPV 7",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/thtdri348/jadi-opsi-mobil-listrik-keluarga-indonesia-ini-tujuh-keunggulan-vinfast-vf-mpv-7",
@@ -390,16 +404,58 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/from-founder-to-prisoner-is-nadiems-verdict-the-end-of-regulatory-trust/",
       "published_date": "2026-07-03T00:08:42+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Rice Fields, Life Investment",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/thkn1t472/sawah-investasi-kehidupan",
-      "published_date": "2026-07-02T23:39:29+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "West Java DPRD Commission I Submits Study of Proposed Province Names to the Provincial Government",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thuux3472/komisi-i-dprd-jabar-serahkan-kajian-usulan-nama-provinsi-kepada-pemprov",
+      "published_date": "2026-07-08T12:05:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hendrar Prihadi denies rumors of meeting Jokowi and joining PSI",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/thuuwj484/hendrar-prihadi-bantah-isu-bertemu-jokowi-dan-gabung-psi",
+      "published_date": "2026-07-08T12:05:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Century of Bang Ali, Remembering the Footsteps of the Jakarta Reformer",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thuq8q375/seabad-bang-ali-mengenang-jejak-sang-pembaharu-jakarta",
+      "published_date": "2026-07-08T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MPLS is Student Friendly",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/thuu1j483/mpls-ramah-bagi-peserta-didik",
+      "published_date": "2026-07-08T11:46:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harvest in Majalengka Sets Very High Record, Boosts Food Surplus",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/thutnp282/panen-di-majalengka-cetak-rekor-sangat-tinggi-dongkrak-surplus-pangan",
+      "published_date": "2026-07-08T11:38:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TASPEN Holds Blood Donation, Hundreds of Employees Provide Benefits to Others",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thutab472/taspen-gelar-donor-darah-ratusan-karyawan-hadirkan-manfaat-untuk-sesama",
+      "published_date": "2026-07-08T11:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The cost of the 2027 Hajj is proposed to increase to IDR 107 million, this is the Ministry of Haj's reason",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thut20483/biaya-haji-2027-diusulkan-naik-jadi-rp107-juta-ini-alasan-kemenhaj",
+      "published_date": "2026-07-08T11:25:12+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "World Chess Players and Nobel Prize Winners Criticize the Referee of the Argentina-Egypt Match",
       "source": "Republika English",
@@ -489,55 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ths2a7393/kisah-dua-angka-seribu-antara-perayaan-piala-dunia-dan-tragedi-gaza",
       "published_date": "2026-07-06T23:51:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When Sakaratul Maut Satan is said to come to tempt, the Prophet taught this practice",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/ths1rl451/saat-sakaratul-maut-setan-disebut-datang-menggoda-rasulullah-ajarkan-amalan-ini",
-      "published_date": "2026-07-06T23:40:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA Rejects Belgium's Protest, Folarin Balogun Remains Legal to Strengthen the USA in the Round of 16 of the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ths0zc348/fifa-tolak-protes-belgia-folarin-balogun-tetap-sah-perkuat-as-di-babak-16-besar-piala-dunia-2026",
-      "published_date": "2026-07-06T23:23:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristiano Ronaldo's tears mark the end of Portugal's journey to the 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ths0bk348/air-mata-cristiano-ronaldo-warnai-akhir-perjalanan-portugal-di-piala-dunia-2026",
-      "published_date": "2026-07-06T23:09:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Human Rights Highlights Cases of Human Trafficking and Sexual Violence in Sumba",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thrzxl484/kemenham-soroti-kasus-perdagangan-orang-dan-kekerasan-seksual-di-sumba",
-      "published_date": "2026-07-06T23:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Merino's Dramatic Goal Eliminates Portugal, Spain Waits for the Winner of USA vs Belgium in the Quarter Finals",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thrzoi348/gol-dramatis-merino-singkirkan-portugal-spanyol-tunggu-pemenang-as-vs-belgia-di-perempat-final",
-      "published_date": "2026-07-06T22:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 President's Cup Ready to Roll",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/thrbs3375/piala-presiden-2026-siap-bergulir",
-      "published_date": "2026-07-06T14:19:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urges Made to Win Gold at World Rock Climbing Championships",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-thrbl61052096419/desak-made-raih-emas-di-kejuaraan-dunia-panjat-tebing",
-      "published_date": "2026-07-06T14:15:06+00:00",
       "category": "Local Events"
     }
   ]
