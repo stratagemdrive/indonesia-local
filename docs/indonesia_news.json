@@ -73,6 +73,34 @@
   ],
   "Military": [
     {
+      "title": "Ask About the Prosecutor",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/thvqc0415/tanya-seputar-jaksa",
+      "published_date": "2026-07-08T23:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Kalimantan Regional Police and Directorate General of Security Strengthen Synergy in Prison Security",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvnuh2930000/polda-kalsel-dan-ditjenpas-perkuat-sinergi-pengamanan-lapas",
+      "published_date": "2026-07-08T22:30:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AMPG Prepares Adaptive Political Cadres with Integrity Towards a Golden Indonesia 2045",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvkdi4730000/ampg-siapkan-kader-politik-adaptif-dan-berintegritas-menuju-indonesia-emas-2045",
+      "published_date": "2026-07-08T21:15:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Sulawesi Police Raid Illegal Sharp Weapon Production House in North Minahasa",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvetj3030000/polda-sulut-gerebek-rumah-produksi-senjata-tajam-ilegal-di-minahasa-utara",
+      "published_date": "2026-07-08T19:15:19+00:00",
+      "category": "Military"
+    },
+    {
       "title": "PRESISI Survey: 74.2 Percent of East Lombok Residents Are Satisfied with Regent Haerul Warisin's Performance",
       "source": "Republika English",
       "url": "https://retizen.republika.co.id/posts/769798/survei-presisi-742-persen-warga-lombok-timur-puas-terhadap-kinerja-bupati-haerul-warisin",
@@ -176,27 +204,6 @@
       "url": "https://khazanah.republika.co.id/berita/thjqik430/mui-tegaskan-koruptor-layak-dihukum-mati",
       "published_date": "2026-07-02T12:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "ASR Award Spurred Motivation for BPRS Almabrur Klaten to Improve Services",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/thit4k484/penghargaan-asr-pacu-motivasi-bprs-almabrur-klaten-tingkatkan-layanan",
-      "published_date": "2026-07-01T23:55:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minister Pigai asks TNI and Polri to control personnel after GKI pastor dies",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thirux484/menteri-pigai-minta-tni-dan-polri-kendalikan-personel-usai-pendeta-gki-tewas",
-      "published_date": "2026-07-01T23:28:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDR 16 Trillion for Modernization from Amazon, CIA Boss: AI is Like a Digital Nuclear Weapon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thiqh0451/rp16-triliun-untuk-modernisasi-dari-amazon-bos-cia-ai-seperti-senjata-nuklir-digital",
-      "published_date": "2026-07-01T22:58:12+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -255,16 +262,16 @@
       "url": "https://ekonomi.republika.co.id/berita/thjsgp522/pertamina-patra-niaga-bersama-kkp-perkuat-penyediaan-energi-bagi-nelayan",
       "published_date": "2026-07-02T12:38:49+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "East Java Exports January-May 2026 Corrected 2.92 Percent, Oil and Gas Drops Deepest",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thiol85430000/ekspor-jatim-januarimei-2026-terkoreksi-292-persen-migas-anjlok-paling-dalam",
-      "published_date": "2026-07-01T22:17:32+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "AHY: Rivers Must Return to Being a Source of Life",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/thv5ih416/ahy-sungai-harus-kembali-menjadi-sumber-kehidupan",
+      "published_date": "2026-07-08T23:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Minister of Finance Purbaya Encourages Local Halal Gelatin to Replace Imports",
       "source": "Republika English",
@@ -397,16 +404,51 @@
       "url": "https://visual.republika.co.id/berita/thlgpl375/pedagang-online-mulai-dipungut-pajak-05-persen-per-1-agustus-2026",
       "published_date": "2026-07-03T12:15:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "From founder to prisoner: is Nadiem’s verdict the end of regulatory trust?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/from-founder-to-prisoner-is-nadiems-verdict-the-end-of-regulatory-trust/",
-      "published_date": "2026-07-03T00:08:42+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The Last Girder of the Jakarta LRT Phase 1B above the Manggarai DDT is Connected",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvqy0484/girder-terakhir-lrt-jakarta-fase-1b-di-atas-ddt-manggarai-tersambung",
+      "published_date": "2026-07-08T23:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is there a connection between the search at the de Clan restaurant and the Jampidsus stalking? This is the Regional Police's answer",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvqpm377/adakah-hubungan-penggeledahan-di-restoran-de-clan-dengan-penguntitan-jampidsus-ini-jawaban-polda",
+      "published_date": "2026-07-08T23:32:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ahead of the 25th Anniversary of the Democratic Party, AHY will meet a number of political figures",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvq3k484/jelang-hut-ke25-partai-demokrat-ahy-bakal-temui-sejumlah-tokoh-politik",
+      "published_date": "2026-07-08T23:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Does God Repeat the Promise of Ease Twice?",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/thukwr451/mengapa-allah-mengulang-janji-kemudahan-dua-kali",
+      "published_date": "2026-07-08T22:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Immigration and the Maluku Prosecutor's Office Strengthen Immigration Law Enforcement Synergy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvn5i5630000/imigrasi-dan-kejati-maluku-perkuat-sinergi-penegakan-hukum-keimigrasian",
+      "published_date": "2026-07-08T22:15:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bogor Regency Government: 92 Illegal Buildings in Ciseeng Dismantled Independently by Residents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thvgwh2930000/pemkab-bogor-92-bangunan-liar-di-ciseeng-dibongkar-mandiri-oleh-warga",
+      "published_date": "2026-07-08T20:00:17+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "West Java DPRD Commission I Submits Study of Proposed Province Names to the Provincial Government",
       "source": "Republika English",
@@ -503,48 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tht11w451/gripen-swedia-menantang-f35-amerika-mengapa-kanada-mulai-berpaling",
       "published_date": "2026-07-07T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Hope of a Peaceful Retirement Actually Gets Tested at DSI",
-      "source": "Republika English",
-      "url": "https://tv.republika.co.id/berita/yt-tht0p1567455982/harapan-pensiun-tenang-malah-kena-ujian-di-dsi",
-      "published_date": "2026-07-07T12:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourist who drowned while creating content at Saguling Reservoir was found dead",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/thszk2282/wisatawan-yang-tenggelam-saat-buat-konten-di-waduk-saguling-ditemukan-meninggal-dunia",
-      "published_date": "2026-07-07T11:50:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ride a Bluebird with a BRI Credit Card, you can save up to IDR 20 thousand",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thszdo472/naik-bluebird-dengan-bri-kartu-kredit-bisa-hemat-hingga-rp-20-ribu",
-      "published_date": "2026-07-07T11:46:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Benefit Value Proposed 60 Percent to Reduce Hajj Costs 2027, This is the Suggestion from MUI",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thszad483/nilai-manfaat-diusulkan-60-persen-untuk-turunkan-biaya-haji-2027-ini-saran-dari-mui",
-      "published_date": "2026-07-07T11:44:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bruno Fernandes regrets that Portugal defended too deep when beaten by Spain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ths2em348/bruno-fernandes-sesali-portugal-bertahan-terlalu-dalam-saat-dikalahkan-spanyol",
-      "published_date": "2026-07-06T23:54:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Story of Two Thousand Numbers, Between the World Cup Celebration and the Gaza Tragedy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ths2a7393/kisah-dua-angka-seribu-antara-perayaan-piala-dunia-dan-tragedi-gaza",
-      "published_date": "2026-07-06T23:51:43+00:00",
       "category": "Local Events"
     }
   ]
