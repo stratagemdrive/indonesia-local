@@ -48,23 +48,23 @@
       "url": "https://ekonomi.republika.co.id/berita/thln7u370/komisi-8-persen-ojol-sudah-berlaku-dpr-sebut-tarif-pelanggan-tetap-stabil",
       "published_date": "2026-07-03T12:40:42+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Lukashenko touches on the historical closeness between Indonesia and Belarus since the era of the Soviet Union",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkms2484/lukashenko-singgung-keakraban-historis-ribelarusia-sejak-era-uni-soviet",
-      "published_date": "2026-07-02T23:33:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lukashenko Welcomes RI's Opening Embassy in Minsk, Belarus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkl8h484/lukashenko-sambut-baik-ri-akan-buka-kedubes-di-minsk-belarusia",
-      "published_date": "2026-07-02T23:00:17+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Called Consolidation via Zoom Meeting to Discuss Police Searches, Here's the Prosecutor's Explanation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thxkuh377/disebut-konsolidasi-lewat-zoom-meeting-bahas-penggeledahan-polri-begini-penjelasan-kejaksaan",
+      "published_date": "2026-07-09T23:20:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police Confiscate Documents and Computers from Empty Shophouse in Cipete, Location of 13th Corruption Case",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thxfrw830000/polisi-sita-dokumen-dan-komputer-dari-ruko-kosong-di-cipete-lokasi-ke13-kasus-korupsi",
+      "published_date": "2026-07-09T21:31:08+00:00",
+      "category": "Military"
+    },
     {
       "title": "Head of MPI SPs UMJ Doctoral Study Program Wins 2026 Zakat Compliance Award",
       "source": "Republika English",
@@ -190,23 +190,16 @@
       "url": "https://news.republika.co.id/berita/thlvfo377/kabar-tapir-disembelih-dan-dimasak-di-mesuji-kemenhut-turun-tangan",
       "published_date": "2026-07-03T23:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "RI-France Start Physical Construction of Two Scorpène Submarines Ahead of Schedule",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkkjk130000/riprancis-mulai-konstruksi-fisik-dua-kapal-selam-scorpne-lebih-cepat-dari-jadwal",
-      "published_date": "2026-07-02T22:45:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Western Media Highlights Shooting of American Pilot by Papuan Separatists",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thkkfp377/media-barat-soroti-penembakan-pilot-warga-amerika-oleh-separatis-papua",
-      "published_date": "2026-07-02T22:43:01+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Officially Launched, Mandatory Biodiesel B50 Becomes a Pillar of Energy Self-Sufficiency in 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thxgfv4230000/resmi-diluncurkan-mandatori-biodiesel-b50-jadi-pilar-swasembada-energi-2026",
+      "published_date": "2026-07-09T21:45:31+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Three Workers Died while Entering a Culvert in Cipayung, Suspected of Gas Poisoning",
       "source": "Republika English",
@@ -265,6 +258,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Indonesian DPR Member Rachmat Gobel Dies",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thxk67377/anggota-dpr-ri-rachmat-gobel-meninggal-dunia",
+      "published_date": "2026-07-09T23:06:07+00:00",
+      "category": "Economy"
+    },
     {
       "title": "132,627 People Register for DKI Labor-Intensive Vacancies, Pramono Ensures There Are No Ordal Deposits",
       "source": "Republika English",
@@ -397,16 +397,37 @@
       "url": "https://ekonomi.republika.co.id/berita/thp63s370/indef-struktur-ekspor-indonesia-harus-beralih-ke-produk-bernilai-tambah",
       "published_date": "2026-07-05T10:21:28+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Collaboration with KAI, Ministry of Tourism Targets Malaysian Tourist Market",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thlyhc490/kolaborasi-dengan-kai-kemenpar-incar-pasar-wisatawan-malaysia",
-      "published_date": "2026-07-03T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Deschamps Praises Mbappe's Mentality After Leading France to the 2026 World Cup Semifinals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thxlr0348/deschamps-puji-mental-mbappe-usai-antar-prancis-ke-semifinal-piala-dunia-2026",
+      "published_date": "2026-07-09T23:40:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ouahbi Remains Proud Even Though Morocco Is Eliminated by France: We Represent Africa and Asia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thxlga348/ouahbi-tetap-bangga-meski-maroko-disingkirkan-prancis-kami-mewakili-afrika-dan-asia",
+      "published_date": "2026-07-09T23:33:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Regret No Longer Opens the Door",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/thwjd1451/ketika-penyesalan-tak-lagi-membuka-pintu",
+      "published_date": "2026-07-09T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pos Indonesia Collaborates with KPK to Improve Corporate Governance and Integrity",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/thx2c9416/pos-indonesia-gandeng-kpk-tingkatkan-tata-kelola-dan-integritas-korporasi",
+      "published_date": "2026-07-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "PBVSI Aims for 2026 SEA V Cup Champion Title, 3 Senior Players Add Strength to Indonesian Men's National Volleyball Team",
       "source": "Republika English",
@@ -517,34 +538,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/thuq8q375/seabad-bang-ali-mengenang-jejak-sang-pembaharu-jakarta",
       "published_date": "2026-07-08T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MPLS is Student Friendly",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/thuu1j483/mpls-ramah-bagi-peserta-didik",
-      "published_date": "2026-07-08T11:46:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harvest in Majalengka Sets Very High Record, Boosts Food Surplus",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/thutnp282/panen-di-majalengka-cetak-rekor-sangat-tinggi-dongkrak-surplus-pangan",
-      "published_date": "2026-07-08T11:38:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TASPEN Holds Blood Donation, Hundreds of Employees Provide Benefits to Others",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thutab472/taspen-gelar-donor-darah-ratusan-karyawan-hadirkan-manfaat-untuk-sesama",
-      "published_date": "2026-07-08T11:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The cost of the 2027 Hajj is proposed to increase to IDR 107 million, this is the Ministry of Haj's reason",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thut20483/biaya-haji-2027-diusulkan-naik-jadi-rp107-juta-ini-alasan-kemenhaj",
-      "published_date": "2026-07-08T11:25:12+00:00",
       "category": "Local Events"
     }
   ]
