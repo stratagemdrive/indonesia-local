@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Buy Indomaret Fun Run 2026 tickets using BRImo, get a discount of IDR 25 thousand",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thzeib472/beli-tiket-indomaret-fun-run-2026-pakai-brimo-dapatkan-diskon-rp-25-ribu",
+      "published_date": "2026-07-10T23:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Minister Sugiono claims that RI is the first to honor the grave of Ayatullah Ali Khamenei",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thzf3a393/menlu-sugiono-klaim-ri-yang-perdana-beri-penghormatan-makam-ayatullah-ali-khamenei",
+      "published_date": "2026-07-10T23:11:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Brokering is rampant, Ministry of Religion will Improve Management of Sending Indonesian Students to Al Azhar Cairo",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/thticn483/marak-percaloan-kemenag-akan-benahi-tata-kelola-pengiriman-mahasiswa-ri-ke-al-azhar-kairo",
@@ -44,6 +58,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "China-Pakistan JF-17 Enters the Caucasus, Who is Most Threatened?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thzc3d451/jf17-chinapakistan-masuk-kaukasus-siapa-yang-paling-terancam",
+      "published_date": "2026-07-10T22:06:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inspector General Agus Wijayanto Officially Leads the North Kalimantan Regional Police, Receives Pataka for Nudging Menka Peguna",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thz90i8130000/irjen-agus-wijayanto-resmi-pimpin-polda-kaltara-terima-pataka-ngelimut-mengka-peguna",
+      "published_date": "2026-07-10T21:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-Husband of Gowa Regent Reports to Police Allegedly False Statement at Divorce Court",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thz8cs4630000/mantan-suami-bupati-gowa-lapor-polisi-dugaan-keterangan-palsu-di-sidang-cerai",
+      "published_date": "2026-07-10T20:46:04+00:00",
+      "category": "Military"
+    },
     {
       "title": "Imam Al Ghazali: Husbands should not be miserly towards their wives, but don't be wasteful",
       "source": "Republika English",
@@ -162,27 +197,6 @@
       "url": "https://news.republika.co.id/berita/thq6n2484/pt-pindad-bangun-pabrik-amunisi-85-juta-butir-per-tahun-di-batulicin",
       "published_date": "2026-07-05T23:30:38+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Komnas HAM Says Pregnant Woman Died Due to Contact Shooting between TNI and OPM",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thq49a484/komnas-ham-sebut-ibu-hamil-tewas-imbas-kontak-tembak-tni-vs-opm",
-      "published_date": "2026-07-05T22:39:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soekarno-Hatta Airport Police Dismantles International Network of Marijuana Vape Syndicates",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thp798416/polresta-bandara-soekarnohatta-bongkar-sindikat-vape-ganja-jaringan-internasional",
-      "published_date": "2026-07-05T10:49:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada's path to the top eight thwarted by Morocco, Marsch says small details are decisive",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thoc05348/jalan-kanada-ke-delapan-besar-digagalkan-maroko-marsch-sebut-detail-kecil-jadi-penentu",
-      "published_date": "2026-07-04T23:31:17+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -241,16 +255,16 @@
       "url": "https://ekonomi.republika.co.id/berita/thncka490/pln-permak-pltu-siapkan-penggunaan-batu-bara-kalori-rendah",
       "published_date": "2026-07-04T10:45:46+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "KSP Accelerates Construction of Tanjung Enim CNG Mother Station for Energy Security",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thmdtj6130000/ksp-percepat-pembangunan-mother-station-cng-tanjung-enim-demi-ketahanan-energi",
-      "published_date": "2026-07-03T22:15:19+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "West Java DPRD is Ready to Add to the 2026 PORPROV XV Budget in the Revised APBD",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thzcke130000/dprd-jabar-siap-tambah-anggaran-porprov-xv-2026-di-apbd-perubahan",
+      "published_date": "2026-07-10T22:17:02+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Dharma Jaya Food Bazaar Reaches Hundreds of Settlements",
       "source": "Republika English",
@@ -383,16 +397,58 @@
       "url": "https://rejogja.republika.co.id/berita/thp8ys291/edukasi-trader-dengan-strategi-3-ema-ms-cenli-yani-buktikan-analisis-lewat-live-trading",
       "published_date": "2026-07-05T11:23:16+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "7 UNM Students Qualify to Become IEEE YESIST12 2026 Volunteers, Ready to Network with World Innovators",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thp8da368/7-mahasiswa-unm-lolos-jadi-volunteer-ieee-yesist12-2026-siap-berjejaring-dengan-inovator-dunia",
-      "published_date": "2026-07-05T11:10:22+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Equivalent to a Three Star Hotel, the Banjarmasin Embarkation Hajj Dormitory was inaugurated by the Minister of Haj",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thyn0j483/setara-hotel-bintang-tiga-asrama-haji-embarkasi-banjarmasin-diresmikan-menhaj",
+      "published_date": "2026-07-10T23:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jampidsus Febrie Adriansyah Resigns, Letter Has Been Received by Attorney General",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thzd6u377/jampidsus-febrie-adriansyah-mundur-surat-sudah-diterima-jaksa-agung",
+      "published_date": "2026-07-10T22:30:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viral Croissant Bread Looks Like Pubic Hair, MUI: This Product Is Not Halal Enough",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thyuzj483/viral-roti-croissant-mirip-rambut-kemaluan-mui-produk-itu-tak-cukup-halal",
+      "published_date": "2026-07-10T22:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Post-Khamenei Middle East Quo Vadis: The Fate of the Axis of Resistance and the Reconfiguration of the World Order",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/thzcjn451/quo-vadis-timteng-pascakhamenei-nasib-poros-perlawanan-dan-rekonfigurasi-tatanan-dunia",
+      "published_date": "2026-07-10T22:16:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor Koster Reveals Bali's Agricultural Conditions: Rice Surplus to Garlic Deficit",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thzb4n9630000/gubernur-koster-ungkap-kondisi-pertanian-bali-surplus-beras-hingga-defisit-bawang-putih",
+      "published_date": "2026-07-10T21:45:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Weather Forecast This Saturday: Sunny, cloudy dominating until evening",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thzaed7730000/prakiraan-cuaca-jakarta-sabtu-ini-cerah-berawan-mendominasi-hingga-malam",
+      "published_date": "2026-07-10T21:30:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Security Disturbance is the Reason the Wapu Village Pustu in Mimika Is Not Operating",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thz9pn5130000/gangguan-keamanan-jadi-alasan-pustu-kampung-wapu-di-mimika-tidak-beroperasi",
+      "published_date": "2026-07-10T21:15:23+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hajj Pilgrims' Health Istithaah Is Monitored Since Pre-departure",
       "source": "Republika English",
@@ -482,55 +538,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/thwu03282/kekurangan-air-bersih-warga-indramayu-terpaksa-gunakan-air-saluran-yang-keruh-dan-berlumut",
       "published_date": "2026-07-09T13:40:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pierluigi Collina Defends Referee Francois Letexier After the Polemic in the Argentina vs Egypt Match",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thwt64348/pierluigi-collina-bela-wasit-francois-letexier-usai-polemik-laga-argentina-vs-mesir",
-      "published_date": "2026-07-09T13:22:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former MPR Secretary General Maruf Cahyono Detained by KPK in Alleged Gratification Case",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/thwq9v375/mantan-sekjen-mpr-maruf-cahyono-ditahan-kpk-dalam-kasus-dugaan-gratifikasi",
-      "published_date": "2026-07-09T13:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPI Pushes National Education System Bill to Answer Challenges of PTNBH Governance and Teacher Arrangement",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thwsj0472/upi-dorong-ruu-sisdiknas-jawab-tantangan-tata-kelola-ptnbh-dan-penataan-guru",
-      "published_date": "2026-07-09T13:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of the Musda, support for Metty to become chairman of Golkar Cianjur is getting stronger",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/thws8d487/jelang-musda-dukungan-untuk-metty-jadi-ketua-golkar-cianjur-kian-menguat",
-      "published_date": "2026-07-09T13:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DKI Jakarta KPID Strengthens Monitoring of Broadcast Content Amid Increasing Challenges to Social Resilience",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thws0w472/kpid-dki-jakarta-perkuat-pengawasan-isi-siaran-di-tengah-meningkatnya-tantangan-ketahanan-sosial",
-      "published_date": "2026-07-09T12:58:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Last Girder of the Jakarta LRT Phase 1B above the Manggarai DDT is Connected",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thvqy0484/girder-terakhir-lrt-jakarta-fase-1b-di-atas-ddt-manggarai-tersambung",
-      "published_date": "2026-07-08T23:37:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is there a connection between the search at the de Clan restaurant and the Jampidsus stalking? This is the Regional Police's answer",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thvqpm377/adakah-hubungan-penggeledahan-di-restoran-de-clan-dengan-penguntitan-jampidsus-ini-jawaban-polda",
-      "published_date": "2026-07-08T23:32:10+00:00",
       "category": "Local Events"
     }
   ]
