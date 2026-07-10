@@ -41,16 +41,23 @@
       "url": "https://republika.co.id/page/shorts/yt-thrbl21389481866/pertemuan-dengan-pm-singapura-hasilkan-26-kesepakatan",
       "published_date": "2026-07-06T14:15:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "8 Percent Ojol Commission Already In Effect, DPR Says Customer Rates Remain Stable",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thln7u370/komisi-8-persen-ojol-sudah-berlaku-dpr-sebut-tarif-pelanggan-tetap-stabil",
-      "published_date": "2026-07-03T12:40:42+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Imam Al Ghazali: Husbands should not be miserly towards their wives, but don't be wasteful",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thyljs430/imam-al-ghazali-suami-jangan-kikir-kepada-istri-tapi-jangan-boros",
+      "published_date": "2026-07-10T12:33:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prabowo Asks Military Police Officers for Introspection",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-thyjb2103309271/prabowo-minta-pejabat-militer-polisi-kejaksaan-instrospeksi",
+      "published_date": "2026-07-10T11:45:02+00:00",
+      "category": "Military"
+    },
     {
       "title": "Called Consolidation via Zoom Meeting to Discuss Police Searches, Here's the Prosecutor's Explanation",
       "source": "Republika English",
@@ -176,20 +183,6 @@
       "url": "https://news.republika.co.id/berita/thoc05348/jalan-kanada-ke-delapan-besar-digagalkan-maroko-marsch-sebut-detail-kecil-jadi-penentu",
       "published_date": "2026-07-04T23:31:17+00:00",
       "category": "Military"
-    },
-    {
-      "title": "National Police Chief Inaugurates Kakorlantas, Head of Research and Development Center, and Six Regional Police Chiefs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thnflu484/kapolri-lantik-kakorlantas-kapuslitbang-dan-enam-kapolda",
-      "published_date": "2026-07-04T11:51:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "News about tapirs being slaughtered and cooked in Mesuji, the Ministry of Forestry intervenes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thlvfo377/kabar-tapir-disembelih-dan-dimasak-di-mesuji-kemenhut-turun-tangan",
-      "published_date": "2026-07-03T23:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -258,6 +251,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Dharma Jaya Food Bazaar Reaches Hundreds of Settlements",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/thyl9p416/bazar-pangan-dharma-jaya-jangkau-ratusan-permukiman",
+      "published_date": "2026-07-10T13:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Indonesian DPR Member Rachmat Gobel Dies",
       "source": "Republika English",
@@ -390,16 +390,58 @@
       "url": "https://news.republika.co.id/berita/thp8da368/7-mahasiswa-unm-lolos-jadi-volunteer-ieee-yesist12-2026-siap-berjejaring-dengan-inovator-dunia",
       "published_date": "2026-07-05T11:10:22+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Indef: Indonesia's Export Structure Must Shift to Value-Added Products",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thp63s370/indef-struktur-ekspor-indonesia-harus-beralih-ke-produk-bernilai-tambah",
-      "published_date": "2026-07-05T10:21:28+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Hajj Pilgrims' Health Istithaah Is Monitored Since Pre-departure",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thympo430/istithaah-kesehatan-jamaah-calon-haji-dipantau-sejak-prakeberangkatan",
+      "published_date": "2026-07-10T13:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prophet Isa's rebuke to worshipers who refuse to work for a living",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thymia430/teguran-nabi-isa-kepada-ahli-ibadah-yang-enggan-bekerja-mencari-nafkah",
+      "published_date": "2026-07-10T12:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asking the public to check permits for illegal Islamic boarding schools, Ministry of Religion: Don't consider all institutions as Islamic boarding schools",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thymde430/minta-masyarakat-cek-izin-pesantren-ilegal-kemenag-jangan-semua-lembaga-dianggap-pesantren",
+      "published_date": "2026-07-10T12:51:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BPJS Employment Collaborates with BSI, Makes it Easier for Workers to Own a Home with Sharia Scheme",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/thylq5430/bpjs-ketenagakerjaan-gandeng-bsi-permudah-pekerja-miliki-rumah-dengan-skema-syariah",
+      "published_date": "2026-07-10T12:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "An emotional atmosphere accompanies Rachmat Gobel's funeral procession at TMP Kalibata",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/thylfq375/suasana-haru-iringi-prosesi-pemakaman-rachmat-gobel-di-tmp-kalibata",
+      "published_date": "2026-07-10T12:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not just chasing virality, this is how to create review content that your audience trusts",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/thybfw425/bukan-cuma-kejar-viral-ini-cara-bikin-konten-review-yang-dipercaya-audiens",
+      "published_date": "2026-07-10T12:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Also Spotlights Jampidsus House in Sentul: Use Nominees",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/thyin6484/kpk-ikut-soroti-rumah-jampidsus-di-sentul-gunakan-nomine",
+      "published_date": "2026-07-10T11:30:42+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Deschamps Praises Mbappe's Mentality After Leading France to the 2026 World Cup Semifinals",
       "source": "Republika English",
@@ -489,55 +531,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/thvqpm377/adakah-hubungan-penggeledahan-di-restoran-de-clan-dengan-penguntitan-jampidsus-ini-jawaban-polda",
       "published_date": "2026-07-08T23:32:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of the 25th Anniversary of the Democratic Party, AHY will meet a number of political figures",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thvq3k484/jelang-hut-ke25-partai-demokrat-ahy-bakal-temui-sejumlah-tokoh-politik",
-      "published_date": "2026-07-08T23:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Does God Repeat the Promise of Ease Twice?",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/thukwr451/mengapa-allah-mengulang-janji-kemudahan-dua-kali",
-      "published_date": "2026-07-08T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Immigration and the Maluku Prosecutor's Office Strengthen Immigration Law Enforcement Synergy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thvn5i5630000/imigrasi-dan-kejati-maluku-perkuat-sinergi-penegakan-hukum-keimigrasian",
-      "published_date": "2026-07-08T22:15:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bogor Regency Government: 92 Illegal Buildings in Ciseeng Dismantled Independently by Residents",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thvgwh2930000/pemkab-bogor-92-bangunan-liar-di-ciseeng-dibongkar-mandiri-oleh-warga",
-      "published_date": "2026-07-08T20:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java DPRD Commission I Submits Study of Proposed Province Names to the Provincial Government",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/thuux3472/komisi-i-dprd-jabar-serahkan-kajian-usulan-nama-provinsi-kepada-pemprov",
-      "published_date": "2026-07-08T12:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hendrar Prihadi denies rumors of meeting Jokowi and joining PSI",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/thuuwj484/hendrar-prihadi-bantah-isu-bertemu-jokowi-dan-gabung-psi",
-      "published_date": "2026-07-08T12:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Century of Bang Ali, Remembering the Footsteps of the Jakarta Reformer",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/thuq8q375/seabad-bang-ali-mengenang-jejak-sang-pembaharu-jakarta",
-      "published_date": "2026-07-08T12:00:00+00:00",
       "category": "Local Events"
     }
   ]
