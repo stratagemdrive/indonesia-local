@@ -73,6 +73,20 @@
   ],
   "Military": [
     {
+      "title": "Remind Corruptors to Be Self-Aware, President: People are not Stupid",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti34et484/ingatkan-para-koruptor-sadar-diri-presiden-rakyat-tidak-bodoh",
+      "published_date": "2026-07-12T23:11:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BPBD Sitaro Urges Residents to Be Aware of the Dangers of Lava After the Mount Karangetang Eruption",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti2wit7730000/bpbd-sitaro-imbau-warga-waspada-bahaya-lahar-pascaerupsi-gunung-karangetang",
+      "published_date": "2026-07-12T20:20:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Warning Those Who Are Singing, Prabowo: You Don't Want to Work, Just Sit Down, Look Carefully!",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti28qd377/peringatkan-mereka-yang-nyinyir-prabowo-lu-gak-mau-kerja-duduk-saja-lihat-baikbaik",
@@ -197,23 +211,16 @@
       "url": "https://news.republika.co.id/berita/thvkdi4730000/ampg-siapkan-kader-politik-adaptif-dan-berintegritas-menuju-indonesia-emas-2045",
       "published_date": "2026-07-08T21:15:18+00:00",
       "category": "Military"
-    },
-    {
-      "title": "North Sulawesi Police Raid Illegal Sharp Weapon Production House in North Minahasa",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thvetj3030000/polda-sulut-gerebek-rumah-produksi-senjata-tajam-ilegal-di-minahasa-utara",
-      "published_date": "2026-07-08T19:15:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PRESISI Survey: 74.2 Percent of East Lombok Residents Are Satisfied with Regent Haerul Warisin's Performance",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/769798/survei-presisi-742-persen-warga-lombok-timur-puas-terhadap-kinerja-bupati-haerul-warisin",
-      "published_date": "2026-07-08T11:19:08+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "RI 1 Targets Indonesia to Produce Gasoline from Plants in Another 3-4 Years",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti2zb2484/ri-1-targetkan-indonesia-hasilkan-bensin-dari-tanaman-34-tahun-lagi",
+      "published_date": "2026-07-12T21:21:02+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Getting to know Nana Asma'u, a Muslim scholar who advances female education",
       "source": "Republika English",
@@ -272,6 +279,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Not a Trader, A.H. Johns Calls Sufis the Main Actors Who Islamized the Archipelago",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti343p430/bukan-pedagang-ah-johns-sebut-para-sufi-aktor-utama-yang-mengislamkan-nusantara",
+      "published_date": "2026-07-12T23:04:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Influential Pakistani Ulema Issues Crypto Haram Fatwa",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti32sr430/ulama-berpengaruh-pakistan-keluarkan-fatwa-haram-kripto",
+      "published_date": "2026-07-12T22:36:27+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Masela Block, MIP, and the Illusion of Fiscal Independence in Maluku",
       "source": "Republika English",
@@ -397,23 +418,51 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-economic-centralisation-under-prabowo/",
       "published_date": "2026-07-07T01:42:56+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "At the Global Forum, the Minister of Law Affirmed Indonesia's Commitment to Building Transparent Royalty Governance",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ths22l368/di-forum-global-menkum-tegaskan-komitmen-indonesia-bangun-tata-kelola-royalti-yang-transparan",
-      "published_date": "2026-07-06T23:47:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "OJK Cuts SLIK Data Updates to 3 Days, Accelerates Access to KPR and MSME Credit",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ths0gd370/ojk-pangkas-pembaruan-data-slik-jadi-3-hari-akses-kpr-dan-kredit-umkm-dipercepat",
-      "published_date": "2026-07-06T23:12:13+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "DKI Jakarta Weather Forecast This Monday: Sunny to Cloudy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti337e430000/prakiraan-cuaca-dki-jakarta-senin-ini-cerah-hingga-berawan",
+      "published_date": "2026-07-12T22:45:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scaloni says the Argentina vs England duel in the 2026 World Cup semifinals is just a football match",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti314l830000/scaloni-sebut-duel-argentina-vs-inggris-di-semifinal-piala-dunia-2026-hanya-laga-sepak-bola",
+      "published_date": "2026-07-12T22:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irtja Tangahu Hadju Launches a Book Entitled Gorontalo Takdir Pohala'a",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti307h484/irtja-tangahu-hadju-luncurkan-buku-berjudul-gorontalo-takdir-pohalaa",
+      "published_date": "2026-07-12T21:40:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "M 5.1 Earthquake Rocks Buol, Central Sulawesi, Panic Residents Flee to the Highlands",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti2z9d2430000/gempa-m-51-guncang-buol-sulteng-warga-panik-mengungsi-ke-dataran-tinggi",
+      "published_date": "2026-07-12T21:20:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coordinating Minister Muhaimin: Cooperatives are Strategic Pillars of Community Empowerment and Village Economy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti2ykq4330000/menko-muhaimin-koperasi-pilar-strategis-pemberdayaan-masyarakat-dan-ekonomi-desa",
+      "published_date": "2026-07-12T21:05:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TP PKK Invites Cadres to Strengthen 10 Main Programs in Harmony with Astacita for a Golden Indonesia 2045",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti2wyp9430000/tp-pkk-ajak-kader-perkuat-10-program-pokok-selaras-astacita-demi-indonesia-emas-2045",
+      "published_date": "2026-07-12T20:30:25+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Why do Taiwanese choose to stay away when an accident occurs?",
       "source": "Republika English",
@@ -510,48 +559,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti0isn451/kemenkes-siapkan-rumah-sakit-provinsi-pertama-di-papua-pegunungan",
       "published_date": "2026-07-11T20:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haaland surpasses Vieri's record, the Italian legend actually gives praise",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti0bgc348/haaland-lampaui-rekor-vieri-legenda-italia-itu-justru-beri-pujian",
-      "published_date": "2026-07-11T11:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gus Ghofur Maimoen: The Book by KH Zulfa Mustofa Could Be a Reference for Bahtsul Masail at the NU Congress",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti0alg368/gus-ghofur-maimoen-kitab-karya-kh-zulfa-mustofa-bisa-jadi-rujukan-bahtsul-masail-di-muktamar-nu",
-      "published_date": "2026-07-11T11:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo to NTB: Maintain Unity and Defend the People",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti0ajg451/prabowo-ke-ntb-jaga-persatuan-dan-bela-rakyat",
-      "published_date": "2026-07-11T11:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Workers Died in Gorong-Gorong, PAM Jaya Asks Subcontractor for Responsibility and Investigation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti083k416/tiga-pekerja-meninggal-di-goronggorong-pam-jaya-minta-subkontraktor-tanggung-jawab-dan-investigasi",
-      "published_date": "2026-07-11T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "U-16 Indonesian Women's National Team Starts TC in Kudus, Prepares Two Squads for Srikandi Merdeka Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti0b4j348/timnas-putri-indonesia-u16-mulai-tc-di-kudus-siapkan-dua-skuad-untuk-srikandi-merdeka-cup",
-      "published_date": "2026-07-11T10:43:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MPR Encourages Acceleration of Inclusive Teacher Competency",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti0aam451/mpr-dorong-percepatan-kompetensi-guru-inklusif",
-      "published_date": "2026-07-11T10:25:34+00:00",
       "category": "Local Events"
     }
   ]
