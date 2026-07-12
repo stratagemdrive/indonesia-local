@@ -73,6 +73,20 @@
   ],
   "Military": [
     {
+      "title": "Warning Those Who Are Singing, Prabowo: You Don't Want to Work, Just Sit Down, Look Carefully!",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti28qd377/peringatkan-mereka-yang-nyinyir-prabowo-lu-gak-mau-kerja-duduk-saja-lihat-baikbaik",
+      "published_date": "2026-07-12T11:47:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mahfud MD Reveals that the National Police Chief and Attorney General are Often Reluctant to Sit in the Same Forum",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti27kd377/mahfud-md-ungkap-kapolri-dan-jaksa-agung-kerap-enggan-duduk-di-satu-forum",
+      "published_date": "2026-07-12T11:21:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Hands off, National Police Hands Over Ex-Jampidsus Case to Jampidsus Attorney General's Office",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti0d38393/lepas-tangan-polri-limpahkan-kasus-eks-jampidsus-ke-jampidsus-kejagung",
@@ -197,20 +211,6 @@
       "url": "https://retizen.republika.co.id/posts/769798/survei-presisi-742-persen-warga-lombok-timur-puas-terhadap-kinerja-bupati-haerul-warisin",
       "published_date": "2026-07-08T11:19:08+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Commitment to Grassroots Sharia Economic Empowerment, PNM Wins Prestigious Award",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tht327472/komitmen-pemberdayaan-ekonomi-syariah-akar-rumput-pnm-raih-penghargaan-bergengsi",
-      "published_date": "2026-07-07T13:06:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tegal Police Abuse Couple Repeatedly and Use Drugs, Once Demoted for Violating Ethics",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/thsyp5282/polisi-tegal-aniaya-pasangan-berulang-kali-dan-pakai-narkoba-pernah-demosi-karena-langgar-etik",
-      "published_date": "2026-07-07T11:31:53+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -272,6 +272,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Masela Block, MIP, and the Illusion of Fiscal Independence in Maluku",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/770482/blok-masela-mip-dan-ilusi-kemandirian-fiskal-maluku",
+      "published_date": "2026-07-12T10:31:25+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Demand for AI chips soars, laptop and cellphone prices threaten to rise",
       "source": "Republika English",
@@ -404,16 +411,58 @@
       "url": "https://ekonomi.republika.co.id/berita/ths0gd370/ojk-pangkas-pembaruan-data-slik-jadi-3-hari-akses-kpr-dan-kredit-umkm-dipercepat",
       "published_date": "2026-07-06T23:12:13+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Fundamental Analysis is the Key to Understanding Currency Exchange Rate Movements",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thr81p423/analisis-fundamental-jadi-kunci-memahami-pergerakan-nilai-tukar-mata-uang",
-      "published_date": "2026-07-06T14:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Why do Taiwanese choose to stay away when an accident occurs?",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/770497/mengapa-warga-taiwan-memilih-menjauh-saat-terjadi-kecelakaan",
+      "published_date": "2026-07-12T11:34:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Biodiversity-Based Health Conservation",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/770500/pelestarian-kesehatan-berbasis-keanekaragaman-hayati",
+      "published_date": "2026-07-12T11:30:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Betrayal of the Law Enforcement Elite, Far from Pancasila and Asta Cita?",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/ti24tz320/pengkhianatan-elite-penegak-hukum-jauh-dari-pancasila-dan-asta-cita",
+      "published_date": "2026-07-12T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Economist values ​​Kopdes Merah Putih in line with the mandate of Article 33 of the 1945 Constitution",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti2673522/ekonom-nilai-kopdes-merah-putih-selaras-dengan-amanat-pasal-33-uud-1945",
+      "published_date": "2026-07-12T10:52:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Robert Pattinson Reveals Why He Prefers Playing Antagonist Roles",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/ti261f425/robert-pattinson-ungkap-alasan-lebih-suka-main-peran-antagonis",
+      "published_date": "2026-07-12T10:48:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The President Reveals the Reason for Forming the Red and White Cooperative: I Have Seen People Dying of Starvation",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti25m6370/presiden-ungkap-alasan-bentuk-koperasi-merah-putih-saya-pernah-lihat-ada-rakyat-mati-kelaparan",
+      "published_date": "2026-07-12T10:39:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When the City Becomes the Body of East Javanese Poetry",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/770484/ketika-kota-menjadi-tubuh-puisi-jawa-timur",
+      "published_date": "2026-07-12T10:30:22+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Celebrating 9 Years in Indonesia, Wuling Introduces Aira EV",
       "source": "Republika English",
@@ -503,55 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti0aam451/mpr-dorong-percepatan-kompetensi-guru-inklusif",
       "published_date": "2026-07-11T10:25:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KH Said Aqil Appreciates the Book of Ithafu Ummati Al-Muqtafa by Kiai Zulfa, Hopes NU Continues to Develop",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti0aab368/kh-said-aqil-apresiasi-kitab-ithafu-ummati-almuqtafa-karya-kiai-zulfa-berharap-nu-terus-berkembang",
-      "published_date": "2026-07-11T10:25:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Can Handle Febrie Adriansyah's Case, These Are the Conditions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti097v393/kpk-bisa-tangani-kasus-febrie-adriansyah-ini-syaratnya",
-      "published_date": "2026-07-11T10:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirebon Integrated People's School Ready to Operate, Accommodating 540 Students from Four Regions",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti07p6416/sekolah-rakyat-terpadu-cirebon-siap-beroperasi-tampung-540-siswa-dari-empat-daerah",
-      "published_date": "2026-07-11T10:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Equivalent to a Three Star Hotel, the Banjarmasin Embarkation Hajj Dormitory was inaugurated by the Minister of Haj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thyn0j483/setara-hotel-bintang-tiga-asrama-haji-embarkasi-banjarmasin-diresmikan-menhaj",
-      "published_date": "2026-07-10T23:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jampidsus Febrie Adriansyah Resigns, Letter Has Been Received by Attorney General",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thzd6u377/jampidsus-febrie-adriansyah-mundur-surat-sudah-diterima-jaksa-agung",
-      "published_date": "2026-07-10T22:30:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viral Croissant Bread Looks Like Pubic Hair, MUI: This Product Is Not Halal Enough",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thyuzj483/viral-roti-croissant-mirip-rambut-kemaluan-mui-produk-itu-tak-cukup-halal",
-      "published_date": "2026-07-10T22:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Post-Khamenei Middle East Quo Vadis: The Fate of the Axis of Resistance and the Reconfiguration of the World Order",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/thzcjn451/quo-vadis-timteng-pascakhamenei-nasib-poros-perlawanan-dan-rekonfigurasi-tatanan-dunia",
-      "published_date": "2026-07-10T22:16:35+00:00",
       "category": "Local Events"
     }
   ]
