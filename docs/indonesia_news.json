@@ -48,16 +48,23 @@
       "url": "https://visual.republika.co.id/berita/thsyib375/deretan-rumah-mulai-dirobohkan-jalan-baru-pasar-minggu-segera-dibangun",
       "published_date": "2026-07-07T12:30:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Ayatollah Khamenei and Death That Changed the World",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thsyay320/ayatollah-khamenei-dan-kematian-yang-mengubah-dunia",
-      "published_date": "2026-07-07T11:23:22+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Why did Iran choose to attack Gulf countries instead of US warships? This is what military experts say",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti5wq0320/mengapa-iran-memilih-serang-negara-teluk-ketimbang-kapal-perang-as-ini-kata-pakar-militer",
+      "published_date": "2026-07-14T11:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police vs prosecutors? Indonesia’s latest corruption scandal exposes elite fracturing under Prabowo",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/police-vs-prosecutors-indonesias-latest-corruption-scandal-exposes-elite-fracturing-under-prabowo/",
+      "published_date": "2026-07-14T07:52:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Food Diversification Campaign",
       "source": "Republika English",
@@ -183,20 +190,6 @@
       "url": "https://news.republika.co.id/berita/thwteq472/kaprodi-s3-mpi-sps-umj-raih-anugerah-kepatuhan-zakat-2026",
       "published_date": "2026-07-09T13:28:02+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Attorney General Await Results of Police Investigation Regarding 3 Corruption Cases",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thwsq2487/kejagung-tunggu-hasil-penyidikan-polri-terkait-3-kasus-korupsi",
-      "published_date": "2026-07-09T13:13:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ask About the Prosecutor",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/thvqc0415/tanya-seputar-jaksa",
-      "published_date": "2026-07-08T23:24:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -262,16 +255,37 @@
       "url": "https://esgnow.republika.co.id/berita/tht0fk423/masyarakat-sipil-jadi-kunci-mendorong-kepatuhan-negara-terhadap-fatwa-iklim-icj",
       "published_date": "2026-07-07T12:09:20+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Minister for Science and Technology: Campus Research Cannot Stop in Journals, It Must Become a Product",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thsys8451/mendiktisaintek-riset-kampus-tak-boleh-berhenti-di-jurnal-harus-jadi-produk",
-      "published_date": "2026-07-07T11:33:44+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "The Ministry of Haj is proposing a down payment of IDR 4 trillion for preparation for the 2027 Hajj",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti5you430/kemenhaj-usulkan-uang-muka-rp-4-triliun-untuk-persiapan-haji-2027",
+      "published_date": "2026-07-14T12:00:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Danamon Relies on Business Ecosystem to Boost DPK",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti5v82416/danamon-andalkan-ekosistem-bisnis-untuk-genjot-dpk",
+      "published_date": "2026-07-14T12:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesian herbal medicine is becoming more global, now available in Sabah, Malaysia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti5ss9451/jamu-indonesia-makin-mendunia-kini-hadir-di-sabah-malaysia",
+      "published_date": "2026-07-14T11:48:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rupiah Reaches IDR 18,000, People's Purchasing Power is at the Edge",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/771126/rupiah-tembus-rp-18-000-daya-beli-masyarakat-di-ujung-tanduk",
+      "published_date": "2026-07-14T11:11:39+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Positive Trends in the Automotive Industry Make Gaikindo Optimistic about Holding GIIAS 2026",
       "source": "Republika English",
@@ -383,37 +397,51 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowos-managed-coercion-is-reshaping-indonesias-political-economic-order/",
       "published_date": "2026-07-09T01:23:44+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "AHY: Rivers Must Return to Being a Source of Life",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/thv5ih416/ahy-sungai-harus-kembali-menjadi-sumber-kehidupan",
-      "published_date": "2026-07-08T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Finance Purbaya Encourages Local Halal Gelatin to Replace Imports",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/thutwd484/menkeu-purbaya-dorong-gelatin-halal-lokal-gantikan-impor",
-      "published_date": "2026-07-08T11:43:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "As an electric car option for Indonesian families, here are the seven advantages of the VinFast VF MPV 7",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thtdri348/jadi-opsi-mobil-listrik-keluarga-indonesia-ini-tujuh-keunggulan-vinfast-vf-mpv-7",
-      "published_date": "2026-07-07T22:25:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "West Java DPRD Targets Discussion of Draft Regional Regulation P2APBD 2025 to be Completed on Time",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tht2qm472/dprd-jabar-targetkan-pembahasan-ranperda-p2apbd-2025-rampung-tepat-waktu",
-      "published_date": "2026-07-07T12:59:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The Corruption Prevention Team Combs the Red and White Kopdes in Central Java which Stands on Protected Agricultural Land",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti5y53487/tim-pencegahan-korupsi-sisir-kopdes-merah-putih-di-jateng-yang-berdiri-di-lahan-pertanian-dilindungi",
+      "published_date": "2026-07-14T11:48:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recording the Rahbar's Departure from Close Up",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-ti5xz11357197965/merekam-kepergian-sang-rahbar-dari-dekat",
+      "published_date": "2026-07-14T11:45:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Corruption Eradication Committee Hands Over Case Files on Alleged Hajj Quota Corruption, Yaqut Cholil Qoumas Will Be Tried Immediately",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/ti5suo375/kpk-limpahkan-berkas-perkara-dugaan-korupsi-kuota-haji-yaqut-cholil-qoumas-segera-disidang",
+      "published_date": "2026-07-14T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Instead of throwing it into the landfill, the Head of Central Java DLHK wants MBG waste to be processed by residents",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/ti5way282/daripada-dibuang-ke-tpa-kepala-dlhk-jateng-ingin-sampah-mbg-diolah-warga",
+      "published_date": "2026-07-14T11:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2,663 West Java Provincial Government ASN Allegedly Involved in Judol, Dominated by Part-Time PPPK",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/ti5wb0487/2663-asn-pemprov-jabar-diduga-terlibat-judol-didominasi-pppk-paruh-waktu",
+      "published_date": "2026-07-14T11:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dialect, Identity, and Local Community Life",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/771095/dialek-identitas-dan-kehidupan-masyarakat-lokal",
+      "published_date": "2026-07-14T11:01:34+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Receiving many invitations from various regions, Jokowi will go on safari to NTT",
       "source": "Republika English",
@@ -510,48 +538,6 @@
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/ti24tz320/pengkhianatan-elite-penegak-hukum-jauh-dari-pancasila-dan-asta-cita",
       "published_date": "2026-07-12T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Economist values ​​Kopdes Merah Putih in line with the mandate of Article 33 of the 1945 Constitution",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti2673522/ekonom-nilai-kopdes-merah-putih-selaras-dengan-amanat-pasal-33-uud-1945",
-      "published_date": "2026-07-12T10:52:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robert Pattinson Reveals Why He Prefers Playing Antagonist Roles",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/ti261f425/robert-pattinson-ungkap-alasan-lebih-suka-main-peran-antagonis",
-      "published_date": "2026-07-12T10:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The President Reveals the Reason for Forming the Red and White Cooperative: I Have Seen People Dying of Starvation",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti25m6370/presiden-ungkap-alasan-bentuk-koperasi-merah-putih-saya-pernah-lihat-ada-rakyat-mati-kelaparan",
-      "published_date": "2026-07-12T10:39:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When the City Becomes the Body of East Javanese Poetry",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/770484/ketika-kota-menjadi-tubuh-puisi-jawa-timur",
-      "published_date": "2026-07-12T10:30:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebrating 9 Years in Indonesia, Wuling Introduces Aira EV",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti0sb9348/rayakan-9-tahun-di-indonesia-wuling-kenalkan-aira-ev",
-      "published_date": "2026-07-11T22:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banjarmasin City Government Strengthens Halal Product Development Through New Regional Regulation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti18jh7230000/pemkot-banjarmasin-perkuat-pembinaan-produk-halal-lewat-perda-baru",
-      "published_date": "2026-07-11T22:45:17+00:00",
       "category": "Local Events"
     }
   ]
