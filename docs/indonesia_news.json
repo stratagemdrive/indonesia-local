@@ -31,6 +31,20 @@
   ],
   "Military": [
     {
+      "title": "15 Thousand Livable Houses Prepared for Residents in 3T Areas to Border Areas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti7srl483/15-ribu-rumah-layak-huni-disiapkan-untuk-warga-di-daerah-3t-hingga-kawasan-perbatasan",
+      "published_date": "2026-07-15T11:47:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "KIZILELMA Combat Drone Fires Supersonic Missile, Türkiye Shows Off New Strength in NATO Skies",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti7fxo451/drone-tempur-kizilelma-tembakkan-rudal-supersonik-turki-pamer-kekuatan-baru-di-langit-nato",
+      "published_date": "2026-07-15T11:02:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Kuntadi was proposed to become Jampidsus, took part in a meeting with the Minister of Defense",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti6ud3484/kuntadi-diusulkan-jadi-jampidsus-sempat-ikut-rapat-bareng-menhan",
@@ -155,23 +169,16 @@
       "url": "https://news.republika.co.id/berita/thz8cs4630000/mantan-suami-bupati-gowa-lapor-polisi-dugaan-keterangan-palsu-di-sidang-cerai",
       "published_date": "2026-07-10T20:46:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Imam Al Ghazali: Husbands should not be miserly towards their wives, but don't be wasteful",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/thyljs430/imam-al-ghazali-suami-jangan-kikir-kepada-istri-tapi-jangan-boros",
-      "published_date": "2026-07-10T12:33:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prabowo Asks Military Police Officers for Introspection",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-thyjb2103309271/prabowo-minta-pejabat-militer-polisi-kejaksaan-instrospeksi",
-      "published_date": "2026-07-10T11:45:02+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Maintaining North Sumatra's Energy Security, Pertamina Patra Niaga Strictly Sanctions 'Naughty' Tank Car Drivers",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti7s5k368/jaga-ketahanan-energi-sumut-pertamina-patra-niaga-sanksi-tegas-sopir-mobil-tangki-nakal",
+      "published_date": "2026-07-15T11:34:32+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Danantara Working on 26 Downstream Projects Worth IDR 225 Trillion",
       "source": "Republika English",
@@ -216,6 +223,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Durable Rupiah Remains Above IDR 18,000 per US Dollar for a Week",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti7tno490/rupiah-awet-bertahan-di-atas-rp-18000-per-dolar-as-selama-sepekan",
+      "published_date": "2026-07-15T12:07:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The Ministry of Haj is proposing a down payment of IDR 4 trillion for preparation for the 2027 Hajj",
       "source": "Republika English",
@@ -348,16 +362,65 @@
       "url": "https://news.republika.co.id/berita/thwrj3472/mahasiswa-unm-raih-hibah-santripreneur-baznas-2026-brand-luminous-siap-tembus-pasar",
       "published_date": "2026-07-09T12:47:27+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Prabowo’s managed coercion is reshaping Indonesia’s political-economic order",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowos-managed-coercion-is-reshaping-indonesias-political-economic-order/",
-      "published_date": "2026-07-09T01:23:44+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "From Koran Admirer Jefferson to Trump: How Has the US View of Islam Changed?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti7p6q320/dari-jefferson-pengagum-alquran-hingga-trump-bagaimana-pandangan-as-terhadap-islam-berubah",
+      "published_date": "2026-07-15T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MG Gives Special Price for MGS5 EV Magnify Max until September 2026, Priced at IDR 399.9 Million",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti7t5k348/mg-beri-harga-khusus-mgs5-ev-magnify-max-hingga-september-2026-dibanderol-rp3999-juta",
+      "published_date": "2026-07-15T11:56:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dissecting the Alleged Haji Cartel",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/ti7t31368/membedah-dugaan-kartel-haji",
+      "published_date": "2026-07-15T11:54:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTDI Will Move to Kertajati Airport, AHY Supports N219 Aircraft Production",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti7sy7490/ptdi-bakal-pindah-ke-bandara-kertajati-ahy-dukung-produksi-pesawat-n219",
+      "published_date": "2026-07-15T11:51:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mobile Animal Clinic Car, Bringing Animal Health Services Closer to Jakarta Residents",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/ti7sek375/mobil-klinik-hewan-keliling-dekatkan-layanan-kesehatan-hewan-ke-warga-jakarta",
+      "published_date": "2026-07-15T11:39:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hajj Down Payment Paid IDR 4 Trillion, Commission VIII: Don't Let Congregants Still Have Difficulty Getting Tent",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti7s99483/dp-haji-dibayar-rp4-triliun-komisi-viii-jangan-sampai-masih-ada-jamaah-kesulitan-dapat-tenda",
+      "published_date": "2026-07-15T11:36:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry Kane asks England not to get caught up in emotions when facing Argentina in the 2026 World Cup semifinals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti7qzi348/harry-kane-minta-inggris-tak-terjebak-emosi-saat-hadapi-argentina-di-semifinal-piala-dunia-2026",
+      "published_date": "2026-07-15T11:09:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PA Bandung Accepts Ridwan Kamil's Application to Adopt Arkana as a Child",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/ti7qxo282/pa-bandung-kabulkan-permohonan-ridwan-kamil-untuk-angkat-arkana-jadi-anak",
+      "published_date": "2026-07-15T11:08:12+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "After eliminating France in the semifinals, De la Fuente calls Spain the best team in the world",
       "source": "Republika English",
@@ -440,62 +503,6 @@
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-ti5xz11357197965/merekam-kepergian-sang-rahbar-dari-dekat",
       "published_date": "2026-07-14T11:45:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corruption Eradication Committee Hands Over Case Files on Alleged Hajj Quota Corruption, Yaqut Cholil Qoumas Will Be Tried Immediately",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/ti5suo375/kpk-limpahkan-berkas-perkara-dugaan-korupsi-kuota-haji-yaqut-cholil-qoumas-segera-disidang",
-      "published_date": "2026-07-14T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Instead of throwing it into the landfill, the Head of Central Java DLHK wants MBG waste to be processed by residents",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/ti5way282/daripada-dibuang-ke-tpa-kepala-dlhk-jateng-ingin-sampah-mbg-diolah-warga",
-      "published_date": "2026-07-14T11:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2,663 West Java Provincial Government ASN Allegedly Involved in Judol, Dominated by Part-Time PPPK",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/ti5wb0487/2663-asn-pemprov-jabar-diduga-terlibat-judol-didominasi-pppk-paruh-waktu",
-      "published_date": "2026-07-14T11:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dialect, Identity, and Local Community Life",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/771095/dialek-identitas-dan-kehidupan-masyarakat-lokal",
-      "published_date": "2026-07-14T11:01:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Receiving many invitations from various regions, Jokowi will go on safari to NTT",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti4zqo484/banyak-terima-undangan-dari-berbagai-daerah-jokowi-bakal-safari-ke-ntt",
-      "published_date": "2026-07-13T23:25:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Honda Presents the Small Electric Car Honda Super-One at GIIAS 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti4z87348/honda-hadirkan-mobil-listrik-mungil-honda-superone-di-giias-2026",
-      "published_date": "2026-07-13T23:14:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BKKBN Bali: Movement of Fathers Between School Children in Harmony with Culture and the Role of Men",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti4xw0130000/bkkbn-bali-gerakan-ayah-antar-anak-sekolah-selaras-budaya-dan-peran-pria",
-      "published_date": "2026-07-13T22:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG Program is Running Again, BGN Claims to Have Made Improvements",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti4woh393/program-mbg-kembali-berjalan-bgn-klaim-sudah-lakukan-pembenahan",
-      "published_date": "2026-07-13T22:19:29+00:00",
       "category": "Local Events"
     }
   ]
