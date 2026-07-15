@@ -31,6 +31,13 @@
   ],
   "Military": [
     {
+      "title": "Digital CX Awards 2026 Honors Digital Banking Innovation",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti8jn2483/digital-cx-awards-2026-beri-penghargaan-untuk-inovasi-digital-perbankan",
+      "published_date": "2026-07-15T21:28:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "15 Thousand Livable Houses Prepared for Residents in 3T Areas to Border Areas",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti7srl483/15-ribu-rumah-layak-huni-disiapkan-untuk-warga-di-daerah-3t-hingga-kawasan-perbatasan",
@@ -162,16 +169,16 @@
       "url": "https://news.republika.co.id/berita/thz90i8130000/irjen-agus-wijayanto-resmi-pimpin-polda-kaltara-terima-pataka-ngelimut-mengka-peguna",
       "published_date": "2026-07-10T21:00:18+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ex-Husband of Gowa Regent Reports to Police Allegedly False Statement at Divorce Court",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thz8cs4630000/mantan-suami-bupati-gowa-lapor-polisi-dugaan-keterangan-palsu-di-sidang-cerai",
-      "published_date": "2026-07-10T20:46:04+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "MK Decides on 23 Judicial Tests Today, Three Lawsuits on Mineral and Coal Law are Heard",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti8jre5730000/mk-putuskan-23-uji-materi-hari-ini-tiga-gugatan-uu-minerba-disidang",
+      "published_date": "2026-07-15T21:30:50+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Maintaining North Sumatra's Energy Security, Pertamina Patra Niaga Strictly Sanctions 'Naughty' Tank Car Drivers",
       "source": "Republika English",
@@ -366,6 +373,69 @@
   ],
   "Local Events": [
     {
+      "title": "Due to Argentina's comeback, Tuchel regrets that England is too passive",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8pdy348/kena-comeback-argentina-tuchel-sesalkan-inggris-terlalu-pasif",
+      "published_date": "2026-07-15T23:32:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scaloni Praises Argentina's Champion Mentality After Dramatically Eliminating England in the World Cup Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8onp348/scaloni-puji-mental-juara-argentina-setelah-singkirkan-inggris-secara-dramatis-di-final-piala-dunia",
+      "published_date": "2026-07-15T23:16:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emiliano Martinez Reveals the Key to Argentina's Resurrection: England Are Falling Back After Winning",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8nuy348/emiliano-martinez-ungkap-kunci-kebangkitan-argentina-inggris-makin-mundur-setelah-unggul",
+      "published_date": "2026-07-15T22:59:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driving License Around Jakarta Today: Check 5 Locations and Renewal Conditions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8n7g2230000/sim-keliling-jakarta-hari-ini-cek-5-lokasi-dan-syarat-perpanjangan",
+      "published_date": "2026-07-15T22:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Weather Forecast Today: All Areas Predicted to be Sunny",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8mib130000/prakiraan-cuaca-jakarta-hari-ini-seluruh-wilayah-diprediksi-cerah",
+      "published_date": "2026-07-15T22:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banjarmasin's Syamsudin Noor Airport Helps Fulfill Nutrition for 127 Children to Prevent Stunting",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8kl14130000/bandara-syamsudin-noor-banjarmasin-bantu-pemenuhan-gizi-127-anak-cegah-stunting",
+      "published_date": "2026-07-15T21:48:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dramatic Comeback! Argentina Beats England 2-1, Challenges Spain in the 2026 World Cup Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8j4t483/comeback-dramatis-argentina-tundukkan-inggris-21-tantang-spanyol-di-final-piala-dunia-2026",
+      "published_date": "2026-07-15T21:17:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG Weather Forecast This Thursday: Most of the Big Cities are Sunny and Cloudy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti8j1h1530000/prakiraan-cuaca-bmkg-kamis-ini-mayoritas-kota-besar-cerah-berawan",
+      "published_date": "2026-07-15T21:15:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waqf for Clean Water Facilities at Assalafiyyatul Huda Tasikmalaya Islamic Boarding School Inaugurated",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti8h7k483/wakaf-sarana-air-bersih-di-ponpes-assalafiyyatul-huda-tasikmalaya-diresmikan",
+      "published_date": "2026-07-15T20:35:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "From Koran Admirer Jefferson to Trump: How Has the US View of Islam Changed?",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/ti7p6q320/dari-jefferson-pengagum-alquran-hingga-trump-bagaimana-pandangan-as-terhadap-islam-berubah",
@@ -440,69 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/ti6u2v430/menag-sudah-saatnya-membaca-ulang-alquran",
       "published_date": "2026-07-14T23:18:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti6tbc430/komisi-viii-setujui-uang-dp-penyelenggaraan-haji-2027-sebesar-rp-4-triliun",
-      "published_date": "2026-07-14T23:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain Eliminates France to Advance to 2026 World Cup Final",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6t5a348/spanyol-singkirkan-prancis-untuk-melaju-ke-final-piala-dunia-2026",
-      "published_date": "2026-07-14T22:58:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPR Commission III Immediately Holds Working Committee Meeting to Oversee Ex-Jampidsus Cases",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6sr6484/komisi-iii-dpr-segera-gelar-rapat-panja-awasi-kasus-eks-jampidsus",
-      "published_date": "2026-07-14T22:49:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG: The entire Jakarta area is covered with thick clouds this Wednesday",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6rue9530000/bmkg-seluruh-wilayah-jakarta-diselimuti-awan-tebal-rabu-ini",
-      "published_date": "2026-07-14T22:30:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There were no Indonesian government representatives at the 10th anniversary of the LCS arbitration",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti62xd484/tak-ada-perwakilan-pemerintah-ri-di-peringatan-10-tahun-arbitrase-lcs",
-      "published_date": "2026-07-14T22:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gianyar DPRD Ratifies Regional Regulation on 2025 APBD Accountability, Commitment to Clean Governance",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6r841630000/dprd-gianyar-sahkan-perda-pertanggungjawaban-apbd-2025-komitmen-tata-kelola-bersih",
-      "published_date": "2026-07-14T22:16:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Governor of Bali Giri Prasta Explains SiLPA Rp. 712 Billion to DPRD",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6qgn7830000/wagub-bali-giri-prasta-jelaskan-silpa-rp712-miliar-ke-dprd",
-      "published_date": "2026-07-14T22:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Corruption Prevention Team Combs the Red and White Kopdes in Central Java which Stands on Protected Agricultural Land",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti5y53487/tim-pencegahan-korupsi-sisir-kopdes-merah-putih-di-jateng-yang-berdiri-di-lahan-pertanian-dilindungi",
-      "published_date": "2026-07-14T11:48:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recording the Rahbar's Departure from Close Up",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-ti5xz11357197965/merekam-kepergian-sang-rahbar-dari-dekat",
-      "published_date": "2026-07-14T11:45:01+00:00",
       "category": "Local Events"
     }
   ]
