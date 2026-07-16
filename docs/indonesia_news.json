@@ -31,6 +31,27 @@
   ],
   "Military": [
     {
+      "title": "This is the figure of the special prosecutor investigating former Jampidsus Febrie, there is a police prosecutor in the murder of the FPI Laskar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti9ka9377/ini-sosok-jaksa-khusus-yang-usut-eks-jampidsus-febrie-ada-penuntut-polisi-di-pembunuhan-laskar-fpi",
+      "published_date": "2026-07-16T10:39:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "MAN 3 Students Deny Making Bombs for Terror Acts, Ministry of Religion: Perpetrators are Victims of Bullying",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti9k7s483/bantah-siswa-man-3-buat-bom-untuk-aksi-teror-kemenag-pelaku-korban-perundungan",
+      "published_date": "2026-07-16T10:38:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Pentagon Wants to Close More Documents from the Public, What's Up?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti9k70451/pentagon-ingin-tutup-lebih-banyak-dokumen-dari-publik-ada-apa",
+      "published_date": "2026-07-16T10:37:48+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Digital CX Awards 2026 Honors Digital Banking Innovation",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/ti8jn2483/digital-cx-awards-2026-beri-penghargaan-untuk-inovasi-digital-perbankan",
@@ -148,27 +169,6 @@
       "url": "https://news.republika.co.id/berita/ti0c1w393/eks-jampidsus-febrie-adriansyah-masih-raib-belum-ditahan-kepolisian",
       "published_date": "2026-07-11T11:03:32+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Aiptu Nuridin was fired because he allegedly abused Siri's wife and forced her to use crystal methamphetamine",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-ti09421236989945/aiptu-nuridin-dipecat-karena-diduga-lakukan-aniaya-kepada-istri-siri-dan-paksa-pakai-sabu",
-      "published_date": "2026-07-11T10:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China-Pakistan JF-17 Enters the Caucasus, Who is Most Threatened?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thzc3d451/jf17-chinapakistan-masuk-kaukasus-siapa-yang-paling-terancam",
-      "published_date": "2026-07-10T22:06:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inspector General Agus Wijayanto Officially Leads the North Kalimantan Regional Police, Receives Pataka for Nudging Menka Peguna",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thz90i8130000/irjen-agus-wijayanto-resmi-pimpin-polda-kaltara-terima-pataka-ngelimut-mengka-peguna",
-      "published_date": "2026-07-10T21:00:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -230,6 +230,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "West Java DPRD Highlights the Importance of Land Legal Certainty for the Property Industry",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/ti9kmo368/dprd-jabar-soroti-pentingnya-kepastian-hukum-pertanahan-bagi-industri-properti",
+      "published_date": "2026-07-16T10:47:12+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Durable Rupiah Remains Above IDR 18,000 per US Dollar for a Week",
       "source": "Republika English",
@@ -362,16 +369,58 @@
       "url": "https://rejabar.republika.co.id/berita/thwtuk472/porprov-xv-jabar-diproyeksikan-jadi-penggerak-prestasi-dan-ekonomi-daerah",
       "published_date": "2026-07-09T13:37:32+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "UNM Students Win BAZNAS Santripreneur Grant 2026, Luminous Brand Ready to Enter the Market",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thwrj3472/mahasiswa-unm-raih-hibah-santripreneur-baznas-2026-brand-luminous-siap-tembus-pasar",
-      "published_date": "2026-07-09T12:47:27+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "KPK Arrests 15 Regional Heads, Minister of Home Affairs Tito: We Can't Watch 24 Hours",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti9oev377/sudah-15-kepala-daerah-ditangkap-kpk-mendagri-tito-kita-enggak-bisa-awasin-24-jam",
+      "published_date": "2026-07-16T12:08:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Religion: It's Time for Indonesia to Take the Leadership Relay of World Islamic Civilization",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/ti9n5b483/menag-saatnya-indonesia-ambil-estafet-kepemimpinan-peradaban-islam-dunia",
+      "published_date": "2026-07-16T11:41:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Peek into the Saudi Public Service Revolution: A Big Mirror for Indonesia",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/ti9kli451/mengintip-revolusi-pelayanan-publik-saudi-cermin-besar-untuk-indonesia",
+      "published_date": "2026-07-16T11:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alwi Farhan Rises to the Quarter Finals of Japan Open 2026, Ubed Stops in the Hands of the Third Seed",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti9mxt348/alwi-farhan-bangkit-menuju-perempat-final-japan-open-2026-ubed-terhenti-di-tangan-unggulan-ketiga",
+      "published_date": "2026-07-16T11:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The cabin of the Suzuki New XL7 is more premium, with the addition of modern safety features",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/ti9lit348/kabin-suzuki-new-xl7-hadir-lebih-premium-dapat-penambahan-fitur-keselamatan-modern",
+      "published_date": "2026-07-16T11:06:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Promises that the Pasar Minggu Pass Road Project will be Completed in Early 2027",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ti9jnd484/pramono-janjikan-proyek-jalan-tembus-pasar-minggu-rampung-awal-2027",
+      "published_date": "2026-07-16T10:26:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: experiencing Indonesia",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-experiencing-indonesia/",
+      "published_date": "2026-07-16T03:02:15+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Due to Argentina's comeback, Tuchel regrets that England is too passive",
       "source": "Republika English",
@@ -461,55 +510,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/ti7sy7490/ptdi-bakal-pindah-ke-bandara-kertajati-ahy-dukung-produksi-pesawat-n219",
       "published_date": "2026-07-15T11:51:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mobile Animal Clinic Car, Bringing Animal Health Services Closer to Jakarta Residents",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/ti7sek375/mobil-klinik-hewan-keliling-dekatkan-layanan-kesehatan-hewan-ke-warga-jakarta",
-      "published_date": "2026-07-15T11:39:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hajj Down Payment Paid IDR 4 Trillion, Commission VIII: Don't Let Congregants Still Have Difficulty Getting Tent",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti7s99483/dp-haji-dibayar-rp4-triliun-komisi-viii-jangan-sampai-masih-ada-jamaah-kesulitan-dapat-tenda",
-      "published_date": "2026-07-15T11:36:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry Kane asks England not to get caught up in emotions when facing Argentina in the 2026 World Cup semifinals",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti7qzi348/harry-kane-minta-inggris-tak-terjebak-emosi-saat-hadapi-argentina-di-semifinal-piala-dunia-2026",
-      "published_date": "2026-07-15T11:09:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PA Bandung Accepts Ridwan Kamil's Application to Adopt Arkana as a Child",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/ti7qxo282/pa-bandung-kabulkan-permohonan-ridwan-kamil-untuk-angkat-arkana-jadi-anak",
-      "published_date": "2026-07-15T11:08:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After eliminating France in the semifinals, De la Fuente calls Spain the best team in the world",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6utu348/usai-singkirkan-prancis-di-semifinal-de-la-fuente-sebut-spanyol-tim-terbaik-di-dunia",
-      "published_date": "2026-07-14T23:34:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbappe admits France lost tactically to Spain, failed to achieve third consecutive World Cup final",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6udd348/mbappe-akui-prancis-kalah-taktik-dari-spanyol-gagal-wujudkan-final-piala-dunia-ketiga-beruntun",
-      "published_date": "2026-07-14T23:24:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Religion: It's Time to Reread the Koran",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti6u2v430/menag-sudah-saatnya-membaca-ulang-alquran",
-      "published_date": "2026-07-14T23:18:31+00:00",
       "category": "Local Events"
     }
   ]
