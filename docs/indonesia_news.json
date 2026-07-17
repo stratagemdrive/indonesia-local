@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Visited by Qatari Ambassador Jokowi to ask about Middle East situation",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tibgl21563585706/dikunjungi-dubes-qatar-jokowi-tanya-situasi-timur-tengah",
+      "published_date": "2026-07-17T11:15:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Wuling Reveals Aira EV Details Before Official Launch at GIIAS",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/ti0si1348/wuling-ungkap-detail-aira-ev-sebelum-peluncuran-resmi-di-giias",
@@ -30,6 +37,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "TNI AL Manages 3,110 Hectares of New Land to Strengthen National Soybean Production",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibhhm451/tni-al-kelola-3110-hektare-lahan-baru-untuk-perkuat-produksi-kedelai-nasional",
+      "published_date": "2026-07-17T11:34:34+00:00",
+      "category": "Military"
+    },
     {
       "title": "TNI Commander Closes TNI Academy Education Followed by 989 Cadets in Cilangkap",
       "source": "Republika English",
@@ -162,16 +176,16 @@
       "url": "https://news.republika.co.id/berita/ti27kd377/mahfud-md-ungkap-kapolri-dan-jaksa-agung-kerap-enggan-duduk-di-satu-forum",
       "published_date": "2026-07-12T11:21:49+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Hands off, National Police Hands Over Ex-Jampidsus Case to Jampidsus Attorney General's Office",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti0d38393/lepas-tangan-polri-limpahkan-kasus-eks-jampidsus-ke-jampidsus-kejagung",
-      "published_date": "2026-07-11T11:25:56+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Patra Niaga Sumbagut and North Sumatra Regional Police Synergize to Accelerate Normalization of Fuel Distribution",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibhnp368/pertamina-patra-niaga-sumbagut-dan-polda-sumut-sinergi-percepat-normalisasi-distribusi-bbm",
+      "published_date": "2026-07-17T11:38:13+00:00",
+      "category": "Energy"
+    },
     {
       "title": "MK Decides on 23 Judicial Tests Today, Three Lawsuits on Mineral and Coal Law are Heard",
       "source": "Republika English",
@@ -216,6 +230,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Leapmotor Inaugurates the First Dealer in Indonesia, Carrying the Multi-Brand Retail Experience Concept",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibigh348/leapmotor-resmikan-dealer-pertama-di-indonesia-usung-konsep-multibrand-retail-experience",
+      "published_date": "2026-07-17T11:55:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MotoGP Audience Target Increases to 150 Thousand, This is the Economic Impact Aimed at",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibhbx490/target-penonton-motogp-naik-jadi-150-ribu-ini-dampak-ekonomi-yang-diincar",
+      "published_date": "2026-07-17T11:31:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Release of Positive Business World Data, Rupiah Closes Stronger to IDR 17,921 per US Dollar",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibgbx490/rilis-data-dunia-usaha-positif-rupiah-ditutup-menguat-ke-rp-17921-per-dolar-as",
+      "published_date": "2026-07-17T11:09:33+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ministry of Finance: 52 Percent of Retail SBN Investors Have Millennial Generation Status",
       "source": "Republika English",
@@ -334,23 +369,58 @@
       "url": "https://ekonomi.republika.co.id/berita/ti0bum368/gelar-porseni-pnm-dorong-peningkatan-produktivitas-lewat-kegiatan-sportivitas",
       "published_date": "2026-07-11T10:59:10+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "West Java DPRD is Ready to Add to the 2026 PORPROV XV Budget in the Revised APBD",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thzcke130000/dprd-jabar-siap-tambah-anggaran-porprov-xv-2026-di-apbd-perubahan",
-      "published_date": "2026-07-10T22:17:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Dharma Jaya Food Bazaar Reaches Hundreds of Settlements",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thyl9p416/bazar-pangan-dharma-jaya-jangkau-ratusan-permukiman",
-      "published_date": "2026-07-10T13:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Allegedly having no money to channel his desires, young man in Grobogan, Central Java, raped a 90 year old grandmother",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tibimq377/diduga-tak-punya-duit-salurkan-hasrat-pemuda-di-grobogan-jateng-perkosa-nenek-90-tahun",
+      "published_date": "2026-07-17T11:59:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ossy Dermawan: ASN must be Adaptive, Professional and Rich in Field Experience",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tibidj451/ossy-dermawan-asn-harus-adaptif-profesional-dan-kaya-pengalaman-lapangan",
+      "published_date": "2026-07-17T11:53:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attorney General Detains TPPU Suspect Don Ritto, Receives Case Transfer from Polda Metro Jaya",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tibi72375/kejagung-tahan-tersangka-tppu-don-ritto-terima-pelimpahan-perkara-dari-polda-metro-jaya",
+      "published_date": "2026-07-17T11:49:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRI KKB Expo Held Simultaneously at 131 Points, People Can Hunt for Vehicles with Special Promos",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibi4q368/bri-kkb-expo-digelar-serentak-di-131-titik-masyarakat-bisa-berburu-kendaraan-dengan-promo-spesial",
+      "published_date": "2026-07-17T11:48:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IPC TPK Container Flows Grow 7 Percent in Semester I 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibhlo370/arus-peti-kemas-ipc-tpk-tumbuh-7-persen-pada-semester-i-2026",
+      "published_date": "2026-07-17T11:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BYD Tech Culture Fest Visits Bandung, Expands Electric Vehicle Education in West Java",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibh6e348/byd-tech-culture-fest-sambangi-bandung-perluas-edukasi-kendaraan-listrik-di-jawa-barat",
+      "published_date": "2026-07-17T11:27:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red and White Cooperative Transactions Reach IDR 56.8 Billion, This Commodity is the Most Popular",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibfn5370/transaksi-koperasi-merah-putih-capai-rp-568-miliar-komoditas-ini-paling-laris-diburu",
+      "published_date": "2026-07-17T10:54:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pele's 1958 World Cup Final Jersey Sells for IDR 88.2 Billion, Second Most Expensive Football Memorabilia",
       "source": "Republika English",
@@ -440,55 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/ti8pdy348/kena-comeback-argentina-tuchel-sesalkan-inggris-terlalu-pasif",
       "published_date": "2026-07-15T23:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scaloni Praises Argentina's Champion Mentality After Dramatically Eliminating England in the World Cup Final",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8onp348/scaloni-puji-mental-juara-argentina-setelah-singkirkan-inggris-secara-dramatis-di-final-piala-dunia",
-      "published_date": "2026-07-15T23:16:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emiliano Martinez Reveals the Key to Argentina's Resurrection: England Are Falling Back After Winning",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8nuy348/emiliano-martinez-ungkap-kunci-kebangkitan-argentina-inggris-makin-mundur-setelah-unggul",
-      "published_date": "2026-07-15T22:59:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driving License Around Jakarta Today: Check 5 Locations and Renewal Conditions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8n7g2230000/sim-keliling-jakarta-hari-ini-cek-5-lokasi-dan-syarat-perpanjangan",
-      "published_date": "2026-07-15T22:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Weather Forecast Today: All Areas Predicted to be Sunny",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8mib130000/prakiraan-cuaca-jakarta-hari-ini-seluruh-wilayah-diprediksi-cerah",
-      "published_date": "2026-07-15T22:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banjarmasin's Syamsudin Noor Airport Helps Fulfill Nutrition for 127 Children to Prevent Stunting",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8kl14130000/bandara-syamsudin-noor-banjarmasin-bantu-pemenuhan-gizi-127-anak-cegah-stunting",
-      "published_date": "2026-07-15T21:48:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dramatic Comeback! Argentina Beats England 2-1, Challenges Spain in the 2026 World Cup Final",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8j4t483/comeback-dramatis-argentina-tundukkan-inggris-21-tantang-spanyol-di-final-piala-dunia-2026",
-      "published_date": "2026-07-15T21:17:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG Weather Forecast This Thursday: Most of the Big Cities are Sunny and Cloudy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8j1h1530000/prakiraan-cuaca-bmkg-kamis-ini-mayoritas-kota-besar-cerah-berawan",
-      "published_date": "2026-07-15T21:15:17+00:00",
       "category": "Local Events"
     }
   ]
