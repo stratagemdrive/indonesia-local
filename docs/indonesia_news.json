@@ -20,23 +20,23 @@
       "url": "https://news.republika.co.id/berita/ti11rm8830000/kh-zulfa-mustofa-siap-maju-calon-ketum-pbnu-di-muktamar-ke35",
       "published_date": "2026-07-11T20:18:58+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Buy Indomaret Fun Run 2026 tickets using BRImo, get a discount of IDR 25 thousand",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/thzeib472/beli-tiket-indomaret-fun-run-2026-pakai-brimo-dapatkan-diskon-rp-25-ribu",
-      "published_date": "2026-07-10T23:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Foreign Minister Sugiono claims that RI is the first to honor the grave of Ayatullah Ali Khamenei",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/thzf3a393/menlu-sugiono-klaim-ri-yang-perdana-beri-penghormatan-makam-ayatullah-ali-khamenei",
-      "published_date": "2026-07-10T23:11:34+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Law Enforcement Melee: Deep State, State Capture, or Institutional Conflict?",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/ticeie393/huruhara-penegak-hukum-deep-state-state-capture-atau-konflik-institusional",
+      "published_date": "2026-07-17T23:27:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AWG Condemns US Efforts to Paralyze International Criminal Court to Defend Genocide Perpetrators",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiboft430/awg-kecam-upaya-as-lumpuhkan-mahkamah-pidana-internasional-untuk-bela-pelaku-genosida",
+      "published_date": "2026-07-17T23:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "TNI AL Manages 3,110 Hectares of New Land to Strengthen National Soybean Production",
       "source": "Republika English",
@@ -162,23 +162,23 @@
       "url": "https://news.republika.co.id/berita/ti2wit7730000/bpbd-sitaro-imbau-warga-waspada-bahaya-lahar-pascaerupsi-gunung-karangetang",
       "published_date": "2026-07-12T20:20:53+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Warning Those Who Are Singing, Prabowo: You Don't Want to Work, Just Sit Down, Look Carefully!",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti28qd377/peringatkan-mereka-yang-nyinyir-prabowo-lu-gak-mau-kerja-duduk-saja-lihat-baikbaik",
-      "published_date": "2026-07-12T11:47:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mahfud MD Reveals that the National Police Chief and Attorney General are Often Reluctant to Sit in the Same Forum",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti27kd377/mahfud-md-ungkap-kapolri-dan-jaksa-agung-kerap-enggan-duduk-di-satu-forum",
-      "published_date": "2026-07-12T11:21:49+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "176 Tank Cars Deployed, Fuel Distribution in Medan Gradually Returns to Normal",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tibo6n416/176-mobil-tangki-dikerahkan-distribusi-bbm-di-medan-berangsur-normal",
+      "published_date": "2026-07-17T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Mandatory B50 Program Claimed to Save Foreign Exchange IDR 170 Trillion and Create 2.1 Million Jobs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tic8di9330000/program-wajib-b50-diklaim-hemat-devisa-rp170-triliun-dan-ciptakan-21-juta-lapangan-kerja",
+      "published_date": "2026-07-17T21:15:18+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Patra Niaga Sumbagut and North Sumatra Regional Police Synergize to Accelerate Normalization of Fuel Distribution",
       "source": "Republika English",
@@ -230,6 +230,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Bappeda Says Economic Losses Due to Rob Pantura Central Java Reach Trillions of Rupiah",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tic1g4282/bappeda-sebut-kerugian-ekonomi-akibat-rob-pantura-jateng-capai-triliunan-rupiah",
+      "published_date": "2026-07-17T20:29:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Leapmotor Inaugurates the First Dealer in Indonesia, Carrying the Multi-Brand Retail Experience Concept",
       "source": "Republika English",
@@ -362,16 +369,51 @@
       "url": "https://news.republika.co.id/berita/ti112r8330000/menhaj-sebut-ikan-baubau-berkualitas-untuk-konsumsi-jamaah-haji-di-arab-saudi",
       "published_date": "2026-07-11T20:04:03+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Holding PORSENI, PNM Encourages Increased Productivity Through Sportsmanship Activities",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti0bum368/gelar-porseni-pnm-dorong-peningkatan-produktivitas-lewat-kegiatan-sportivitas",
-      "published_date": "2026-07-11T10:59:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ole Romeny and Justin Hubner Defend Fortuna Sittard in Test Match Against Olympiacos",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tice51348/ole-romeny-dan-justin-hubner-bela-fortuna-sittard-dalam-laga-uji-coba-lawan-olympiacos",
+      "published_date": "2026-07-17T23:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slavko Vincic was shaking after being appointed referee for the 2026 World Cup final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ticdt5348/slavko-vincic-gemetar-usai-ditunjuk-jadi-wasit-final-piala-dunia-2026",
+      "published_date": "2026-07-17T23:12:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Entering the Drought, Tens of Hectares of Land in 16 Central Java Regions Burned",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tic20e282/masuki-kemarau-puluhan-hektare-lahan-di-16-daerah-jateng-terbakar",
+      "published_date": "2026-07-17T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France vs England: Les Blues Lead the Meeting Record in the Battle for Third Place in the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/ticbuf030000/prancis-vs-inggris-les-blues-unggul-rekor-pertemuan-di-perebutan-tempat-ketiga-piala-dunia-2026",
+      "published_date": "2026-07-17T22:30:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DPRD is surprised that 1.2 million NIKs of Central Java residents could be hacked by cellphone technicians",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tic1oj282/dprd-heran-12-juta-nik-warga-jateng-bisa-dibobol-teknisi-hp",
+      "published_date": "2026-07-17T22:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Regent of Jeje said that cooperatives would be a driver of economic independence in West Java",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tic17i282/bupati-jeje-sebut-koperasi-bakal-jadi-penggerak-kemandirian-ekonomi-di-jawa-barat",
+      "published_date": "2026-07-17T21:37:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Allegedly having no money to channel his desires, young man in Grobogan, Central Java, raped a 90 year old grandmother",
       "source": "Republika English",
@@ -468,48 +510,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/ti9n5b483/menag-saatnya-indonesia-ambil-estafet-kepemimpinan-peradaban-islam-dunia",
       "published_date": "2026-07-16T11:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Peek into the Saudi Public Service Revolution: A Big Mirror for Indonesia",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/ti9kli451/mengintip-revolusi-pelayanan-publik-saudi-cermin-besar-untuk-indonesia",
-      "published_date": "2026-07-16T11:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alwi Farhan Rises to the Quarter Finals of Japan Open 2026, Ubed Stops in the Hands of the Third Seed",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti9mxt348/alwi-farhan-bangkit-menuju-perempat-final-japan-open-2026-ubed-terhenti-di-tangan-unggulan-ketiga",
-      "published_date": "2026-07-16T11:37:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The cabin of the Suzuki New XL7 is more premium, with the addition of modern safety features",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti9lit348/kabin-suzuki-new-xl7-hadir-lebih-premium-dapat-penambahan-fitur-keselamatan-modern",
-      "published_date": "2026-07-16T11:06:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pramono Promises that the Pasar Minggu Pass Road Project will be Completed in Early 2027",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti9jnd484/pramono-janjikan-proyek-jalan-tembus-pasar-minggu-rampung-awal-2027",
-      "published_date": "2026-07-16T10:26:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: experiencing Indonesia",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-experiencing-indonesia/",
-      "published_date": "2026-07-16T03:02:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Due to Argentina's comeback, Tuchel regrets that England is too passive",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti8pdy348/kena-comeback-argentina-tuchel-sesalkan-inggris-terlalu-pasif",
-      "published_date": "2026-07-15T23:32:22+00:00",
       "category": "Local Events"
     }
   ]
