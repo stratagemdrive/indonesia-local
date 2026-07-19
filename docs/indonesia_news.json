@@ -10,6 +10,13 @@
   ],
   "Military": [
     {
+      "title": "BMKG Warns of Moderate to Light Rain in Big Cities Today",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tig1vi4330000/bmkg-imbau-waspada-hujan-sedang-hingga-ringan-di-kota-besar-hari-ini",
+      "published_date": "2026-07-19T22:45:18+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Explanation of the plot of the film The Odyssey, suitable for those who are still confused",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tie8e5425/penjelasan-alur-film-the-odyssey-cocok-buat-yang-masih-bingung",
@@ -141,13 +148,6 @@
       "url": "https://news.republika.co.id/berita/ti4wb2393/polisi-masih-tutup-mulut-soal-pemilik-emas-74-kg-di-rumah-febrie",
       "published_date": "2026-07-13T22:11:26+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Remind Corruptors to Be Self-Aware, President: People are not Stupid",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti34et484/ingatkan-para-koruptor-sadar-diri-presiden-rakyat-tidak-bodoh",
-      "published_date": "2026-07-12T23:11:17+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -206,16 +206,16 @@
       "url": "https://ekonomi.republika.co.id/berita/ti501m423/danantara-garap-26-proyek-hilirisasi-senilai-rp-225-triliun",
       "published_date": "2026-07-13T23:32:10+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "RI 1 Targets Indonesia to Produce Gasoline from Plants in Another 3-4 Years",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti2zb2484/ri-1-targetkan-indonesia-hasilkan-bensin-dari-tanaman-34-tahun-lagi",
-      "published_date": "2026-07-12T21:21:02+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "US-Iran Conflict Continues, RI Needs to Anticipate Impact on Trade and Energy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tifetg416/konflik-asiran-berlanjut-riperlu-antisipasi-dampak-pada-perdagangan-dan-energi",
+      "published_date": "2026-07-19T23:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Baznas Encourages Zakat to Be a Direct Tax Deduction",
       "source": "Republika English",
@@ -348,16 +348,51 @@
       "url": "https://ekonomi.republika.co.id/berita/ti4xzn348/tren-positif-industri-otomotif-buat-gaikindo-optimitis-gelar-giias-2026",
       "published_date": "2026-07-13T22:47:47+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Danantara Works on PSEL to Coretax Project in Economic Spotlight",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti4x6i5730000/danantara-garap-proyek-psel-hingga-coretax-jadi-sorotan-ekonomi",
-      "published_date": "2026-07-13T22:30:18+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Rising After Failure",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tig1cu451/bangkit-setelah-kegagalan",
+      "published_date": "2026-07-19T23:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luis De La Fuente: Spain's Golden Generation Deserves to Be World Champions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tig1ze348/luis-de-la-fuente-generasi-emas-spanyol-layak-jadi-juara-dunia",
+      "published_date": "2026-07-19T22:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Festive Archipelago Cultural Event and Call for Child Protection Ahead of 2026 HAN",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tig16n1530000/gelaran-budaya-nusantara-meriah-hingga-ajakan-perlindungan-anak-jelang-han-2026",
+      "published_date": "2026-07-19T22:30:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain Wins 2026 World Cup, Beats Argentina Through Ferran Torres Goal",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tig035348/spanyol-juara-piala-dunia-2026-taklukkan-argentina-lewat-gol-ferran-torres",
+      "published_date": "2026-07-19T22:06:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Chairman of Commission VII DPR Watching the 2026 World Cup Final at the ANTARA Heritage Center",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tifz3f2830000/wakil-ketua-komisi-vii-dpr-nobar-final-piala-dunia-2026-di-antara-heritage-center",
+      "published_date": "2026-07-19T21:45:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rano Karno: Celebrating the World Cup is a platform for Jakarta residents to come together",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tifwbk2430000/rano-karno-nobar-piala-dunia-jadi-wadah-kebersamaan-warga-jakarta",
+      "published_date": "2026-07-19T20:45:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Instagram and Facebook Down Simultaneously, Netizens Are Confused",
       "source": "Republika English",
@@ -454,48 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tie8sx348/drama-10-gol-inggris-peringkat-tiga-piala-dunia-2026-usai-bungkam-prancis-64",
       "published_date": "2026-07-18T23:19:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serusa Elementary School 016 teacher was touched, his comments on Instagram took the form of a visit from Gibran",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tie8cn484/guru-sd-016-serusa-terharu-komentarnya-di-instagram-berwujud-dikunjungi-gibran",
-      "published_date": "2026-07-18T23:09:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MUI Invites Artists to Come to Islamic Boarding Schools and Mosques to Promote a Culture that is Clean from Corruption",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tie7xj430/mui-ajak-seniman-turun-ke-pesantren-dan-masjid-suarakan-kebudayaan-yang-bersih-dari-korupsi",
-      "published_date": "2026-07-18T23:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Many families postpone child circumcision due to cost reasons",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tie7qf430/banyak-keluarga-menunda-pelaksanaan-khitan-anak-karena-alasan-biaya",
-      "published_date": "2026-07-18T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenagers Ask Scholars, The Results Are Brought to the VIII Muslim Ummah Congress",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tie7jb430/remaja-bertanya-kepada-ulama-hasilnya-dibawa-ke-kongres-umat-islam-viii",
-      "published_date": "2026-07-18T22:52:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Journalism and Government, Maintaining Democratic Space",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tie7hf451/jurnalisme-dan-pemerintah-menjaga-ruang-demokrasi",
-      "published_date": "2026-07-18T22:51:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bali DPRD Pushes for Revision of Subak Regional Regulation to Increase Assistance for Farmers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tie3qk4930000/dprd-bali-dorong-revisi-perda-subak-demi-tingkatkan-bantuan-untuk-petani",
-      "published_date": "2026-07-18T21:30:20+00:00",
       "category": "Local Events"
     }
   ]
