@@ -10,6 +10,20 @@
   ],
   "Military": [
     {
+      "title": "Procurement at West Lombok Regency Government, KPK: Regent Receives Fee IDR 10.8 Billion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiivsx484/pengadaan-di-pemkab-lombok-barat-kpk-bupati-terima-fee-rp108-miliar",
+      "published_date": "2026-07-21T11:26:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military-cleric alliance may fuel new anti-LGBTQ sentiment in Indonesia",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/military-cleric-alliance-may-fuel-new-anti-lgbtq-sentiment-in-indonesia/",
+      "published_date": "2026-07-21T00:01:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "BMKG Warns of Moderate to Light Rain in Big Cities Today",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tig1vi4330000/bmkg-imbau-waspada-hujan-sedang-hingga-ringan-di-kota-besar-hari-ini",
@@ -120,20 +134,6 @@
       "url": "https://news.republika.co.id/berita/ti6sjw8230000/pangdam-merdeka-ketahanan-pangan-tanggung-jawab-bersama-bukan-hanya-petani",
       "published_date": "2026-07-14T22:45:32+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Why did Iran choose to attack Gulf countries instead of US warships? This is what military experts say",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti5wq0320/mengapa-iran-memilih-serang-negara-teluk-ketimbang-kapal-perang-as-ini-kata-pakar-militer",
-      "published_date": "2026-07-14T11:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police vs prosecutors? Indonesia’s latest corruption scandal exposes elite fracturing under Prabowo",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/police-vs-prosecutors-indonesias-latest-corruption-scandal-exposes-elite-fracturing-under-prabowo/",
-      "published_date": "2026-07-14T07:52:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -216,6 +216,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "PELNI Expands the Reach of Ship Agency Services to Neighboring Countries",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiiw18349/pelni-perluas-jangkauan-layanan-keagenan-kapal-hingga-ke-negeri-jiran",
+      "published_date": "2026-07-21T11:31:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BPKS transformation is said to be able to change Sabang's economic future",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiiswb416/transformasi-bpks-disebut-bisa-ubah-masa-depan-ekonomi-sabang",
+      "published_date": "2026-07-21T11:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Reaching 95 Percent, the Ministry of Manpower Has Distributed IDR 9.63 Trillion BSU",
       "source": "Republika English",
@@ -341,23 +355,65 @@
       "url": "https://rejabar.republika.co.id/berita/ti9kmo368/dprd-jabar-soroti-pentingnya-kepastian-hukum-pertanahan-bagi-industri-properti",
       "published_date": "2026-07-16T10:47:12+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Durable Rupiah Remains Above IDR 18,000 per US Dollar for a Week",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti7tno490/rupiah-awet-bertahan-di-atas-rp-18000-per-dolar-as-selama-sepekan",
-      "published_date": "2026-07-15T12:07:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Ministry of Haj is proposing a down payment of IDR 4 trillion for preparation for the 2027 Hajj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti5you430/kemenhaj-usulkan-uang-muka-rp-4-triliun-untuk-persiapan-haji-2027",
-      "published_date": "2026-07-14T12:00:30+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Eight out of 10 Children Prefer to Confide in Friends rather than Parents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiivo1451/delapan-dari-10-anak-lebih-memilih-curhat-kepada-teman-daripada-orang-tua",
+      "published_date": "2026-07-21T12:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waste Continues to Mount, It's Time for Indonesia to Implement Eco Modulation",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tiixg2416/sampah-terus-menggunung-saatnya-indonesia-terapkan-eco-modulation",
+      "published_date": "2026-07-21T12:13:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosion Allegedly Gas Destroys Luxury House in Polinia Medan, 5 Neighboring Houses Also Damaged",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tiiwqz282/ledakan-diduga-gas-hancurkan-rumah-mewah-di-polinia-medan-5-rumah-tetangga-ikut-rusak",
+      "published_date": "2026-07-21T11:47:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One in Three Teenagers in Indonesia Experiences Mental Health Disorders",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tiiwqt425/satu-dari-tiga-remaja-di-indonesia-alami-gangguan-kesehatan-mental",
+      "published_date": "2026-07-21T11:47:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KAI: Many foreign tourists are starting to use Java and Sumatra Regional Stations",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiiwcf349/kai-wisatawan-mancanegara-mulai-ramai-gunakan-stasiun-regional-jawa-dan-sumatera",
+      "published_date": "2026-07-21T11:38:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moment of Spanish Princess 'Reunion' with World Cup Trophy",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tiivrj425/momen-putri-spanyol-reuni-dengan-trofi-piala-dunia",
+      "published_date": "2026-07-21T11:26:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palace confirms there are no plans for Prabowo to reshuffle the cabinet",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiiuao409/istana-tegaskan-belum-ada-rencana-prabowo-merombak-kabinet",
+      "published_date": "2026-07-21T10:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Social Media is Crowded but Can Still Make You Feel Lonely",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tiiu1e328/media-sosial-ramai-tapi-tetap-bisa-membuat-merasa-kesepian",
+      "published_date": "2026-07-21T10:48:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "FIFA Investigates Chaos in 2026 World Cup Final, Several Argentinian Players Threatened with Match Ban",
       "source": "Republika English",
@@ -440,62 +496,6 @@
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tih3d1214672993/prabowo-kita-selesaikan-108-masalah-dalam-setahun",
       "published_date": "2026-07-20T12:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kebon Sirih Road Repaired, Residents Complain that Congestion is Getting Worse",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tih30d487/jalan-kebon-sirih-diperbaiki-warga-keluhkan-kemacetan-makin-parah",
-      "published_date": "2026-07-20T12:07:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rising After Failure",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tig1cu451/bangkit-setelah-kegagalan",
-      "published_date": "2026-07-19T23:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luis De La Fuente: Spain's Golden Generation Deserves to Be World Champions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tig1ze348/luis-de-la-fuente-generasi-emas-spanyol-layak-jadi-juara-dunia",
-      "published_date": "2026-07-19T22:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Festive Archipelago Cultural Event and Call for Child Protection Ahead of 2026 HAN",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tig16n1530000/gelaran-budaya-nusantara-meriah-hingga-ajakan-perlindungan-anak-jelang-han-2026",
-      "published_date": "2026-07-19T22:30:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain Wins 2026 World Cup, Beats Argentina Through Ferran Torres Goal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tig035348/spanyol-juara-piala-dunia-2026-taklukkan-argentina-lewat-gol-ferran-torres",
-      "published_date": "2026-07-19T22:06:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Chairman of Commission VII DPR Watching the 2026 World Cup Final at the ANTARA Heritage Center",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tifz3f2830000/wakil-ketua-komisi-vii-dpr-nobar-final-piala-dunia-2026-di-antara-heritage-center",
-      "published_date": "2026-07-19T21:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rano Karno: Celebrating the World Cup is a platform for Jakarta residents to come together",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tifwbk2430000/rano-karno-nobar-piala-dunia-jadi-wadah-kebersamaan-warga-jakarta",
-      "published_date": "2026-07-19T20:45:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Instagram and Facebook Down Simultaneously, Netizens Are Confused",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tif6nl425/instagram-dan-facebook-down-barengan-warganet-kebingungan",
-      "published_date": "2026-07-19T11:30:57+00:00",
       "category": "Local Events"
     }
   ]
