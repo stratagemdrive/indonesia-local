@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Europe Begins to Divide, Six Countries Reject New Sanctions against Russia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijq1r451/eropa-mulai-terbelah-enam-negara-tolak-sanksi-baru-terhadap-rusia",
+      "published_date": "2026-07-21T22:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Visited by Qatari Ambassador Jokowi to ask about Middle East situation",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tibgl21563585706/dikunjungi-dubes-qatar-jokowi-tanya-situasi-timur-tengah",
@@ -9,6 +16,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "Commander in Chief Ensures TNI Supports President's Target of Realizing Rice Self-Sufficiency",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijr2r484/panglima-pastikan-tni-dukung-target-presiden-wujudkan-swasembada-beras",
+      "published_date": "2026-07-21T22:42:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Police Perpetrating Sexual Violence in Wonogiri Turns Out to be the Founder and Caretaker of the Islamic Boarding School",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tijf82282/polisi-pelaku-kekerasan-seksual-di-wonogiri-ternyata-pendiri-dan-pengasuh-ponpes",
+      "published_date": "2026-07-21T22:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "MUI will write to the National Police Chief and the President regarding the arrest of Palestinian citizens",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tijpsq320/mui-akan-surati-kapolri-dan-presiden-soal-penangkapan-warga-negara-palestina",
+      "published_date": "2026-07-21T22:14:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In one day, 2 fires occurred in Cirebon Regency, Al-Anwariyah Islamic Boarding School and Residents' Goat Pens",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tijery282/dalam-sehari-2-kebakaran-terjadi-di-kabupaten-cirebon-ponpes-alanwariyah-dan-kandang-kambing-warga",
+      "published_date": "2026-07-21T22:14:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Procurement at West Lombok Regency Government, KPK: Regent Receives Fee IDR 10.8 Billion",
       "source": "Republika English",
@@ -113,27 +148,6 @@
       "url": "https://news.republika.co.id/berita/ti7fxo451/drone-tempur-kizilelma-tembakkan-rudal-supersonik-turki-pamer-kekuatan-baru-di-langit-nato",
       "published_date": "2026-07-15T11:02:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Kuntadi was proposed to become Jampidsus, took part in a meeting with the Minister of Defense",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6ud3484/kuntadi-diusulkan-jadi-jampidsus-sempat-ikut-rapat-bareng-menhan",
-      "published_date": "2026-07-14T23:24:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6t8s393/pembantaian-israel-bunuh-delapan-warga-gaza-di-pos-polisi",
-      "published_date": "2026-07-14T23:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pangdam Merdeka: Food Security is a Shared Responsibility, Not Just Farmers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti6sjw8230000/pangdam-merdeka-ketahanan-pangan-tanggung-jawab-bersama-bukan-hanya-petani",
-      "published_date": "2026-07-14T22:45:32+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -216,6 +230,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Honors for Economic Census Officers Called Loss, Central Java BPS Gives Explanation",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tijfyq282/honor-petugas-sensus-ekonomi-disebut-macet-bps-jateng-beri-penjelasan",
+      "published_date": "2026-07-21T23:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MBG Budget This Year Cut to IDR 229 Trillion, BGN: Potential to Decrease Again",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijrn4348/anggaran-mbg-tahun-ini-dipangkas-jadi-rp229-triliun-bgn-berpotensi-akan-turun-lagi",
+      "published_date": "2026-07-21T22:54:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Official! Chelsea Sign Morgan Rogers from Aston Villa on a Seven-Year Contract",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijr7h7530000/resmi-chelsea-gaet-morgan-rogers-dari-aston-villa-dengan-kontrak-tujuh-tahun",
+      "published_date": "2026-07-21T22:45:17+00:00",
+      "category": "Economy"
+    },
     {
       "title": "PELNI Expands the Reach of Ship Agency Services to Neighboring Countries",
       "source": "Republika English",
@@ -334,30 +369,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tibgbx490/rilis-data-dunia-usaha-positif-rupiah-ditutup-menguat-ke-rp-17921-per-dolar-as",
       "published_date": "2026-07-17T11:09:33+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ministry of Finance: 52 Percent of Retail SBN Investors Have Millennial Generation Status",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tiak1d484/kemenkeu-52-persen-investor-sbn-ritel-berstatus-generasi-milenial",
-      "published_date": "2026-07-16T23:32:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Don't Wait Thirsty! Fill your body with hydration through these 11 foods",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/ti9qw8425/jangan-tunggu-haus-penuhi-hidrasi-tubuh-lewat-11-makanan-ini",
-      "published_date": "2026-07-16T21:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "West Java DPRD Highlights the Importance of Land Legal Certainty for the Property Industry",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/ti9kmo368/dprd-jabar-soroti-pentingnya-kepastian-hukum-pertanahan-bagi-industri-properti",
-      "published_date": "2026-07-16T10:47:12+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "KLH: Incompatibility with Spatial Planning Worsens Hydrometeorological Disasters in Sumatra",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tijtrg370/klh-ketidaksesuaian-tata-ruang-perparah-bencana-hidrometeorologi-di-sumatera",
+      "published_date": "2026-07-21T23:40:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo should not be paying for diplomacy (but he should stop travelling so much)",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowo-should-not-be-paying-for-diplomacy-but-he-should-stop-travelling-so-much/",
+      "published_date": "2026-07-21T23:39:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 World Cup Final Breaks Records in US, More Than 60 Million Viewers Watch Spain Win",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijtkw348/final-piala-dunia-2026-pecahkan-rekor-di-as-lebih-dari-60-juta-penonton-saksikan-spanyol-juara",
+      "published_date": "2026-07-21T23:36:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IShowSpeed ​​Makes History at the 2026 World Cup Final, Becoming the First Streamer at the FIFA Ceremony",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tijtay348/ishowspeed-ukir-sejarah-di-final-piala-dunia-2026-jadi-streamer-pertama-di-upacara-fifa",
+      "published_date": "2026-07-21T23:30:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six Indonesian Representatives Hunt for Places in the Top 16 of China Open 2026 Today, There Are Jojo and Fajar/Fikri",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijslr348/enam-wakil-indonesia-berburu-tempat-di-16-besar-china-open-2026-hari-ini-ada-jojo-dan-fajarfikri",
+      "published_date": "2026-07-21T23:15:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java Regional Police Invite Residents to Catch Robbers Together, But Don't Take Judge Alone",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tijbqp282/polda-jabar-ajak-warga-samasama-tangkap-begal-tapi-jangan-main-hakim-sendiri",
+      "published_date": "2026-07-21T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Corruption Eradication Committee (KPK) Affirms that the OTT for the Regent of Langkat and West Lombok is Purely Law Enforcement, Not Political",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tijqik1130000/kpk-tegaskan-ott-bupati-langkat-dan-lombok-barat-murni-penegakan-hukum-bukan-politis",
+      "published_date": "2026-07-21T22:30:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Eight out of 10 Children Prefer to Confide in Friends rather than Parents",
       "source": "Republika English",
@@ -447,55 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tihuid2430000/mendagri-tito-karnavian-prihatin-ingatkan-kepala-daerah-jaga-integritas-pasca-ott-bupati-lombok-barat",
       "published_date": "2026-07-20T22:01:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bapanas Invites Regional Governments to Strengthen Synergy to Maintain Stability of Food Supply and Prices",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tihsdq8730000/bapanas-ajak-pemda-perkuat-sinergi-jaga-stabilitas-pasokan-dan-harga-pangan",
-      "published_date": "2026-07-20T21:15:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pasar Senen Station is Most Busy in Semester I 2026, KAI Records 59.7 Million Passenger Activities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tihroo3230000/stasiun-pasar-senen-terpadat-semester-i-2026-kai-catat-597-juta-aktivitas-penumpang",
-      "published_date": "2026-07-20T21:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese Foreigners Control Judol Business in Indonesia, Recruit Local Residents, Turnover IDR 96 Billion",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tih5h5393/wna-china-kendalikan-bisnis-judol-di-indonesia-rekrut-warga-lokal-omzet-rp-96-miliar",
-      "published_date": "2026-07-20T13:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Contagious Fortune",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tih46a415/rezeki-yang-menular",
-      "published_date": "2026-07-20T12:32:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KOI Shifts Election of General Chair to 2029, Follows Olympic Cycle",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tih3gz348/koi-geser-pemilihan-ketua-umum-ke-2029-ikuti-siklus-olimpiade",
-      "published_date": "2026-07-20T12:17:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drought Hits 10 Villages in Six Districts in Purbalingga, Residents Need Clean Water",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tih3ev487/kekeringan-melanda-10-desa-di-enam-kecamatan-di-purbalingga-warga-butuh-air-bersih",
-      "published_date": "2026-07-20T12:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo We Solve 108 Problems in a Year",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tih3d1214672993/prabowo-kita-selesaikan-108-masalah-dalam-setahun",
-      "published_date": "2026-07-20T12:15:01+00:00",
       "category": "Local Events"
     }
   ]
