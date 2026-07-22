@@ -17,6 +17,13 @@
   ],
   "Military": [
     {
+      "title": "Trump asks for additional IDR 1,568 T, Pete Hegseth gets angry when asked about the end of the war",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tilmx8451/trump-minta-tambahan-rp1568-t-pete-hegseth-berang-saat-ditanya-ujung-perang",
+      "published_date": "2026-07-22T23:38:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Commander in Chief Ensures TNI Supports President's Target of Realizing Rice Self-Sufficiency",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tijr2r484/panglima-pastikan-tni-dukung-target-presiden-wujudkan-swasembada-beras",
@@ -127,16 +134,16 @@
       "url": "https://news.republika.co.id/berita/ti9k70451/pentagon-ingin-tutup-lebih-banyak-dokumen-dari-publik-ada-apa",
       "published_date": "2026-07-16T10:37:48+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Digital CX Awards 2026 Honors Digital Banking Innovation",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti8jn2483/digital-cx-awards-2026-beri-penghargaan-untuk-inovasi-digital-perbankan",
-      "published_date": "2026-07-15T21:28:14+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Death in the Himalayas, Indian Hydroelectric Power Plant Tunnel Explosion Kills 12 Workers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tilkdo451/maut-di-perut-himalaya-ledakan-terowongan-plta-india-tewaskan-12-pekerja",
+      "published_date": "2026-07-22T22:56:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Patra Niaga Accelerates Development of the SAF Ecosystem, Towards Low Emission Aviation",
       "source": "Republika English",
@@ -205,13 +212,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tibhnp368/pertamina-patra-niaga-sumbagut-dan-polda-sumut-sinergi-percepat-normalisasi-distribusi-bbm",
       "published_date": "2026-07-17T11:38:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "MK Decides on 23 Judicial Tests Today, Three Lawsuits on Mineral and Coal Law are Heard",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/ti8jre5730000/mk-putuskan-23-uji-materi-hari-ini-tiga-gugatan-uu-minerba-disidang",
-      "published_date": "2026-07-15T21:30:50+00:00",
       "category": "Energy"
     }
   ],
@@ -359,6 +359,69 @@
   ],
   "Local Events": [
     {
+      "title": "MBG Poisoning Case is a Concern, Sudaryono Promises to Tighten Raw Material Standards",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tilodx348/kasus-keracunan-mbg-jadi-perhatian-sudaryono-janji-perketat-standar-bahan-baku",
+      "published_date": "2026-07-22T23:39:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Casemiro Closes to Inter Miami, Ready to Help Messi from Midfield",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tilo5r348/casemiro-merapat-ke-inter-miami-siap-bantu-messi-dari-lini-tengah",
+      "published_date": "2026-07-22T23:34:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Audi Prepares New Premium SUV to Debut at GIIAS 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tilnkm348/audi-siapkan-suv-premium-baru-untuk-debut-di-giias-2026",
+      "published_date": "2026-07-22T23:21:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIGC Admits Establishing Communication with Guardiola to Train Italian National Team",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tilmzd348/figc-akui-jalin-komunikasi-dengan-guardiola-untuk-latih-timnas-italia",
+      "published_date": "2026-07-22T23:09:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "University for the State or University for the Nation?",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tilmm8393/universitas-untuk-negara-atau-universitas-bagi-bangsa",
+      "published_date": "2026-07-22T23:01:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General Chairperson of PSSI: The Women's National Team's Consecutive Champion Title is Proof that Indonesian Women's Football Continues to Progress",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tilmj0348/ketum-umum-pssi-gelar-juara-beruntun-timnas-putri-bukti-sepak-bola-putri-indonesia-terus-maju",
+      "published_date": "2026-07-22T22:59:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cypriot Media Reveals 12 Charges in Cases of Palestinians Extradited from Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tillog484/media-siprus-beberkan-12-dakwaan-kasus-warga-palestina-yang-diekstradisi-dari-indonesia",
+      "published_date": "2026-07-22T22:41:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Happy National Children's Day! These are the three main messages of this year's commemoration",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tilk7m425/selamat-hari-anak-nasional-ini-tiga-pesan-utama-peringatan-tahun-ini",
+      "published_date": "2026-07-22T22:09:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Construction of MRT Jakarta Phase 2A Project Reaches 61.8 Percent",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/til3u1375/pembangunan-proyek-mrt-jakarta-fase-2a-capai-618-persen",
+      "published_date": "2026-07-22T22:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Not just eggs, these 10 foods are also high in protein",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tiksce425/bukan-cuma-telur-10-makanan-ini-juga-tinggi-protein",
@@ -433,69 +496,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tijbqp282/polda-jabar-ajak-warga-samasama-tangkap-begal-tapi-jangan-main-hakim-sendiri",
       "published_date": "2026-07-21T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corruption Eradication Committee (KPK) Affirms that the OTT for the Regent of Langkat and West Lombok is Purely Law Enforcement, Not Political",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tijqik1130000/kpk-tegaskan-ott-bupati-langkat-dan-lombok-barat-murni-penegakan-hukum-bukan-politis",
-      "published_date": "2026-07-21T22:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight out of 10 Children Prefer to Confide in Friends rather than Parents",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiivo1451/delapan-dari-10-anak-lebih-memilih-curhat-kepada-teman-daripada-orang-tua",
-      "published_date": "2026-07-21T12:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Waste Continues to Mount, It's Time for Indonesia to Implement Eco Modulation",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tiixg2416/sampah-terus-menggunung-saatnya-indonesia-terapkan-eco-modulation",
-      "published_date": "2026-07-21T12:13:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion Allegedly Gas Destroys Luxury House in Polinia Medan, 5 Neighboring Houses Also Damaged",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tiiwqz282/ledakan-diduga-gas-hancurkan-rumah-mewah-di-polinia-medan-5-rumah-tetangga-ikut-rusak",
-      "published_date": "2026-07-21T11:47:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One in Three Teenagers in Indonesia Experiences Mental Health Disorders",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tiiwqt425/satu-dari-tiga-remaja-di-indonesia-alami-gangguan-kesehatan-mental",
-      "published_date": "2026-07-21T11:47:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KAI: Many foreign tourists are starting to use Java and Sumatra Regional Stations",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tiiwcf349/kai-wisatawan-mancanegara-mulai-ramai-gunakan-stasiun-regional-jawa-dan-sumatera",
-      "published_date": "2026-07-21T11:38:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moment of Spanish Princess 'Reunion' with World Cup Trophy",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tiivrj425/momen-putri-spanyol-reuni-dengan-trofi-piala-dunia",
-      "published_date": "2026-07-21T11:26:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palace confirms there are no plans for Prabowo to reshuffle the cabinet",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiiuao409/istana-tegaskan-belum-ada-rencana-prabowo-merombak-kabinet",
-      "published_date": "2026-07-21T10:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Social Media is Crowded but Can Still Make You Feel Lonely",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tiiu1e328/media-sosial-ramai-tapi-tetap-bisa-membuat-merasa-kesepian",
-      "published_date": "2026-07-21T10:48:50+00:00",
       "category": "Local Events"
     }
   ]
