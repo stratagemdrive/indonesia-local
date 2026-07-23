@@ -113,27 +113,6 @@
       "url": "https://news.republika.co.id/berita/tiajsw348/takdir-unik-lamine-yamal-dari-bayi-dalam-gendongan-messi-hingga-jadi-rival-di-final-piala-dunia",
       "published_date": "2026-07-16T23:26:56+00:00",
       "category": "Military"
-    },
-    {
-      "title": "This is the figure of the special prosecutor investigating former Jampidsus Febrie, there is a police prosecutor in the murder of the FPI Laskar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti9ka9377/ini-sosok-jaksa-khusus-yang-usut-eks-jampidsus-febrie-ada-penuntut-polisi-di-pembunuhan-laskar-fpi",
-      "published_date": "2026-07-16T10:39:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MAN 3 Students Deny Making Bombs for Terror Acts, Ministry of Religion: Perpetrators are Victims of Bullying",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/ti9k7s483/bantah-siswa-man-3-buat-bom-untuk-aksi-teror-kemenag-pelaku-korban-perundungan",
-      "published_date": "2026-07-16T10:38:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Pentagon Wants to Close More Documents from the Public, What's Up?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/ti9k70451/pentagon-ingin-tutup-lebih-banyak-dokumen-dari-publik-ada-apa",
-      "published_date": "2026-07-16T10:37:48+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -216,6 +195,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Example of Practice in Malaysia, FOZ Encourages Zakat as a Direct Tax Deduction",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/timmax483/contoh-praktik-di-malaysia-foz-dorong-zakat-jadi-pengurang-pajak-langsung",
+      "published_date": "2026-07-23T11:52:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Indonesian Health Industry Continues to Grow, It's Time for Clinics to Improve Operational Efficiency",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/772988/industri-kesehatan-indonesia-terus-bertumbuh-saatnya-klinik-meningkatkan-efisiensi-operasional",
+      "published_date": "2026-07-23T11:17:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BP BUMN Reveals IFG Transformation, 12 Entities Cut",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/timjum416/bp-bumn-ungkap-transformasi-ifg-12-entitas-dipangkas",
+      "published_date": "2026-07-23T10:59:10+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Officially Inaugurated, Sudaryono Replaces Nanik S. Deyang as Head of BGN",
       "source": "Republika English",
@@ -334,30 +334,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tid7ne416/sektor-pangan-energi-dan-umkm-dinilai-jadi-penyangga-ekonomi-nasional",
       "published_date": "2026-07-18T10:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "As the founder of WAICO, AI is projected to contribute 366 billion US dollars to the Indonesian economy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tid88q423/jadi-pendiri-waico-ai-diproyeksikan-sumbang-366-miliar-dolar-as-bagi-ekonomi-ri",
-      "published_date": "2026-07-18T10:10:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bappeda Says Economic Losses Due to Rob Pantura Central Java Reach Trillions of Rupiah",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tic1g4282/bappeda-sebut-kerugian-ekonomi-akibat-rob-pantura-jateng-capai-triliunan-rupiah",
-      "published_date": "2026-07-17T20:29:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Leapmotor Inaugurates the First Dealer in Indonesia, Carrying the Multi-Brand Retail Experience Concept",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tibigh348/leapmotor-resmikan-dealer-pertama-di-indonesia-usung-konsep-multibrand-retail-experience",
-      "published_date": "2026-07-17T11:55:29+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Doctor Strange Director 'Sprays' Elon Musk About Plans to Make the Film The Odyssey Using AI",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/timngs425/sutradara-doctor-strange-semprot-elon-musk-soal-rencana-bikin-film-the-odyssey-pakai-ai",
+      "published_date": "2026-07-23T12:17:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red and White Kopdes Becomes Center for Distribution of Government Programs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/timmks484/kopdes-merah-putih-jadi-pusat-penyaluran-program-pemerintah",
+      "published_date": "2026-07-23T11:58:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protect Children from LGBT Behavior, Here's How to Instill Age-Appropriate Gender Understanding",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/timl0w425/bentengi-anak-dari-perilaku-lgbt-ini-cara-tanamkan-pemahaman-gender-sesuai-usia",
+      "published_date": "2026-07-23T11:24:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coordinating Minister AHY: Transportation Decarbonization Is Not Just Reducing Emissions, It's Also for Indonesia's Future",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/timkpe472/menko-ahy-dekarbonisasi-transportasi-bukan-sekadar-kurangi-emisi-juga-untuk-masa-depan-indonesia",
+      "published_date": "2026-07-23T11:17:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brantas Abipraya Completes 238 Shelters for Flood Victims in Aceh",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/timfti416/brantas-abipraya-rampungkan-238-huntara-untuk-korban-banjir-di-aceh",
+      "published_date": "2026-07-23T11:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "MBG Poisoning Case is a Concern, Sudaryono Promises to Tighten Raw Material Standards",
       "source": "Republika English",
@@ -461,41 +475,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tijtrg370/klh-ketidaksesuaian-tata-ruang-perparah-bencana-hidrometeorologi-di-sumatera",
       "published_date": "2026-07-21T23:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo should not be paying for diplomacy (but he should stop travelling so much)",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowo-should-not-be-paying-for-diplomacy-but-he-should-stop-travelling-so-much/",
-      "published_date": "2026-07-21T23:39:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 World Cup Final Breaks Records in US, More Than 60 Million Viewers Watch Spain Win",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tijtkw348/final-piala-dunia-2026-pecahkan-rekor-di-as-lebih-dari-60-juta-penonton-saksikan-spanyol-juara",
-      "published_date": "2026-07-21T23:36:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IShowSpeed ​​Makes History at the 2026 World Cup Final, Becoming the First Streamer at the FIFA Ceremony",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tijtay348/ishowspeed-ukir-sejarah-di-final-piala-dunia-2026-jadi-streamer-pertama-di-upacara-fifa",
-      "published_date": "2026-07-21T23:30:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six Indonesian Representatives Hunt for Places in the Top 16 of China Open 2026 Today, There Are Jojo and Fajar/Fikri",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tijslr348/enam-wakil-indonesia-berburu-tempat-di-16-besar-china-open-2026-hari-ini-ada-jojo-dan-fajarfikri",
-      "published_date": "2026-07-21T23:15:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Regional Police Invite Residents to Catch Robbers Together, But Don't Take Judge Alone",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tijbqp282/polda-jabar-ajak-warga-samasama-tangkap-begal-tapi-jangan-main-hakim-sendiri",
-      "published_date": "2026-07-21T23:06:00+00:00",
       "category": "Local Events"
     }
   ]
