@@ -6,13 +6,6 @@
       "url": "https://news.republika.co.id/berita/tijq1r451/eropa-mulai-terbelah-enam-negara-tolak-sanksi-baru-terhadap-rusia",
       "published_date": "2026-07-21T22:59:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Visited by Qatari Ambassador Jokowi to ask about Middle East situation",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tibgl21563585706/dikunjungi-dubes-qatar-jokowi-tanya-situasi-timur-tengah",
-      "published_date": "2026-07-17T11:15:02+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -99,16 +92,16 @@
       "url": "https://khazanah.republika.co.id/berita/tiboft430/awg-kecam-upaya-as-lumpuhkan-mahkamah-pidana-internasional-untuk-bela-pelaku-genosida",
       "published_date": "2026-07-17T23:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TNI AL Manages 3,110 Hectares of New Land to Strengthen National Soybean Production",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tibhhm451/tni-al-kelola-3110-hektare-lahan-baru-untuk-perkuat-produksi-kedelai-nasional",
-      "published_date": "2026-07-17T11:34:34+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "PHE Energy Lenses Help Early Detection of Children's Vision Impairment",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tioazg423/lensa-energi-phe-bantu-deteksi-dini-gangguan-penglihatan-anak",
+      "published_date": "2026-07-24T10:50:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Death in the Himalayas, Indian Hydroelectric Power Plant Tunnel Explosion Kills 12 Workers",
       "source": "Republika English",
@@ -178,16 +171,16 @@
       "url": "https://news.republika.co.id/berita/tic8di9330000/program-wajib-b50-diklaim-hemat-devisa-rp170-triliun-dan-ciptakan-21-juta-lapangan-kerja",
       "published_date": "2026-07-17T21:15:18+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Sumbagut and North Sumatra Regional Police Synergize to Accelerate Normalization of Fuel Distribution",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tibhnp368/pertamina-patra-niaga-sumbagut-dan-polda-sumut-sinergi-percepat-normalisasi-distribusi-bbm",
-      "published_date": "2026-07-17T11:38:13+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Minister of Law Reviews Increase in National PNBP Rates After Receiving Public Criticism",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiofwj370/menkum-kaji-ulang-kenaikan-tarif-pnbp-kewarganegaraan-usai-tuai-kritik-publik",
+      "published_date": "2026-07-24T11:29:07+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Stalls Close One by One, Plaza Balikpapan Traders Switch to Selling Online",
       "source": "Republika English",
@@ -320,16 +313,65 @@
       "url": "https://en.republika.co.id/berita/tih4xm415/prabowo-says-dsi-strengthens-national-foreign-exchange-reserves",
       "published_date": "2026-07-20T12:48:58+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "US-Iran Conflict Continues, RI Needs to Anticipate Impact on Trade and Energy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tifetg416/konflik-asiran-berlanjut-riperlu-antisipasi-dampak-pada-perdagangan-dan-energi",
-      "published_date": "2026-07-19T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "MK Decision Guarantees Internet Quota Can Be Used Forfeited, Minister of Communication and Technology Reviews Regulations",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tiohtk483/putusan-mk-jamin-kuota-internet-hangus-bisa-digunakan-menkomdigi-kaji-regulasi",
+      "published_date": "2026-07-24T12:10:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Issue of Criminalization of Farmers and the Ecological Crisis Behind the Voice of Kentongan Guyub, Central Java",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiogs3409/isu-kriminalisasi-petani-dan-krisis-ekologi-di-balik-suara-kentongan-guyub-jateng",
+      "published_date": "2026-07-24T11:48:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank Mega Syariah Records Hajj Savings Growth of 5.3 Percent",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tiogp2416/bank-mega-syariah-catat-pertumbuhan-tabungan-haji-53-persen",
+      "published_date": "2026-07-24T11:47:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Jampidsus Examined, KPK Reveals Six Reasons for Taking Over Case",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiog9n393/eks-jampidsus-diperiksa-kpk-ungkap-enam-alasan-ambil-alih-kasus",
+      "published_date": "2026-07-24T11:36:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 2026 Elite President's Cup Committee Appreciates Immigration Support for the Arrival of Foreign Clubs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiofzd348/panitia-piala-presiden-elite-2026-apresiasi-dukungan-imigrasi-untuk-kedatangan-klub-asing",
+      "published_date": "2026-07-24T11:30:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Local Dairy Cow Milk Production Fulfills 20 Percent of National Needs",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tioe7m423/produksi-susu-sapi-perah-lokal-baru-penuhi-20-persen-kebutuhan-nasional",
+      "published_date": "2026-07-24T11:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Take a peek at Agnez Mo and Anggun's first look in the series 'Reacher' season four",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tioeyu425/intip-first-look-agnez-mo-dan-anggun-di-serial-reacher-musim-keempat",
+      "published_date": "2026-07-24T11:08:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KKN Encouraged to Become a Forum for Regional Innovation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tioeho483/kkn-didorong-jadi-wadah-inovasi-daerah",
+      "published_date": "2026-07-24T10:58:36+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Otamendi retires from Argentina national team after 2026 World Cup",
       "source": "Republika English",
@@ -412,62 +454,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/timfti416/brantas-abipraya-rampungkan-238-huntara-untuk-korban-banjir-di-aceh",
       "published_date": "2026-07-23T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG Poisoning Case is a Concern, Sudaryono Promises to Tighten Raw Material Standards",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tilodx348/kasus-keracunan-mbg-jadi-perhatian-sudaryono-janji-perketat-standar-bahan-baku",
-      "published_date": "2026-07-22T23:39:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Casemiro Closes to Inter Miami, Ready to Help Messi from Midfield",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tilo5r348/casemiro-merapat-ke-inter-miami-siap-bantu-messi-dari-lini-tengah",
-      "published_date": "2026-07-22T23:34:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Audi Prepares New Premium SUV to Debut at GIIAS 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tilnkm348/audi-siapkan-suv-premium-baru-untuk-debut-di-giias-2026",
-      "published_date": "2026-07-22T23:21:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIGC Admits Establishing Communication with Guardiola to Train Italian National Team",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tilmzd348/figc-akui-jalin-komunikasi-dengan-guardiola-untuk-latih-timnas-italia",
-      "published_date": "2026-07-22T23:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "University for the State or University for the Nation?",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tilmm8393/universitas-untuk-negara-atau-universitas-bagi-bangsa",
-      "published_date": "2026-07-22T23:01:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General Chairperson of PSSI: The Women's National Team's Consecutive Champion Title is Proof that Indonesian Women's Football Continues to Progress",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tilmj0348/ketum-umum-pssi-gelar-juara-beruntun-timnas-putri-bukti-sepak-bola-putri-indonesia-terus-maju",
-      "published_date": "2026-07-22T22:59:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cypriot Media Reveals 12 Charges in Cases of Palestinians Extradited from Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tillog484/media-siprus-beberkan-12-dakwaan-kasus-warga-palestina-yang-diekstradisi-dari-indonesia",
-      "published_date": "2026-07-22T22:41:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Happy National Children's Day! These are the three main messages of this year's commemoration",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tilk7m425/selamat-hari-anak-nasional-ini-tiga-pesan-utama-peringatan-tahun-ini",
-      "published_date": "2026-07-22T22:09:22+00:00",
       "category": "Local Events"
     }
   ]
