@@ -10,6 +10,27 @@
   ],
   "Military": [
     {
+      "title": "TNI-Polri Hospital Prepared as Back-up to Prevent Forced Pilgrims to Not Istithaah for Hajj",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiq8sd430/rs-tnipolri-disiapkan-jadi-back-up-cegah-pemaksaan-jamaah-tak-istithaah-berangkat-haji",
+      "published_date": "2026-07-25T11:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attending Islamic Ummah Congress, Deputy Minister for Political and Security Affairs: Politics is not a path to wealth",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiq87w430/hadiri-kongres-umat-islam-wamenko-polkam-politik-bukan-jalan-kekayaan",
+      "published_date": "2026-07-25T10:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The UN's role in the Palestinian conflict is considered not yet optimal",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiq7yz430/peran-pbb-dalam-konflik-palestina-dinilai-belum-optimal",
+      "published_date": "2026-07-25T10:40:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Police Facilitate Peaceful iPhone Theft Case in Karawang",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tip8ff230000/polisi-fasilitasi-damai-kasus-pencurian-iphone-di-karawang",
@@ -175,6 +196,20 @@
   ],
   "Economy": [
     {
+      "title": "Studying the Zakat Tax Rebate Scheme from Malaysia, Researcher: Indonesia Needs Careful Study",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiq8k1430/belajar-skema-tax-rebate-zakat-dari-malaysia-peneliti-indonesia-perlu-kajian-matang",
+      "published_date": "2026-07-25T10:45:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "DKI DPRD: Don't just build the city center, peripheral areas must also be prioritized",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tiq3fl451/dprd-dki-jangan-hanya-bangun-pusat-kota-wilayah-pinggiran-juga-harus-diprioritaskan",
+      "published_date": "2026-07-25T09:52:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "BEI and OJK Papua Strengthen Investment Literacy for Consultant Business Resilience",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tipb824230000/bei-dan-ojk-papua-perkuat-literasi-investasi-untuk-ketahanan-usaha-konsultan",
@@ -299,23 +334,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tiiswb416/transformasi-bpks-disebut-bisa-ubah-masa-depan-ekonomi-sabang",
       "published_date": "2026-07-21T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Reaching 95 Percent, the Ministry of Manpower Has Distributed IDR 9.63 Trillion BSU",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tihy91370/capai-95-persen-kemnaker-telah-salurkan-salurkan-rp-963-triliun-bsu",
-      "published_date": "2026-07-20T23:22:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Purbaya Opens Option to Cut Defense Budget If Fiscally Pressured",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tihuq9484/purbaya-buka-opsi-pangkas-anggaran-pertahanan-jika-fiskal-tertekan",
-      "published_date": "2026-07-20T22:06:09+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Studying in the AI ​​Era 2026: Is It Still Relevant? This is the reason you have to choose the best IT campus",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiqbfs368/kuliah-di-era-ai-2026-masih-relevankah-ini-alasan-harus-memilih-kampus-it-terbaik",
+      "published_date": "2026-07-25T11:47:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Painting Exhibition of Children with Special Needs Raises the Message of Social Inclusion",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tiq7tf416/pameran-lukisan-anak-berkebutuhan-khusus-angkat-pesan-inklusi-sosial",
+      "published_date": "2026-07-25T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "East Kalimantan BPBD Deploys 3,400 KKN Students to Become Disaster Mitigation Agents",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tiq3lo451/bpbd-kaltim-kerahkan-3-400-mahasiswa-kkn-jadi-agen-mitigasi-bencana",
+      "published_date": "2026-07-25T10:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 'API' of the People's Network",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tiq8sb415/api-jaringan-umat",
+      "published_date": "2026-07-25T10:50:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jatiluhur Security Guard Found Floating Dead with Handcuffs",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tiq7x3282/satpam-jatiluhur-ditemukan-meninggal-mengapung-dengan-tangan-terborgol",
+      "published_date": "2026-07-25T10:31:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clarifying IDR 22 Billion Palestine Scholarship, Baznas Ensures Domestic Zakat Funds Remain Safe",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiq7th430/klarifikasi-beasiswa-palestina-rp-22-miliar-baznas-pastikan-dana-zakat-domestik-tetap-aman",
+      "published_date": "2026-07-25T10:29:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java Deputy Governor's Attorney Will Report 11 Social Media Accounts Related to Alleged Defamation",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tiq6sh487/kuasa-hukum-wagub-jabar-bakal-laporkan-11-akun-medsos-terkait-dugaan-pencemaran-nama-baik",
+      "published_date": "2026-07-25T10:07:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java Regional Police: Police Members Who Intimidate Security Guards at the HI Roundabout Violate the Code of Ethics will be Sanctioned",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tiq6bf282/polda-jabar-anggota-polisi-yang-intimidasi-satpam-di-bundaran-hi-langgar-kode-etik-akan-disanksi",
+      "published_date": "2026-07-25T09:57:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java Regional Police Suspends Three Members Who Violated the Code of Ethics for Intimidating Security Guards at the HI Roundabout",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiq5ud487/polda-jabar-patsuskan-tiga-anggota-yang-langgar-kode-etik-intimidasi-satpam-di-bundaran-hi",
+      "published_date": "2026-07-25T09:47:01+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Tips for watching concerts without harming your financial health",
       "source": "Republika English",
@@ -391,69 +475,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tioe7m423/produksi-susu-sapi-perah-lokal-baru-penuhi-20-persen-kebutuhan-nasional",
       "published_date": "2026-07-24T11:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Take a peek at Agnez Mo and Anggun's first look in the series 'Reacher' season four",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tioeyu425/intip-first-look-agnez-mo-dan-anggun-di-serial-reacher-musim-keempat",
-      "published_date": "2026-07-24T11:08:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KKN Encouraged to Become a Forum for Regional Innovation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tioeho483/kkn-didorong-jadi-wadah-inovasi-daerah",
-      "published_date": "2026-07-24T10:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Otamendi retires from Argentina national team after 2026 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tinidm348/otamendi-pensiun-dari-timnas-argentina-usai-piala-dunia-2026",
-      "published_date": "2026-07-23T23:24:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Name Appears Nearly 2,000 Times in Epstein Archives, Daniel Siad Found Dead",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/timths451/nama-muncul-hampir-2000-kali-di-arsip-epstein-daniel-siad-ditemukan-tewas",
-      "published_date": "2026-07-23T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AHY: Transportation Transformation Key to Energy Self-Sufficiency and Indonesia's Competitiveness",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tingjn4830000/ahy-transformasi-transportasi-kunci-swasembada-energi-dan-daya-saing-indonesia",
-      "published_date": "2026-07-23T22:45:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Weather Forecast Friday Morning: Most Areas Are Sunny",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tinfuc8230000/prakiraan-cuaca-jakarta-jumat-pagi-mayoritas-wilayah-cerah",
-      "published_date": "2026-07-23T22:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Research Reveals Mycotoxins in Food Have the Potential to Worsen Kidney Disease",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tin0pi416/riset-ungkap-mikotoksin-pada-pangan-berpotensi-perparah-penyakit-ginjal",
-      "published_date": "2026-07-23T22:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ASUS Says AI is Increasingly a Need for Professionals and MSME Players",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tin1ni349/asus-sebut-ai-kian-jadi-kebutuhan-profesional-dan-pelaku-umkm",
-      "published_date": "2026-07-23T21:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Minister of Communication and Technology: RI Builds Foundation for AI Independence Through Infrastructure and Talent",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tin9qj3430000/wamenkomdigi-ri-bangun-fondasi-kemandirian-ai-lewat-infrastruktur-dan-talenta",
-      "published_date": "2026-07-23T20:18:19+00:00",
       "category": "Local Events"
     }
   ]
