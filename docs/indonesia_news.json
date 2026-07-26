@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia Must Take the Lead in Moving the World to Save Gaza",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tit0lr472/indonesia-harus-terdepan-gerakkan-dunia-selamatkan-gaza",
+      "published_date": "2026-07-26T22:46:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Europe Begins to Divide, Six Countries Reject New Sanctions against Russia",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tijq1r451/eropa-mulai-terbelah-enam-negara-tolak-sanksi-baru-terhadap-rusia",
@@ -9,6 +16,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Police arrest three people in connection with clashes, Menteng police raided by mob",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tit1xe484/polisi-tangkap-tiga-orang-terkait-bentrok-polsektro-menteng-digeruduk-massa",
+      "published_date": "2026-07-26T23:15:14+00:00",
+      "category": "Military"
+    },
     {
       "title": "Middle East Conflict JK asks all parties to exercise restraint",
       "source": "Republika English",
@@ -113,16 +127,23 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/military-cleric-alliance-may-fuel-new-anti-lgbtq-sentiment-in-indonesia/",
       "published_date": "2026-07-21T00:01:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "BMKG Warns of Moderate to Light Rain in Big Cities Today",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tig1vi4330000/bmkg-imbau-waspada-hujan-sedang-hingga-ringan-di-kota-besar-hari-ini",
-      "published_date": "2026-07-19T22:45:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "KUII VIII Recommends the Formation of a Special Task Force to Investigate Alleged Corruption Cases",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tit2o2430/kuii-viii-rekomendasikan-pembentukan-satgas-khusus-usut-kasus-dugaan-korupsi",
+      "published_date": "2026-07-26T23:31:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Economist Explains How 10 Percent Oil and Gas PI Works",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiscsr416/ekonom-jelaskan-cara-kerja-pi-10-persen-migas",
+      "published_date": "2026-07-26T23:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "The Grand Coalition of Workers Completes Draft Proposal for Employment Law, Ready to be Submitted to the DPR",
       "source": "Republika English",
@@ -324,6 +345,62 @@
   ],
   "Local Events": [
     {
+      "title": "This is the best prayer that should be offered to Allah SWT, according to a leading Sufi",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tit311430/inilah-doa-terbaik-yang-harus-dipanjatkan-kepada-allah-swtmenurut-sufi-terkemuka",
+      "published_date": "2026-07-26T23:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KUII VIII Urges the Government-DPR to Immediately Ratify Regulations on the Prevention and Control of LGBTQ",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tit2ut430/kuii-viii-desak-pemerintahdpr-segera-sahkan-regulasi-pencegahan-dan-penanggulangan-lgbtq",
+      "published_date": "2026-07-26T23:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The wedding of Boy Thohir's son was attended by Presidents Prabowo, SBY and Jokowi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tit2nt484/pernikahan-putra-boy-thohir-dihadiri-presiden-prabowo-sby-dan-jokowi",
+      "published_date": "2026-07-26T23:31:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chronology of clashes between residents in Menteng, police: Starting from the motorbike action",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tit1d3393/kronologi-bentrokan-antarwarga-di-menteng-polisi-berawal-dari-aksi-geber-motor",
+      "published_date": "2026-07-26T23:03:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NU Cadres Remind Not to Intervene in Congress with Intrigues for Practical Political Interests",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tishx1320/kader-nu-ingatkan-jangan-intervensi-muktamar-dengan-intrik-kepentingan-politik-praktis",
+      "published_date": "2026-07-26T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recommendations from the Muslim Congress, from LGBT issues to Palestine",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tit16z393/rekomendasi-kongres-umat-islam-dari-soal-lgbt-sampai-palestina",
+      "published_date": "2026-07-26T22:59:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not a Socialist Label, This Challenged Promise Will Make Zohran Mamdani Win",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tisfxt451/bukan-label-sosialis-janji-yang-digugat-ini-antar-zohran-mamdani-menang",
+      "published_date": "2026-07-26T22:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Sulawesi Ministry of Law: Resolving the Status of Citizens of Filipino Descent Requires Cross-Sector Synergy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiszug8830000/kemenkum-sulut-penyelesaian-status-warga-keturunan-filipina-butuh-sinergi-lintas-sektor",
+      "published_date": "2026-07-26T22:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Why is Pelican Crossing Mandatory? This is the explanation",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tirnx2957531149/mengapa-pelican-crossing-wajib-dipatuhiini-penjelasannya",
@@ -405,62 +482,6 @@
       "source": "Republika English",
       "url": "https://republika.co.id/berita//tiq3lo451/bpbd-kaltim-kerahkan-3-400-mahasiswa-kkn-jadi-agen-mitigasi-bencana",
       "published_date": "2026-07-25T10:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 'API' of the People's Network",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tiq8sb415/api-jaringan-umat",
-      "published_date": "2026-07-25T10:50:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jatiluhur Security Guard Found Floating Dead with Handcuffs",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tiq7x3282/satpam-jatiluhur-ditemukan-meninggal-mengapung-dengan-tangan-terborgol",
-      "published_date": "2026-07-25T10:31:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clarifying IDR 22 Billion Palestine Scholarship, Baznas Ensures Domestic Zakat Funds Remain Safe",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tiq7th430/klarifikasi-beasiswa-palestina-rp-22-miliar-baznas-pastikan-dana-zakat-domestik-tetap-aman",
-      "published_date": "2026-07-25T10:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Deputy Governor's Attorney Will Report 11 Social Media Accounts Related to Alleged Defamation",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tiq6sh487/kuasa-hukum-wagub-jabar-bakal-laporkan-11-akun-medsos-terkait-dugaan-pencemaran-nama-baik",
-      "published_date": "2026-07-25T10:07:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Regional Police: Police Members Who Intimidate Security Guards at the HI Roundabout Violate the Code of Ethics will be Sanctioned",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tiq6bf282/polda-jabar-anggota-polisi-yang-intimidasi-satpam-di-bundaran-hi-langgar-kode-etik-akan-disanksi",
-      "published_date": "2026-07-25T09:57:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Regional Police Suspends Three Members Who Violated the Code of Ethics for Intimidating Security Guards at the HI Roundabout",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiq5ud487/polda-jabar-patsuskan-tiga-anggota-yang-langgar-kode-etik-intimidasi-satpam-di-bundaran-hi",
-      "published_date": "2026-07-25T09:47:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tips for watching concerts without harming your financial health",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tipe0k425/tips-nonton-konser-tanpa-ganggu-kesehatan-finansial",
-      "published_date": "2026-07-24T23:45:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Febrie Adriansyah Detained in KPK Detention Center: I Feel This is Criminalization",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tipcym409/febrie-adriansyah-ditahan-di-rutan-kpk-saya-merasa-ini-kriminalisasi",
-      "published_date": "2026-07-24T23:43:00+00:00",
       "category": "Local Events"
     }
   ]
