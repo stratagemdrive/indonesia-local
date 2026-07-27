@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia vs Cambodia Player Lineup: Nadeo in goal, Klok and Haye are mainstays in the middle",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiu3qp348/susunan-pemain-indonesia-vs-kamboja-nadeo-di-bawah-mistar-klok-dan-haye-jadi-andalan-di-tengah",
+      "published_date": "2026-07-27T12:52:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesia Must Take the Lead in Moving the World to Save Gaza",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tit0lr472/indonesia-harus-terdepan-gerakkan-dunia-selamatkan-gaza",
@@ -16,6 +23,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "TVRI Presenter's Body Found in Memti River",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiu2zh377/jenazah-presenter-tvri-ditemukan-di-sungai-memti",
+      "published_date": "2026-07-27T12:35:41+00:00",
+      "category": "Military"
+    },
     {
       "title": "Police arrest three people in connection with clashes, Menteng police raided by mob",
       "source": "Republika English",
@@ -185,23 +199,16 @@
       "url": "https://news.republika.co.id/berita/tihtsq3930000/wamentan-b50-percepat-swasembada-energi-ri-sesuai-visi-prabowo",
       "published_date": "2026-07-20T21:46:02+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Strengthens Distribution Monitoring, Ensures Fuel Supply is Maintained in Aceh and Riau",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tih5ch522/pertamina-patra-niaga-perkuat-monitoring-distribusi-pastikan-pasokan-bbm-terjaga-di-aceh-dan-riau",
-      "published_date": "2026-07-20T12:57:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bauxite Downstream Investment Soars, Surpassing Nickel",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tih4qg416/investasi-hilirisasi-bauksit-melonjak-lampaui-nikel",
-      "published_date": "2026-07-20T12:46:41+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "The Magic of Business Cards",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/773533/keajaiban-kartu-nama",
+      "published_date": "2026-07-27T12:21:15+00:00",
+      "category": "Economy"
+    },
     {
       "title": "PNM Presents Chain Impacts for the Environment and Coastal Economy on World Mangrove Day",
       "source": "Republika English",
@@ -334,16 +341,37 @@
       "url": "https://news.republika.co.id/berita/tikqk8522/wamentan-jadi-kepala-bgn-jaga-keberlanjutan-program-makan-bergizi-gratis",
       "published_date": "2026-07-22T11:28:56+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Honors for Economic Census Officers Called Loss, Central Java BPS Gives Explanation",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tijfyq282/honor-petugas-sensus-ekonomi-disebut-macet-bps-jateng-beri-penjelasan",
-      "published_date": "2026-07-21T23:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Mount Paseban Kutawaringin Forest, Bandung Regency Burns",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tiu51g282/hutan-gunung-paseban-kutawaringin-kabupaten-bandung-terbakar",
+      "published_date": "2026-07-27T13:20:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Implementation of Integrated National Schools in Rural Areas",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tiu4mv282/implementasi-sekolah-nasional-terintegrasi-di-daerah-rural",
+      "published_date": "2026-07-27T13:11:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Long Drought, Delingan Reservoir Water Debit Reduces",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/titx0m375/kemarau-panjang-debit-air-waduk-delingan-menyusut",
+      "published_date": "2026-07-27T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Jakarta, Tehran, to Qom Recording the Moment of the Rahbar's Departure",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tish0w409/dari-jakarta-teheran-hingga-qom-merekam-momen-kepergian-sang-rahbar",
+      "published_date": "2026-07-27T12:48:57+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "This is the best prayer that should be offered to Allah SWT, according to a leading Sufi",
       "source": "Republika English",
@@ -454,34 +482,6 @@
       "source": "Republika English",
       "url": "https://retizen.republika.co.id/posts/773319/zakat-anak",
       "published_date": "2026-07-25T22:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "God Never Forsakes His Servants",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tipotm451/allah-tidak-pernah-meninggalkan-hambanya",
-      "published_date": "2026-07-25T22:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Studying in the AI ​​Era 2026: Is It Still Relevant? This is the reason you have to choose the best IT campus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiqbfs368/kuliah-di-era-ai-2026-masih-relevankah-ini-alasan-harus-memilih-kampus-it-terbaik",
-      "published_date": "2026-07-25T11:47:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Painting Exhibition of Children with Special Needs Raises the Message of Social Inclusion",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tiq7tf416/pameran-lukisan-anak-berkebutuhan-khusus-angkat-pesan-inklusi-sosial",
-      "published_date": "2026-07-25T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "East Kalimantan BPBD Deploys 3,400 KKN Students to Become Disaster Mitigation Agents",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tiq3lo451/bpbd-kaltim-kerahkan-3-400-mahasiswa-kkn-jadi-agen-mitigasi-bencana",
-      "published_date": "2026-07-25T10:56:00+00:00",
       "category": "Local Events"
     }
   ]
