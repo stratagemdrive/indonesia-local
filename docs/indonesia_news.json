@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "John Herdman: Victory over Cambodia is just the beginning of the Indonesian national team's journey",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiuxz2348/john-herdman-kemenangan-atas-kamboja-baru-awal-perjalanan-timnas-indonesia",
+      "published_date": "2026-07-27T23:45:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erick Thohir said Vietnam would be the real test for the Indonesian national team in the 2026 ASEAN Hyundai Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiuw2t348/erick-thohir-sebut-vietnam-jadi-ujian-sesungguhnya-timnas-indonesia-di-asean-hyundai-cup-2026",
+      "published_date": "2026-07-27T23:04:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesia vs Cambodia Player Lineup: Nadeo in goal, Klok and Haye are mainstays in the middle",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tiu3qp348/susunan-pemain-indonesia-vs-kamboja-nadeo-di-bawah-mistar-klok-dan-haye-jadi-andalan-di-tengah",
@@ -23,6 +37,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Bareskrim Arrests South Tangerang Police Narcotics Head, Metro Police: Not Involved",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiuwrw484/bareskrim-tangkap-kasat-narkoba-polres-tangsel-polda-metro-tidak-terlibat",
+      "published_date": "2026-07-27T23:19:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Guardian of Stability to Guardian of National Productivity",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tiub6s320/dari-penjaga-stabilitas-menuju-penjaga-produktivitas-bangsa",
+      "published_date": "2026-07-27T23:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "TVRI Presenter's Body Found in Memti River",
       "source": "Republika English",
@@ -185,23 +213,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tikqnr522/pertamina-patra-niaga-percepat-pengembangan-ekosistem-saf-menuju-penerbangan-rendah-emisi",
       "published_date": "2026-07-22T11:31:03+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "The nights are getting hotter, Indonesian people are losing the highest amount of sleep in Southeast Asia",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tihxf9483/malam-hari-semakin-panas-masyarakat-indonesia-kehilangan-waktu-tidur-tertinggi-di-asia-tenggara",
-      "published_date": "2026-07-20T23:04:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Deputy Minister of Agriculture: B50 Accelerates RI Energy Self-Sufficiency According to Prabowo's Vision",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tihtsq3930000/wamentan-b50-percepat-swasembada-energi-ri-sesuai-visi-prabowo",
-      "published_date": "2026-07-20T21:46:02+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "UK Supports Strengthening Genomics Research in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiu9f2416/inggris-dukung-penguatan-riset-genomik-di-indonesia",
+      "published_date": "2026-07-27T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Zakat Becomes Tax Deduction, Baznas Requests Comprehensive Study Involving Ulama and Ministry of Finance",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tiuvks430/zakat-jadi-pengurang-pajak-baznas-minta-kajian-komprehensif-libatkan-ulama-hingga-kemenkeu",
+      "published_date": "2026-07-27T22:53:16+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The Magic of Business Cards",
       "source": "Republika English",
@@ -327,23 +355,51 @@
       "url": "https://ekonomi.republika.co.id/berita/timjum416/bp-bumn-ungkap-transformasi-ifg-12-entitas-dipangkas",
       "published_date": "2026-07-23T10:59:10+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Officially Inaugurated, Sudaryono Replaces Nanik S. Deyang as Head of BGN",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tikoh7375/resmi-dilantik-sudaryono-gantikan-nanik-s-deyang-sebagai-kepala-bgn",
-      "published_date": "2026-07-22T12:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deputy Minister of Agriculture Becomes Head of BGN to Maintain the Sustainability of the Free Nutritious Meal Program",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tikqk8522/wamentan-jadi-kepala-bgn-jaga-keberlanjutan-program-makan-bergizi-gratis",
-      "published_date": "2026-07-22T11:28:56+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Meeting with Cabinet Secretary Teddy, Pramono talks about the construction of the Jakarta LRT",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiuxte484/bertemu-seskab-teddy-pramono-bicara-pembangunan-lrt-jakarta",
+      "published_date": "2026-07-27T23:41:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hyundai Prepares a Complete Line of Cars at GIIAS 2026, There is a Seven Passenger EV Prototype",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiuxhw348/hyundai-siapkan-deretan-mobil-lengkap-di-giias-2026-ada-prototipe-ev-tujuh-penumpang",
+      "published_date": "2026-07-27T23:34:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scores a hat trick on his debut in the Indonesian National Team, Mitchell Baker: This is the result of the entire team's hard work",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiux3e348/cetak-hattrick-pada-debut-di-timnas-indonesia-mitchell-baker-ini-hasil-kerja-keras-seluruh-tim",
+      "published_date": "2026-07-27T23:26:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polda Metro: Adjutant Febrie Killed by Shot by Hoax",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiuwt0409/polda-metro-ajudan-febrie-tewas-ditembak-hoaks",
+      "published_date": "2026-07-27T23:19:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mitchell Baker's perfect debut in the AFF Cup, the hat trick that revived Garuda's hopes",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tiump1375/debut-sempurna-mitchell-baker-di-piala-aff-hattrick-yang-menghidupkan-asa-garuda",
+      "published_date": "2026-07-27T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Simultaneous Grand Harvest at 43 Points, After Government Rice Spurts Sugar and Soybean Independence",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiuvjk472/panen-raya-serentak-di-43-titik-setelah-beras-pemerintah-pacu-kemandirian-gula-dan-kedelai",
+      "published_date": "2026-07-27T22:52:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Mount Paseban Kutawaringin Forest, Bandung Regency Burns",
       "source": "Republika English",
@@ -440,48 +496,6 @@
       "source": "Republika English",
       "url": "https://retizen.republika.co.id/posts/773373/sering-dianggap-sama-ini-perbedaan-pailit-dan-bangkrut",
       "published_date": "2026-07-26T11:45:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kaesang Advances as a Legislative Candidate from the Puan Maharani Electoral District, Ganjar: Central Java Kandang Banteng",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tis5oh484/kaesang-maju-caleg-dari-dapil-puan-maharani-ganjar-jateng-kandang-banteng",
-      "published_date": "2026-07-26T11:38:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Mangrove Day, BSN Bank Monitors the Growth of 1,150 Mangrove Seedlings",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tis3jw416/hari-mangrove-sedunia-bank-bsn-pantau-pertumbuhan-1150-bibit-mangrove",
-      "published_date": "2026-07-26T10:54:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected Chicken Thief Dies After Being Attacked by Children's Cries",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tis3731700345953/terduga-pencuri-ayam-tewas-dikeroyok-tangis-anak-bikin-haru",
-      "published_date": "2026-07-26T10:45:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seeing Traces of History, Science, and Technology at Tahir Solo Museum",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tiryeq375/melihat-jejak-sejarah-sains-dan-teknologi-di-tahir-solo-museum",
-      "published_date": "2026-07-26T10:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sayang Heulang Beach: When Eagles and the Sea Become the Future of South Garut",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/773311/pantai-sayang-heulang-ketika-elang-dan-laut-menjadi-masa-depan-garut-selatan",
-      "published_date": "2026-07-25T22:59:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children's Zakat",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/773319/zakat-anak",
-      "published_date": "2026-07-25T22:52:28+00:00",
       "category": "Local Events"
     }
   ]
