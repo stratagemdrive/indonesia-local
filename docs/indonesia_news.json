@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Receiving Ambassador Abdalfatah's Visit, PKS President Reveals the Shura Council's Decision to Support Palestine",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tivxh3483/terima-kunjungan-dubes-abdalfatah-presiden-pks-ungkap-putusan-majelis-syura-untuk-dukung-palestina",
+      "published_date": "2026-07-28T12:31:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "John Herdman: Victory over Cambodia is just the beginning of the Indonesian national team's journey",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tiuxz2348/john-herdman-kemenangan-atas-kamboja-baru-awal-perjalanan-timnas-indonesia",
@@ -37,6 +44,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Ma'ruf Amin Urges Saudi Arabia-Houthi Ceasefire, Proposes 4 Pillar Dialogue Bridge Solution",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivwxp368/maruf-amin-desak-gencatan-senjata-arab-saudihouthi-usulkan-solusi-jembatan-dialog-4-pilar",
+      "published_date": "2026-07-28T12:20:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Government is taking firm action against misuse of vapes containing narcotics",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivo5x370/pemerintah-tindak-tegas-penyalahgunaan-vape-mengandung-narkotika",
+      "published_date": "2026-07-28T12:04:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Bareskrim Arrests South Tangerang Police Narcotics Head, Metro Police: Not Involved",
       "source": "Republika English",
@@ -155,20 +176,6 @@
       "url": "https://rejabar.republika.co.id/berita/tijery282/dalam-sehari-2-kebakaran-terjadi-di-kabupaten-cirebon-ponpes-alanwariyah-dan-kandang-kambing-warga",
       "published_date": "2026-07-21T22:14:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Procurement at West Lombok Regency Government, KPK: Regent Receives Fee IDR 10.8 Billion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiivsx484/pengadaan-di-pemkab-lombok-barat-kpk-bupati-terima-fee-rp108-miliar",
-      "published_date": "2026-07-21T11:26:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Military-cleric alliance may fuel new anti-LGBTQ sentiment in Indonesia",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/military-cleric-alliance-may-fuel-new-anti-lgbtq-sentiment-in-indonesia/",
-      "published_date": "2026-07-21T00:01:04+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -216,6 +223,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "BCA Maintains Credit Target of 8-10 Percent in the Era of High Interest Rates",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tivxoz349/bca-pertahankan-target-kredit-810-persen-di-tengah-era-suku-bunga-tinggi",
+      "published_date": "2026-07-28T12:36:35+00:00",
+      "category": "Economy"
+    },
     {
       "title": "UK Supports Strengthening Genomics Research in Indonesia",
       "source": "Republika English",
@@ -348,16 +362,65 @@
       "url": "https://retizen.republika.co.id/posts/772988/industri-kesehatan-indonesia-terus-bertumbuh-saatnya-klinik-meningkatkan-efisiensi-operasional",
       "published_date": "2026-07-23T11:17:16+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BP BUMN Reveals IFG Transformation, 12 Entities Cut",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/timjum416/bp-bumn-ungkap-transformasi-ifg-12-entitas-dipangkas",
-      "published_date": "2026-07-23T10:59:10+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "UBSI Purwokerto Campus Students Win 2nd Place in Men's Dangdut at the 2026 Central Java Peksimida Event",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivuc8368/mahasiswa-ubsi-kampus-purwokerto-raih-juara-2-dangdut-putra-di-ajang-peksimida-jawa-tengah-2026",
+      "published_date": "2026-07-28T12:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chairman of PBNU asks the Attorney General not to be slack in eradicating corruption",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tivxgv320/ketua-pbnu-minta-jaksa-agung-tak-kendur-berantas-korupsi",
+      "published_date": "2026-07-28T12:31:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Used Gallons Transformed into Mini Rice Fields, an Effort to Maintain Food in the Middle of the City",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tivqxp375/galon-bekas-disulap-jadi-sawah-mini-ikhtiar-menjaga-pangan-di-tengah-kota",
+      "published_date": "2026-07-28T12:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Threatened with extinction, this is the final condition of two Sumatran tiger cubs in the wild that will be seen in 2025",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivxbi377/terancam-punah-ini-kondisi-terakhir-dua-anak-harimau-sumatra-di-alam-liar-yang-terlihat-2025-lalu",
+      "published_date": "2026-07-28T12:28:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strengthening Link and Match, UBSI Yogyakarta Information Systems Study Program Collaborates with PT Lumintu Logic Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivu63368/perkuat-link-and-match-prodi-sistem-informasi-ubsi-yogyakarta-gandeng-pt-lumintu-logic-indonesia",
+      "published_date": "2026-07-28T12:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Indonesian Embassy in Tokyo asks Indonesian citizens to be calm and alert after a 7.1 magnitude earthquake shakes Japan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivwqz483/kbri-tokyo-minta-wni-tenang-dan-waspada-usai-gempa-berkekuatan-71-guncang-jepang",
+      "published_date": "2026-07-28T12:16:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pigai Prohibits KDM Governor from Holding Competition to Catch Robbers, Please Just Make a Joke",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivwjo377/pigai-larang-gubernur-kdm-gelar-sayembara-tangkap-begal-harap-cuma-guyonan",
+      "published_date": "2026-07-28T12:11:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNM Student Wins PEKSIMIDA DKI 2026, Monologue 'Balada Sumarah' Takes Home 1st Runner Up",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tivtco368/mahasiswi-unm-juara-peksimida-dki-2026-monolog-balada-sumarah-bawa-pulang-juara-harapan-1",
+      "published_date": "2026-07-28T12:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Meeting with Cabinet Secretary Teddy, Pramono talks about the construction of the Jakarta LRT",
       "source": "Republika English",
@@ -440,62 +503,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tit2ut430/kuii-viii-desak-pemerintahdpr-segera-sahkan-regulasi-pencegahan-dan-penanggulangan-lgbtq",
       "published_date": "2026-07-26T23:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The wedding of Boy Thohir's son was attended by Presidents Prabowo, SBY and Jokowi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tit2nt484/pernikahan-putra-boy-thohir-dihadiri-presiden-prabowo-sby-dan-jokowi",
-      "published_date": "2026-07-26T23:31:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chronology of clashes between residents in Menteng, police: Starting from the motorbike action",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tit1d3393/kronologi-bentrokan-antarwarga-di-menteng-polisi-berawal-dari-aksi-geber-motor",
-      "published_date": "2026-07-26T23:03:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NU Cadres Remind Not to Intervene in Congress with Intrigues for Practical Political Interests",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tishx1320/kader-nu-ingatkan-jangan-intervensi-muktamar-dengan-intrik-kepentingan-politik-praktis",
-      "published_date": "2026-07-26T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recommendations from the Muslim Congress, from LGBT issues to Palestine",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tit16z393/rekomendasi-kongres-umat-islam-dari-soal-lgbt-sampai-palestina",
-      "published_date": "2026-07-26T22:59:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not a Socialist Label, This Challenged Promise Will Make Zohran Mamdani Win",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tisfxt451/bukan-label-sosialis-janji-yang-digugat-ini-antar-zohran-mamdani-menang",
-      "published_date": "2026-07-26T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sulawesi Ministry of Law: Resolving the Status of Citizens of Filipino Descent Requires Cross-Sector Synergy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiszug8830000/kemenkum-sulut-penyelesaian-status-warga-keturunan-filipina-butuh-sinergi-lintas-sektor",
-      "published_date": "2026-07-26T22:30:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Pelican Crossing Mandatory? This is the explanation",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tirnx2957531149/mengapa-pelican-crossing-wajib-dipatuhiini-penjelasannya",
-      "published_date": "2026-07-26T11:51:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Often considered the same, this is the difference between bankruptcy and bankruptcy",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/773373/sering-dianggap-sama-ini-perbedaan-pailit-dan-bangkrut",
-      "published_date": "2026-07-26T11:45:25+00:00",
       "category": "Local Events"
     }
   ]
