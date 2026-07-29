@@ -38,6 +38,13 @@
   ],
   "Military": [
     {
+      "title": "Tukin's promotion at the Ministry of Defense, Echelon I Receives IDR 37.3 Million per Month",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiyk8w484/kenaikan-tukin-di-kemenhan-eselon-i-terima-rp-373-juta-per-bulan",
+      "published_date": "2026-07-29T22:38:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "West Java NU Rais Syuriyah: Support for National Police Chief Candidate is Not an Organizational Attitude, Still Respect Listyo Sigit",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tix8yi451/rais-syuriyah-nu-jabar-dukungan-calon-kapolri-bukan-sikap-organisasi-tetap-respect-listyo-sigit",
@@ -148,16 +155,16 @@
       "url": "https://news.republika.co.id/berita/tinafv4030000/artefak-papua-hasil-sitaan-fbi-disimpan-di-museum-nasional",
       "published_date": "2026-07-23T20:33:31+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Trump asks for additional IDR 1,568 T, Pete Hegseth gets angry when asked about the end of the war",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tilmx8451/trump-minta-tambahan-rp1568-t-pete-hegseth-berang-saat-ditanya-ujung-perang",
-      "published_date": "2026-07-22T23:38:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "New Chancellor Yarsi Encourages Downstreaming of Research and Industrial Collaboration",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tixy03416/rektor-baru-yarsi-dorong-hilirisasi-riset-dan-kolaborasi-industri",
+      "published_date": "2026-07-29T23:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Danone Relies on Solar Energy for Factory Operations",
       "source": "Republika English",
@@ -192,16 +199,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tioazg423/lensa-energi-phe-bantu-deteksi-dini-gangguan-penglihatan-anak",
       "published_date": "2026-07-24T10:50:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Death in the Himalayas, Indian Hydroelectric Power Plant Tunnel Explosion Kills 12 Workers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tilkdo451/maut-di-perut-himalaya-ledakan-terowongan-plta-india-tewaskan-12-pekerja",
-      "published_date": "2026-07-22T22:56:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Vini, Owner of Riva Cake, Inspires Hundreds of Small Business Actors",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tixr1i484/vini-pemilik-riva-cake-menginspirasi-ratusan-pelaku-usaha-kecil",
+      "published_date": "2026-07-29T22:25:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "AMP Gathers Migrant Figures, Investment and Human Resources Become an Agenda for the Progress of Padang Lawas",
       "source": "Republika English",
@@ -334,16 +341,58 @@
       "url": "https://khazanah.republika.co.id/berita/tiq8k1430/belajar-skema-tax-rebate-zakat-dari-malaysia-peneliti-indonesia-perlu-kajian-matang",
       "published_date": "2026-07-25T10:45:37+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "DKI DPRD: Don't just build the city center, peripheral areas must also be prioritized",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tiq3fl451/dprd-dki-jangan-hanya-bangun-pusat-kota-wilayah-pinggiran-juga-harus-diprioritaskan",
-      "published_date": "2026-07-25T09:52:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Mercedes-Benz Launches AMG GT 63 PRO and GLC 200 4MATIC at GIIAS 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiye20348/mercedesbenz-luncurkan-amg-gt-63-pro-dan-glc-200-4matic-di-giias-2026",
+      "published_date": "2026-07-29T23:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yusril's firm message to graduates: Don't give up looking for work",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tixzky451/pesan-tegas-yusril-untuk-para-sarjana-jangan-putus-asa-cari-kerja",
+      "published_date": "2026-07-29T23:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BAW Aims at the Indonesian Automotive Market, Electric Pickups and Local Assembly Become a Mainstay",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiyl32370/baw-bidik-pasar-otomotif-indonesia-pikap-listrik-dan-perakitan-lokal-jadi-andalan",
+      "published_date": "2026-07-29T22:57:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Honda Brings New Concept at GIIAS 2026, Introduces Super-ONE as the Beginning of the EV Era in Indonesia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiycgg348/honda-bawa-konsep-baru-di-giias-2026-perkenalkan-superone-sebagai-awal-era-ev-di-indonesia",
+      "published_date": "2026-07-29T22:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Prabowo Focuses on Following Up on Construction of North Bali Airport",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiykjj4330000/presiden-prabowo-fokus-tindak-lanjuti-pembangunan-bandara-bali-utara",
+      "published_date": "2026-07-29T22:45:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Geely Coolray Completes Geely's Powertrain Choices in Indonesia, Turbo SUV Priced Starting at IDR 333 Million",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tiy6nu348/geely-coolray-lengkapi-pilihan-powertrain-geely-di-indonesia-suv-turbo-dibanderol-mulai-rp-333-juta",
+      "published_date": "2026-07-29T22:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "East Kalimantan Provincial Government Makes Berau a Pilot Project for Cheap Fish to Reduce Stunting",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tiyjut1230000/pemprov-kaltim-jadikan-berau-pilot-project-ikan-murah-untuk-tekan-stunting",
+      "published_date": "2026-07-29T22:30:29+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Isuzu Exhibits Multifunctional Commercial Vehicles at GIIAS, Ready to Support Logistics and Creative Industries",
       "source": "Republika English",
@@ -433,55 +482,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tivxgv320/ketua-pbnu-minta-jaksa-agung-tak-kendur-berantas-korupsi",
       "published_date": "2026-07-28T12:31:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Used Gallons Transformed into Mini Rice Fields, an Effort to Maintain Food in the Middle of the City",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tivqxp375/galon-bekas-disulap-jadi-sawah-mini-ikhtiar-menjaga-pangan-di-tengah-kota",
-      "published_date": "2026-07-28T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Threatened with extinction, this is the final condition of two Sumatran tiger cubs in the wild that will be seen in 2025",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tivxbi377/terancam-punah-ini-kondisi-terakhir-dua-anak-harimau-sumatra-di-alam-liar-yang-terlihat-2025-lalu",
-      "published_date": "2026-07-28T12:28:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strengthening Link and Match, UBSI Yogyakarta Information Systems Study Program Collaborates with PT Lumintu Logic Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tivu63368/perkuat-link-and-match-prodi-sistem-informasi-ubsi-yogyakarta-gandeng-pt-lumintu-logic-indonesia",
-      "published_date": "2026-07-28T12:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Indonesian Embassy in Tokyo asks Indonesian citizens to be calm and alert after a 7.1 magnitude earthquake shakes Japan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tivwqz483/kbri-tokyo-minta-wni-tenang-dan-waspada-usai-gempa-berkekuatan-71-guncang-jepang",
-      "published_date": "2026-07-28T12:16:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pigai Prohibits KDM Governor from Holding Competition to Catch Robbers, Please Just Make a Joke",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tivwjo377/pigai-larang-gubernur-kdm-gelar-sayembara-tangkap-begal-harap-cuma-guyonan",
-      "published_date": "2026-07-28T12:11:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNM Student Wins PEKSIMIDA DKI 2026, Monologue 'Balada Sumarah' Takes Home 1st Runner Up",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tivtco368/mahasiswi-unm-juara-peksimida-dki-2026-monolog-balada-sumarah-bawa-pulang-juara-harapan-1",
-      "published_date": "2026-07-28T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meeting with Cabinet Secretary Teddy, Pramono talks about the construction of the Jakarta LRT",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiuxte484/bertemu-seskab-teddy-pramono-bicara-pembangunan-lrt-jakarta",
-      "published_date": "2026-07-27T23:41:38+00:00",
       "category": "Local Events"
     }
   ]
