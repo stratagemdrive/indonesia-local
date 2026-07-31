@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "The Indonesian national team beat Timor Leste 3-0 in the AFF Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj1g5u348/timnas-indonesia-bekuk-timor-leste-30-di-piala-aff",
+      "published_date": "2026-07-31T12:03:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Receiving Ambassador Abdalfatah's Visit, PKS President Reveals the Shura Council's Decision to Support Palestine",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tivxh3483/terima-kunjungan-dubes-abdalfatah-presiden-pks-ungkap-putusan-majelis-syura-untuk-dukung-palestina",
@@ -37,6 +44,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "19 Good Deeds Directly Rewarded with Similar Rewards",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tj1hgn320/19-perbuatan-baik-yang-diganjar-langsung-dengan-ganjaran-serupa",
+      "published_date": "2026-07-31T12:31:35+00:00",
+      "category": "Military"
+    },
     {
       "title": "It is rumored that Indonesian troops will be involved in disarming Hamas",
       "source": "Republika English",
@@ -169,16 +183,16 @@
       "url": "https://news.republika.co.id/berita/tip8ff230000/polisi-fasilitasi-damai-kasus-pencurian-iphone-di-karawang",
       "published_date": "2026-07-24T21:45:15+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Morowali Police Hunt for BRILink Robbery Perpetrators, Kiosk Guard Slashed",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tip6jq8130000/polres-morowali-buru-pelaku-perampokan-brilink-penjaga-kios-disayat",
-      "published_date": "2026-07-24T21:04:38+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "BPK Monitors Energy Security Program through National Thematic Examination",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj1g5w490/bpk-kawal-program-ketahanan-energi-lewat-pemeriksaan-tematik-nasional",
+      "published_date": "2026-07-31T12:03:32+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Indonesian Palm Oil Want to Remain Selling in the Global Market? These are the conditions",
       "source": "Republika English",
@@ -234,16 +248,23 @@
       "url": "https://news.republika.co.id/berita/tip5ud2030000/koalisi-besar-buruh-rampungkan-draf-usulan-uu-ketenagakerjaan-siap-diserahkan-ke-dpr",
       "published_date": "2026-07-24T20:49:25+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "PHE Energy Lenses Help Early Detection of Children's Vision Impairment",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tioazg423/lensa-energi-phe-bantu-deteksi-dini-gangguan-penglihatan-anak",
-      "published_date": "2026-07-24T10:50:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "JCI Closes Stronger, Ends Trading July 2026 in the Green Zone",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tj1fq9375/ihsg-ditutup-menguat-akhiri-perdagangan-juli-2026-di-zona-hijau",
+      "published_date": "2026-07-31T12:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Private Banks Choose to Maintain Credit Quality Amidst Economic Uncertainty",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj1fun490/bank-swasta-pilih-jaga-kualitas-kredit-di-tengah-ketidakpastian-ekonomi",
+      "published_date": "2026-07-31T11:56:47+00:00",
+      "category": "Economy"
+    },
     {
       "title": "John Stones Officially Belongs to Inter Milan",
       "source": "Republika English",
@@ -369,23 +390,58 @@
       "url": "https://news.republika.co.id/berita/tiwpvl2130000/menaker-potongan-komisi-ojol-8-persen-sudah-berlaku-sejak-1-juli-2026",
       "published_date": "2026-07-28T22:45:21+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BCA Maintains Credit Target of 8-10 Percent in the Era of High Interest Rates",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tivxoz349/bca-pertahankan-target-kredit-810-persen-di-tengah-era-suku-bunga-tinggi",
-      "published_date": "2026-07-28T12:36:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK Supports Strengthening Genomics Research in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiu9f2416/inggris-dukung-penguatan-riset-genomik-di-indonesia",
-      "published_date": "2026-07-27T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Indofood Earns Sales of IDR 65.53 Trillion, in Semester I 2026, Core Profit Continues to Grow",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj1i3c370/indofood-raup-penjualan-rp-6553-triliun-pada-semester-i-2026-core-profit-tetap-tumbuh",
+      "published_date": "2026-07-31T12:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Abandons Open Dumping, Buffer Areas Asked to Also Improve",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tj1989416/dki-tinggalkan-open-dumping-daerah-penyangga-diminta-ikut-berbenah",
+      "published_date": "2026-07-31T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Welcoming the 81st Anniversary of the Republic of Indonesia, FKUB Paniai Regency and the Church Hold a Competition",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj1ftw484/sambut-hut-ke81-ri-fkub-kabupaten-paniai-dan-gereja-gelar-lomba",
+      "published_date": "2026-07-31T11:56:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IIF Expands Infrastructure Project Financing, PSEL Enters List",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj1ffe416/iif-perluas-pembiayaan-proyek-infrastruktur-psel-masuk-daftar",
+      "published_date": "2026-07-31T11:48:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ID Survey Aims for World Class TIC Company Title",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj1fdg490/id-survey-incar-predikat-perusahaan-tic-kelas-dunia",
+      "published_date": "2026-07-31T11:46:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Once at odds with Trump, Elon Musk poured huge funds into the Republican Party",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj1fbc451/pernah-berseteru-dengan-trump-elon-musk-guyur-dana-besar-untuk-partai-republik",
+      "published_date": "2026-07-31T11:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: independent publishing and the making of alternative publics",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-independent-publishing-and-the-making-of-alternative-publics/",
+      "published_date": "2026-07-31T00:13:39+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "BMW Motorrad Presents F 450 GS and R 1300 RT, Strengthening the Premium Motorbike Segment in Indonesia",
       "source": "Republika English",
@@ -475,55 +531,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tizigk282/4-bupati-terciduk-kpk-ombudsman-ri-peringatkan-maladministrasi-pelayanan-publik-di-provinsi-jateng",
       "published_date": "2026-07-30T10:57:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mercedes-Benz Launches AMG GT 63 PRO and GLC 200 4MATIC at GIIAS 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tiye20348/mercedesbenz-luncurkan-amg-gt-63-pro-dan-glc-200-4matic-di-giias-2026",
-      "published_date": "2026-07-29T23:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yusril's firm message to graduates: Don't give up looking for work",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tixzky451/pesan-tegas-yusril-untuk-para-sarjana-jangan-putus-asa-cari-kerja",
-      "published_date": "2026-07-29T23:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BAW Aims at the Indonesian Automotive Market, Electric Pickups and Local Assembly Become a Mainstay",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tiyl32370/baw-bidik-pasar-otomotif-indonesia-pikap-listrik-dan-perakitan-lokal-jadi-andalan",
-      "published_date": "2026-07-29T22:57:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Honda Brings New Concept at GIIAS 2026, Introduces Super-ONE as the Beginning of the EV Era in Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tiycgg348/honda-bawa-konsep-baru-di-giias-2026-perkenalkan-superone-sebagai-awal-era-ev-di-indonesia",
-      "published_date": "2026-07-29T22:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Prabowo Focuses on Following Up on Construction of North Bali Airport",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiykjj4330000/presiden-prabowo-fokus-tindak-lanjuti-pembangunan-bandara-bali-utara",
-      "published_date": "2026-07-29T22:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Geely Coolray Completes Geely's Powertrain Choices in Indonesia, Turbo SUV Priced Starting at IDR 333 Million",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tiy6nu348/geely-coolray-lengkapi-pilihan-powertrain-geely-di-indonesia-suv-turbo-dibanderol-mulai-rp-333-juta",
-      "published_date": "2026-07-29T22:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "East Kalimantan Provincial Government Makes Berau a Pilot Project for Cheap Fish to Reduce Stunting",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiyjut1230000/pemprov-kaltim-jadikan-berau-pilot-project-ikan-murah-untuk-tekan-stunting",
-      "published_date": "2026-07-29T22:30:29+00:00",
       "category": "Local Events"
     }
   ]
