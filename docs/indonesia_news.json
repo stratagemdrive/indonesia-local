@@ -52,6 +52,13 @@
   ],
   "Military": [
     {
+      "title": "Facing Drought, Ministry of Public Works Optimizes Dams and Drilled Wells",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj36m2416/hadapi-kekeringan-kementerian-pu-optimalkan-bendungan-dan-sumur-bor",
+      "published_date": "2026-08-01T11:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Extortion Case, KPK Finds Oddities in Conversation between Police Suspect and His Father",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj2b9p377/kasus-pemerasan-kpk-temukan-kejanggalan-pada-percakapan-tersangka-anggota-polisi-dan-ayahnya",
@@ -169,27 +176,6 @@
       "url": "https://republika.co.id/page/shorts/yt-tis3721660410519/konflik-timur-tengah-jk-minta-semua-pihak-tahan-diri",
       "published_date": "2026-07-26T10:45:02+00:00",
       "category": "Military"
-    },
-    {
-      "title": "TNI-Polri Hospital Prepared as Back-up to Prevent Forced Pilgrims to Not Istithaah for Hajj",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tiq8sd430/rs-tnipolri-disiapkan-jadi-back-up-cegah-pemaksaan-jamaah-tak-istithaah-berangkat-haji",
-      "published_date": "2026-07-25T11:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attending Islamic Ummah Congress, Deputy Minister for Political and Security Affairs: Politics is not a path to wealth",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tiq87w430/hadiri-kongres-umat-islam-wamenko-polkam-politik-bukan-jalan-kekayaan",
-      "published_date": "2026-07-25T10:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The UN's role in the Palestinian conflict is considered not yet optimal",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tiq7yz430/peran-pbb-dalam-konflik-palestina-dinilai-belum-optimal",
-      "published_date": "2026-07-25T10:40:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -265,6 +251,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "TRIV Expands Business Ecosystem and Digital Asset Literacy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj34un416/triv-perluas-ekosistem-bisnis-dan-literasi-aset-digital",
+      "published_date": "2026-08-01T10:20:23+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Head of BGN: I'm annoyed to see comments on social media as if MBG is wasting the state budget",
       "source": "Republika English",
@@ -397,16 +390,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tixruk348/kia-pasarkan-the-allnew-seltos-di-giias-andalkan-fitur-adas-dan-mesin-baru-harga-mulai-rp359-juta",
       "published_date": "2026-07-29T12:25:32+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Digital Marketing and the Illusion of Growth: Testing the Resilience of MSMEs",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/773954/pemasaran-digital-dan-ilusi-pertumbuhan-menguji-ketahanan-umkm",
-      "published_date": "2026-07-29T12:24:42+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Overthrowing Japanese Doubles, Leo/Daniel Challenge Malaysia in Taipei Open Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj3afp348/tumbangkan-ganda-jepang-leodaniel-tantang-malaysia-di-final-taipei-open",
+      "published_date": "2026-08-01T12:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Looking at the story of burnt batik, Mina Tani's proud batik",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/774513/menilik-kisah-batik-bakaran-batik-kebanggaan-bumi-mina-tani",
+      "published_date": "2026-08-01T11:55:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The pirated film Spider-Man: Brand New Day was released on X, has been watched millions of times",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tj3a69425/film-bajakan-spiderman-brand-new-day-sempat-beredar-di-x-sudah-ditonton-jutaan-kali",
+      "published_date": "2026-08-01T11:49:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia is ready to compete in 35 sports branches at the 2026 Asian Games",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj3a1v348/indonesia-siap-bertarung-di-35-cabang-olahraga-asian-games-2026",
+      "published_date": "2026-08-01T11:46:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNISA Bandung Lecturers Empower Sukapura Elderly Through SEFT Therapy and Islamic Mindfulness",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tj36rp472/dosen-unisa-bandung-berdayakan-lansia-sukapura-lewat-terapi-seft-dan-mindfulness-islami",
+      "published_date": "2026-08-01T10:35:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Forestry Hands Over Illegal Logging Case in Solok to Prosecutor's Office",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tj3284416/kemenhut-limpahkan-kasus-pembalakan-liar-di-solok-ke-kejaksaan",
+      "published_date": "2026-08-01T10:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor KDM Inaugurates Construction of PSEL Legok Nangka: Real Evidence of West Java Handling Waste",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tj340s472/gubernur-kdm-resmikan-pembangunan-psel-legok-nangka-bukti-nyata-jabar-tangani-sampah",
+      "published_date": "2026-08-01T09:36:28+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Responding to the news that the mall is fenced off, Presidential Advisor: Don't spread fearful news",
       "source": "Republika English",
@@ -496,55 +531,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj1fbc451/pernah-berseteru-dengan-trump-elon-musk-guyur-dana-besar-untuk-partai-republik",
       "published_date": "2026-07-31T11:45:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: independent publishing and the making of alternative publics",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-independent-publishing-and-the-making-of-alternative-publics/",
-      "published_date": "2026-07-31T00:13:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMW Motorrad Presents F 450 GS and R 1300 RT, Strengthening the Premium Motorbike Segment in Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj0hr2348/bmw-motorrad-hadirkan-f-450-gs-dan-r-1300-rt-perkuat-segmen-moge-premium-di-indonesia",
-      "published_date": "2026-07-30T23:40:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who Looks After the Doctor? It's time for Indonesia to protect those who save us",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tj0h7g348/siapa-menjaga-dokter-saatnya-indonesia-melindungi-mereka-yang-menyelamatkan-kita",
-      "published_date": "2026-07-30T23:28:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lifestyle Section, People Prefer to Bring Tumblers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj0fk6484/bagian-gaya-hidup-masyarakat-lebih-pilih-bawa-tumbler",
-      "published_date": "2026-07-30T22:52:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don't be in a hurry when saying the Azan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tj0f03430/jangan-tergesagesa-saat-mengumandangkan-azan",
-      "published_date": "2026-07-30T22:40:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sulawesi Provincial Government Sets Six Commitments to Strengthen TPAKD for Financial Inclusion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj0eik2530000/pemprov-sulut-tetapkan-enam-komitmen-perkuat-tpakd-demi-inklusi-keuangan",
-      "published_date": "2026-07-30T22:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor Koster asks that development in the Batur area must be coordinated with traditional leaders",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj0dts3630000/gubernur-koster-minta-pembangunan-di-kawasan-batur-wajib-koordinasi-dengan-tokoh-adat",
-      "published_date": "2026-07-30T22:15:28+00:00",
       "category": "Local Events"
     }
   ]
