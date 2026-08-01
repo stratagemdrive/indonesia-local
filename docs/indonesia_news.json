@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Thai PM Visits Indonesia on 3-4 August 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj461e484/pm-thailand-lawatan-ke-indonesia-pada-34-agustus-2026",
+      "published_date": "2026-08-01T23:17:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "European Sanctions Approach 3,000 Target, Here's How Russia Breaks Through the Western Blockade",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj1t7v451/sanksi-eropa-dekati-3000-target-begini-cara-rusia-menembus-blokade-barat",
@@ -51,6 +58,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Banjarbaru Police Arrest a Man Who Tricked His Lover by Claiming to Be a Police Officer",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj40di330000/polres-banjarbaru-ringkus-pria-tipu-kekasih-dengan-modus-mengaku-polisi",
+      "published_date": "2026-08-01T21:15:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Limitations Don't Stop Kotim Students from Entering the US Hall of Fame Through the Discovery of Cyber ​​Loopholes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj3zrz830000/keterbatasan-tak-halangi-pelajar-kotim-tembus-hall-of-fame-as-lewat-temuan-celah-siber",
+      "published_date": "2026-08-01T21:02:23+00:00",
+      "category": "Military"
+    },
     {
       "title": "Facing Drought, Ministry of Public Works Optimizes Dams and Drilled Wells",
       "source": "Republika English",
@@ -252,6 +273,20 @@
   ],
   "Economy": [
     {
+      "title": "The implementation of B50 is considered to require strengthening biodiesel regulations and governance",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj46su423/implementasi-b50-dinilai-perlu-penguatan-regulasi-dan-tata-kelola-biodiesel",
+      "published_date": "2026-08-01T23:34:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Coordinating Minister for Political and Security Affairs: Indonesia Remains Attractive for Investors Amid Global Dynamics",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj3xlf1230000/menko-polkam-indonesia-tetap-menarik-bagi-investor-di-tengah-dinamika-global",
+      "published_date": "2026-08-01T20:15:15+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "TRIV Expands Business Ecosystem and Digital Asset Literacy",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tj34un416/triv-perluas-ekosistem-bisnis-dan-literasi-aset-digital",
@@ -376,23 +411,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tixoc9416/legislator-apresiasi-penetapan-ojol-sebagai-pelaku-umkm",
       "published_date": "2026-07-29T12:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Dispelling the Shadow of Hackers: The Urgency of Data Sovereignty and Cybersecurity",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/773952/menepis-bayang-bayang-hacker-urgensi-kedaulatan-data-dan-keamanan-siber",
-      "published_date": "2026-07-29T12:27:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Kia Markets The All-New Seltos at GIIAS, Relying on ADAS Features and New Engine, Prices Starting at IDR 359 Million",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tixruk348/kia-pasarkan-the-allnew-seltos-di-giias-andalkan-fitur-adas-dan-mesin-baru-harga-mulai-rp359-juta",
-      "published_date": "2026-07-29T12:25:32+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Innalillahi, Pas Band Trisno Bassist Dies After Suffering from Kidney Failure",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tj4716483/innalillahi-basist-pas-band-trisno-meninggal-dunia-usai-menderita-gagal-ginjal",
+      "published_date": "2026-08-01T23:39:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "To PSI Cadres, Jokowi: Please come to Solo if there are problems",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj46zp484/kepada-kader-psi-jokowi-silakan-datang-ke-solo-kalau-ada-masalah",
+      "published_date": "2026-08-01T23:38:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opportunities for 8,000 Jobs, Nvidia CEO Jensen Huang: AI is apparently creating a wave of new professions",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tj467i451/peluang-8000-pekerjaan-ceo-nvidia-jensen-huang-ai-ternyata-ciptakan-gelombang-profesi-baru",
+      "published_date": "2026-08-01T23:21:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jokowi Now Has the Title of King of Timor, Targets PSI to Win the 2029 Election",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj456x484/jokowi-kini-bergelar-raja-timor-targetkan-psi-menang-pemilu-2029",
+      "published_date": "2026-08-01T23:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moments from Aston Villa's match against Indonesia All Star at GBK Stadium",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tj3l5a375/momen-laga-aston-villa-melawan-indonesia-all-star-di-stadion-gbk",
+      "published_date": "2026-08-01T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young Talk ID Reveals the Spiral of Silence Phenomenon among Young People",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj3lir484/muda-bicara-id-ungkap-fenomena-spiral-of-silence-di-kalangan-muda",
+      "published_date": "2026-08-01T22:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Governor of Central Kalimantan Encourages 340 UMPR Graduates to Become Entrepreneurs in the AI ​​Era",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj3z2j5030000/wagub-kalteng-dorong-340-wisudawan-umpr-jadi-wirausaha-di-era-ai",
+      "published_date": "2026-08-01T20:47:07+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Overthrowing Japanese Doubles, Leo/Daniel Challenge Malaysia in Taipei Open Final",
       "source": "Republika English",
@@ -482,55 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj27se5330000/shayne-pattynama-akui-perlawanan-hebat-timor-leste-indonesia-petik-kemenangan-30",
       "published_date": "2026-07-31T22:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sigra, Terios, and Gran Max Get Refreshments at GIIAS 2026, Targeting Family to Commercial Segments",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj1vkf348/sigra-terios-dan-gran-max-dapat-penyegaran-pada-giias-2026-bidik-segmen-keluarga-sampai-komersial",
-      "published_date": "2026-07-31T21:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indofood Earns Sales of IDR 65.53 Trillion, in Semester I 2026, Core Profit Continues to Grow",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj1i3c370/indofood-raup-penjualan-rp-6553-triliun-pada-semester-i-2026-core-profit-tetap-tumbuh",
-      "published_date": "2026-07-31T12:45:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DKI Abandons Open Dumping, Buffer Areas Asked to Also Improve",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tj1989416/dki-tinggalkan-open-dumping-daerah-penyangga-diminta-ikut-berbenah",
-      "published_date": "2026-07-31T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Welcoming the 81st Anniversary of the Republic of Indonesia, FKUB Paniai Regency and the Church Hold a Competition",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj1ftw484/sambut-hut-ke81-ri-fkub-kabupaten-paniai-dan-gereja-gelar-lomba",
-      "published_date": "2026-07-31T11:56:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IIF Expands Infrastructure Project Financing, PSEL Enters List",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj1ffe416/iif-perluas-pembiayaan-proyek-infrastruktur-psel-masuk-daftar",
-      "published_date": "2026-07-31T11:48:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ID Survey Aims for World Class TIC Company Title",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj1fdg490/id-survey-incar-predikat-perusahaan-tic-kelas-dunia",
-      "published_date": "2026-07-31T11:46:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Once at odds with Trump, Elon Musk poured huge funds into the Republican Party",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj1fbc451/pernah-berseteru-dengan-trump-elon-musk-guyur-dana-besar-untuk-partai-republik",
-      "published_date": "2026-07-31T11:45:12+00:00",
       "category": "Local Events"
     }
   ]
