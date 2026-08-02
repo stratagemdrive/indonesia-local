@@ -59,6 +59,13 @@
   ],
   "Military": [
     {
+      "title": "INZS 2026: Air Talk Urges Government to Accelerate Implementation of Air Pollution Policy",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tj54nn423/inzs-2026-bicara-udara-desak-pemerintah-percepat-implementasi-kebijakan-polusi-udara",
+      "published_date": "2026-08-02T11:45:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Banjarbaru Police Arrest a Man Who Tricked His Lover by Claiming to Be a Police Officer",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj40di330000/polres-banjarbaru-ringkus-pria-tipu-kekasih-dengan-modus-mengaku-polisi",
@@ -190,16 +197,30 @@
       "url": "https://news.republika.co.id/berita/tit1xe484/polisi-tangkap-tiga-orang-terkait-bentrok-polsektro-menteng-digeruduk-massa",
       "published_date": "2026-07-26T23:15:14+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Middle East Conflict JK asks all parties to exercise restraint",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tis3721660410519/konflik-timur-tengah-jk-minta-semua-pihak-tahan-diri",
-      "published_date": "2026-07-26T10:45:02+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Dino Patti Djalal: The World Only Has Until 2030 to Overcome the Climate Crisis",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tj4tns416/dino-patti-djalal-dunia-hanya-punya-waktu-hingga-2030-atasi-krisis-iklim",
+      "published_date": "2026-08-02T11:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Expresses Condolences Over the Accident in Tanah Bumbu, the Vehicles Involved Were Not Operational Fleet",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj51lm368/pertamina-sampaikan-duka-atas-kecelakaan-di-tanah-bumbu-kendaraan-terlibat-bukan-armada-operasional",
+      "published_date": "2026-08-02T10:39:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "MotoGP Simulators to Drift Challenges Enliven the MyPertamina Booth at GIIAS",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj4ulm416/simulator-motogp-hingga-tantangan-drift-ramaikan-booth-mypertamina-di-giias",
+      "published_date": "2026-08-02T10:30:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Lowers Pertamax Series Prices Starting August 1, Here's the List",
       "source": "Republika English",
@@ -272,6 +293,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Next week, gold prices are predicted to move in the range of IDR 2.41–IDR 2.72 million per gram",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj5034423/pekan-depan-harga-emas-diprediksi-bergerak-di-kisaran-rp-241rp-272-juta-per-gram",
+      "published_date": "2026-08-02T10:06:40+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The implementation of B50 is considered to require strengthening biodiesel regulations and governance",
       "source": "Republika English",
@@ -404,16 +432,51 @@
       "url": "https://news.republika.co.id/berita/tixplf368/ai-dan-blockchain-jadi-primadona-s2-informatika-unm-buka-peminatan-sesuai-tren-industri",
       "published_date": "2026-07-29T12:37:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Legislators Appreciate the Determination of Ojol as an MSME Actor",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tixoc9416/legislator-apresiasi-penetapan-ojol-sebagai-pelaku-umkm",
-      "published_date": "2026-07-29T12:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "UNM Wins 2026 Ministry of Education and Technology National Grant, Presents 'One Click Nutrition' to Prevent Wasting in Toddlers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj54ry368/unm-raih-hibah-nasional-kemdiktisaintek-2026-hadirkan-satu-klik-gizi-untuk-cegah-wasting-balita",
+      "published_date": "2026-08-02T11:47:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children's Cultural Creation Festival Enlivens the HAN Commemoration West Java Level 2026",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tj54d6368/festival-kreasi-budaya-anak-semarakkan-peringatan-han-tingkat-jawa-barat-2026",
+      "published_date": "2026-08-02T11:39:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vietnam National Team Coach: We have no choice but to win against Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj51i7409/pelatih-timnas-vietnam-kami-tak-punya-pilihan-selain-menang-lawan-indonesia",
+      "published_date": "2026-08-02T10:37:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 Central Java Regents Subject to KPK OTT, Governor Luthfi: I'm Tired",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tj50eg282/5-bupati-jateng-kena-ott-kpk-gubernur-luthfi-capek-saya",
+      "published_date": "2026-08-02T10:13:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Transportation Moves Quickly to Evacuate Passengers of KM Mutiara Sentosa II which Burned in the Java Sea",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tj4yg8423/kemenhub-gerak-cepat-evakuasi-penumpang-km-mutiara-sentosa-ii-yang-terbakar-di-laut-jawa",
+      "published_date": "2026-08-02T09:31:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wenda Orangutan Gives Birth to Female Child 12 Years After Being Released to the Wild",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tj4xp8416/orang-utan-wenda-lahirkan-anak-betina-setelah-12-tahun-dilepasliarkan",
+      "published_date": "2026-08-02T09:25:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Innalillahi, Pas Band Trisno Bassist Dies After Suffering from Kidney Failure",
       "source": "Republika English",
@@ -510,48 +573,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tj340s472/gubernur-kdm-resmikan-pembangunan-psel-legok-nangka-bukti-nyata-jabar-tangani-sampah",
       "published_date": "2026-08-01T09:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Responding to the news that the mall is fenced off, Presidential Advisor: Don't spread fearful news",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj2bxd377/respons-kabar-mal-dipagari-penasihat-presiden-jangan-tebar-berita-ketakutan",
-      "published_date": "2026-07-31T23:29:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Weather Forecast This Saturday: Sunny, Cloudy, Thousand Islands Light Rain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj29vd10030000/prakiraan-cuaca-jakarta-sabtu-ini-cerah-berawan-kepulauan-seribu-hujan-ringan",
-      "published_date": "2026-07-31T22:45:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toyota Expands Vehicle Selection With GAZOO Racing and New Land Cruiser",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj1we3348/toyota-perluas-pilihan-kendaraan-lewat-gazoo-racing-dan-land-cruiser-baru",
-      "published_date": "2026-07-31T22:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pulomas Tower Developed into LRT Integrated Productive Area",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj296c9530000/pulomas-tower-dikembangkan-jadi-kawasan-produktif-terintegrasi-lrt",
-      "published_date": "2026-07-31T22:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doping Penalty Revoked, Mykhailo Mudryk Ready to Return to Strengthen Chelsea",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj28i11330000/hukuman-doping-dicabut-mykhailo-mudryk-siap-kembali-perkuat-chelsea",
-      "published_date": "2026-07-31T22:15:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shayne Pattynama Admits Timor Leste's Great Resistance, Indonesia Wins 3-0",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj27se5330000/shayne-pattynama-akui-perlawanan-hebat-timor-leste-indonesia-petik-kemenangan-30",
-      "published_date": "2026-07-31T22:00:14+00:00",
       "category": "Local Events"
     }
   ]
