@@ -38,6 +38,20 @@
   ],
   "Military": [
     {
+      "title": "Raisa Brings 'Light of the Heart', the Beginning of the Heroine's Journey at the Sabang Merauke Performance",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tj9rkp425/raisa-bawakan-cahaya-hati-awal-perjalanan-srikandi-di-pagelaran-sabang-merauke",
+      "published_date": "2026-08-04T23:50:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "El Nino Strengthens, Bappenas Warns Threats of Forest and Land Fires and Water Crisis",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tj91is416/el-nino-menguat-bappenas-wantiwanti-ancaman-karhutla-hingga-krisis-air",
+      "published_date": "2026-08-04T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Putri KW Focuses on Improving Her Mentality to Achieve Achievements at the 2026 World Championships in India",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj8v2h348/putri-kw-fokus-benahi-mental-demi-raih-prestasi-di-kejuaraan-dunia-2026-di-india",
@@ -162,20 +176,6 @@
       "url": "https://news.republika.co.id/berita/tiyk8w484/kenaikan-tukin-di-kemenhan-eselon-i-terima-rp-373-juta-per-bulan",
       "published_date": "2026-07-29T22:38:56+00:00",
       "category": "Military"
-    },
-    {
-      "title": "West Java NU Rais Syuriyah: Support for National Police Chief Candidate is Not an Organizational Attitude, Still Respect Listyo Sigit",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tix8yi451/rais-syuriyah-nu-jabar-dukungan-calon-kapolri-bukan-sikap-organisasi-tetap-respect-listyo-sigit",
-      "published_date": "2026-07-29T12:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Membership of 32 Countries, NATO General Admits West Has Difficulty Balancing Russia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiwpvf451/beranggotakan-32-negara-jenderal-nato-akui-barat-kesulitan-mengimbangi-rusia",
-      "published_date": "2026-07-28T22:45:15+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -272,6 +272,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tj9qqo483/jelang-deadline-wajib-halal-oktober-2026-pengusaha-diminta-segera-mulai-sertifikasi",
+      "published_date": "2026-08-04T23:32:48+00:00",
+      "category": "Economy"
+    },
     {
       "title": "PMI Manufacturing Returns to Expansion Zone, Kadin: Recovery Not Yet Solid",
       "source": "Republika English",
@@ -404,16 +411,72 @@
       "url": "https://news.republika.co.id/berita/tj273c4330000/ajax-resmi-daratkan-julian-brandt-dari-borussia-dortmund",
       "published_date": "2026-07-31T21:45:12+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "JCI Closes Stronger, Ends Trading July 2026 in the Green Zone",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tj1fq9375/ihsg-ditutup-menguat-akhiri-perdagangan-juli-2026-di-zona-hijau",
-      "published_date": "2026-07-31T12:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Many foreigners become converts to Islam in Karawang, MUI: Guidance is not requested",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tj8zjc483/banyak-wna-menjadi-mualaf-di-karawang-mui-hidayah-itu-tak-diminta",
+      "published_date": "2026-08-04T23:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jojo and Sabar/Reza are included in the list of players for the 2026 Asian Games",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9q7n348/jojo-dan-sabarreza-masuk-daftar-pemain-untuk-asian-games-2026",
+      "published_date": "2026-08-04T23:21:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Messi Donates IDR 1.5 Billion for Forest Fire Victims in Madrid",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9ptj348/lionel-messi-donasikan-rp-15-miliar-untuk-korban-kebakaran-hutan-di-madrid",
+      "published_date": "2026-08-04T23:12:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fired for Investigating Trump, 3 FBI Agents Sue Again, Supported by 12 Thousand Colleagues",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9n4b451/dipecat-karena-selidiki-trump-3-agen-fbi-balik-gugat-didukung-12-ribu-rekan",
+      "published_date": "2026-08-04T22:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lucho is grateful that Persib has passed the President's Cup final, admits that the players are physically drained",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9ojt1930000/lucho-syukuri-persib-lolos-final-piala-presiden-akui-fisik-pemain-terkuras",
+      "published_date": "2026-08-04T22:45:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9nuc4130000/tim-pembina-posyandu-bali-apresiasi-kader-di-badung-lewat-aksi-berbagi",
+      "published_date": "2026-08-04T22:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get to know the Bahrul Ulum Islamic Boarding School, a two-century-old Islamic boarding school that hosts the NU Congress",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tj8yy3483/mengenal-ponpes-bahrul-ulum-pesantren-berusia-dua-abad-yang-jadi-tuan-rumah-muktamar-nu",
+      "published_date": "2026-08-04T22:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Strongly Condemns Israeli Attacks That Obstruct Gaza Peace Plans",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9mhq7930000/indonesia-kecam-keras-serangan-israel-yang-halangi-rencana-perdamaian-gaza",
+      "published_date": "2026-08-04T22:01:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tj9ls41330000/gempa-m-56-guncang-barat-laut-halmahera-barat-tidak-berpotensi-tsunami",
+      "published_date": "2026-08-04T21:45:40+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Layoffs in Central Java Reach 6,604 People by July 2026, Garment and Textile Industries Most Affected",
       "source": "Republika English",
@@ -489,69 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj738m484/tito-sebut-data-dukcapil-paling-lengkap-dilengkapi-identitas-biometrik",
       "published_date": "2026-08-03T13:09:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inching Culture",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/774699/beringsut-kebudayaan",
-      "published_date": "2026-08-03T12:57:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student Research Reveals Opportunities and Challenges for Implementing MBG in Villages",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj715y416/riset-mahasiswa-ungkap-peluang-dan-tantangan-pelaksanaan-mbg-di-desa",
-      "published_date": "2026-08-03T12:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia's Telecommunications Infrastructure is Underdeveloped, 2,000 Villages Still Blank Spots",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj70zs484/infrastruktur-telekomunikasi-indonesia-tertinggal-2000-desa-masih-blankspot",
-      "published_date": "2026-08-03T12:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather Modification Operations Intensified to Handle Forest and Land Fires in Central Kalimantan",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tj5ftq375/operasi-modifikasi-cuaca-diintensifkan-untuk-tangani-karhutla-di-kalimantan-tengah",
-      "published_date": "2026-08-02T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The story of Husein Gaza who was frustrated when he returned to Indonesia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tj5yy6483/kisah-husein-gaza-yang-sempat-frustrasi-saat-pulang-ke-indonesia",
-      "published_date": "2026-08-02T22:39:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not an Arab country, Indonesia is considered to have the potential to lead preparations for the liberation of Al-Aqsa",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tj5yea483/bukan-negara-arab-indonesia-dinilai-berpotensi-pimpin-persiapan-pembebasan-alaqsa",
-      "published_date": "2026-08-02T22:27:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GIIAS 2026 Becomes an Arena for Promotions, Discounts and After Sales Services to Attract Consumers",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj5fwx348/giias-2026-jadi-arena-adu-promo-diskon-hingga-layanan-purna-jual-untuk-pikat-konsumen",
-      "published_date": "2026-08-02T21:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG's Rice Tofu Egg Soy Sauce Menu Poisoned 690 Students of SMKN 6 Semarang",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tj5ku2282/menu-nasi-tahu-telur-kecap-mbg-bikin-690-siswa-smkn-6-semarang-keracunan",
-      "published_date": "2026-08-02T18:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNM Wins 2026 Ministry of Education and Technology National Grant, Presents 'One Click Nutrition' to Prevent Wasting in Toddlers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj54ry368/unm-raih-hibah-nasional-kemdiktisaintek-2026-hadirkan-satu-klik-gizi-untuk-cegah-wasting-balita",
-      "published_date": "2026-08-02T11:47:58+00:00",
       "category": "Local Events"
     }
   ]
