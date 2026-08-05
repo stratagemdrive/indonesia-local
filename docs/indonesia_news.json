@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Arsenal is one step closer to getting Bruno Guimaraes, Newcastle is ready to let go of its captain for IDR 1.8 trillion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbl70348/arsenal-selangkah-lagi-dapatkan-bruno-guimaraes-newcastle-siap-lepas-kaptennya-rp-18-triliun",
+      "published_date": "2026-08-05T23:28:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbkhu348/timnas-indonesia-wajib-menang-rekor-pertemuan-dengan-singapura-jadi-modal-skuad-garuda",
+      "published_date": "2026-08-05T23:13:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Airlangga: First Semester 2026 Economic Growth Reaches 5.45 Percent, One of the Highest in ASEAN",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tjaqdq423/airlangga-pertumbuhan-ekonomi-semester-i-2026-capai-545-persen-salah-satu-tertinggi-di-asean",
@@ -51,6 +65,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "SMPN 1 Nabire Returns Student Perpetrator of Murder of Classmate to Parents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbj8a2630000/smpn-1-nabire-kembalikan-siswa-pelaku-pembunuhan-adik-kelas-ke-orang-tua",
+      "published_date": "2026-08-05T22:45:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "KSAU and Chief of Staff of the Australian Air Force Formation Flight in Darwin",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbh4f530000/ksau-dan-kepala-staf-au-australia-terbang-formasi-di-darwin",
+      "published_date": "2026-08-05T22:00:15+00:00",
+      "category": "Military"
+    },
     {
       "title": "Raisa Brings 'Light of the Heart', the Beginning of the Heroine's Journey at the Sabang Merauke Performance",
       "source": "Republika English",
@@ -176,20 +204,6 @@
       "url": "https://news.republika.co.id/berita/tj0dp9484/tutup-pendidikan-sesko-tni-wapang-serahkan-penghargaan-taskap-terbaik",
       "published_date": "2026-07-30T22:12:45+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Those Who Miss Meeting with Allah SWT, Following the Footsteps of the Prophet SAW",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tizm1u320/mereka-yang-merindukan-perjumpaan-dengan-allah-swt-mengikuti-jejak-rasulullah-saw",
-      "published_date": "2026-07-30T12:15:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tukin's promotion at the Ministry of Defense, Echelon I Receives IDR 37.3 Million per Month",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tiyk8w484/kenaikan-tukin-di-kemenhan-eselon-i-terima-rp-373-juta-per-bulan",
-      "published_date": "2026-07-29T22:38:56+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -269,16 +283,30 @@
       "url": "https://ekonomi.republika.co.id/berita/tizlj9423/bpdp-soroti-masa-depan-industri-sawit-berbasis-keberlanjutan",
       "published_date": "2026-07-30T12:11:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "New Chancellor Yarsi Encourages Downstreaming of Research and Industrial Collaboration",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tixy03416/rektor-baru-yarsi-dorong-hilirisasi-riset-dan-kolaborasi-industri",
-      "published_date": "2026-07-29T23:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "2026 Economic Census is the Basis for Targeted MSME Policy",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjayka416/sensus-ekonomi-2026-jadi-dasar-kebijakan-umkm-yang-tepat-sasaran",
+      "published_date": "2026-08-05T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "People are depressed, economists doubt the government's economic growth figures",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjbjc0393/rakyat-tertekan-ekonom-ragukan-angka-pertumbuhan-ekonomi-versi-pemerintah",
+      "published_date": "2026-08-05T22:48:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2026 Presidential Cup Economic Turnover Reaches IDR 1.5 Billion from MSMEs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbgfh3730000/perputaran-ekonomi-piala-presiden-2026-tembus-rp15-miliar-dari-umkm",
+      "published_date": "2026-08-05T21:45:17+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BRI Supports Optimization of State Cash Management Instruments, Strengthens Quality Credit Distribution",
       "source": "Republika English",
@@ -397,30 +425,44 @@
       "url": "https://news.republika.co.id/berita/tj3xlf1230000/menko-polkam-indonesia-tetap-menarik-bagi-investor-di-tengah-dinamika-global",
       "published_date": "2026-08-01T20:15:15+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "TRIV Expands Business Ecosystem and Digital Asset Literacy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj34un416/triv-perluas-ekosistem-bisnis-dan-literasi-aset-digital",
-      "published_date": "2026-08-01T10:20:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Head of BGN: I'm annoyed to see comments on social media as if MBG is wasting the state budget",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj2alg377/kepala-bgn-saya-gemas-lihat-komentar-di-medsos-seolah-mbg-habishabiskan-anggaran-negara",
-      "published_date": "2026-07-31T23:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Investment of IDR 1 Trillion, Construction of the Ciangir Livestock Area Starts at the End of 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj1m7t416/investasi-rp1-triliun-kawasan-peternakan-ciangir-mulai-dibangun-akhir-2026",
-      "published_date": "2026-07-31T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ministry of Transportation Evaluates Shipping Safety After KMP Mutiara Sentosa II Fire, 238 Victims Evacuated",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjbk65370/kemenhub-evaluasi-keselamatan-pelayaran-usai-kebakaran-kmp-mutiara-sentosa-ii-238-korban-dievakuasi",
+      "published_date": "2026-08-05T23:06:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Sulawesi Governor Demands Integrity and Professionalism of Three Newly Appointed Officials",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbiii8330000/gubernur-sulut-tuntut-integritas-dan-profesionalitas-tiga-pejabat-baru-yang-dilantik",
+      "published_date": "2026-08-05T22:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is Indonesia's official position regarding the Zionist annexation of the al-Aqsa Mosque",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbi52393/ini-sikap-resmi-indonesia-terkait-aneksasi-zionis-di-masjid-alaqsa",
+      "published_date": "2026-08-05T22:22:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Head of North Sulawesi Immigration Regional Office: Immigration Challenges Need Pentahelix Synergy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbhtk9530000/kakanwil-imigrasi-sulut-tantangan-keimigrasian-butuh-sinergi-pentahelix",
+      "published_date": "2026-08-05T22:15:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Condemning the Annexation of the Al-Aqsa Mosque by Zionists, RI Calls for a United Muslim State",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjbhl2393/kutuk-aneksasi-masjid-alaqsa-oleh-zionis-ri-serukan-negara-muslim-bersatu",
+      "published_date": "2026-08-05T22:10:14+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Why do people easily make mean and unempathetic comments on social media?",
       "source": "Republika English",
@@ -524,41 +566,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj9nuc4130000/tim-pembina-posyandu-bali-apresiasi-kader-di-badung-lewat-aksi-berbagi",
       "published_date": "2026-08-04T22:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get to know the Bahrul Ulum Islamic Boarding School, a two-century-old Islamic boarding school that hosts the NU Congress",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tj8yy3483/mengenal-ponpes-bahrul-ulum-pesantren-berusia-dua-abad-yang-jadi-tuan-rumah-muktamar-nu",
-      "published_date": "2026-08-04T22:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Strongly Condemns Israeli Attacks That Obstruct Gaza Peace Plans",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj9mhq7930000/indonesia-kecam-keras-serangan-israel-yang-halangi-rencana-perdamaian-gaza",
-      "published_date": "2026-08-04T22:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj9ls41330000/gempa-m-56-guncang-barat-laut-halmahera-barat-tidak-berpotensi-tsunami",
-      "published_date": "2026-08-04T21:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Layoffs in Central Java Reach 6,604 People by July 2026, Garment and Textile Industries Most Affected",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj8vrb423/phk-di-jateng-tembus-6604-orang-hingga-juli-2026-industri-garmen-dan-tekstil-paling-terdampak",
-      "published_date": "2026-08-04T12:23:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Illegal Logging in Sumatran Tiger Habitat Revealed, Three Perpetrators Arrested",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tj8vcr416/pembalakan-liar-di-habitat-harimau-sumatra-terungkap-tiga-pelaku-ditangkap",
-      "published_date": "2026-08-04T12:16:46+00:00",
       "category": "Local Events"
     }
   ]
