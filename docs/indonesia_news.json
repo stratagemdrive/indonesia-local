@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Airlangga: First Semester 2026 Economic Growth Reaches 5.45 Percent, One of the Highest in ASEAN",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjaqdq423/airlangga-pertumbuhan-ekonomi-semester-i-2026-capai-545-persen-salah-satu-tertinggi-di-asean",
+      "published_date": "2026-08-05T12:22:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Confiding in the IMF, Purbaya Calls Himself the Unluckiest Minister in the World",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjancy484/curhat-ke-imf-purbaya-sebut-dirinya-menteri-paling-tidak-beruntung-di-dunia",
+      "published_date": "2026-08-05T11:17:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Rizky Ridho Invites the Indonesian National Team Squad to Focus on Implementing Herdman's Plan When Facing Vietnam",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj5mbv348/rizky-ridho-ajak-skuad-timnas-indonesia-fokus-jalankan-rencana-herdman-saat-hadapi-vietnam",
@@ -262,16 +276,16 @@
       "url": "https://news.republika.co.id/berita/tixy03416/rektor-baru-yarsi-dorong-hilirisasi-riset-dan-kolaborasi-industri",
       "published_date": "2026-07-29T23:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Danone Relies on Solar Energy for Factory Operations",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tixrxo416/danone-andalkan-energi-matahari-untuk-operasional-pabrik",
-      "published_date": "2026-07-29T12:29:24+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "BRI Supports Optimization of State Cash Management Instruments, Strengthens Quality Credit Distribution",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjaoz6472/bri-dukung-optimalisasi-instrumen-pengelolaan-kas-negara-perkuat-penyaluran-kredit-berkualitas",
+      "published_date": "2026-08-05T11:52:18+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
@@ -404,16 +418,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tj1m7t416/investasi-rp1-triliun-kawasan-peternakan-ciangir-mulai-dibangun-akhir-2026",
       "published_date": "2026-07-31T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ajax Officially Lands Julian Brandt from Borussia Dortmund",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj273c4330000/ajax-resmi-daratkan-julian-brandt-dari-borussia-dortmund",
-      "published_date": "2026-07-31T21:45:12+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Why do people easily make mean and unempathetic comments on social media?",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tjard1425/mengapa-orang-mudah-berkomentar-jahat-dan-nirempati-di-medsos",
+      "published_date": "2026-08-05T12:43:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Corruption of KPK OTT, DPD RI Calls Inspectorate Function in Central Java Regional Government Problematic",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tjaq9x282/marak-ott-kpk-dpd-ri-sebut-fungsi-inspektorat-di-pemda-jateng-bermasalah",
+      "published_date": "2026-08-05T12:20:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Java DPRD and Provincial Government Agree on 2027 APBD Policy Direction",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjaq98472/dprd-jabar-dan-pemprov-sepakati-arah-kebijakan-apbd-2027",
+      "published_date": "2026-08-05T12:19:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "V BTS Reportedly Had a Car Accident After Concert in New Jersey",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tjaq1w425/v-bts-dikabarkan-alami-kecelakaan-mobil-usai-konser-di-new-jersey",
+      "published_date": "2026-08-05T12:15:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strengthening international networks, STIQ Ar-Rahman Explores Collaboration with IUA Sudan",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjapiq320/perkuat-jejaring-internasional-stiq-arrahman-jajaki-kerja-sama-dengan-iua-sudan",
+      "published_date": "2026-08-05T12:04:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hunting for Job Opportunities, Thousands of Applicants Crowd the Job Fair in Bogor",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tjam8w375/berburu-peluang-kerja-ribuan-pelamar-padati-bursa-kerja-di-bogor",
+      "published_date": "2026-08-05T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "150 campuses take part in the 2026 BEM SI National Conference, who is the new captain?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjap2j483/150-kampus-ikuti-munas-bem-si-2026-siapa-nahkoda-barunya",
+      "published_date": "2026-08-05T11:54:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 Forms of Pleasure that Humans Enjoy, Which is More Valuable?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjao6n320/3-bentuk-kenikmatan-yang-dinikmati-manusia-mana-yang-lebih-berharga",
+      "published_date": "2026-08-05T11:35:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nova Widianto Returns to Cipayung National Training Center, PBSI Aims for Revival of Indonesian Mixed Doubles",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjandg348/nova-widianto-pulang-ke-pelatnas-cipayung-pbsi-bidik-kebangkitan-ganda-campuran-indonesia",
+      "published_date": "2026-08-05T11:24:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Many foreigners become converts to Islam in Karawang, MUI: Guidance is not requested",
       "source": "Republika English",
@@ -489,69 +559,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tj8vcr416/pembalakan-liar-di-habitat-harimau-sumatra-terungkap-tiga-pelaku-ditangkap",
       "published_date": "2026-08-04T12:16:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The choice of SUV is no longer just about price, Jetour offers 4 SUV characteristics for different mobility needs",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj8v1p348/pilihan-suv-sudah-tak-melulu-harga-jetour-tawarkan-4-karakter-suv-untuk-kebutuhan-mobilitas-berbeda",
-      "published_date": "2026-08-04T12:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tj8uqi282/menko-ahy-kawasan-transmigrasi-harus-punya-daya-tarik-investasi-dan-ekonomi-berkelanjutan",
-      "published_date": "2026-08-04T12:01:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Selected, not shared: what Indonesia’s limited dual citizenship proposal reveals about who counts as diaspora",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/selected-not-shared-what-indonesias-limited-dual-citizenship-proposal-reveals-about-who-counts-as-diaspora/",
-      "published_date": "2026-08-04T00:38:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj7b9l416/asprindo-dorong-generasi-muda-bangun-usaha-sejak-bangku-sekolah",
-      "published_date": "2026-08-03T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj7tvh2530000/cara-elegan-seskab-teddy-rawat-jaringan-dinilai-perlu-dicontoh-politisi",
-      "published_date": "2026-08-03T22:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BKPP Malinau Holds Credit Score Technical Guidance, Overcoming Challenges for Civil Servant Promotion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj7r3p6230000/bkpp-malinau-gelar-bimtek-angka-kredit-atasi-tantangan-kenaikan-pangkat-pns",
-      "published_date": "2026-08-03T21:45:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakansari Stadium Flooded with Rain Ahead of Indonesia Vs Vietnam Kick-off",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj744u409/stadion-pakansari-diguyur-hujan-jelang-kickoff-indonesia-vs-vietnam",
-      "published_date": "2026-08-03T13:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LPS: Deposits Under IDR 100 Million Grow 5.16 Percent until June 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj73cs423/lps-simpanan-di-bawah-rp-100-juta-tumbuh-516-persen-hingga-juni-2026",
-      "published_date": "2026-08-03T13:12:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tito Calls the Most Complete Dukcapil Data: Equipped with Biometric Identity",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj738m484/tito-sebut-data-dukcapil-paling-lengkap-dilengkapi-identitas-biometrik",
-      "published_date": "2026-08-03T13:09:58+00:00",
       "category": "Local Events"
     }
   ]
