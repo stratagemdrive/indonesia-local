@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "John Herdman: Indonesia is a team that is injured and hungry, ready to fight it out against Singapore",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjclsk348/john-herdman-indonesia-tim-yang-terluka-dan-lapar-siap-bertarung-habishabisan-lawan-singapura",
+      "published_date": "2026-08-06T12:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Arsenal is one step closer to getting Bruno Guimaraes, Newcastle is ready to let go of its captain for IDR 1.8 trillion",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjbl70348/arsenal-selangkah-lagi-dapatkan-bruno-guimaraes-newcastle-siap-lepas-kaptennya-rp-18-triliun",
@@ -269,23 +276,44 @@
       "url": "https://esgnow.republika.co.id/berita/tizrev416/sawit-ri-mau-tetap-laku-di-pasar-global-ini-syaratnya",
       "published_date": "2026-07-30T23:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Sustainable Bioenergy Initiative Recognized by the World, Pertamina Wins Outstanding SDG Innovator 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tizlw8368/inisiatif-bioenergy-lestari-diakui-dunia-pertamina-raih-outstanding-sdg-innovator-2026",
-      "published_date": "2026-07-30T12:12:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "BPDP Highlights the Future of the Sustainability-Based Palm Oil Industry",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tizlj9423/bpdp-soroti-masa-depan-industri-sawit-berbasis-keberlanjutan",
-      "published_date": "2026-07-30T12:11:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Market Expansion Can Strengthen National Protein Industry Investment",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjcamt522/perluasan-pasar-bisa-perkuat-investasi-industri-protein-nasional",
+      "published_date": "2026-08-06T12:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Agriculture Ensures Rice Stocks Are Safe Even though 30 Thousand Hectares Are Affected by Drought",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjcjzi416/mentan-pastikan-stok-beras-aman-meski-30-ribu-hektare-terdampak-kekeringan",
+      "published_date": "2026-08-06T11:59:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Forestry Equips Apparatus for Forestry Diplomacy and International Trade",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjcjr2416/kemenhut-bekali-aparatur-diplomasi-kehutanan-dan-perdagangan-internasional",
+      "published_date": "2026-08-06T11:54:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Agriculture: People's Losses Due to Rice Mafia Reach IDR 100 Trillion",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjcjlt423/mentan-kerugian-rakyat-akibat-mafia-beras-capai-rp-100-triliun",
+      "published_date": "2026-08-06T11:51:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why are more Indonesian university graduates jostling for menial jobs?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/why-are-more-indonesian-university-graduates-jostling-for-menial-jobs/",
+      "published_date": "2026-08-06T05:01:12+00:00",
+      "category": "Economy"
+    },
     {
       "title": "2026 Economic Census is the Basis for Targeted MSME Policy",
       "source": "Republika English",
@@ -390,44 +418,37 @@
       "url": "https://news.republika.co.id/berita/tj602l348/juventus-permanenkan-randal-kolo-muani-tebus-striker-prancis-dari-psg",
       "published_date": "2026-08-02T23:12:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Food Task Force Names 39 Rice Mafia Suspects, State Losses Reach Hundreds of Trillions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj5z7q9530000/satgas-pangan-tetapkan-39-tersangka-mafia-beras-kerugian-negara-capai-ratusan-triliun",
-      "published_date": "2026-08-02T22:45:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New Key to Accelerate Sharia Bank Growth",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tj490v451/kunci-baru-untuk-mempercepat-pertumbuhan-bank-syariah",
-      "published_date": "2026-08-02T20:56:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Next week, gold prices are predicted to move in the range of IDR 2.41–IDR 2.72 million per gram",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj5034423/pekan-depan-harga-emas-diprediksi-bergerak-di-kisaran-rp-241rp-272-juta-per-gram",
-      "published_date": "2026-08-02T10:06:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The implementation of B50 is considered to require strengthening biodiesel regulations and governance",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj46su423/implementasi-b50-dinilai-perlu-penguatan-regulasi-dan-tata-kelola-biodiesel",
-      "published_date": "2026-08-01T23:34:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Coordinating Minister for Political and Security Affairs: Indonesia Remains Attractive for Investors Amid Global Dynamics",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj3xlf1230000/menko-polkam-indonesia-tetap-menarik-bagi-investor-di-tengah-dinamika-global",
-      "published_date": "2026-08-01T20:15:15+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjclw7409/mantan-ketua-yayasan-dituding-sebagai-pelaku-penyimpanan-ratusan-senpi-di-sekolah-swasta-jakarta",
+      "published_date": "2026-08-06T12:40:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marc Klok:We Will Fight for 280 Million Indonesians",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjclgx393/marc-klokkami-akan-berjuang-untuk-280-juta-rakyat-indonesia",
+      "published_date": "2026-08-06T12:31:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "For the First Time, 150 BRIN Researchers Exhibit Research Results at the Palace",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjcjmh484/pertama-kalinya-150-periset-brin-pamerkan-hasil-riset-di-istana",
+      "published_date": "2026-08-06T11:51:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "995 weapons found in schools in South Jakarta are considered deadly, here is the chronology of their discoveries",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjcj2k377/995-senjata-ditemukan-di-sekolah-di-jaksel-terbilang-mematikan-berikut-kronologi-penemuannya",
+      "published_date": "2026-08-06T11:39:56+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ministry of Transportation Evaluates Shipping Safety After KMP Mutiara Sentosa II Fire, 238 Victims Evacuated",
       "source": "Republika English",
@@ -538,34 +559,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tj9q7n348/jojo-dan-sabarreza-masuk-daftar-pemain-untuk-asian-games-2026",
       "published_date": "2026-08-04T23:21:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lionel Messi Donates IDR 1.5 Billion for Forest Fire Victims in Madrid",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj9ptj348/lionel-messi-donasikan-rp-15-miliar-untuk-korban-kebakaran-hutan-di-madrid",
-      "published_date": "2026-08-04T23:12:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fired for Investigating Trump, 3 FBI Agents Sue Again, Supported by 12 Thousand Colleagues",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj9n4b451/dipecat-karena-selidiki-trump-3-agen-fbi-balik-gugat-didukung-12-ribu-rekan",
-      "published_date": "2026-08-04T22:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lucho is grateful that Persib has passed the President's Cup final, admits that the players are physically drained",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj9ojt1930000/lucho-syukuri-persib-lolos-final-piala-presiden-akui-fisik-pemain-terkuras",
-      "published_date": "2026-08-04T22:45:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj9nuc4130000/tim-pembina-posyandu-bali-apresiasi-kader-di-badung-lewat-aksi-berbagi",
-      "published_date": "2026-08-04T22:30:12+00:00",
       "category": "Local Events"
     }
   ]
