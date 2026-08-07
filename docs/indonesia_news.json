@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "BP BUMN Targets Number of BUMN Entities to Remain at 250",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjebly423/bp-bumn-targetkan-jumlah-entitas-bumn-tinggal-250",
+      "published_date": "2026-08-07T11:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Singapore vs Indonesia: Garuda Must Win, Herdman Asks Players to Remain Calm",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjdhch348/singapura-vs-indonesia-garuda-wajib-menang-herdman-minta-pemainnya-tetap-tenang",
@@ -79,6 +86,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Polda Metro Says Hundreds of Weapons in Private Schools in South Jakarta Are Not Rifles, But Air Rifles",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjebp3409/polda-metro-sebut-ratusan-senjata-di-sekolah-swasta-di-jaksel-bukan-senpi-tapi-senapan-angin",
+      "published_date": "2026-08-07T10:55:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Java Regional Police Reveals 352 Cases, Bandung City Government Supports the War Against Street Crime",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjeaw4472/polda-jabar-ungkap-352-kasus-pemkot-bandung-dukung-perang-melawan-kejahatan-jalanan",
+      "published_date": "2026-08-07T10:38:28+00:00",
+      "category": "Military"
+    },
     {
       "title": "Ministry of Defense Renovations of LVRI Secretariat and Renovation of Veterans' Homes in 19 Provinces",
       "source": "Republika English",
@@ -201,6 +222,20 @@
   ],
   "Energy": [
     {
+      "title": "LHS Asks NU's 35th Congress to Prioritize Deliberation, Avoid Voting",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjech1451/lhs-minta-muktamar-ke35-nu-utamakan-musyawarah-hindari-voting",
+      "published_date": "2026-08-07T11:12:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Academics Propose Phased Roadmap for PLTS Target of 100 GW",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tje3bu522/akademisi-usulkan-roadmap-bertahap-untuk-target-plts-100-gw",
+      "published_date": "2026-08-07T10:53:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tj7vlj370/pemerintah-siapkan-insentif-mobil-listrik-berbaterai-nmc-hilirisasi-nikel-diperkuat",
@@ -258,6 +293,41 @@
     }
   ],
   "Economy": [
+    {
+      "title": "DJKI Confiscates 9,609 Shoes Using Illegal Brands, Business Turnover Reaches IDR 1 Billion",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjed7o370/djki-sita-9609-sepatu-pakai-merek-ilegal-omzet-usaha-capai-rp-1-miliar",
+      "published_date": "2026-08-07T11:28:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IVD Industry Strengthens Expansion, Indonesia Targets to Become a Manufacturing Base for Southeast Asia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjecht416/industri-ivd-perkuat-ekspansi-indonesia-dibidik-jadi-basis-manufaktur-asia-tenggara",
+      "published_date": "2026-08-07T11:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Blessings of the Republic of Indonesia's Independence Day, Red and White Knick-knack Traders at Jatinegara Market are Flooded with Buyers",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tjecb7375/berkah-hut-ri-pedagang-pernakpernik-merah-putih-di-pasar-jatinegara-kebanjiran-pembeli",
+      "published_date": "2026-08-07T11:09:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KNEKS Encourages Indonesia to Have the First Sharia GDP in the World",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjeb60423/kneks-dorong-indonesia-miliki-pdb-syariah-pertama-di-dunia",
+      "published_date": "2026-08-07T11:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stable Regulations Are Considered to Strengthen the National Mining Industry",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tje38q522/regulasi-yang-stabil-dinilai-perkuat-industri-pertambangan-nasional",
+      "published_date": "2026-08-07T10:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The issue of layoffs for garment workers in Cimahi, this is the explanation from the Minister of Industry",
       "source": "Republika English",
@@ -362,44 +432,23 @@
       "url": "https://news.republika.co.id/berita/tj8u1z472/feb-umj-jadi-pusat-pertemuan-akademisi-ekonomi-melalui-kongres-afeb-ptma-2026",
       "published_date": "2026-08-04T12:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bringing Gonzalo Garcia from Madrid, Fulham Strengthens Front Line",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj7w9m348/datangkan-gonzalo-garcia-dari-madrid-fulham-perkuat-lini-depan",
-      "published_date": "2026-08-03T23:36:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Synergy to Encourage Creative Industries, Minister of Creative Economy Inaugurates 'Creative Beauty Ecosystem Center' in Malang",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tj7svz291/sinergi-dorong-industri-kreatif-menteri-ekraf-resmikan-creative-beauty-ecosystem-center-di-malang",
-      "published_date": "2026-08-03T22:23:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Concrete Steps between Indonesia and Saudi Arabia to Build a Sustainable Hajj Economic Ecosystem",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tj73hi451/langkah-konkret-riarab-saudi-bangun-ekosistem-ekonomi-haji-berkelanjutan",
-      "published_date": "2026-08-03T13:15:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "West Java MTQ 2026 is cancelled, the reason is that there is no budget and the Garut Regency Government withdrew from being the host",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tj73eg282/mtq-jabar-2026-ditiadakan-alasannya-tak-ada-anggaran-dan-pemkab-garut-mundur-jadi-tuan-rumah",
-      "published_date": "2026-08-03T13:13:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BI Calls the Economy Resilient Amid Global Uncertainty",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj72jl423/bi-sebut-ekonomi-resilien-di-tengah-ketidakpastian-global",
-      "published_date": "2026-08-03T12:54:57+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Asprindo Encourages KDMP to Collaborate with Industrial Villages",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tje63l416/asprindo-dorong-kdmp-berkolaborasi-dengan-kampung-industri",
+      "published_date": "2026-08-07T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dedi Mulyadi Contests to Arrest the Perpetrator of Burning the Red and White Flag",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjec5w484/dedi-mulyadi-sayembarakan-tangkap-pelaku-pembakaran-bendera-merah-putih",
+      "published_date": "2026-08-07T11:05:56+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Checking the Progress of Hajj Villages in Saudi, Rosan Reveals Danantara Offered Medina Airport Investment",
       "source": "Republika English",
@@ -524,20 +573,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tjaq9x282/marak-ott-kpk-dpd-ri-sebut-fungsi-inspektorat-di-pemda-jateng-bermasalah",
       "published_date": "2026-08-05T12:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java DPRD and Provincial Government Agree on 2027 APBD Policy Direction",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjaq98472/dprd-jabar-dan-pemprov-sepakati-arah-kebijakan-apbd-2027",
-      "published_date": "2026-08-05T12:19:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "V BTS Reportedly Had a Car Accident After Concert in New Jersey",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjaq1w425/v-bts-dikabarkan-alami-kecelakaan-mobil-usai-konser-di-new-jersey",
-      "published_date": "2026-08-05T12:15:32+00:00",
       "category": "Local Events"
     }
   ]
