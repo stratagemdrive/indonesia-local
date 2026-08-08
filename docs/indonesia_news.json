@@ -69,16 +69,16 @@
       "url": "https://news.republika.co.id/berita/tj5m3n348/herdman-laga-kontra-vietnam-jadi-ujian-terberat-timnas-indonesia-di-fase-grup",
       "published_date": "2026-08-02T21:59:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Thai PM Visits Indonesia on 3-4 August 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj461e484/pm-thailand-lawatan-ke-indonesia-pada-34-agustus-2026",
-      "published_date": "2026-08-01T23:17:38+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "BMKG: Jakarta will be sunny and cloudy throughout the week, beware of the threat of El Nino 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjh37c5330000/bmkg-jakarta-cerah-berawan-sepanjang-minggu-waspada-ancaman-el-nino-2026",
+      "published_date": "2026-08-08T22:45:12+00:00",
+      "category": "Military"
+    },
     {
       "title": "US War Deputy Minister Elbridge Colby will go to Jakarta",
       "source": "Republika English",
@@ -190,20 +190,6 @@
       "url": "https://esgnow.republika.co.id/berita/tj54nn423/inzs-2026-bicara-udara-desak-pemerintah-percepat-implementasi-kebijakan-polusi-udara",
       "published_date": "2026-08-02T11:45:23+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Banjarbaru Police Arrest a Man Who Tricked His Lover by Claiming to Be a Police Officer",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj40di330000/polres-banjarbaru-ringkus-pria-tipu-kekasih-dengan-modus-mengaku-polisi",
-      "published_date": "2026-08-01T21:15:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Limitations Don't Stop Kotim Students from Entering the US Hall of Fame Through the Discovery of Cyber ​​Loopholes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj3zrz830000/keterbatasan-tak-halangi-pelajar-kotim-tembus-hall-of-fame-as-lewat-temuan-celah-siber",
-      "published_date": "2026-08-01T21:02:23+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -258,6 +244,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Indonesian Stock Investors Reach 10.05 Million, IDX Records Growth of 16.83 Percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjgu819530000/investor-saham-ri-tembus-1005-juta-bei-catat-pertumbuhan-1683-persen",
+      "published_date": "2026-08-08T19:31:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sukabumi Regency Government Launches 'Someah' Parking at South Coast Tourism",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjgs3l2030000/pemkab-sukabumi-luncurkan-parkir-someah-di-wisata-pantai-selatan",
+      "published_date": "2026-08-08T18:45:21+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BAZNAS RI Together with the Coordinating Minister for PM Distributes Aid to Zmart, BUMi and Santripreneurs in Gresik",
       "source": "Republika English",
@@ -383,23 +383,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tjcjlt423/mentan-kerugian-rakyat-akibat-mafia-beras-capai-rp-100-triliun",
       "published_date": "2026-08-06T11:51:29+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Why are more Indonesian university graduates jostling for menial jobs?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/why-are-more-indonesian-university-graduates-jostling-for-menial-jobs/",
-      "published_date": "2026-08-06T05:01:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "2026 Economic Census is the Basis for Targeted MSME Policy",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjayka416/sensus-ekonomi-2026-jadi-dasar-kebijakan-umkm-yang-tepat-sasaran",
-      "published_date": "2026-08-05T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Veda Ega's starting position and racing schedule at today's British GP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjh3s2409/posisi-start-dan-jadwal-balap-veda-ega-di-gp-inggris-hari-ini",
+      "published_date": "2026-08-08T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjh2if7630000/mastel-dorong-platform-digital-global-ikut-andil-bangun-infrastruktur-digital-ri",
+      "published_date": "2026-08-08T22:30:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DPR Commission VI and BRI Situbondo Invite NU Muslims to Strengthen MSME Financial Literacy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjgthe2230000/komisi-vi-dpr-dan-bri-situbondo-gaet-muslimat-nu-perkuat-literasi-keuangan-umkm",
+      "published_date": "2026-08-08T19:15:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mimika Transportation Agency Installs ATCS at 9 Timika Traffic Light Points",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjgssi4830000/dishub-mimika-pasang-atcs-di-9-titik-lampu-lalu-lintas-timika",
+      "published_date": "2026-08-08T19:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mount Bromo fire spreads to 176 hectares, tourist access is completely closed",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tjgq141630000/kebakaran-gunung-bromo-meluas-capai-176-hektare-akses-wisata-ditutup-total",
+      "published_date": "2026-08-08T18:00:40+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "After the DKI Bapenda building fire, debris was scattered, parts of the building were charred",
       "source": "Republika English",
@@ -503,41 +524,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tjf3oj3730000/kemiskinan-jabar-turun-jadi-654-persen-tapi-ketimpangan-meningkat",
       "published_date": "2026-08-07T21:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polda Metro Jaya Deploys 125 Personnel to Secure Fire Location at DKI Bapenda Building",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf3003130000/polda-metro-jaya-siagakan-125-personel-amankan-lokasi-kebakaran-gedung-bapenda-dki",
-      "published_date": "2026-08-07T20:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 Recommended Weekend Activities in Jakarta 8 August: Art, Film and Creative Markets",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf1lz5130000/7-rekomendasi-kegiatan-akhir-pekan-di-jakarta-8-agustus-seni-film-hingga-pasar-kreatif",
-      "published_date": "2026-08-07T20:15:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asprindo Encourages KDMP to Collaborate with Industrial Villages",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tje63l416/asprindo-dorong-kdmp-berkolaborasi-dengan-kampung-industri",
-      "published_date": "2026-08-07T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dedi Mulyadi Contests to Arrest the Perpetrator of Burning the Red and White Flag",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjec5w484/dedi-mulyadi-sayembarakan-tangkap-pelaku-pembakaran-bendera-merah-putih",
-      "published_date": "2026-08-07T11:05:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Checking the Progress of Hajj Villages in Saudi, Rosan Reveals Danantara Offered Medina Airport Investment",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjdl38490/cek-progres-kampung-haji-di-saudi-rosan-ungkap-danantara-ditawari-investasi-bandara-madinah",
-      "published_date": "2026-08-07T01:21:08+00:00",
       "category": "Local Events"
     }
   ]
