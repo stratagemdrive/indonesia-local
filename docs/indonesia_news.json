@@ -73,6 +73,13 @@
   ],
   "Military": [
     {
+      "title": "Ministry of Human Rights: BPJS Patients Are Not Second Class Citizens",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjhwg9483/kementerian-ham-pasien-bpjs-bukan-warga-negara-kelas-dua",
+      "published_date": "2026-08-09T09:16:57+00:00",
+      "category": "Military"
+    },
+    {
       "title": "BMKG: Jakarta will be sunny and cloudy throughout the week, beware of the threat of El Nino 2026",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjh37c5330000/bmkg-jakarta-cerah-berawan-sepanjang-minggu-waspada-ancaman-el-nino-2026",
@@ -194,6 +201,20 @@
   ],
   "Energy": [
     {
+      "title": "Improving Services, Pertamina Inaugurates Public Information Integration",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjhy40472/tingkatkan-layanan-pertamina-resmikan-integrasi-informasi-publik",
+      "published_date": "2026-08-09T09:52:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "A total of 70 personnel were deployed to strengthen the reliability of the electricity network in Gunungkidul ahead of the Republic of Indonesia's Independence Day",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tjhs00291/sebanyak-70-personel-dikerahkan-perkuat-keandalan-jaringan-listrik-di-gunungkidul-jelang-hut-ri",
+      "published_date": "2026-08-09T09:37:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "LHS Asks NU's 35th Congress to Prioritize Deliberation, Avoid Voting",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tjech1451/lhs-minta-muktamar-ke35-nu-utamakan-musyawarah-hindari-voting",
@@ -220,30 +241,16 @@
       "url": "https://esgnow.republika.co.id/berita/tj73vp522/komisaris-pertamina-patra-niaga-apresiasi-keberhasilan-umkm-binaan-tampil-di-ifw-2026",
       "published_date": "2026-08-03T13:23:49+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Dino Patti Djalal: The World Only Has Until 2030 to Overcome the Climate Crisis",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tj4tns416/dino-patti-djalal-dunia-hanya-punya-waktu-hingga-2030-atasi-krisis-iklim",
-      "published_date": "2026-08-02T11:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pertamina Expresses Condolences Over the Accident in Tanah Bumbu, the Vehicles Involved Were Not Operational Fleet",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj51lm368/pertamina-sampaikan-duka-atas-kecelakaan-di-tanah-bumbu-kendaraan-terlibat-bukan-armada-operasional",
-      "published_date": "2026-08-02T10:39:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "MotoGP Simulators to Drift Challenges Enliven the MyPertamina Booth at GIIAS",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj4ulm416/simulator-motogp-hingga-tantangan-drift-ramaikan-booth-mypertamina-di-giias",
-      "published_date": "2026-08-02T10:30:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Women's Ultra Micro Enterprises Strengthen the Economy of Coastal Communities",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tji049416/usaha-ultra-mikro-perempuan-perkuat-ekonomi-masyarakat-pesisir",
+      "published_date": "2026-08-09T10:39:51+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Indonesian Stock Investors Reach 10.05 Million, IDX Records Growth of 16.83 Percent",
       "source": "Republika English",
@@ -376,16 +383,58 @@
       "url": "https://esgnow.republika.co.id/berita/tjcjr2416/kemenhut-bekali-aparatur-diplomasi-kehutanan-dan-perdagangan-internasional",
       "published_date": "2026-08-06T11:54:38+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Minister of Agriculture: People's Losses Due to Rice Mafia Reach IDR 100 Trillion",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjcjlt423/mentan-kerugian-rakyat-akibat-mafia-beras-capai-rp-100-triliun",
-      "published_date": "2026-08-06T11:51:29+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sumatra Surrounded by 1,195 Hot Spots",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tji19k416/sumatera-dikepung-1195-titik-panas",
+      "published_date": "2026-08-09T11:02:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMHS Strengthens the Role of Families in Supporting Children's Growth and Development in the Modern Era",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tjhmgg522/bmhs-perkuat-peran-keluarga-dukung-tumbuh-kembang-anak-di-era-modern",
+      "published_date": "2026-08-09T10:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Daihatsu Sigra 1.2R Comes with a Number of Refreshments",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjhyv4348/new-daihatsu-sigra-12r-hadir-dengan-sejumlah-penyegaran",
+      "published_date": "2026-08-09T10:09:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "List of lectures on Independence Day, UBSI Varsity Jacket is a Special Gift for New Students",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjhxnf472/daftar-kuliah-di-hari-kemerdekaan-jaket-varsity-ubsi-jadi-hadiah-spesial-mahasiswa-baru",
+      "published_date": "2026-08-09T09:42:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bukit Duabelas National Park, Harmony of Nature and Tradition",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjhx9p483/taman-nasional-bukit-duabelas-harmoni-alam-dan-adat",
+      "published_date": "2026-08-09T09:34:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Master's Degree Only 18 Months, Fast Study with Scholarships of Up to 75 Percent for School Teachers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjhx7g472/s2-hanya-18-bulan-kuliah-cepat-dengan-beasiswa-hingga-75-persen-untuk-guru-sekolah",
+      "published_date": "2026-08-09T09:33:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Wants Persija to Win the League, Jakarta's Five Century Gift",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjhwf6348/pramono-ingin-persija-juara-liga-kado-lima-abad-jakarta",
+      "published_date": "2026-08-09T09:16:18+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Veda Ega's starting position and racing schedule at today's British GP",
       "source": "Republika English",
@@ -475,55 +524,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tjfa1l430/mui-karnaval-agustusan-jangan-dijadikan-ajang-kampanye-lgbt",
       "published_date": "2026-08-07T23:17:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Regional Police Uncover 195 Drug Cases and Destroy 25 Thousand Bottles of Alcohol",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjez0w375/polda-jabar-ungkap-195-kasus-narkoba-dan-musnahkan-25-ribu-botol-miras",
-      "published_date": "2026-08-07T23:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Official! This is the Complete Composition of the Shin Tae-yong Era Persija Coaching Team for the 2026/2027 Season",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf7uj9930000/resmi-ini-susunan-lengkap-tim-kepelatihan-persija-era-shin-taeyong-untuk-musim-20262027",
-      "published_date": "2026-08-07T22:30:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MBG 3B Reaches 9.6 Million Mothers and Toddlers, Investing in Preventing Stunting from an Early Age",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf7633630000/mbg-3b-jangkau-96-juta-ibu-dan-balita-investasi-cegah-stunting-sejak-dini",
-      "published_date": "2026-08-07T22:15:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toyota Strengthens Multi Platform Strategy, Presents Relevant Electrification Options in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf6gz2030000/toyota-perkuat-strategi-multi-platform-hadirkan-pilihan-elektrifikasi-relevan-di-indonesia",
-      "published_date": "2026-08-07T22:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Impressions of GIIAS 2026 Visitors After Test Drive Changan Deepal S05 and Nevo Q05",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjf0z7348/kesan-pengunjung-giias-2026-setelah-test-drive-changan-deepal-s05-dan-nevo-q05",
-      "published_date": "2026-08-07T21:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Short Date of the Suzuki XL7 Hybrid at GIIAS 2026: Family SUV Comfort",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf4g21130000/kencan-singkat-suzuki-xl7-hybrid-di-giias-2026-kenyamanan-suv-keluarga",
-      "published_date": "2026-08-07T21:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Poverty Drops to 6.54 Percent, But Inequality Increases",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjf3oj3730000/kemiskinan-jabar-turun-jadi-654-persen-tapi-ketimpangan-meningkat",
-      "published_date": "2026-08-07T21:00:19+00:00",
       "category": "Local Events"
     }
   ]
