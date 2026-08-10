@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "There is Sukarno Street in Tunisia, Hundreds of Indonesian Citizens Run to Celebrate the Republic of Indonesia's Independence Day",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkqzg451/ada-jalan-sukarno-di-tunisia-ratusan-wni-berlari-merayakan-hut-ri",
+      "published_date": "2026-08-10T23:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "HSU Regency Government Involves Paskibraka to Become Anti-Drug Ambassadors in Each District",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjilfl3830000/pemkab-hsu-libatkan-paskibraka-jadi-duta-anti-narkoba-di-setiap-kecamatan",
@@ -162,20 +169,6 @@
       "url": "https://news.republika.co.id/berita/tj8uop484/kortastipidkor-polri-siap-hadapi-gugatan-praperadilan-eks-jampidsus",
       "published_date": "2026-08-04T12:00:25+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj7uaj393/mal-pasang-pagar-polri-klaim-kondisi-terkendali",
-      "published_date": "2026-08-03T22:54:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The moment Malaysian co-pilot Nyambi became a drug courier",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tj73h11661095056/momen-kopilot-malaysia-nyambi-jadi-kurir-narkoba",
-      "published_date": "2026-08-03T13:15:01+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -206,23 +199,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tje3bu522/akademisi-usulkan-roadmap-bertahap-untuk-target-plts-100-gw",
       "published_date": "2026-08-07T10:53:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tj7vlj370/pemerintah-siapkan-insentif-mobil-listrik-berbaterai-nmc-hilirisasi-nikel-diperkuat",
-      "published_date": "2026-08-03T23:22:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Commissioner of Pertamina Patra Niaga Appreciates the Success of Fostered MSMEs in Appearing at IFW 2026",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tj73vp522/komisaris-pertamina-patra-niaga-apresiasi-keberhasilan-umkm-binaan-tampil-di-ifw-2026",
-      "published_date": "2026-08-03T13:23:49+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Balikpapan Mayor Asks Kadin to Produce Concrete Steps to Face Economic Challenges",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tjkqro451/wali-kota-balikpapan-minta-kadin-hasilkan-langkah-konkret-hadapi-tantangan-ekonomi",
+      "published_date": "2026-08-10T22:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "32 Tangerang City Garuda Scouts Ready to Perform at the XII Cibubur National Jamboree",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkp2l2130000/32-pramuka-garuda-kota-tangerang-siap-berprestasi-di-jambore-nasional-xii-cibubur",
+      "published_date": "2026-08-10T21:30:21+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Capital Market Investors Increase by 9.9 Million, Reaching 30.27 Million in 2026",
       "source": "Republika English",
@@ -348,23 +341,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tje38q522/regulasi-yang-stabil-dinilai-perkuat-industri-pertambangan-nasional",
       "published_date": "2026-08-07T10:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "The issue of layoffs for garment workers in Cimahi, this is the explanation from the Minister of Industry",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjdlje490/isu-phk-buruh-garmen-di-cimahi-ini-penjelasan-menperin",
-      "published_date": "2026-08-07T01:30:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The government is still keeping the size of the 2026 APBN deficit a secret, is it getting bigger or smaller?",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjdjtg370/pemerintah-masih-rahasiakan-besaran-defisit-apbn-2026-makin-besar-atau-kecil",
-      "published_date": "2026-08-07T00:53:40+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sharia Financial Literacy and Inclusion Levels Will Actually Decrease in 2026, Why?",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tjktxd502/tingkat-literasi-dan-inklusi-keuangan-syariah-malah-turun-pada-2026-kenapa",
+      "published_date": "2026-08-10T23:15:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG: North Sulawesi weather is sunny to light rain until August 16",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjksjh7230000/bmkg-cuaca-sulawesi-utara-cerah-hingga-hujan-ringan-sampai-16-agustus",
+      "published_date": "2026-08-10T22:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Promises to Prioritize JIS for Persija",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkrg1393/pramono-janji-prioritaskan-jis-untuk-persija",
+      "published_date": "2026-08-10T22:21:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG Records 7,578 Hot Spots Until August",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkqvb393/bmkg-catat-7578-titik-panas-sampai-agustus",
+      "published_date": "2026-08-10T22:09:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK opens up opportunity to examine Ridwan Kamil again after detaining 4 suspects",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkk8k5830000/kpk-buka-peluang-periksa-lagi-ridwan-kamil-usai-tahan-4-tersangka",
+      "published_date": "2026-08-10T19:45:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Alleged Suspect Trying to Condition CPC Audit",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkjj67930000/kpk-duga-tersangka-upayakan-pengondisian-audit-bpk",
+      "published_date": "2026-08-10T19:30:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Investigates Flow of Corruption Funds to Instagram Celebrity Lisa Mariana",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjkitk2930000/kpk-dalami-aliran-dana-korupsi-ke-selebgram-lisa-mariana",
+      "published_date": "2026-08-10T19:15:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ahead of the Republic of Indonesia's 81st Anniversary, Phase II Assistance is Prepared for 33.24 Million Families",
       "source": "Republika English",
@@ -454,55 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjikq85530000/relawan-gds-ajak-anak-panti-asuhan-aceh-semarakkan-hut-ri-lewat-permainan-tradisional",
       "published_date": "2026-08-09T18:01:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menag Nasaruddin Umar Invites the People to Pray for the Safety of the Nation in the Middle of the Global Crisis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjiilj4530000/menag-nasaruddin-umar-ajak-umat-berdoa-untuk-keselamatan-bangsa-di-tengah-krisis-global",
-      "published_date": "2026-08-09T17:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banten Provincial Government Collaborates with MPI to Become a Strategic Partner to Guard Community Aspirations",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjihwf7730000/pemprov-banten-gandeng-mpi-jadi-mitra-strategis-kawal-aspirasi-masyarakat",
-      "published_date": "2026-08-09T17:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "25 Thousand Dancers Perform the Dug Dug Der Semarangan Dance at Simpang Lima",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tji7ar375/25-ribu-penari-pentaskan-tari-dug-dug-der-semarangan-di-simpang-lima",
-      "published_date": "2026-08-09T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sumatra Surrounded by 1,195 Hot Spots",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tji19k416/sumatera-dikepung-1195-titik-panas",
-      "published_date": "2026-08-09T11:02:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMHS Strengthens the Role of Families in Supporting Children's Growth and Development in the Modern Era",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjhmgg522/bmhs-perkuat-peran-keluarga-dukung-tumbuh-kembang-anak-di-era-modern",
-      "published_date": "2026-08-09T10:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Daihatsu Sigra 1.2R Comes with a Number of Refreshments",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjhyv4348/new-daihatsu-sigra-12r-hadir-dengan-sejumlah-penyegaran",
-      "published_date": "2026-08-09T10:09:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "List of lectures on Independence Day, UBSI Varsity Jacket is a Special Gift for New Students",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjhxnf472/daftar-kuliah-di-hari-kemerdekaan-jaket-varsity-ubsi-jadi-hadiah-spesial-mahasiswa-baru",
-      "published_date": "2026-08-09T09:42:51+00:00",
       "category": "Local Events"
     }
   ]
