@@ -66,6 +66,13 @@
   ],
   "Military": [
     {
+      "title": "BNPB: Forest and Land Fires Happened in Sumatra, Java, Sulawesi, Maluku, and Papua",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjjwmd487/bnpb-karhutla-terjadi-di-sumatera-jawa-sulawesi-maluku-hingga-papua",
+      "published_date": "2026-08-10T11:15:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ministry of Human Rights: BPJS Patients Are Not Second Class Citizens",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjhwg9483/kementerian-ham-pasien-bpjs-bukan-warga-negara-kelas-dua",
@@ -217,6 +224,20 @@
   ],
   "Economy": [
     {
+      "title": "Capital Market Investors Increase by 9.9 Million, Reaching 30.27 Million in 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjjxko370/investor-pasar-modal-bertambah-99-juta-tembus-3027-juta-di-2026",
+      "published_date": "2026-08-10T11:36:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gamers Are Invited to Learn Investment from Esports Playing Strategies",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjjrdu416/gamer-diajak-belajar-investasi-dari-strategi-bermain-esports",
+      "published_date": "2026-08-10T11:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Will Perry Warjiyo’s exit mark the end of a reformed Bank Indonesia?",
       "source": "Indonesia at Melbourne",
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/will-perry-warjiyos-exit-mark-the-end-of-a-reformed-bank-indonesia/",
@@ -341,23 +362,65 @@
       "url": "https://ekonomi.republika.co.id/berita/tjdjtg370/pemerintah-masih-rahasiakan-besaran-defisit-apbn-2026-makin-besar-atau-kecil",
       "published_date": "2026-08-07T00:53:40+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Market Expansion Can Strengthen National Protein Industry Investment",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjcamt522/perluasan-pasar-bisa-perkuat-investasi-industri-protein-nasional",
-      "published_date": "2026-08-06T12:35:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Agriculture Ensures Rice Stocks Are Safe Even though 30 Thousand Hectares Are Affected by Drought",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjcjzi416/mentan-pastikan-stok-beras-aman-meski-30-ribu-hektare-terdampak-kekeringan",
-      "published_date": "2026-08-06T11:59:42+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ahead of the Republic of Indonesia's 81st Anniversary, Phase II Assistance is Prepared for 33.24 Million Families",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjjww7368/jelang-hut-ke81-ri-bantuan-tahap-ii-disiapkan-untuk-3324-juta-keluarga",
+      "published_date": "2026-08-10T11:21:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DPR Says Teacher Welfare Must Become National Priority, Urges Government to Increase Teacher Salaries",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjjvep282/dpr-sebut-kesejahteraan-guru-harus-jadi-prioritas-nasional-dorong-pemerintah-naikkan-gaji-guru",
+      "published_date": "2026-08-10T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Preventing Forest and Land Fires, Dedi Mulyadi Reminds People Not to Smoke in the Forest",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjjuty487/cegah-karhutla-dedi-mulyadi-ingatkan-masyarakat-tak-merokok-di-hutan",
+      "published_date": "2026-08-10T10:37:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is a series of oddities regarding the death of former ART Jampidsus Sutrimo, family version, documents have been lost",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjjutu377/ini-deretan-kejanggalan-kematian-eks-art-jampidsus-sutrimo-versi-keluarga-ada-dokumen-dihilangkan",
+      "published_date": "2026-08-10T10:37:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stick to Indonesia, this country's teacher salary is IDR 126 million per month and will increase by 9 percent starting October 2026",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tjjus7282/nempel-indonesia-negara-ini-gaji-gurunya-rp126-juta-per-bulan-dan-naik-9-persen-mulai-oktober-2026",
+      "published_date": "2026-08-10T10:36:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amazed by Kiai Cholil's Cendikia Amanah Islamic Boarding School, Here's Praise from Rais Aam PBNU",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjjura483/terkesima-dengan-pesantren-cendikia-amanah-besutan-kiai-cholil-begini-pujian-rais-aam-pbnu",
+      "published_date": "2026-08-10T10:35:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palace Targets Presidential Decree on Ojol with MSME Status to be Issued Before August 17",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjjur7409/istana-tergetkan-perpres-ojol-berstatus-umkm-terbit-sebelum-17-agustus",
+      "published_date": "2026-08-10T10:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maresca Ensures Rodri Returns to Man City Amid Barcelona's Temptation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjjuqh348/maresca-pastikan-rodri-kembali-ke-man-city-di-tengah-godaan-barcelona",
+      "published_date": "2026-08-10T10:35:05+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Understanding the character of Prophet Muhammad as a reflection of the Qur'an",
       "source": "Republika English",
@@ -440,62 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjhxnf472/daftar-kuliah-di-hari-kemerdekaan-jaket-varsity-ubsi-jadi-hadiah-spesial-mahasiswa-baru",
       "published_date": "2026-08-09T09:42:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bukit Duabelas National Park, Harmony of Nature and Tradition",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tjhx9p483/taman-nasional-bukit-duabelas-harmoni-alam-dan-adat",
-      "published_date": "2026-08-09T09:34:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Master's Degree Only 18 Months, Fast Study with Scholarships of Up to 75 Percent for School Teachers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjhx7g472/s2-hanya-18-bulan-kuliah-cepat-dengan-beasiswa-hingga-75-persen-untuk-guru-sekolah",
-      "published_date": "2026-08-09T09:33:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pramono Wants Persija to Win the League, Jakarta's Five Century Gift",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjhwf6348/pramono-ingin-persija-juara-liga-kado-lima-abad-jakarta",
-      "published_date": "2026-08-09T09:16:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veda Ega's starting position and racing schedule at today's British GP",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjh3s2409/posisi-start-dan-jadwal-balap-veda-ega-di-gp-inggris-hari-ini",
-      "published_date": "2026-08-08T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjh2if7630000/mastel-dorong-platform-digital-global-ikut-andil-bangun-infrastruktur-digital-ri",
-      "published_date": "2026-08-08T22:30:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPR Commission VI and BRI Situbondo Invite NU Muslims to Strengthen MSME Financial Literacy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjgthe2230000/komisi-vi-dpr-dan-bri-situbondo-gaet-muslimat-nu-perkuat-literasi-keuangan-umkm",
-      "published_date": "2026-08-08T19:15:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mimika Transportation Agency Installs ATCS at 9 Timika Traffic Light Points",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjgssi4830000/dishub-mimika-pasang-atcs-di-9-titik-lampu-lalu-lintas-timika",
-      "published_date": "2026-08-08T19:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mount Bromo fire spreads to 176 hectares, tourist access is completely closed",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tjgq141630000/kebakaran-gunung-bromo-meluas-capai-176-hektare-akses-wisata-ditutup-total",
-      "published_date": "2026-08-08T18:00:40+00:00",
       "category": "Local Events"
     }
   ]
