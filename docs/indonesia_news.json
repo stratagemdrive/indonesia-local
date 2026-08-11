@@ -87,6 +87,13 @@
   ],
   "Military": [
     {
+      "title": "Pangdam XIII/Merdeka Demands Young NCOs Show Discipline and Loyalty",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjmn7g3130000/pangdam-xiiimerdeka-tuntut-bintara-muda-tunjukkan-disiplin-dan-loyalitas",
+      "published_date": "2026-08-11T22:45:16+00:00",
+      "category": "Military"
+    },
+    {
       "title": "BNPB: Forest and Land Fires Happened in Sumatra, Java, Sulawesi, Maluku, and Papua",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjjwmd487/bnpb-karhutla-terjadi-di-sumatera-jawa-sulawesi-maluku-hingga-papua",
@@ -162,30 +169,16 @@
       "url": "https://ameera.republika.co.id/berita/tj9rkp425/raisa-bawakan-cahaya-hati-awal-perjalanan-srikandi-di-pagelaran-sabang-merauke",
       "published_date": "2026-08-04T23:50:49+00:00",
       "category": "Military"
-    },
-    {
-      "title": "El Nino Strengthens, Bappenas Warns Threats of Forest and Land Fires and Water Crisis",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tj91is416/el-nino-menguat-bappenas-wantiwanti-ancaman-karhutla-hingga-krisis-air",
-      "published_date": "2026-08-04T23:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putri KW Focuses on Improving Her Mentality to Achieve Achievements at the 2026 World Championships in India",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj8v2h348/putri-kw-fokus-benahi-mental-demi-raih-prestasi-di-kejuaraan-dunia-2026-di-india",
-      "published_date": "2026-08-04T12:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kortastipidkor Polri Ready to Face Ex-Jampidsus Pretrial Lawsuit",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tj8uop484/kortastipidkor-polri-siap-hadapi-gugatan-praperadilan-eks-jampidsus",
-      "published_date": "2026-08-04T12:00:25+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "After the turmoil, the Attorney General's Office started to pursue the MBG case again",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjmlfk393/setelah-gonjangganjing-kejagung-mulai-kebut-lagi-kasus-mbg",
+      "published_date": "2026-08-11T22:06:56+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Improving Services, Pertamina Inaugurates Public Information Integration",
       "source": "Republika English",
@@ -216,6 +209,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjm29u416/mahasiswa-riset-sppg-dampak-ke-umkm-dan-ekonomi-lokal-dikaji",
+      "published_date": "2026-08-11T23:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Balikpapan Mayor Asks Kadin to Produce Concrete Steps to Face Economic Challenges",
       "source": "Republika English",
@@ -348,16 +348,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tjeb60423/kneks-dorong-indonesia-miliki-pdb-syariah-pertama-di-dunia",
       "published_date": "2026-08-07T11:01:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Stable Regulations Are Considered to Strengthen the National Mining Industry",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tje38q522/regulasi-yang-stabil-dinilai-perkuat-industri-pertambangan-nasional",
-      "published_date": "2026-08-07T10:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Bradley Barcola is Liverpool's target, but is still with PSG for the UEFA Super Cup match",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjmp43348/bradley-barcola-jadi-incaran-liverpool-tapi-masih-bersama-psg-untuk-laga-piala-super-uefa",
+      "published_date": "2026-08-11T23:26:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paul Pogba on the verge of leaving AS Monaco, contract expected to be terminated early",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjmnyp348/paul-pogba-di-ambang-tinggalkan-as-monaco-kontrak-diperkirakan-diputus-lebih-awal",
+      "published_date": "2026-08-11T23:01:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Construction of 1,483 Red and White Cooperatives in East Java Completed, Ready to Operate",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjmlu25130000/pembangunan-1483-koperasi-merah-putih-di-jatim-rampung-siap-beroperasi",
+      "published_date": "2026-08-11T22:15:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "So that the August 17th Competition does not end in Haram, Listen to the East Java MUI's explanation",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjmjuv430/agar-lomba-17-agustus-tak-berujung-haram-simak-penjelasan-mui-jatim",
+      "published_date": "2026-08-11T21:32:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DKI Jakarta Weather Forecast This Wednesday: Sunny Morning, Cloudy Night",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjmjr55630000/prakiraan-cuaca-dki-jakarta-rabu-ini-pagi-cerah-malam-berawan",
+      "published_date": "2026-08-11T21:30:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Former Minister of Religion Yaqut Denies Accepting Money from the Hajj Quota Case",
       "source": "Republika English",
@@ -461,41 +489,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjkjj67930000/kpk-duga-tersangka-upayakan-pengondisian-audit-bpk",
       "published_date": "2026-08-10T19:30:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Investigates Flow of Corruption Funds to Instagram Celebrity Lisa Mariana",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjkitk2930000/kpk-dalami-aliran-dana-korupsi-ke-selebgram-lisa-mariana",
-      "published_date": "2026-08-10T19:15:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of the Republic of Indonesia's 81st Anniversary, Phase II Assistance is Prepared for 33.24 Million Families",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjjww7368/jelang-hut-ke81-ri-bantuan-tahap-ii-disiapkan-untuk-3324-juta-keluarga",
-      "published_date": "2026-08-10T11:21:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPR Says Teacher Welfare Must Become National Priority, Urges Government to Increase Teacher Salaries",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjjvep282/dpr-sebut-kesejahteraan-guru-harus-jadi-prioritas-nasional-dorong-pemerintah-naikkan-gaji-guru",
-      "published_date": "2026-08-10T11:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preventing Forest and Land Fires, Dedi Mulyadi Reminds People Not to Smoke in the Forest",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjjuty487/cegah-karhutla-dedi-mulyadi-ingatkan-masyarakat-tak-merokok-di-hutan",
-      "published_date": "2026-08-10T10:37:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is a series of oddities regarding the death of former ART Jampidsus Sutrimo, family version, documents have been lost",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjjutu377/ini-deretan-kejanggalan-kematian-eks-art-jampidsus-sutrimo-versi-keluarga-ada-dokumen-dihilangkan",
-      "published_date": "2026-08-10T10:37:06+00:00",
       "category": "Local Events"
     }
   ]
