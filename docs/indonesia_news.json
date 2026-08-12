@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ahead of the Congress, Gus Ulil Encourages NU to Become the Leader of the Indonesian Halal Ecosystem",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjoh4a430/jelang-muktamar-gus-ulil-dorong-nu-jadi-pemimpin-ekosistem-halal-indonesia",
+      "published_date": "2026-08-12T22:28:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "From Sorting Waste to Protecting Biodiversity, MSIG Invites Elementary Students to Become Agents of Change",
       "source": "Republika English",
       "url": "https://republika.co.id/berita//tjnn11291/dari-pilah-sampah-ke-jaga-keanekaragaman-hayati-msig-ajak-siswa-sd-jadi-agen-perubahan",
@@ -69,23 +76,16 @@
       "url": "https://news.republika.co.id/berita/tjbl70348/arsenal-selangkah-lagi-dapatkan-bruno-guimaraes-newcastle-siap-lepas-kaptennya-rp-18-triliun",
       "published_date": "2026-08-05T23:28:12+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjbkhu348/timnas-indonesia-wajib-menang-rekor-pertemuan-dengan-singapura-jadi-modal-skuad-garuda",
-      "published_date": "2026-08-05T23:13:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Airlangga: First Semester 2026 Economic Growth Reaches 5.45 Percent, One of the Highest in ASEAN",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjaqdq423/airlangga-pertumbuhan-ekonomi-semester-i-2026-capai-545-persen-salah-satu-tertinggi-di-asean",
-      "published_date": "2026-08-05T12:22:38+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjohti484/wamen-perang-ingin-perkuat-hubungan-as-dan-indonesia",
+      "published_date": "2026-08-12T22:44:06+00:00",
+      "category": "Military"
+    },
     {
       "title": "Pangdam XIII/Merdeka Demands Young NCOs Show Discipline and Loyalty",
       "source": "Republika English",
@@ -148,20 +148,6 @@
       "url": "https://news.republika.co.id/berita/tjdfc2484/kemenhan-renovasi-sekretariat-lvri-dan-bedah-rumah-veteran-di-19-provinsi",
       "published_date": "2026-08-06T23:16:50+00:00",
       "category": "Military"
-    },
-    {
-      "title": "SMPN 1 Nabire Returns Student Perpetrator of Murder of Classmate to Parents",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjbj8a2630000/smpn-1-nabire-kembalikan-siswa-pelaku-pembunuhan-adik-kelas-ke-orang-tua",
-      "published_date": "2026-08-05T22:45:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "KSAU and Chief of Staff of the Australian Air Force Formation Flight in Darwin",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjbh4f530000/ksau-dan-kepala-staf-au-australia-terbang-formasi-di-darwin",
-      "published_date": "2026-08-05T22:00:15+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -202,6 +188,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "MSCI Removes CPIN and GOTO from Global Index, Here's a List of Stocks That Survive",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjohvm4630000/msci-keluarkan-cpin-dan-goto-dari-indeks-global-ini-daftar-saham-yang-bertahan",
+      "published_date": "2026-08-12T22:45:22+00:00",
+      "category": "Economy"
+    },
     {
       "title": "AeroXSpace Develops Family Tourism Destination with Interactive Concept",
       "source": "Republika English",
@@ -334,16 +327,65 @@
       "url": "https://ekonomi.republika.co.id/berita/tjg0ee370/mentan-batalkan-rapat-di-jakarta-demi-tindaklanjuti-aspirasi-mahasiswa-alor",
       "published_date": "2026-08-08T09:10:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "IBTE 2026 Present in Jakarta, Bringing Together Manufacturers and Importers",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tjg171456/ibte-2026-hadir-di-jakarta-pertemukan-produsen-hingga-importir",
-      "published_date": "2026-08-08T09:04:13+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "MHIS High School Team Wins 14 Gold from ORBIT-C 2026 Competition in China",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjojn4484/tim-sma-mhis-raih-14-emas-dari-kompetisi-orbitc-2026-di-china",
+      "published_date": "2026-08-12T23:23:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MK Grants Part of the Lawsuit for Insulting the President",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjoj59484/mk-kabulkan-sebagian-gugatan-pasal-penghinaan-kepada-presiden",
+      "published_date": "2026-08-12T23:12:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Internet Access Helps Schools in East Flores Carry Out Digital Learning",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjnxyn416/akses-internet-bantu-sekolah-di-flores-timur-jalankan-pembelajaran-digital",
+      "published_date": "2026-08-12T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xavi Hernandez officially trains the Netherlands, contracted until the 2030 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjohx7348/xavi-hernandez-resmi-latih-belanda-dikontrak-hingga-piala-dunia-2030",
+      "published_date": "2026-08-12T22:46:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Siak People in Buya Hamka's View",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjohwm430/orang-siak-dalam-pandangan-buya-hamka",
+      "published_date": "2026-08-12T22:45:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drought triggers spike in fire cases at KBB, up to seven incidents a day",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjoh0a393/kemarau-picu-lonjakan-kasus-kebakaran-di-kbb-sehari-bisa-tujuh-kejadian",
+      "published_date": "2026-08-12T22:26:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG Makes History Back to Back European Super Cup Champions After Beating Aston Villa 2-1",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjof3y348/psg-ukir-sejarah-back-to-back-juara-piala-super-eropa-usai-bekuk-aston-villa-21",
+      "published_date": "2026-08-12T21:45:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Immigration Reviews New Tax and Visa Rules for Digital Nomads in Bali",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjodpk7530000/imigrasi-kaji-aturan-baru-pajak-dan-visa-untuk-digital-nomad-di-bali",
+      "published_date": "2026-08-12T21:15:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "People's School Students Pass National Paskibraka, Palace: Proof Everyone Has a Chance",
       "source": "Republika English",
@@ -426,62 +468,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tjln9e375/jembatan-masih-rusak-warga-lintasi-jalur-sungai-batang-belimbing-dengan-motor",
       "published_date": "2026-08-11T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ali Masykur Musa: NU Must Become a Soft Diplomacy Force in the World",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjl06a451/ali-masykur-musa-nu-harus-menjadi-kekuatan-soft-diplomacy-dunia",
-      "published_date": "2026-08-11T11:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xpeng's After-Sales Network Reaches Central Java Via Semarang",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjlrra348/jaringan-purnajual-xpeng-merambah-jawa-tengah-lewat-semarang",
-      "published_date": "2026-08-11T11:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outstanding Boxing Athlete, Step Year Yougo Determined to Choose to Study at UBSI Pontianak Campus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjlnym368/atlet-tinju-berprestasi-step-year-yougo-mantap-pilih-kuliah-di-ubsi-kampus-pontianak",
-      "published_date": "2026-08-11T11:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tambakmekar Village Develops Natural and Cultural Tourism through Kujang Pines",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjlmzf416/desa-tambakmekar-kembangkan-wisata-alam-dan-budaya-lewat-pinus-kujang",
-      "published_date": "2026-08-11T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Welcoming Independence Month, Cyber ​​University Distributes Free Varsity Jackets for New Students",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjlnbr368/sambut-bulan-kemerdekaan-cyber-university-bagikan-jaket-varsity-gratis-untuk-mahasiswa-baru",
-      "published_date": "2026-08-11T10:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PAN Faction Condemns Alcohol Promotion Using Al-Quran Memorizing",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjlp6l393/fraksi-pan-kecam-promosi-miras-gunakan-hafalan-alquran",
-      "published_date": "2026-08-11T10:30:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters Compete in Skills in the 2026 Jakarta Fire Fighter Challenge",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjlmtl375/petugas-damkar-adu-keterampilan-dalam-jakarta-fire-fighter-challenge-2026",
-      "published_date": "2026-08-11T10:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharia Financial Literacy and Inclusion Levels Will Actually Decrease in 2026, Why?",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tjktxd502/tingkat-literasi-dan-inklusi-keuangan-syariah-malah-turun-pada-2026-kenapa",
-      "published_date": "2026-08-10T23:15:13+00:00",
       "category": "Local Events"
     }
   ]
