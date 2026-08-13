@@ -62,16 +62,16 @@
       "url": "https://news.republika.co.id/berita/tjdhch348/singapura-vs-indonesia-garuda-wajib-menang-herdman-minta-pemainnya-tetap-tenang",
       "published_date": "2026-08-07T00:00:17+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "John Herdman: Indonesia is a team that is injured and hungry, ready to fight it out against Singapore",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjclsk348/john-herdman-indonesia-tim-yang-terluka-dan-lapar-siap-bertarung-habishabisan-lawan-singapura",
-      "published_date": "2026-08-06T12:38:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Bantaeng Police Fails Distribution of Shabu, A Dealer Arrested at Fisherman's Housing Complex",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjq9rj5930000/polres-bantaeng-gagalkan-peredaran-sabu-seorang-pengedar-dibekuk-di-perumahan-nelayan",
+      "published_date": "2026-08-13T21:45:19+00:00",
+      "category": "Military"
+    },
     {
       "title": "Manggarai-Kelapa Gading LRT Ready to Operate, Has 11 Stop Points",
       "source": "Republika English",
@@ -155,16 +155,16 @@
       "url": "https://rejabar.republika.co.id/berita/tjeaw4472/polda-jabar-ungkap-352-kasus-pemkot-bandung-dukung-perang-melawan-kejahatan-jalanan",
       "published_date": "2026-08-07T10:38:28+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ministry of Defense Renovations of LVRI Secretariat and Renovation of Veterans' Homes in 19 Provinces",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjdfc2484/kemenhan-renovasi-sekretariat-lvri-dan-bedah-rumah-veteran-di-19-provinsi",
-      "published_date": "2026-08-06T23:16:50+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Ahead of the 81st Indonesian Independence Day, the Secretary General of the Coalition Party gathered for a friendly gathering.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqczc484/jelang-hut-ri-ke81-sekjen-partai-koalisi-kumpul-silaturahmi",
+      "published_date": "2026-08-13T23:21:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Climate Crisis Threatens Clean Water, Regulations Need to Be Strengthened",
       "source": "Republika English",
@@ -366,6 +366,55 @@
   ],
   "Local Events": [
     {
+      "title": "The Jakarta LRT will be connected to the KRL Commuter Line in Manggarai",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqcb5484/lrt-jakarta-bakal-terhubung-dengan-krl-commuter-line-di-manggarai",
+      "published_date": "2026-08-13T23:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City Has the Opportunity to Release Tijjani Reijnders to Saudi Arabian Club Al Qadsiah for IDR 1.2 Trillion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqdd9348/man-city-berpeluang-lepas-tijjani-reijnders-ke-klub-arab-saudi-al-qadsiah-seharga-rp-12-triliun",
+      "published_date": "2026-08-13T23:03:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqcjl2630000/imigrasi-sulut-tunda-keberangkatan-500-wni-terindikasi-tppo-hingga-2026",
+      "published_date": "2026-08-13T22:45:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minahasa People's School Students Prove Achievement, Pass Biology OSN Representing North Sulawesi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqbuh6330000/siswa-sekolah-rakyat-minahasa-buktikan-prestasi-lolos-osn-biologi-wakili-sulut",
+      "published_date": "2026-08-13T22:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BGN Permanently Closes 504 MBG Kitchens, 3,000 Others Examined",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqbth393/bgn-tutup-permanen-504-dapur-mbg-3000-lainnya-diperiksa",
+      "published_date": "2026-08-13T22:29:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RMIT and BINUS Push for Transparent Procurement Through AI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjqah09330000/rmit-dan-binus-dorong-pengadaan-transparan-lewat-ai",
+      "published_date": "2026-08-13T22:00:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diskominfo Makassar Wins Public Service of the Year 2026 at the Indonesia Marketing Festival",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjq8di9130000/diskominfo-makassar-raih-public-service-of-the-year-2026-di-ajang-indonesia-marketing-festival",
+      "published_date": "2026-08-13T21:15:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Students' cheerful laughter while trying out the new bridge as a gift for the 81st Indonesian Independence Day in West Bandung",
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tjphbl368/tawa-riang-siswa-kala-jajal-jembatan-baru-kado-hut-ri-ke81-di-bandung-barat",
@@ -454,55 +503,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjodpk7530000/imigrasi-kaji-aturan-baru-pajak-dan-visa-untuk-digital-nomad-di-bali",
       "published_date": "2026-08-12T21:15:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People's School Students Pass National Paskibraka, Palace: Proof Everyone Has a Chance",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjnd7i451/siswa-sekolah-rakyat-lolos-paskibraka-nasional-istana-bukti-semua-punya-kesempatan",
-      "published_date": "2026-08-12T11:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Korean Actress Ha Young Criticized After Her Pro-Japanese Great-Grandfather's History Was Revealed",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjnl95425/aktris-korea-ha-young-dikecam-setelah-riwayat-buyutnya-yang-pro-jepang-terungkap",
-      "published_date": "2026-08-12T11:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency Technology to Early Warning Systems Exhibited in Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjnjua416/teknologi-darurat-hingga-sistem-peringatan-dini-dipamerkan-di-jakarta",
-      "published_date": "2026-08-12T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Getting to Know Glass Skin, When Beauty Standards Shift to Natural Clear Skin",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjnklm425/mengenal-glass-skin-ketika-standar-cantik-bergeser-ke-kulit-bening-alami",
-      "published_date": "2026-08-12T10:46:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PetroChina Strengthens Education and MSMEs to Encourage the Progress of West Tanjung Jabung",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tjn3x9522/petrochina-perkuat-pendidikan-dan-umkm-untuk-dorong-kemajuan-tanjung-jabung-barat",
-      "published_date": "2026-08-12T10:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bradley Barcola is Liverpool's target, but is still with PSG for the UEFA Super Cup match",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjmp43348/bradley-barcola-jadi-incaran-liverpool-tapi-masih-bersama-psg-untuk-laga-piala-super-uefa",
-      "published_date": "2026-08-11T23:26:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paul Pogba on the verge of leaving AS Monaco, contract expected to be terminated early",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjmnyp348/paul-pogba-di-ambang-tinggalkan-as-monaco-kontrak-diperkirakan-diputus-lebih-awal",
-      "published_date": "2026-08-11T23:01:37+00:00",
       "category": "Local Events"
     }
   ]
