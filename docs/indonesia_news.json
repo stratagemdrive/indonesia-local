@@ -48,16 +48,16 @@
       "url": "https://news.republika.co.id/berita/tjilfl3830000/pemkab-hsu-libatkan-paskibraka-jadi-duta-anti-narkoba-di-setiap-kecamatan",
       "published_date": "2026-08-09T18:16:33+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "AC Milan Officially Ends Ismael Bennacer's Contract, Career Continues in Qatar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf8lq5430000/ac-milan-resmi-akhiri-kontrak-ismael-bennacer-karier-berlanjut-ke-qatar",
-      "published_date": "2026-08-07T22:46:38+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Towards the Republic of Indonesia's 81st Anniversary, the Yonif 511/DY Pamtas Task Force Distributes Red and White Flags in the Interior of Papua",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs4fg8830000/songsong-hut-ke81-ri-satgas-pamtas-yonif-511dy-bagikan-bendera-merah-putih-di-pedalaman-papua",
+      "published_date": "2026-08-14T21:45:16+00:00",
+      "category": "Military"
+    },
     {
       "title": "Bantaeng Police Fails Distribution of Shabu, A Dealer Arrested at Fisherman's Housing Complex",
       "source": "Republika English",
@@ -127,13 +127,6 @@
       "url": "https://news.republika.co.id/berita/tjfzy3484/wamen-perang-as-elbridge-colby-bakal-ke-jakarta",
       "published_date": "2026-08-08T08:37:15+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Jalan Abdul Muis is completely closed due to the fire at the DKI Bapenda building",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjf2ak5130000/jalan-abdul-muis-ditutup-total-imbas-kebakaran-gedung-bapenda-dki",
-      "published_date": "2026-08-07T20:30:20+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -188,6 +181,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Drought Pressures Production, Vegetable Prices in Pontianak Crawling Up",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjrzlv9830000/kemarau-tekan-produksi-harga-sayuran-di-pontianak-merangkak-naik",
+      "published_date": "2026-08-14T20:01:07+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Puan asks the government to be careful in managing the 2027 APBN deficit and debt",
       "source": "Republika English",
@@ -320,16 +320,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tjgu819530000/investor-saham-ri-tembus-1005-juta-bei-catat-pertumbuhan-1683-persen",
       "published_date": "2026-08-08T19:31:13+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Sukabumi Regency Government Launches 'Someah' Parking at South Coast Tourism",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjgs3l2030000/pemkab-sukabumi-luncurkan-parkir-someah-di-wisata-pantai-selatan",
-      "published_date": "2026-08-08T18:45:21+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjrqt4451/vance-vs-rubio-pertarungan-awal-merebut-warisan-politik-trump",
+      "published_date": "2026-08-14T22:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Indonesian Futsal National Team lost 3-5 to O Parrulo Ferrol in the Spanish Trials",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs6if7430000/timnas-futsal-indonesia-kalah-35-dari-o-parrulo-ferrol-di-uji-coba-spanyol",
+      "published_date": "2026-08-14T22:30:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NTT Ministry of Law Optimizes Posbankum to Protect Migrant Workers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs54i3630000/kemenkum-ntt-optimalkan-posbankum-untuk-lindungi-pekerja-migran",
+      "published_date": "2026-08-14T22:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesian Women's National Team U-16 Goal Party, Slay Saudi Arabia 7-0 in Srikandi Merdeka Cup",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tjrrrb375/timnas-putri-indonesia-u16-pesta-gol-bantai-arab-saudi-70-di-srikandi-merdeka-cup",
+      "published_date": "2026-08-14T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brighton Secures Diego Gomez with New Contract until 2031",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs3qe9330000/brighton-amankan-diego-gomez-dengan-kontrak-baru-hingga-2031",
+      "published_date": "2026-08-14T21:30:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bali Governor Koster Gathers District Heads to Harmonize the Gasing Method",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs2fh9630000/gubernur-bali-koster-kumpulkan-kepala-daerah-selaraskan-metode-gasing",
+      "published_date": "2026-08-14T21:02:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maluku Regional Police Strengthens Water Security to Ensure the Safety of Community Activities",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs1nh5030000/polda-maluku-perkuat-pengamanan-perairan-demi-jamin-keamanan-aktivitas-masyarakat",
+      "published_date": "2026-08-14T20:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garuda Tanah Laut Bridge was inaugurated by Prabowo, opening access for residents and farmers",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjs0b25430000/jembatan-garuda-tanah-laut-diresmikan-prabowo-buka-akses-warga-dan-petani",
+      "published_date": "2026-08-14T20:16:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Governor of Central Java emphasized that development achievements must lead to people's welfare",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjrywc3730000/gubernur-jateng-tegaskan-capaian-pembangunan-harus-bermuara-pada-kesejahteraan-rakyat",
+      "published_date": "2026-08-14T19:45:48+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Prabowo promises to renovate all damaged schools in Indonesia",
       "source": "Republika English",
@@ -405,69 +461,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjqbth393/bgn-tutup-permanen-504-dapur-mbg-3000-lainnya-diperiksa",
       "published_date": "2026-08-13T22:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RMIT and BINUS Push for Transparent Procurement Through AI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqah09330000/rmit-dan-binus-dorong-pengadaan-transparan-lewat-ai",
-      "published_date": "2026-08-13T22:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diskominfo Makassar Wins Public Service of the Year 2026 at the Indonesia Marketing Festival",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjq8di9130000/diskominfo-makassar-raih-public-service-of-the-year-2026-di-ajang-indonesia-marketing-festival",
-      "published_date": "2026-08-13T21:15:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Students' cheerful laughter while trying out the new bridge as a gift for the 81st Indonesian Independence Day in West Bandung",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjphbl368/tawa-riang-siswa-kala-jajal-jembatan-baru-kado-hut-ri-ke81-di-bandung-barat",
-      "published_date": "2026-08-13T11:30:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passenger Ship Burns Again, Deputy Chairman of Commission V Urges Simultaneous Ramp Checks",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjpgws487/kapal-penumpang-kembali-terbakar-wakil-ketua-komisi-v-desak-ramp-check-serentak",
-      "published_date": "2026-08-13T11:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Bike Lanes Evaluated Instead of Eliminating Facilities for Cyclists",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tjpfw3213511711/jalur-sepeda-jakarta-dievaluasi-bukan-hilangkan-fasilitas-untuk-pesepeda",
-      "published_date": "2026-08-13T11:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Targets Mass Production of Indonesian Electric Cars by 2028",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjpfjq370/presiden-targetkan-mobil-listrik-indonesia-produksi-massal-pada-2028",
-      "published_date": "2026-08-13T10:52:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corruption Eradication Commission Investigates Handover of 1 Million US Dollars Allegedly from Yaqut to the DPR Hajj Special Committee",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjpeqa377/kpk-usut-penyerahan-uang-1-juta-dolar-as-diduga-dari-yaqut-ke-pansus-haji-dpr",
-      "published_date": "2026-08-13T10:34:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MHIS High School Team Wins 14 Gold from ORBIT-C 2026 Competition in China",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjojn4484/tim-sma-mhis-raih-14-emas-dari-kompetisi-orbitc-2026-di-china",
-      "published_date": "2026-08-12T23:23:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MK Grants Part of the Lawsuit for Insulting the President",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjoj59484/mk-kabulkan-sebagian-gugatan-pasal-penghinaan-kepada-presiden",
-      "published_date": "2026-08-12T23:12:45+00:00",
       "category": "Local Events"
     }
   ]
