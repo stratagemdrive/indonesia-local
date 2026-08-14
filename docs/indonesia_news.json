@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "RI Encouraged to Strengthen Strategic Autonomy in the Midst of a Multipolar World",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjr849451/ri-didorong-perkuat-strategic-autonomy-di-tengah-dunia-multipolar",
+      "published_date": "2026-08-14T11:36:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Ahead of the Congress, Gus Ulil Encourages NU to Become the Leader of the Indonesian Halal Ecosystem",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tjoh4a430/jelang-muktamar-gus-ulil-dorong-nu-jadi-pemimpin-ekosistem-halal-indonesia",
@@ -47,20 +54,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjf8lq5430000/ac-milan-resmi-akhiri-kontrak-ismael-bennacer-karier-berlanjut-ke-qatar",
       "published_date": "2026-08-07T22:46:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "BP BUMN Targets Number of BUMN Entities to Remain at 250",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjebly423/bp-bumn-targetkan-jumlah-entitas-bumn-tinggal-250",
-      "published_date": "2026-08-07T11:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Singapore vs Indonesia: Garuda Must Win, Herdman Asks Players to Remain Calm",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjdhch348/singapura-vs-indonesia-garuda-wajib-menang-herdman-minta-pemainnya-tetap-tenang",
-      "published_date": "2026-08-07T00:00:17+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -141,20 +134,6 @@
       "url": "https://news.republika.co.id/berita/tjf2ak5130000/jalan-abdul-muis-ditutup-total-imbas-kebakaran-gedung-bapenda-dki",
       "published_date": "2026-08-07T20:30:20+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Polda Metro Says Hundreds of Weapons in Private Schools in South Jakarta Are Not Rifles, But Air Rifles",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjebp3409/polda-metro-sebut-ratusan-senjata-di-sekolah-swasta-di-jaksel-bukan-senpi-tapi-senapan-angin",
-      "published_date": "2026-08-07T10:55:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Java Regional Police Reveals 352 Cases, Bandung City Government Supports the War Against Street Crime",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjeaw4472/polda-jabar-ungkap-352-kasus-pemkot-bandung-dukung-perang-melawan-kejahatan-jalanan",
-      "published_date": "2026-08-07T10:38:28+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -206,23 +185,44 @@
       "url": "https://rejogja.republika.co.id/berita/tjhs00291/sebanyak-70-personel-dikerahkan-perkuat-keandalan-jaringan-listrik-di-gunungkidul-jelang-hut-ri",
       "published_date": "2026-08-09T09:37:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "LHS Asks NU's 35th Congress to Prioritize Deliberation, Avoid Voting",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjech1451/lhs-minta-muktamar-ke35-nu-utamakan-musyawarah-hindari-voting",
-      "published_date": "2026-08-07T11:12:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Academics Propose Phased Roadmap for PLTS Target of 100 GW",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tje3bu522/akademisi-usulkan-roadmap-bertahap-untuk-target-plts-100-gw",
-      "published_date": "2026-08-07T10:53:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Puan asks the government to be careful in managing the 2027 APBN deficit and debt",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjrc2v490/puan-minta-pemerintah-hatihati-kelola-defisit-dan-utang-apbn-2027",
+      "published_date": "2026-08-14T11:32:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Airlangga Reveals Government's Steps to Achieve Economic Growth Target of 6 Percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjrbwb490/airlangga-ungkap-jurus-pemerintah-capai-target-pertumbuhan-ekonomi-6-persen",
+      "published_date": "2026-08-14T11:28:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fighting for Teacher-Lecturer Salary Increases in the 2027 State Budget, DPR Members: Foundations for Building Quality Education",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjrb17451/perjuangkan-kenaikan-gaji-gurudosen-masuk-apbn-2027-anggota-dpr-fondasi-bangun-mutu-pendidikan",
+      "published_date": "2026-08-14T11:10:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bappenas: Green Economy Can Become a Motor for 8 Percent Growth",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjr6yd451/bappenas-ekonomi-hijau-bisa-jadi-motor-pertumbuhan-8-persen",
+      "published_date": "2026-08-14T11:03:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The President calls for the 2026 Economic Census to be successful, this is the reason",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjr7os370/presiden-minta-sensus-ekonomi-2026-berhasil-ini-alasannya",
+      "published_date": "2026-08-14T10:54:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "MSCI Removes CPIN and GOTO from Global Index, Here's a List of Stocks That Survive",
       "source": "Republika English",
@@ -327,44 +327,51 @@
       "url": "https://news.republika.co.id/berita/tjgs3l2030000/pemkab-sukabumi-luncurkan-parkir-someah-di-wisata-pantai-selatan",
       "published_date": "2026-08-08T18:45:21+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BAZNAS RI Together with the Coordinating Minister for PM Distributes Aid to Zmart, BUMi and Santripreneurs in Gresik",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjg57e368/baznas-ri-bersama-menko-pm-salurkan-bantuan-zmart-bumi-dan-santripreneur-di-gresik",
-      "published_date": "2026-08-08T10:30:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "KH Ma'ruf Amin: NU Leaders Must Be Able to Perform Ishlah",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjg4gt430/kh-maruf-amin-pemimpin-nu-harus-mampu-melakukan-ishlah",
-      "published_date": "2026-08-08T10:14:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "QRIS Transaction Value Reaches IDR 600.69 Trillion by June 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjg2yp370/nilai-transaksi-qris-capai-rp-60069-triliun-hingga-juni-2026",
-      "published_date": "2026-08-08T10:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rahmat Hidayat Djati Emphasizes Fiscal Justice to Strengthen Regional Autonomy",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjg38f368/rahmat-hidayat-djati-tekankan-keadilan-fiskal-untuk-perkuat-otonomi-daerah",
-      "published_date": "2026-08-08T09:48:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Agriculture Cancels Meeting in Jakarta to Follow Up on Alor Student Aspirations",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjg0ee370/mentan-batalkan-rapat-di-jakarta-demi-tindaklanjuti-aspirasi-mahasiswa-alor",
-      "published_date": "2026-08-08T09:10:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Prabowo promises to renovate all damaged schools in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjrbgb393/prabowo-janji-renovasi-seluruh-sekolah-rusak-di-indonesia",
+      "published_date": "2026-08-14T11:19:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environmental Activists Urge Corporate Forest Burners to Be Punished and Have Their Permits Revoked",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tjrb4y375/aktivis-lingkungan-desak-korporasi-pembakar-hutan-dihukum-dan-dicabut-izinnya",
+      "published_date": "2026-08-14T11:12:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo Prepares Jakarta and Bali to Become Indonesia's International Financial Center",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjraqw490/prabowo-siapkan-jakarta-dan-bali-jadi-pusat-finansial-internasional-indonesia",
+      "published_date": "2026-08-14T11:04:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nauseated After Tasting the MBG Menu, Chairman of SPPG Karanganyar: Maybe My Body Isn't Fit",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjramm377/mual-seusai-cicip-menu-mbg-ketua-sppg-karanganyar-mungkin-tubuh-saya-kurang-fit",
+      "published_date": "2026-08-14T11:01:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government Targets Mineral and Strategic Commodity Exchange to Operate January 1, 2027",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjrais490/pemerintah-targetkan-bursa-mineral-dan-komoditas-strategis-beroperasi-1-januari-2027",
+      "published_date": "2026-08-14T10:59:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BUMN Profits Soar, Prabowo Appreciates Danantara's Transformation",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjraad416/laba-bumn-melonjak-prabowo-apresiasi-transformasi-danantara",
+      "published_date": "2026-08-14T10:54:13+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The Jakarta LRT will be connected to the KRL Commuter Line in Manggarai",
       "source": "Republika English",
@@ -461,48 +468,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjoj59484/mk-kabulkan-sebagian-gugatan-pasal-penghinaan-kepada-presiden",
       "published_date": "2026-08-12T23:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Internet Access Helps Schools in East Flores Carry Out Digital Learning",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjnxyn416/akses-internet-bantu-sekolah-di-flores-timur-jalankan-pembelajaran-digital",
-      "published_date": "2026-08-12T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xavi Hernandez officially trains the Netherlands, contracted until the 2030 World Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjohx7348/xavi-hernandez-resmi-latih-belanda-dikontrak-hingga-piala-dunia-2030",
-      "published_date": "2026-08-12T22:46:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Siak People in Buya Hamka's View",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjohwm430/orang-siak-dalam-pandangan-buya-hamka",
-      "published_date": "2026-08-12T22:45:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drought triggers spike in fire cases at KBB, up to seven incidents a day",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjoh0a393/kemarau-picu-lonjakan-kasus-kebakaran-di-kbb-sehari-bisa-tujuh-kejadian",
-      "published_date": "2026-08-12T22:26:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG Makes History Back to Back European Super Cup Champions After Beating Aston Villa 2-1",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjof3y348/psg-ukir-sejarah-back-to-back-juara-piala-super-eropa-usai-bekuk-aston-villa-21",
-      "published_date": "2026-08-12T21:45:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Immigration Reviews New Tax and Visa Rules for Digital Nomads in Bali",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjodpk7530000/imigrasi-kaji-aturan-baru-pajak-dan-visa-untuk-digital-nomad-di-bali",
-      "published_date": "2026-08-12T21:15:20+00:00",
       "category": "Local Events"
     }
   ]
