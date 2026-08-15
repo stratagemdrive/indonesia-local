@@ -52,6 +52,13 @@
   ],
   "Military": [
     {
+      "title": "This is an explanation of why Haji Isam's cruise ship has the Ministry of Defense logo affixed to it",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjt1hr377/ini-penjelasan-mengapa-kapal-pesiar-milik-haji-isam-ditempel-logo-kemhan",
+      "published_date": "2026-08-15T09:39:27+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Towards the Republic of Indonesia's 81st Anniversary, the Yonif 511/DY Pamtas Task Force Distributes Red and White Flags in the Interior of Papua",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjs4fg8830000/songsong-hut-ke81-ri-satgas-pamtas-yonif-511dy-bagikan-bendera-merah-putih-di-pedalaman-papua",
@@ -120,16 +127,16 @@
       "url": "https://news.republika.co.id/berita/tjh37c5330000/bmkg-jakarta-cerah-berawan-sepanjang-minggu-waspada-ancaman-el-nino-2026",
       "published_date": "2026-08-08T22:45:12+00:00",
       "category": "Military"
-    },
-    {
-      "title": "US War Deputy Minister Elbridge Colby will go to Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjfzy3484/wamen-perang-as-elbridge-colby-bakal-ke-jakarta",
-      "published_date": "2026-08-08T08:37:15+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Legislators Support Prabowo's Steps to Eradicate Illegal Mining",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjt26w416/legislator-dukung-langkah-prabowo-berantas-tambang-ilegal",
+      "published_date": "2026-08-15T09:54:32+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Ahead of the 81st Indonesian Independence Day, the Secretary General of the Coalition Party gathered for a friendly gathering.",
       "source": "Republika English",
@@ -324,6 +331,55 @@
   ],
   "Local Events": [
     {
+      "title": "People's Party Celebrates the Opening of Bandung Square on August 17 2026",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjt5o6472/pesta-rakyat-meriahkan-pembukaan-alunalun-bandung-pada-17-agustus-2026",
+      "published_date": "2026-08-15T11:09:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Central Information Commission says the change of chairman and deputy chairman of the West Sumatra KI is in accordance with regulations",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tjt5fr430/komisi-informasi-pusat-sebut-pergantian-ketua-dan-wakil-ketua-ki-sumbar-sesuai-regulasi",
+      "published_date": "2026-08-15T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "YKKMP: Dozens of People in Uniforms Attack Ainot Village, Three People Become Victims",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjt4ml483/ykkmp-puluhan-orang-berseragam-serang-kampung-ainot-tiga-orang-jadi-korban",
+      "published_date": "2026-08-15T10:47:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dompet Dhuafa Team Combs Areas Affected by NTT Earthquake, Red and White Mosque Almost Leveled to the Ground",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjt3r7483/tim-dompet-dhuafa-sisir-wilayah-terdampak-gempa-ntt-masjid-merah-putih-hampir-rata-dengan-tanah",
+      "published_date": "2026-08-15T10:28:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICITRI 2026 UNM Reaches 11 Countries, 79 Scientific Articles Pass International Selection",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjt36c472/icitri-2026-unm-tembus-11-negara-79-artikel-ilmiah-lolos-seleksi-internasional",
+      "published_date": "2026-08-15T10:15:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death Toll Continues to Increase After NTT Earthquake, Head of BNPB Reveals 38 People Died Until Afternoon",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjt2mi483/korban-jiwa-terus-bertambah-usai-gempa-ntt-kepala-bnpb-ungkap-ada-38-orang-meninggal-hingga-sore",
+      "published_date": "2026-08-15T10:03:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UBSI Implements Smart-Mushroom House IoT in Argapura Village, Bogor",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjt2ih472/ubsi-terapkan-smartmushroom-house-iot-di-desa-argapura-bogor",
+      "published_date": "2026-08-15T10:01:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjrqt4451/vance-vs-rubio-pertarungan-awal-merebut-warisan-politik-trump",
@@ -412,55 +468,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjramm377/mual-seusai-cicip-menu-mbg-ketua-sppg-karanganyar-mungkin-tubuh-saya-kurang-fit",
       "published_date": "2026-08-14T11:01:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government Targets Mineral and Strategic Commodity Exchange to Operate January 1, 2027",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjrais490/pemerintah-targetkan-bursa-mineral-dan-komoditas-strategis-beroperasi-1-januari-2027",
-      "published_date": "2026-08-14T10:59:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BUMN Profits Soar, Prabowo Appreciates Danantara's Transformation",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjraad416/laba-bumn-melonjak-prabowo-apresiasi-transformasi-danantara",
-      "published_date": "2026-08-14T10:54:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Jakarta LRT will be connected to the KRL Commuter Line in Manggarai",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqcb5484/lrt-jakarta-bakal-terhubung-dengan-krl-commuter-line-di-manggarai",
-      "published_date": "2026-08-13T23:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man City Has the Opportunity to Release Tijjani Reijnders to Saudi Arabian Club Al Qadsiah for IDR 1.2 Trillion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqdd9348/man-city-berpeluang-lepas-tijjani-reijnders-ke-klub-arab-saudi-al-qadsiah-seharga-rp-12-triliun",
-      "published_date": "2026-08-13T23:03:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqcjl2630000/imigrasi-sulut-tunda-keberangkatan-500-wni-terindikasi-tppo-hingga-2026",
-      "published_date": "2026-08-13T22:45:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minahasa People's School Students Prove Achievement, Pass Biology OSN Representing North Sulawesi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqbuh6330000/siswa-sekolah-rakyat-minahasa-buktikan-prestasi-lolos-osn-biologi-wakili-sulut",
-      "published_date": "2026-08-13T22:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BGN Permanently Closes 504 MBG Kitchens, 3,000 Others Examined",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqbth393/bgn-tutup-permanen-504-dapur-mbg-3000-lainnya-diperiksa",
-      "published_date": "2026-08-13T22:29:41+00:00",
       "category": "Local Events"
     }
   ]
