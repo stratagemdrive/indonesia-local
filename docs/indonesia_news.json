@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Cultural Carnival and Merdeka Night Run Liven up RI's 81st HUT at IKN",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tjtf69375/karnaval-budaya-dan-merdeka-night-run-semarakkan-hut-ke81-ri-di-ikn",
+      "published_date": "2026-08-15T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Türkiye and Pakistan's New Regional Axis, How Does Indonesia Behave?",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjtmzv282/poros-regional-baru-saudi-turki-dan-pakistan-bagaimana-ri-bersikap",
+      "published_date": "2026-08-15T22:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "RI Encouraged to Strengthen Strategic Autonomy in the Midst of a Multipolar World",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjr849451/ri-didorong-perkuat-strategic-autonomy-di-tengah-dunia-multipolar",
@@ -51,6 +65,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Bullying Victim of SMPN 1 Blora Chooses to Make Peace, Police Report Withdrawn",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjtzsl2830000/korban-perundungan-smpn-1-blora-pilih-berdamai-laporan-polisi-dicabut",
+      "published_date": "2026-08-15T22:00:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ministry of Defense Ensures Formation of Two Komcad Battalions in Each Regency/City",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjt9vh484/kemenhan-pastikan-bentuk-dua-batalyon-komcad-di-setiap-kabupatenkota",
+      "published_date": "2026-08-15T19:19:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "This is an explanation of why Haji Isam's cruise ship has the Ministry of Defense logo affixed to it",
       "source": "Republika English",
@@ -119,13 +147,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjhwg9483/kementerian-ham-pasien-bpjs-bukan-warga-negara-kelas-dua",
       "published_date": "2026-08-09T09:16:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BMKG: Jakarta will be sunny and cloudy throughout the week, beware of the threat of El Nino 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjh37c5330000/bmkg-jakarta-cerah-berawan-sepanjang-minggu-waspada-ancaman-el-nino-2026",
-      "published_date": "2026-08-08T22:45:12+00:00",
       "category": "Military"
     }
   ],
@@ -320,16 +341,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tji049416/usaha-ultra-mikro-perempuan-perkuat-ekonomi-masyarakat-pesisir",
       "published_date": "2026-08-09T10:39:51+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Indonesian Stock Investors Reach 10.05 Million, IDX Records Growth of 16.83 Percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjgu819530000/investor-saham-ri-tembus-1005-juta-bei-catat-pertumbuhan-1683-persen",
-      "published_date": "2026-08-08T19:31:13+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Islands Regional Bill Enters Prolegnas, Role of DPD RI becomes More Strategic",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjtg3t484/ruu-daerah-kepulauan-masuk-prolegnas-peran-dpd-ri-makin-strategis",
+      "published_date": "2026-08-15T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KRL Users Can Now Top Up KMT Via Bale Syariah BSN",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tjtcru416/pengguna-krl-kini-bisa-top-up-kmt-lewat-bale-syariah-bsn",
+      "published_date": "2026-08-15T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquake Rocks NTT, Has an Earthquake Ever Happened During the Prophet's Time?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tju1tk430/gempa-guncang-ntt-pernahkah-gempa-terjadi-pada-zaman-nabi",
+      "published_date": "2026-08-15T22:44:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Airports Affected by the Flores Earthquake, Directorate General of Communications Conducts Inspections",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tju1m9370/lima-bandara-terdampak-gempa-flores-ditjen-hubud-lakukan-pemeriksaan",
+      "published_date": "2026-08-15T22:39:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romeny and Hubner Starters, Fortuna Sittard Beat Cambuur 3-1",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tju16e3630000/romeny-dan-hubner-starter-fortuna-sittard-kalahkan-cambuur-31",
+      "published_date": "2026-08-15T22:30:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carrying out the President's Directive, the Ministry of Home Affairs Holds the Indonesia ASRI Movement",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjtabp484/jalankan-arahan-presiden-kemendagri-gelar-gerakan-indonesia-asri",
+      "published_date": "2026-08-15T20:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Weather Forecast Sunday: BMKG Predicts Cloudy All Day",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjtnzf3030000/prakiraan-cuaca-jakarta-minggu-bmkg-prediksi-berawan-sepanjang-hari",
+      "published_date": "2026-08-15T17:45:15+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "People's Party Celebrates the Opening of Bandung Square on August 17 2026",
       "source": "Republika English",
@@ -419,55 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjs2fh9630000/gubernur-bali-koster-kumpulkan-kepala-daerah-selaraskan-metode-gasing",
       "published_date": "2026-08-14T21:02:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maluku Regional Police Strengthens Water Security to Ensure the Safety of Community Activities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjs1nh5030000/polda-maluku-perkuat-pengamanan-perairan-demi-jamin-keamanan-aktivitas-masyarakat",
-      "published_date": "2026-08-14T20:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garuda Tanah Laut Bridge was inaugurated by Prabowo, opening access for residents and farmers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjs0b25430000/jembatan-garuda-tanah-laut-diresmikan-prabowo-buka-akses-warga-dan-petani",
-      "published_date": "2026-08-14T20:16:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Governor of Central Java emphasized that development achievements must lead to people's welfare",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjrywc3730000/gubernur-jateng-tegaskan-capaian-pembangunan-harus-bermuara-pada-kesejahteraan-rakyat",
-      "published_date": "2026-08-14T19:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo promises to renovate all damaged schools in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjrbgb393/prabowo-janji-renovasi-seluruh-sekolah-rusak-di-indonesia",
-      "published_date": "2026-08-14T11:19:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Environmental Activists Urge Corporate Forest Burners to Be Punished and Have Their Permits Revoked",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjrb4y375/aktivis-lingkungan-desak-korporasi-pembakar-hutan-dihukum-dan-dicabut-izinnya",
-      "published_date": "2026-08-14T11:12:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Prepares Jakarta and Bali to Become Indonesia's International Financial Center",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjraqw490/prabowo-siapkan-jakarta-dan-bali-jadi-pusat-finansial-internasional-indonesia",
-      "published_date": "2026-08-14T11:04:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nauseated After Tasting the MBG Menu, Chairman of SPPG Karanganyar: Maybe My Body Isn't Fit",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjramm377/mual-seusai-cicip-menu-mbg-ketua-sppg-karanganyar-mungkin-tubuh-saya-kurang-fit",
-      "published_date": "2026-08-14T11:01:34+00:00",
       "category": "Local Events"
     }
   ]
