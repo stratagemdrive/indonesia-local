@@ -141,16 +141,30 @@
       "url": "https://news.republika.co.id/berita/tjjwmd487/bnpb-karhutla-terjadi-di-sumatera-jawa-sulawesi-maluku-hingga-papua",
       "published_date": "2026-08-10T11:15:49+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ministry of Human Rights: BPJS Patients Are Not Second Class Citizens",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjhwg9483/kementerian-ham-pasien-bpjs-bukan-warga-negara-kelas-dua",
-      "published_date": "2026-08-09T09:16:57+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Prices for 12 kg and 5 kg gas have dropped, can be purchased online",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjuzzv502/harga-gas-12-kg-dan-5-kg-turun-bisa-dibeli-online",
+      "published_date": "2026-08-16T11:02:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "After the NTT earthquake, Elnusa Petrofin accelerated Pertamina Patra Niaga's fuel distribution",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjuwlm416/pascagempa-ntt-elnusa-petrofin-percepat-distribusi-bbm-pertamina-patra-niaga",
+      "published_date": "2026-08-16T10:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Bring Back Children's Smiles to Strengthen Indonesia's Future",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjux0g368/kembalikan-senyum-anak-untuk-perkuat-masa-depan-indonesia",
+      "published_date": "2026-08-16T09:57:52+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Legislators Support Prabowo's Steps to Eradicate Illegal Mining",
       "source": "Republika English",
@@ -192,23 +206,16 @@
       "url": "https://news.republika.co.id/berita/tjmlfk393/setelah-gonjangganjing-kejagung-mulai-kebut-lagi-kasus-mbg",
       "published_date": "2026-08-11T22:06:56+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Improving Services, Pertamina Inaugurates Public Information Integration",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjhy40472/tingkatkan-layanan-pertamina-resmikan-integrasi-informasi-publik",
-      "published_date": "2026-08-09T09:52:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A total of 70 personnel were deployed to strengthen the reliability of the electricity network in Gunungkidul ahead of the Republic of Indonesia's Independence Day",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tjhs00291/sebanyak-70-personel-dikerahkan-perkuat-keandalan-jaringan-listrik-di-gunungkidul-jelang-hut-ri",
-      "published_date": "2026-08-09T09:37:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "ICITRI 2026 UNM Goes Global, Researchers from 11 Countries Join the International Conference",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjuv4q368/icitri-2026-unm-mendunia-peneliti-dari-11-negara-ramaikan-konferensi-internasional",
+      "published_date": "2026-08-16T09:36:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Drought Pressures Production, Vegetable Prices in Pontianak Crawling Up",
       "source": "Republika English",
@@ -334,16 +341,65 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/will-perry-warjiyos-exit-mark-the-end-of-a-reformed-bank-indonesia/",
       "published_date": "2026-08-09T21:22:17+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Women's Ultra Micro Enterprises Strengthen the Economy of Coastal Communities",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tji049416/usaha-ultra-mikro-perempuan-perkuat-ekonomi-masyarakat-pesisir",
-      "published_date": "2026-08-09T10:39:51+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "A total of 73 hotspots were detected in South Kalimantan, 14 of which were located in company areas",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjuvgs416/sebanyak-73-hotspot-terdeteksi-di-kalsel-14-titik-berada-di-areal-perusahaan",
+      "published_date": "2026-08-16T10:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lorde Screams Free Palestine! While Performing at the Danish Music Festival",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tjuyl1502/lorde-teriakan-free-palestine-saat-tampil-di-festival-musik-denmark",
+      "published_date": "2026-08-16T10:31:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collaborating with Barca Academy, BRI Youth Championship League 2026 Gives Birth to Superior Football Seeds",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjuxp1502/gandeng-barca-academy-bri-youth-championship-league-2026-lahirkan-bibit-unggul-sepak-bola",
+      "published_date": "2026-08-16T10:12:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zakat and the Essence of Independence",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjuugq282/zakat-dan-esensi-kemerdekaan",
+      "published_date": "2026-08-16T09:02:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MUI Fatwa Commission: Application of Deciles for Social Assistance is permitted in Islam, as long as...",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjuu8j320/komisi-fatwa-mui-penerapan-desil-untuk-bansos-diperbolehkan-dalam-islam-asal",
+      "published_date": "2026-08-16T08:57:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maintaining the Shura Tradition, KH Taufik Damas Encourages the Election of PBNU Chairman to Return to AHWA",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjutaq368/jaga-tradisi-syura-kh-taufik-damas-dorong-pemilihan-ketum-pbnu-kembali-ke-ahwa",
+      "published_date": "2026-08-16T08:37:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bapera DKI asks cadres to support the provincial government through social activities",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjuj32416/bapera-dki-minta-kader-dukung-pemprov-lewat-kegiatan-sosial",
+      "published_date": "2026-08-16T08:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Indonesian Festival in Chiba Japan Attracts Tens of Thousands of Visitors",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tjuq6q291/festival-indonesia-pertama-di-chiba-jepang-tarik-belasan-ribu-pengunjung",
+      "published_date": "2026-08-16T08:16:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Islands Regional Bill Enters Prolegnas, Role of DPD RI becomes More Strategic",
       "source": "Republika English",
@@ -426,62 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjt36c472/icitri-2026-unm-tembus-11-negara-79-artikel-ilmiah-lolos-seleksi-internasional",
       "published_date": "2026-08-15T10:15:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death Toll Continues to Increase After NTT Earthquake, Head of BNPB Reveals 38 People Died Until Afternoon",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjt2mi483/korban-jiwa-terus-bertambah-usai-gempa-ntt-kepala-bnpb-ungkap-ada-38-orang-meninggal-hingga-sore",
-      "published_date": "2026-08-15T10:03:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UBSI Implements Smart-Mushroom House IoT in Argapura Village, Bogor",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjt2ih472/ubsi-terapkan-smartmushroom-house-iot-di-desa-argapura-bogor",
-      "published_date": "2026-08-15T10:01:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjrqt4451/vance-vs-rubio-pertarungan-awal-merebut-warisan-politik-trump",
-      "published_date": "2026-08-14T22:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Indonesian Futsal National Team lost 3-5 to O Parrulo Ferrol in the Spanish Trials",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjs6if7430000/timnas-futsal-indonesia-kalah-35-dari-o-parrulo-ferrol-di-uji-coba-spanyol",
-      "published_date": "2026-08-14T22:30:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NTT Ministry of Law Optimizes Posbankum to Protect Migrant Workers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjs54i3630000/kemenkum-ntt-optimalkan-posbankum-untuk-lindungi-pekerja-migran",
-      "published_date": "2026-08-14T22:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian Women's National Team U-16 Goal Party, Slay Saudi Arabia 7-0 in Srikandi Merdeka Cup",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjrrrb375/timnas-putri-indonesia-u16-pesta-gol-bantai-arab-saudi-70-di-srikandi-merdeka-cup",
-      "published_date": "2026-08-14T22:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brighton Secures Diego Gomez with New Contract until 2031",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjs3qe9330000/brighton-amankan-diego-gomez-dengan-kontrak-baru-hingga-2031",
-      "published_date": "2026-08-14T21:30:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bali Governor Koster Gathers District Heads to Harmonize the Gasing Method",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjs2fh9630000/gubernur-bali-koster-kumpulkan-kepala-daerah-selaraskan-metode-gasing",
-      "published_date": "2026-08-14T21:02:05+00:00",
       "category": "Local Events"
     }
   ]
