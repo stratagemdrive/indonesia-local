@@ -55,13 +55,6 @@
       "url": "https://news.republika.co.id/berita/tjkqzg451/ada-jalan-sukarno-di-tunisia-ratusan-wni-berlari-merayakan-hut-ri",
       "published_date": "2026-08-10T23:08:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "HSU Regency Government Involves Paskibraka to Become Anti-Drug Ambassadors in Each District",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjilfl3830000/pemkab-hsu-libatkan-paskibraka-jadi-duta-anti-narkoba-di-setiap-kecamatan",
-      "published_date": "2026-08-09T18:16:33+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -210,6 +203,20 @@
   ],
   "Economy": [
     {
+      "title": "Prabowo's Speech, Optimism, and the Importance of Explaining Policy Transformation",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjv77v320/pidato-prabowo-optimisme-dan-pentingnya-penjelasan-transformasi-kebijakan",
+      "published_date": "2026-08-16T16:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From Fiber Cables to the Field, Padel Fifer CUP Becomes a Gathering Event for the Telecommunication Industry",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjv43c320/dari-kabel-fiber-ke-lapangan-padel-fifer-cup-jadi-ajang-silaturahim-industri-telekomunikasi",
+      "published_date": "2026-08-16T16:10:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "ICITRI 2026 UNM Goes Global, Researchers from 11 Countries Join the International Conference",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjuv4q368/icitri-2026-unm-mendunia-peneliti-dari-11-negara-ramaikan-konferensi-internasional",
@@ -334,16 +341,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tjjrdu416/gamer-diajak-belajar-investasi-dari-strategi-bermain-esports",
       "published_date": "2026-08-10T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Will Perry Warjiyo’s exit mark the end of a reformed Bank Indonesia?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/will-perry-warjiyos-exit-mark-the-end-of-a-reformed-bank-indonesia/",
-      "published_date": "2026-08-09T21:22:17+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Indonesian Independence Day People's Party at Monas: 780 MSMEs Prepare 600 Thousand Free Culinary Portions",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjvwjg7130000/pesta-rakyat-hut-ri-di-monas-780-umkm-siapkan-600-ribu-porsi-kuliner-gratis",
+      "published_date": "2026-08-16T22:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta's air quality is unhealthy on the Republic of Indonesia's anniversary, residents are advised to wear masks",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjvvug4730000/kualitas-udara-jakarta-tidak-sehat-di-hut-ri-warga-diimbau-pakai-masker",
+      "published_date": "2026-08-16T22:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Weather Forecast 17 August 2026: Sunny and cloudy on Independence Day",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjvugd930000/prakiraan-cuaca-jakarta-17-agustus-2026-cerah-berawan-di-hari-kemerdekaan",
+      "published_date": "2026-08-16T22:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2021 Earthquake Trauma, 50 Families in Selayar Still Remain in Refugees in the Hills",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjvkqz6330000/trauma-gempa-2021-50-kk-di-selayar-masih-bertahan-di-pengungsian-perbukitan",
+      "published_date": "2026-08-16T18:30:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "10 Transjakarta Routes Modified During RI's 81st Anniversary 17 August",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjvgkl4930000/10-rute-transjakarta-dimodifikasi-saat-hut-ke81-ri-17-agustus",
+      "published_date": "2026-08-16T17:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collaborating with BUMN Caring, Danantara Helps NTT Earthquake Disaster Victims",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjvanx416/gandeng-bumn-peduli-danantara-bantu-korban-bencana-gempa-ntt",
+      "published_date": "2026-08-16T15:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secretary General of MUI: Be Thankful for Independence by Realizing People's Welfare",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjvakk430/sekjen-mui-syukuri-kemerdekaan-dengan-mewujudkan-kesejahteraan-rakyat",
+      "published_date": "2026-08-16T14:50:44+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "A total of 73 hotspots were detected in South Kalimantan, 14 of which were located in company areas",
       "source": "Republika English",
@@ -433,55 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tju16e3630000/romeny-dan-hubner-starter-fortuna-sittard-kalahkan-cambuur-31",
       "published_date": "2026-08-15T22:30:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carrying out the President's Directive, the Ministry of Home Affairs Holds the Indonesia ASRI Movement",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjtabp484/jalankan-arahan-presiden-kemendagri-gelar-gerakan-indonesia-asri",
-      "published_date": "2026-08-15T20:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Weather Forecast Sunday: BMKG Predicts Cloudy All Day",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjtnzf3030000/prakiraan-cuaca-jakarta-minggu-bmkg-prediksi-berawan-sepanjang-hari",
-      "published_date": "2026-08-15T17:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People's Party Celebrates the Opening of Bandung Square on August 17 2026",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjt5o6472/pesta-rakyat-meriahkan-pembukaan-alunalun-bandung-pada-17-agustus-2026",
-      "published_date": "2026-08-15T11:09:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Central Information Commission says the change of chairman and deputy chairman of the West Sumatra KI is in accordance with regulations",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tjt5fr430/komisi-informasi-pusat-sebut-pergantian-ketua-dan-wakil-ketua-ki-sumbar-sesuai-regulasi",
-      "published_date": "2026-08-15T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "YKKMP: Dozens of People in Uniforms Attack Ainot Village, Three People Become Victims",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjt4ml483/ykkmp-puluhan-orang-berseragam-serang-kampung-ainot-tiga-orang-jadi-korban",
-      "published_date": "2026-08-15T10:47:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dompet Dhuafa Team Combs Areas Affected by NTT Earthquake, Red and White Mosque Almost Leveled to the Ground",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjt3r7483/tim-dompet-dhuafa-sisir-wilayah-terdampak-gempa-ntt-masjid-merah-putih-hampir-rata-dengan-tanah",
-      "published_date": "2026-08-15T10:28:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICITRI 2026 UNM Reaches 11 Countries, 79 Scientific Articles Pass International Selection",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjt36c472/icitri-2026-unm-tembus-11-negara-79-artikel-ilmiah-lolos-seleksi-internasional",
-      "published_date": "2026-08-15T10:15:48+00:00",
       "category": "Local Events"
     }
   ]
