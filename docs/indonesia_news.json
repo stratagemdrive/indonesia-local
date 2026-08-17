@@ -48,16 +48,16 @@
       "url": "https://khazanah.republika.co.id/berita/tjlrxc483/sayembara-hafalan-addhuha-berhadiah-miras-ihw-harus-ada-tabayyun",
       "published_date": "2026-08-11T11:29:36+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "There is Sukarno Street in Tunisia, Hundreds of Indonesian Citizens Run to Celebrate the Republic of Indonesia's Independence Day",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjkqzg451/ada-jalan-sukarno-di-tunisia-ratusan-wni-berlari-merayakan-hut-ri",
-      "published_date": "2026-08-10T23:08:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Indonesian Independence Ceremony at the Border, Serasan Becomes Access for Indonesian Exports to Neighboring Countries",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxqhe483/upacara-kemerdekaan-ri-di-batas-negeri-serasan-jadi-akses-ekspor-indonesia-ke-negeri-tetangga",
+      "published_date": "2026-08-17T22:29:38+00:00",
+      "category": "Military"
+    },
     {
       "title": "81st Republic of Indonesia Anniversary, UNIPA Academic: Peace is the Key to Progressing Papua",
       "source": "Republika English",
@@ -145,6 +145,13 @@
   ],
   "Energy": [
     {
+      "title": "726 Tenggarong Prison Inmates Receive Remission for Republic of Indonesia's 81st Anniversary, 15 Immediately Free",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxp4f4430000/726-napi-lapas-tenggarong-terima-remisi-hut-ke81-ri-15-langsung-bebas",
+      "published_date": "2026-08-17T22:00:15+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamina President Director Visits Flores Earthquake Location, Distributes Aid and Energy Supply",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tjwuwp416/dirut-pertamina-tinjau-lokasi-gempa-flores-distribusikan-bantuan-dan-pasokan-energi",
@@ -223,6 +230,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Education as a Way to Islamize the Archipelago",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjx29n451/pendidikan-sebagai-jalan-islamisasi-nusantara",
+      "published_date": "2026-08-17T21:36:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Thailand and Japan's economies slow down due to household consumption, what about Indonesia?",
       "source": "Republika English",
@@ -355,16 +369,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tjm29u416/mahasiswa-riset-sppg-dampak-ke-umkm-dan-ekonomi-lokal-dikaji",
       "published_date": "2026-08-11T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Balikpapan Mayor Asks Kadin to Produce Concrete Steps to Face Economic Challenges",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tjkqro451/wali-kota-balikpapan-minta-kadin-hasilkan-langkah-konkret-hadapi-tantangan-ekonomi",
-      "published_date": "2026-08-10T22:07:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "From Sanders to Mamdani: The New Map of Power that is Changing the US Democratic Party",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjx5z4451/dari-sanders-ke-mamdani-peta-baru-kekuasaan-yang-mengubah-partai-demokrat-as",
+      "published_date": "2026-08-17T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian President Offers Assistance for NTT Earthquake",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxrpa393/presiden-iran-tawarkan-bantuan-untuk-gempa-ntt",
+      "published_date": "2026-08-17T22:55:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harmony of Independence at SCBD Promotes Indonesian Culture",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxqyp393/harmoni-kemerdekaan-di-scbd-angkat-budaya-indonesia",
+      "published_date": "2026-08-17T22:40:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KAI Palembang Holds Commemoration of the 81st Indonesian Independence Day at Stations and Trains",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxqjg4330000/kai-palembang-gelar-peringatan-hut-ri-ke81-di-stasiun-dan-kereta",
+      "published_date": "2026-08-17T22:30:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjxek7282/polda-jabar-umumkan-sikat-begal-tapi-tetap-humanis-ke-saat-atur-lalu-lintas",
+      "published_date": "2026-08-17T22:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PNM Kabanjahe Affirms Commitment to Empowering the Community on the 81st Anniversary of the Republic of Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxptf6930000/pnm-kabanjahe-tegaskan-komitmen-berdayakan-masyarakat-di-hut-ke81-ri",
+      "published_date": "2026-08-17T22:15:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ambon City Government Pays Off Two-Month TPP for ASN on RI's 81st Anniversary",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxofg8830000/pemkot-ambon-lunasi-tpp-dua-bulan-untuk-asn-di-hut-ke81-ri",
+      "published_date": "2026-08-17T21:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BASSRA Denies Taking a Stance Rejecting Industrial Plans in Bangkalan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjxn1j6230000/bassra-bantah-telah-ambil-sikap-tolak-rencana-industri-di-bangkalan",
+      "published_date": "2026-08-17T21:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maintaining the Purity of NU, Maintaining Indonesian Independence",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjx2ve451/merawat-kemurnian-nu-menjaga-kemerdekaan-indonesia",
+      "published_date": "2026-08-17T20:53:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The splendor of the Republic of Indonesia's 81st Anniversary at Monas, from People's Festivals to Airplane Attractions",
       "source": "Republika English",
@@ -440,69 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjvkqz6330000/trauma-gempa-2021-50-kk-di-selayar-masih-bertahan-di-pengungsian-perbukitan",
       "published_date": "2026-08-16T18:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 Transjakarta Routes Modified During RI's 81st Anniversary 17 August",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjvgkl4930000/10-rute-transjakarta-dimodifikasi-saat-hut-ke81-ri-17-agustus",
-      "published_date": "2026-08-16T17:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Collaborating with BUMN Caring, Danantara Helps NTT Earthquake Disaster Victims",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjvanx416/gandeng-bumn-peduli-danantara-bantu-korban-bencana-gempa-ntt",
-      "published_date": "2026-08-16T15:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Secretary General of MUI: Be Thankful for Independence by Realizing People's Welfare",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjvakk430/sekjen-mui-syukuri-kemerdekaan-dengan-mewujudkan-kesejahteraan-rakyat",
-      "published_date": "2026-08-16T14:50:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A total of 73 hotspots were detected in South Kalimantan, 14 of which were located in company areas",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tjuvgs416/sebanyak-73-hotspot-terdeteksi-di-kalsel-14-titik-berada-di-areal-perusahaan",
-      "published_date": "2026-08-16T10:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lorde Screams Free Palestine! While Performing at the Danish Music Festival",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjuyl1502/lorde-teriakan-free-palestine-saat-tampil-di-festival-musik-denmark",
-      "published_date": "2026-08-16T10:31:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Collaborating with Barca Academy, BRI Youth Championship League 2026 Gives Birth to Superior Football Seeds",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjuxp1502/gandeng-barca-academy-bri-youth-championship-league-2026-lahirkan-bibit-unggul-sepak-bola",
-      "published_date": "2026-08-16T10:12:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zakat and the Essence of Independence",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tjuugq282/zakat-dan-esensi-kemerdekaan",
-      "published_date": "2026-08-16T09:02:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MUI Fatwa Commission: Application of Deciles for Social Assistance is permitted in Islam, as long as...",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjuu8j320/komisi-fatwa-mui-penerapan-desil-untuk-bansos-diperbolehkan-dalam-islam-asal",
-      "published_date": "2026-08-16T08:57:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maintaining the Shura Tradition, KH Taufik Damas Encourages the Election of PBNU Chairman to Return to AHWA",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjutaq368/jaga-tradisi-syura-kh-taufik-damas-dorong-pemilihan-ketum-pbnu-kembali-ke-ahwa",
-      "published_date": "2026-08-16T08:37:38+00:00",
       "category": "Local Events"
     }
   ]
