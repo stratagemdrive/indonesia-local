@@ -59,6 +59,20 @@
   ],
   "Military": [
     {
+      "title": "81st Republic of Indonesia Anniversary, UNIPA Academic: Peace is the Key to Progressing Papua",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tjwthm430/hut-ri-ke-81-akademisi-unipa-perdamaian-jadi-kunci-papua-maju",
+      "published_date": "2026-08-17T10:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PDIP Regrets the Incident that Occurred during the Flag Raising in Aceh",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tjwta7430/pdip-sayangkan-terjadinya-insiden-saat-pengibaran-bendera-di-aceh",
+      "published_date": "2026-08-17T10:32:31+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bullying Victim of SMPN 1 Blora Chooses to Make Peace, Police Report Withdrawn",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjtzsl2830000/korban-perundungan-smpn-1-blora-pilih-berdamai-laporan-polisi-dicabut",
@@ -127,16 +141,23 @@
       "url": "https://news.republika.co.id/berita/tjmn7g3130000/pangdam-xiiimerdeka-tuntut-bintara-muda-tunjukkan-disiplin-dan-loyalitas",
       "published_date": "2026-08-11T22:45:16+00:00",
       "category": "Military"
-    },
-    {
-      "title": "BNPB: Forest and Land Fires Happened in Sumatra, Java, Sulawesi, Maluku, and Papua",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjjwmd487/bnpb-karhutla-terjadi-di-sumatera-jawa-sulawesi-maluku-hingga-papua",
-      "published_date": "2026-08-10T11:15:49+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina President Director Visits Flores Earthquake Location, Distributes Aid and Energy Supply",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjwuwp416/dirut-pertamina-tinjau-lokasi-gempa-flores-distribusikan-bantuan-dan-pasokan-energi",
+      "published_date": "2026-08-17T11:08:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Accelerates Normalization of Fuel Distribution in Flores, Transfers Dozens of Tank Cars from Bima",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjwt6s522/pertamina-percepat-normalisasi-penyaluran-bbm-di-flores-seberangkan-belasan-mobil-tangki-dari-bima",
+      "published_date": "2026-08-17T10:30:28+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Prices for 12 kg and 5 kg gas have dropped, can be purchased online",
       "source": "Republika English",
@@ -202,6 +223,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Thailand and Japan's economies slow down due to household consumption, what about Indonesia?",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjwu47423/ekonomi-thailand-dan-jepang-melambat-karena-konsumsi-rumah-tangga-bagaimana-indonesia",
+      "published_date": "2026-08-17T10:50:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The story of a Cilok trader making a profit after being bought by Jeje-Putri on the occasion of the Republic of Indonesia's Independence Day",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjwu2p472/cerita-pedagang-cilok-ketiban-untung-usai-diborong-jejeputri-di-momen-hut-ri",
+      "published_date": "2026-08-17T10:49:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Dialogue and Regulatory Certainty Are Key to Plantation Management",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjwlon416/dialog-dan-kepastian-regulasi-jadi-kunci-pengelolaan-tanamalia",
+      "published_date": "2026-08-17T10:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Prabowo's Speech, Optimism, and the Importance of Explaining Policy Transformation",
       "source": "Republika English",
@@ -320,30 +362,58 @@
       "url": "https://republika.co.id/berita//tjkqro451/wali-kota-balikpapan-minta-kadin-hasilkan-langkah-konkret-hadapi-tantangan-ekonomi",
       "published_date": "2026-08-10T22:07:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "32 Tangerang City Garuda Scouts Ready to Perform at the XII Cibubur National Jamboree",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjkp2l2130000/32-pramuka-garuda-kota-tangerang-siap-berprestasi-di-jambore-nasional-xii-cibubur",
-      "published_date": "2026-08-10T21:30:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Capital Market Investors Increase by 9.9 Million, Reaching 30.27 Million in 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjjxko370/investor-pasar-modal-bertambah-99-juta-tembus-3027-juta-di-2026",
-      "published_date": "2026-08-10T11:36:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gamers Are Invited to Learn Investment from Esports Playing Strategies",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjjrdu416/gamer-diajak-belajar-investasi-dari-strategi-bermain-esports",
-      "published_date": "2026-08-10T11:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The splendor of the Republic of Indonesia's 81st Anniversary at Monas, from People's Festivals to Airplane Attractions",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tjwuaa375/semarak-hut-ke81-ri-di-monas-dari-pesta-rakyat-hingga-atraksi-pesawat-udara",
+      "published_date": "2026-08-17T10:54:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SBS TV Network Draws Criticism For Airing Ha Young's New Drama",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tjwtuh328/jaringan-tv-sbs-tuai-kritik-karenatayangkandrama-baru-ha-young",
+      "published_date": "2026-08-17T10:44:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When My Homeland is Sung by UMP International Students from Various Corners of the World",
+      "source": "Republika English",
+      "url": "https://retizen.republika.co.id/posts/777012/ketika-tanah-airku-dinyanyikan-mahasiswa-internasional-ump-dari-berbagai-penjuru-dunia",
+      "published_date": "2026-08-17T10:41:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dudung Calls the Aceh Peace Day Incident the Work of a Few Individuals",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjwtg0328/dudung-sebut-insiden-hari-damai-aceh-ulah-segelintir-oknum",
+      "published_date": "2026-08-17T10:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquake Victims in NTT Reach 68 People",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjws8h328/korban-gempa-di-ntt-capai-68-jiwa",
+      "published_date": "2026-08-17T10:09:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PAN's Way of Sharing Happiness for Citizens on the 81st Anniversary of the Republic of Indonesia",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjws3z472/cara-pan-berbagi-kebahagiaan-untuk-warga-di-hut-ke81-republik-indonesia",
+      "published_date": "2026-08-17T10:07:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trustworthy and Beneficial Leadership",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tjws1x451/kepemimpinan-yang-amanah-dan-maslahah",
+      "published_date": "2026-08-17T10:05:57+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Indonesian Independence Day People's Party at Monas: 780 MSMEs Prepare 600 Thousand Free Culinary Portions",
       "source": "Republika English",
@@ -433,55 +503,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tjutaq368/jaga-tradisi-syura-kh-taufik-damas-dorong-pemilihan-ketum-pbnu-kembali-ke-ahwa",
       "published_date": "2026-08-16T08:37:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bapera DKI asks cadres to support the provincial government through social activities",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjuj32416/bapera-dki-minta-kader-dukung-pemprov-lewat-kegiatan-sosial",
-      "published_date": "2026-08-16T08:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Indonesian Festival in Chiba Japan Attracts Tens of Thousands of Visitors",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjuq6q291/festival-indonesia-pertama-di-chiba-jepang-tarik-belasan-ribu-pengunjung",
-      "published_date": "2026-08-16T08:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islands Regional Bill Enters Prolegnas, Role of DPD RI becomes More Strategic",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjtg3t484/ruu-daerah-kepulauan-masuk-prolegnas-peran-dpd-ri-makin-strategis",
-      "published_date": "2026-08-15T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KRL Users Can Now Top Up KMT Via Bale Syariah BSN",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tjtcru416/pengguna-krl-kini-bisa-top-up-kmt-lewat-bale-syariah-bsn",
-      "published_date": "2026-08-15T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake Rocks NTT, Has an Earthquake Ever Happened During the Prophet's Time?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tju1tk430/gempa-guncang-ntt-pernahkah-gempa-terjadi-pada-zaman-nabi",
-      "published_date": "2026-08-15T22:44:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Airports Affected by the Flores Earthquake, Directorate General of Communications Conducts Inspections",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tju1m9370/lima-bandara-terdampak-gempa-flores-ditjen-hubud-lakukan-pemeriksaan",
-      "published_date": "2026-08-15T22:39:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romeny and Hubner Starters, Fortuna Sittard Beat Cambuur 3-1",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tju16e3630000/romeny-dan-hubner-starter-fortuna-sittard-kalahkan-cambuur-31",
-      "published_date": "2026-08-15T22:30:14+00:00",
       "category": "Local Events"
     }
   ]
