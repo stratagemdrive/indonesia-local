@@ -52,6 +52,13 @@
   ],
   "Military": [
     {
+      "title": "Beyond Febrie’s scandal: the historical roots of police-prosecutor rivalry",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/beyond-febries-scandal-the-historical-roots-of-police-prosecutor-rivalry/",
+      "published_date": "2026-08-18T00:56:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Indonesian Independence Ceremony at the Border, Serasan Becomes Access for Indonesian Exports to Neighboring Countries",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjxqhe483/upacara-kemerdekaan-ri-di-batas-negeri-serasan-jadi-akses-ekspor-indonesia-ke-negeri-tetangga",
@@ -145,6 +152,20 @@
   ],
   "Energy": [
     {
+      "title": "Pertamina's Assistance Reaches 3,900 Residents Affected by the NTT Earthquake",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjypl6416/bantuan-pertamina-jangkau-3900-warga-terdampak-gempa-ntt",
+      "published_date": "2026-08-18T11:15:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The lifting target of 610 thousand barrels is full of challenges, academics believe that Minister Bahlil's strategy is correct",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjy71b522/target-lifting-610-ribu-barel-penuh-tantangan-akademisi-nilai-strategi-menteri-bahlil-sudah-tepat",
+      "published_date": "2026-08-18T10:25:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "726 Tenggarong Prison Inmates Receive Remission for Republic of Indonesia's 81st Anniversary, 15 Immediately Free",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjxp4f4430000/726-napi-lapas-tenggarong-terima-remisi-hut-ke81-ri-15-langsung-bebas",
@@ -230,6 +251,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Ubhara Jaya Lecturers Accompany Sukabumi Volleyball Club to Build Achievements and Club Business",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tjyn8n416/dosen-ubhara-jaya-dampingi-klub-voli-sukabumi-bangun-prestasi-dan-bisnis-klub",
+      "published_date": "2026-08-18T11:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ojol Presidential Decree Approved, Komdigi Gets Mandate to Set Tariffs for Goods and Food",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjynvd416/perpres-ojol-disepakati-komdigi-dapat-mandat-atur-tarif-barang-dan-makanan",
+      "published_date": "2026-08-18T10:30:49+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Education as a Way to Islamize the Archipelago",
       "source": "Republika English",
@@ -355,23 +390,37 @@
       "url": "https://ekonomi.republika.co.id/berita/tjnl52490/purbaya-tegaskan-tak-ada-pajak-baru-untuk-rumah-kontrakan",
       "published_date": "2026-08-12T10:58:14+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ministry of Youth and Sports Tightens Supervision of National Training Budgets with BPKP",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjnkv5348/kemenpora-perketat-pengawasan-anggaran-pelatnas-bersama-bpkp",
-      "published_date": "2026-08-12T10:52:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjm29u416/mahasiswa-riset-sppg-dampak-ke-umkm-dan-ekonomi-lokal-dikaji",
-      "published_date": "2026-08-11T23:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Head of BGN Gives PrabowoGibran Ompreng MBG",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tjypx21791828301/kepala-bgn-beri-prabowogibran-ompreng-mbg",
+      "published_date": "2026-08-18T11:15:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Measure Comfort and Save on Travel Costs with VinFast Electric Motorbikes",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tjyptz348/menakar-kenyamanan-dan-berhemat-ongkos-perjalanan-bersama-motor-listrik-vinfast",
+      "published_date": "2026-08-18T11:13:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mosques in Kuningan Encouraged to Become Centers for Economic Empowerment of the Community",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tjypk3282/masjidmasjid-di-kuningan-didorong-jadi-pusat-pemberdayaan-ekonomi-umat",
+      "published_date": "2026-08-18T11:07:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UMJ KKN Group 9 Educates Rawa Badak Selatan Residents on Managing Organic Waste",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tjyozz472/kkn-umj-kelompok-9-edukasi-warga-rawa-badak-selatan-kelola-sampah-organik",
+      "published_date": "2026-08-18T10:55:11+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "From Sanders to Mamdani: The New Map of Power that is Changing the US Democratic Party",
       "source": "Republika English",
@@ -482,34 +531,6 @@
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tjws1x451/kepemimpinan-yang-amanah-dan-maslahah",
       "published_date": "2026-08-17T10:05:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian Independence Day People's Party at Monas: 780 MSMEs Prepare 600 Thousand Free Culinary Portions",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjvwjg7130000/pesta-rakyat-hut-ri-di-monas-780-umkm-siapkan-600-ribu-porsi-kuliner-gratis",
-      "published_date": "2026-08-16T22:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta's air quality is unhealthy on the Republic of Indonesia's anniversary, residents are advised to wear masks",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjvvug4730000/kualitas-udara-jakarta-tidak-sehat-di-hut-ri-warga-diimbau-pakai-masker",
-      "published_date": "2026-08-16T22:30:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Weather Forecast 17 August 2026: Sunny and cloudy on Independence Day",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjvugd930000/prakiraan-cuaca-jakarta-17-agustus-2026-cerah-berawan-di-hari-kemerdekaan",
-      "published_date": "2026-08-16T22:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2021 Earthquake Trauma, 50 Families in Selayar Still Remain in Refugees in the Hills",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjvkqz6330000/trauma-gempa-2021-50-kk-di-selayar-masih-bertahan-di-pengungsian-perbukitan",
-      "published_date": "2026-08-16T18:30:35+00:00",
       "category": "Local Events"
     }
   ]
