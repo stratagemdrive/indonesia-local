@@ -38,6 +38,13 @@
   ],
   "Military": [
     {
+      "title": "Fleeing to Jakarta, Thief of Pertamina Iron Pipe Worth IDR 2.3 Billion Arrested by Indramayu Police URC Team",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tk0kem282/kabur-ke-jakarta-pencuri-pipa-besi-pertamina-senilai-rp23-m-diciduk-tim-urc-polres-indramayu",
+      "published_date": "2026-08-19T11:11:10+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjz1re451/pertama-kali-di-asia-tenggara-j10c-china-adu-taktik-dengan-gripen-di-langit-thailand",
@@ -238,6 +245,13 @@
   ],
   "Economy": [
     {
+      "title": "Pintu Expands Access to Crypto Derivatives Trading in Indonesia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk0iz2370/pintu-perluas-akses-trading-derivatif-crypto-di-indonesia",
+      "published_date": "2026-08-19T10:40:14+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tjyzv4416/pertumbuhan-ekonomi-diharapkan-dorong-kesejahteraan",
@@ -369,16 +383,65 @@
       "url": "https://news.republika.co.id/berita/tjohvm4630000/msci-keluarkan-cpin-dan-goto-dari-indeks-global-ini-daftar-saham-yang-bertahan",
       "published_date": "2026-08-12T22:45:22+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "AeroXSpace Develops Family Tourism Destination with Interactive Concept",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjmzfm370/aeroxspace-kembangkan-destinasi-wisata-keluarga-dengan-konsep-interaktif",
-      "published_date": "2026-08-12T11:22:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Hansi Flick Hasn't Determined Barcelona Captain 2026/2027",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0kmr348/hansi-flick-belum-tentukan-kapten-barcelona-20262027",
+      "published_date": "2026-08-19T11:16:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta is Flooded with Rain, Pramono: Due to Weather Modifications",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0kg0348/jakarta-diguyur-hujan-pramono-karena-modifikasi-cuaca",
+      "published_date": "2026-08-19T11:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Increasingly Stronger Together with Danantara, PNM Expands the Hope of 23.1 Million Ultra Micro Entrepreneurs to Prosper",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk0kek472/kian-kuat-bersama-danantara-pnm-perluas-harapan-231-juta-pengusah-ultra-mikro-agar-sejahtera",
+      "published_date": "2026-08-19T11:11:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Centrally Cut Regional Transfers, Education and People's Health Are Threatened",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0kb7393/transfer-daerah-dipangkas-pusat-pendidikan-sampai-kesehatan-rakyat-terancam",
+      "published_date": "2026-08-19T11:09:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Esa Unggul Introduces Digitalization of Vaccine Data",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0hux416/esa-unggul-kenalkan-digitalisasi-data-vaksin",
+      "published_date": "2026-08-19T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BNPB: NTT Earthquake Death Toll Increases to 71, 59,647 People Displaced",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0jjg393/bnpb-korbanjiwa-gempa-ntt-jadi-71-jiwa-59647-orang-mengungsi",
+      "published_date": "2026-08-19T10:52:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fajar/Fikri Want to Use the Japan and China Open Titles as Capital in the 2026 World Championship",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0je5348/fajarfikri-ingin-jadikan-gelar-jepang-dan-china-open-sebagai-modal-di-kejuaraan-dunia-2026",
+      "published_date": "2026-08-19T10:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fajar/Fikri to the Round of 16 of the 2026 World Championship, Rachel/Febi Wins Duel Between National Pelatnas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk0j24348/fajarfikri-ke-babak-16-besar-kejuaraan-dunia-2026-rachelfebi-menangi-duel-sesama-pelatnas",
+      "published_date": "2026-08-19T10:42:04+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "13 Indonesian Representatives Fighting in the Round of 32 of the 2026 BWF World Championship Today",
       "source": "Republika English",
@@ -461,62 +524,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tjxqyp393/harmoni-kemerdekaan-di-scbd-angkat-budaya-indonesia",
       "published_date": "2026-08-17T22:40:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KAI Palembang Holds Commemoration of the 81st Indonesian Independence Day at Stations and Trains",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjxqjg4330000/kai-palembang-gelar-peringatan-hut-ri-ke81-di-stasiun-dan-kereta",
-      "published_date": "2026-08-17T22:30:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tjxek7282/polda-jabar-umumkan-sikat-begal-tapi-tetap-humanis-ke-saat-atur-lalu-lintas",
-      "published_date": "2026-08-17T22:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PNM Kabanjahe Affirms Commitment to Empowering the Community on the 81st Anniversary of the Republic of Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjxptf6930000/pnm-kabanjahe-tegaskan-komitmen-berdayakan-masyarakat-di-hut-ke81-ri",
-      "published_date": "2026-08-17T22:15:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ambon City Government Pays Off Two-Month TPP for ASN on RI's 81st Anniversary",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjxofg8830000/pemkot-ambon-lunasi-tpp-dua-bulan-untuk-asn-di-hut-ke81-ri",
-      "published_date": "2026-08-17T21:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BASSRA Denies Taking a Stance Rejecting Industrial Plans in Bangkalan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjxn1j6230000/bassra-bantah-telah-ambil-sikap-tolak-rencana-industri-di-bangkalan",
-      "published_date": "2026-08-17T21:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maintaining the Purity of NU, Maintaining Indonesian Independence",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tjx2ve451/merawat-kemurnian-nu-menjaga-kemerdekaan-indonesia",
-      "published_date": "2026-08-17T20:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The splendor of the Republic of Indonesia's 81st Anniversary at Monas, from People's Festivals to Airplane Attractions",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjwuaa375/semarak-hut-ke81-ri-di-monas-dari-pesta-rakyat-hingga-atraksi-pesawat-udara",
-      "published_date": "2026-08-17T10:54:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SBS TV Network Draws Criticism For Airing Ha Young's New Drama",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tjwtuh328/jaringan-tv-sbs-tuai-kritik-karenatayangkandrama-baru-ha-young",
-      "published_date": "2026-08-17T10:44:41+00:00",
       "category": "Local Events"
     }
   ]
