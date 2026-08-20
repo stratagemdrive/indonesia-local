@@ -120,20 +120,6 @@
       "url": "https://news.republika.co.id/berita/tjs4fg8830000/songsong-hut-ke81-ri-satgas-pamtas-yonif-511dy-bagikan-bendera-merah-putih-di-pedalaman-papua",
       "published_date": "2026-08-14T21:45:16+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Bantaeng Police Fails Distribution of Shabu, A Dealer Arrested at Fisherman's Housing Complex",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjq9rj5930000/polres-bantaeng-gagalkan-peredaran-sabu-seorang-pengedar-dibekuk-di-perumahan-nelayan",
-      "published_date": "2026-08-13T21:45:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Manggarai-Kelapa Gading LRT Ready to Operate, Has 11 Stop Points",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjphf4375/lrt-manggaraikelapa-gading-siap-beroperasi-punya-11-titik-pemberhentian",
-      "published_date": "2026-08-13T11:33:04+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -230,6 +216,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Indonesia Re Supports Development of National Tourism Boat Fleet",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk3a27484/indonesia-re-dukung-pengembangan-armada-kapal-wisata-nasional",
+      "published_date": "2026-08-20T22:20:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk2vgj320/partai-garuda-siap-kawal-penguatan-pembiayaan-dan-digitalisasi-umkm",
+      "published_date": "2026-08-20T20:35:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The Growth of Ziswaf and the Future of National Economic Resilience",
       "source": "Republika English",
@@ -355,23 +355,58 @@
       "url": "https://news.republika.co.id/berita/tjv43c320/dari-kabel-fiber-ke-lapangan-padel-fifer-cup-jadi-ajang-silaturahim-industri-telekomunikasi",
       "published_date": "2026-08-16T16:10:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "ICITRI 2026 UNM Goes Global, Researchers from 11 Countries Join the International Conference",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjuv4q368/icitri-2026-unm-mendunia-peneliti-dari-11-negara-ramaikan-konferensi-internasional",
-      "published_date": "2026-08-16T09:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Drought Pressures Production, Vegetable Prices in Pontianak Crawling Up",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjrzlv9830000/kemarau-tekan-produksi-harga-sayuran-di-pontianak-merangkak-naik",
-      "published_date": "2026-08-14T20:01:07+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The NTT Earthquake Disrupted Electricity, Quick Recovery Is the Key to Economic Activity",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk3ch2370/gempa-ntt-sempat-ganggu-listrik-pemulihan-cepat-jadi-kunci-aktivitas-ekonomi",
+      "published_date": "2026-08-20T23:12:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Home Affairs Ensures Central Government Accompanies Handling of NTT Earthquake",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk3c1z451/mendagri-pastikan-pemerintah-pusat-dampingi-penanganan-gempa-ntt",
+      "published_date": "2026-08-20T23:03:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Permata Bank Syariah and DT Peduli Build Eight Huntaps in Bireuen",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk2pid416/permata-bank-syariah-dan-dt-peduli-bangun-delapan-huntap-di-bireuen",
+      "published_date": "2026-08-20T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Religion and Bamagnas Strengthen Synergy to Maintain Religious Harmony in North Sulawesi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk3aig730000/kemenag-dan-bamagnas-perkuat-sinergi-jaga-kerukunan-umat-beragama-di-sulawesi-utara",
+      "published_date": "2026-08-20T22:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026/2027 English League Schedule: Arsenal Host Coventry City in Opening Match",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk39tf3930000/jadwal-liga-inggris-20262027-arsenal-jamu-coventry-city-di-laga-pembuka",
+      "published_date": "2026-08-20T22:15:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young NU Intellectuals Reveal 'Dark Horse' Figures in the Contest for PBNU General Chair Candidates",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk2vu4320/intelektual-muda-nu-ungkap-figur-kuda-hitam-dalam-kontestasi-calon-ketum-pbnu",
+      "published_date": "2026-08-20T21:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OTT Rampant Regent in Central Java, Governor Ahmad Luthfi: If the contents of the Head of Dablek are Difficult to Remember",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tk2vb8282/marak-ott-bupati-di-jateng-gubernur-ahmad-luthfi-kalau-isi-kepala-dablek-sulit-diingatkan",
+      "published_date": "2026-08-20T20:25:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Aftershocks Continue to Occur in NTT, the Number of Refugees Soars to 92 Thousand People",
       "source": "Republika English",
@@ -461,55 +496,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk1btv3230000/gubernur-jabar-program-ketahanan-pangan-tekan-angka-kriminalitas",
       "published_date": "2026-08-19T21:03:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Detects Allegations of BPJS TKA Corruption While Investigating Extortion of Foreigners' Residence Permits",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk19ot2530000/kpk-endus-dugaan-korupsi-bpjs-tka-saat-usut-pemerasan-izin-tinggal-wna",
-      "published_date": "2026-08-19T20:17:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hansi Flick Hasn't Determined Barcelona Captain 2026/2027",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0kmr348/hansi-flick-belum-tentukan-kapten-barcelona-20262027",
-      "published_date": "2026-08-19T11:16:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta is Flooded with Rain, Pramono: Due to Weather Modifications",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0kg0348/jakarta-diguyur-hujan-pramono-karena-modifikasi-cuaca",
-      "published_date": "2026-08-19T11:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Increasingly Stronger Together with Danantara, PNM Expands the Hope of 23.1 Million Ultra Micro Entrepreneurs to Prosper",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk0kek472/kian-kuat-bersama-danantara-pnm-perluas-harapan-231-juta-pengusah-ultra-mikro-agar-sejahtera",
-      "published_date": "2026-08-19T11:11:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Centrally Cut Regional Transfers, Education and People's Health Are Threatened",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0kb7393/transfer-daerah-dipangkas-pusat-pendidikan-sampai-kesehatan-rakyat-terancam",
-      "published_date": "2026-08-19T11:09:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Esa Unggul Introduces Digitalization of Vaccine Data",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0hux416/esa-unggul-kenalkan-digitalisasi-data-vaksin",
-      "published_date": "2026-08-19T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BNPB: NTT Earthquake Death Toll Increases to 71, 59,647 People Displaced",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0jjg393/bnpb-korbanjiwa-gempa-ntt-jadi-71-jiwa-59647-orang-mengungsi",
-      "published_date": "2026-08-19T10:52:28+00:00",
       "category": "Local Events"
     }
   ]
