@@ -24,6 +24,20 @@
   ],
   "Military": [
     {
+      "title": "Police Deploy Team to Free Nine Teenagers Kidnapped by Papuan Separatists",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk2e7k377/polisi-terjunkan-tim-bebaskan-sembilan-remaja-diculik-separatis-papua",
+      "published_date": "2026-08-20T10:52:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia-China naval exercise: is Jakarta falling into Beijing’s Taiwan playbook?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesia-china-naval-exercise-is-jakarta-falling-into-beijings-taiwan-playbook/",
+      "published_date": "2026-08-20T00:50:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Warren Buffett's 5 Principles for Building Wealth",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tk0xcy451/5-prinsipwarren-buffett-membangun-kekayaan",
@@ -120,23 +134,23 @@
       "url": "https://visual.republika.co.id/berita/tjphf4375/lrt-manggaraikelapa-gading-siap-beroperasi-punya-11-titik-pemberhentian",
       "published_date": "2026-08-13T11:33:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Komnas HAM records that refugees from the Central Papua conflict have reached 124,931 people, what is their fate?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjpf1a393/komnas-ham-catat-pengungsi-konflik-papua-tengah-capai-124931-jiwa-bagaimana-nasib-mereka",
-      "published_date": "2026-08-13T10:41:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Talking Indonesia: LGBTQI+ community under attack",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-lgbtqi-community-under-attack/",
-      "published_date": "2026-08-13T00:14:39+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Deputy Chair of Commission VII Encourages Strengthening of the National Electric Vehicle Industry",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk2dqf348/wakil-ketua-komisi-vii-dorong-penguatan-industri-kendaraan-listrik-nasional",
+      "published_date": "2026-08-20T10:42:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Illegal Sand Mining on the Brantas River in Kediri Raided by Officers",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tk2aqo375/tambang-pasir-ilegal-di-sungai-brantas-kediri-dirazia-petugas",
+      "published_date": "2026-08-20T10:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "BMW Passato by Indonesian Modifiers Ready to Appear at the 2026 SEMA Show in Las Vegas",
       "source": "Republika English",
@@ -213,30 +227,37 @@
       "url": "https://news.republika.co.id/berita/tjqczc484/jelang-hut-ri-ke81-sekjen-partai-koalisi-kumpul-silaturahmi",
       "published_date": "2026-08-13T23:21:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Climate Crisis Threatens Clean Water, Regulations Need to Be Strengthened",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tjpfoh416/krisis-iklim-ancam-air-bersih-regulasi-perlu-diperkuat",
-      "published_date": "2026-08-13T11:00:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Koffiku: Pertamina Exhibition Support Makes MSMEs More Excited",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjp83t502/koffiku-dukungan-pameran-pertamina-bikin-umkm-lebih-bersemangat",
-      "published_date": "2026-08-13T11:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Economist Reminds Government About Decile-Based Subsidies, Don't Just Reduce Fiscal Burden",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjpeci490/ekonom-ingatkan-pemerintah-soal-subsidi-berbasis-desil-jangan-sekadar-tekan-beban-fiskal",
-      "published_date": "2026-08-13T10:26:42+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "The Growth of Ziswaf and the Future of National Economic Resilience",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tk2e1x472/geliat-ziswaf-dan-masa-depan-ketahanan-ekonomi-nasional",
+      "published_date": "2026-08-20T10:49:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KAI Business Transformation, Targets 1.4 Billion Customers per Year by 2045",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk2djn349/kai-transformasi-bisnis-targetkan-14-miliar-pelanggan-per-tahun-pada-2045",
+      "published_date": "2026-08-20T10:38:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MoraRepublic and Huawei Indonesia Accelerate Digital Transformation of the Enterprise Sector",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk2d81472/morarepublic-dan-huawei-indonesia-percepat-transformasi-digital-sektor-enterprise",
+      "published_date": "2026-08-20T10:31:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IDX Changes Lowest Share Price from IDR 50 to IDR 1, Shares IDR 11-IDR 200 ARA 35 Percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk2cao484/bei-ubah-harga-saham-terendah-dari-rp-50-jadi-rp-1-saham-rp-11rp-200-ara-35-persen",
+      "published_date": "2026-08-20T10:11:12+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Baznas and BKKBN Encourage Zakat to Become a Family Economic Driver",
       "source": "Republika English",
@@ -348,37 +369,65 @@
       "url": "https://news.republika.co.id/berita/tjrzlv9830000/kemarau-tekan-produksi-harga-sayuran-di-pontianak-merangkak-naik",
       "published_date": "2026-08-14T20:01:07+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Puan asks the government to be careful in managing the 2027 APBN deficit and debt",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjrc2v490/puan-minta-pemerintah-hatihati-kelola-defisit-dan-utang-apbn-2027",
-      "published_date": "2026-08-14T11:32:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Airlangga Reveals Government's Steps to Achieve Economic Growth Target of 6 Percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjrbwb490/airlangga-ungkap-jurus-pemerintah-capai-target-pertumbuhan-ekonomi-6-persen",
-      "published_date": "2026-08-14T11:28:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fighting for Teacher-Lecturer Salary Increases in the 2027 State Budget, DPR Members: Foundations for Building Quality Education",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjrb17451/perjuangkan-kenaikan-gaji-gurudosen-masuk-apbn-2027-anggota-dpr-fondasi-bangun-mutu-pendidikan",
-      "published_date": "2026-08-14T11:10:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bappenas: Green Economy Can Become a Motor for 8 Percent Growth",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tjr6yd451/bappenas-ekonomi-hijau-bisa-jadi-motor-pertumbuhan-8-persen",
-      "published_date": "2026-08-14T11:03:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Aftershocks Continue to Occur in NTT, the Number of Refugees Soars to 92 Thousand People",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk2fe0487/gempa-susulan-terus-terjadi-di-ntt-jumlah-pengungsi-melonjak-hingga-92-ribu-orang",
+      "published_date": "2026-08-20T11:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Defeating the 2026 All England Champions, Amri/Nita Advance to the Quarter Finals of the 2026 BWF World Championship",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk2f17348/kalahkan-juara-all-england-2026-amrinita-melaju-ke-perempat-final-kejuaraan-dunia-bwf-2026",
+      "published_date": "2026-08-20T11:10:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Debuting at GIIAS 2026, Changan Wins 1,120 SPK, Nevo Q05 Becomes Best-Selling Model",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk2eo2348/debut-di-giias-2026-changan-raih-1120-spk-nevo-q05-jadi-model-terlaris",
+      "published_date": "2026-08-20T11:02:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BPKH: BPIH 2027 Needs to Maintain Congregational Justice and Sustainability of Hajj Funds",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk2e3e430/bpkh-bpih-2027-perlu-jaga-keadilan-jamaah-dan-keberlanjutan-dana-haji",
+      "published_date": "2026-08-20T10:50:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Umayyad coins from Central Tapanuli",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tk2dr1483/koin-umayyah-dari-tapanuli-tengah",
+      "published_date": "2026-08-20T10:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Support RI 1 Establish a Strategic Commodity Exchange: Governance must be knowledge-based and transparent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk2d1t484/dukung-ri-1-dirikan-bursa-komoditas-strategis-tata-kelola-harus-berbasis-ilmu-dan-transparan",
+      "published_date": "2026-08-20T10:27:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inaugurated by KONI, PB ORADO Officially Becomes the Parent of Domino Sports in Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk2c6v348/dilantik-koni-pb-orado-resmi-jadi-induk-olahraga-domino-di-indonesia",
+      "published_date": "2026-08-20T10:08:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Winning Comeback Against Malaysian Representatives, Febriana/Meilysa Reaching the Quarter Finals of the BWF World Championship",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk2bso348/menang-comeback-lawan-wakil-malaysia-febrianameilysa-tembus-perempat-final-kejuaraan-dunia-bwf",
+      "published_date": "2026-08-20T10:00:24+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "North Sulawesi Ministry of Religion Forms 102 PPPK Characters for Excellent Community Service",
       "source": "Republika English",
@@ -461,62 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk0jjg393/bnpb-korbanjiwa-gempa-ntt-jadi-71-jiwa-59647-orang-mengungsi",
       "published_date": "2026-08-19T10:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fajar/Fikri Want to Use the Japan and China Open Titles as Capital in the 2026 World Championship",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0je5348/fajarfikri-ingin-jadikan-gelar-jepang-dan-china-open-sebagai-modal-di-kejuaraan-dunia-2026",
-      "published_date": "2026-08-19T10:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fajar/Fikri to the Round of 16 of the 2026 World Championship, Rachel/Febi Wins Duel Between National Pelatnas",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk0j24348/fajarfikri-ke-babak-16-besar-kejuaraan-dunia-2026-rachelfebi-menangi-duel-sesama-pelatnas",
-      "published_date": "2026-08-19T10:42:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "13 Indonesian Representatives Fighting in the Round of 32 of the 2026 BWF World Championship Today",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjzmg6348/13-wakil-indonesia-berjuang-di-babak-32-besar-kejuaraan-dunia-bwf-2026-hari-ini",
-      "published_date": "2026-08-18T22:57:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjzlvg8230000/pemprov-dki-buka-ruang-kolaborasi-seniman-global-di-taman-ismail-marzuki",
-      "published_date": "2026-08-18T22:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjzcz08330000/wagub-bengkulu-mian-ajak-teladani-nasionalisme-fatmawati-soekarno-di-hut-ke81-ri",
-      "published_date": "2026-08-18T19:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjzbge5830000/hati-rodri-selalu-biru-pesan-perpisahan-untuk-manchester-city",
-      "published_date": "2026-08-18T19:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rodri Says Farewell to Manchester City, Officially Joins Barcelona",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjzard7430000/rodri-ucapkan-salam-perpisahan-untuk-manchester-city-resmi-gabung-barcelona",
-      "published_date": "2026-08-18T18:45:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Head of BGN Gives PrabowoGibran Ompreng MBG",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tjypx21791828301/kepala-bgn-beri-prabowogibran-ompreng-mbg",
-      "published_date": "2026-08-18T11:15:02+00:00",
       "category": "Local Events"
     }
   ]
