@@ -24,6 +24,20 @@
   ],
   "Military": [
     {
+      "title": "Police Still Looking for Nine  Girls Kidnapped in Central Papua",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk46tc393/polisi-masih-cari-sembilan-anak-perempuan-yang-diculik-di-papua-tengah",
+      "published_date": "2026-08-21T10:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "National Police Chief Visits NTT Earthquake Refugees, Hands Over Aid to 1,330 Refugees",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk46iu291/kapolri-tinjau-pengungsi-gempa-ntt-serahkan-bantuan-untuk-1330-pengungsi",
+      "published_date": "2026-08-21T10:01:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Police Deploy Team to Free Nine Teenagers Kidnapped by Papuan Separatists",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk2e7k377/polisi-terjunkan-tim-bebaskan-sembilan-remaja-diculik-separatis-papua",
@@ -206,16 +220,23 @@
       "url": "https://esgnow.republika.co.id/berita/tjt26w416/legislator-dukung-langkah-prabowo-berantas-tambang-ilegal",
       "published_date": "2026-08-15T09:54:32+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Ahead of the 81st Indonesian Independence Day, the Secretary General of the Coalition Party gathered for a friendly gathering.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjqczc484/jelang-hut-ri-ke81-sekjen-partai-koalisi-kumpul-silaturahmi",
-      "published_date": "2026-08-13T23:21:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "BSI Profits Grow 11.08 Percent, Gold Business Becomes One of the Supporters",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tk47kp423/laba-bsi-tumbuh-1108-persen-bisnis-emas-jadi-salah-satu-penopang",
+      "published_date": "2026-08-21T10:24:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maybank Indonesia Strengthens Students' Financial Literacy, Prevents Online Gambling Snares",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk46jn349/maybank-indonesia-perkuat-literasi-keuangan-pelajar-cegah-jerat-judi-daring",
+      "published_date": "2026-08-21T10:02:11+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Indonesia Re Supports Development of National Tourism Boat Fleet",
       "source": "Republika English",
@@ -341,23 +362,72 @@
       "url": "https://ekonomi.republika.co.id/berita/tjwlon416/dialog-dan-kepastian-regulasi-jadi-kunci-pengelolaan-tanamalia",
       "published_date": "2026-08-17T10:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Prabowo's Speech, Optimism, and the Importance of Explaining Policy Transformation",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tjv77v320/pidato-prabowo-optimisme-dan-pentingnya-penjelasan-transformasi-kebijakan",
-      "published_date": "2026-08-16T16:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From Fiber Cables to the Field, Padel Fifer CUP Becomes a Gathering Event for the Telecommunication Industry",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjv43c320/dari-kabel-fiber-ke-lapangan-padel-fifer-cup-jadi-ajang-silaturahim-industri-telekomunikasi",
-      "published_date": "2026-08-16T16:10:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Make it easier for residents to manage population administration, South Jakarta Dukcapil Holds Football Pick-up Service",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tk49st375/mudahkan-warga-urus-administrasi-kependudukan-dukcapil-jaksel-gelar-layanan-jemput-bola",
+      "published_date": "2026-08-21T11:12:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flores NTT Earthquake Damages 1,378 Schools, Hundreds of Thousands of Students Affected",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk49p6409/gempa-flores-ntt-akibatkan-1378-sekolah-rusak-seratusan-ribu-siswa-terdampak",
+      "published_date": "2026-08-21T11:10:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bareskrim Names Ex-Rock Climbing Coach Suspect, Menpora Erick: State Is Here to Protect Athletes",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk49fy348/bareskrim-tetapkan-eks-pelatih-panjat-tebing-tersangka-menpora-erick-negara-hadir-lindungi-atlet",
+      "published_date": "2026-08-21T11:04:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andrea Bocelli Holds Two Concerts in Indonesia, Here's the Schedule",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tk3yjy416/andrea-bocelli-gelar-dua-konser-di-indonesia-ini-jadwalnya",
+      "published_date": "2026-08-21T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arthatel and AGP Educate Children About Smart, Safe and Responsible Internet",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk48vj472/arthatel-dan-agp-edukasi-anak-tentang-internet-cerdas-aman-dan-bertanggung-jawab",
+      "published_date": "2026-08-21T10:52:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BSI Hajj Savings Grows 24 Percent, Accounts Reach 7.69 Million",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tk47vz423/tabungan-haji-bsi-tumbuh-24-persen-rekening-tembus-769-juta",
+      "published_date": "2026-08-21T10:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Commission on Hajj Proposed Value of Hajj Costs at 60 Percent of the Benefit Value is a Time Bomb",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk4883430/komnas-haji-nilai-usulan-biaya-haji-60-persen-dari-nilai-manfaat-jadi-bom-waktu",
+      "published_date": "2026-08-21T10:38:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Nino Drains Saguling Reservoir, Hydroelectric Power Production is Called Still Safe",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk4741416/el-nino-kuras-waduk-saguling-produksi-listrik-plta-disebut-masih-aman",
+      "published_date": "2026-08-21T10:16:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven Days After the NTT Earthquake, Victims Still Continue to Increase",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk470v393/tujuh-hari-pascagempa-ntt-korban-masih-terus-bertambah",
+      "published_date": "2026-08-21T10:12:31+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The NTT Earthquake Disrupted Electricity, Quick Recovery Is the Key to Economic Activity",
       "source": "Republika English",
@@ -433,69 +503,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tk2e3e430/bpkh-bpih-2027-perlu-jaga-keadilan-jamaah-dan-keberlanjutan-dana-haji",
       "published_date": "2026-08-20T10:50:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Umayyad coins from Central Tapanuli",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tk2dr1483/koin-umayyah-dari-tapanuli-tengah",
-      "published_date": "2026-08-20T10:42:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Support RI 1 Establish a Strategic Commodity Exchange: Governance must be knowledge-based and transparent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk2d1t484/dukung-ri-1-dirikan-bursa-komoditas-strategis-tata-kelola-harus-berbasis-ilmu-dan-transparan",
-      "published_date": "2026-08-20T10:27:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inaugurated by KONI, PB ORADO Officially Becomes the Parent of Domino Sports in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk2c6v348/dilantik-koni-pb-orado-resmi-jadi-induk-olahraga-domino-di-indonesia",
-      "published_date": "2026-08-20T10:08:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Winning Comeback Against Malaysian Representatives, Febriana/Meilysa Reaching the Quarter Finals of the BWF World Championship",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk2bso348/menang-comeback-lawan-wakil-malaysia-febrianameilysa-tembus-perempat-final-kejuaraan-dunia-bwf",
-      "published_date": "2026-08-20T10:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sulawesi Ministry of Religion Forms 102 PPPK Characters for Excellent Community Service",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk1gje3930000/kemenag-sulut-bentuk-karakter-102-pppk-demi-pelayanan-prima-masyarakat",
-      "published_date": "2026-08-19T22:45:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Entertains Officials at the Indonesian Independence Day Ceremony in Hambalang, Gives Direct Appreciation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk1fui7430000/prabowo-jamu-petugas-upacara-hut-ri-di-hambalang-beri-apresiasi-langsung",
-      "published_date": "2026-08-19T22:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Herdman is not afraid to face the pressure by allowing his son to play in Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk1799348/john-herdman-tak-gentar-hadapi-tekanan-dengan-izinkan-anaknya-kini-bermain-di-indonesia",
-      "published_date": "2026-08-19T22:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Messages and Hopes of Ordinary NU Citizens at the 35th NU Congress in Jombang",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tk0w0w451/pesan-dan-harapan-warga-nu-biasa-kepada-muktamar-ke35-nu-di-jombang",
-      "published_date": "2026-08-19T22:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Java Governor: Food Security Program Reduces Crime Rates",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk1btv3230000/gubernur-jabar-program-ketahanan-pangan-tekan-angka-kriminalitas",
-      "published_date": "2026-08-19T21:03:31+00:00",
       "category": "Local Events"
     }
   ]
