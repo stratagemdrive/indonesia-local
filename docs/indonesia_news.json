@@ -13,23 +13,16 @@
       "url": "https://esgnow.republika.co.id/berita/tk61q8349/10-tahun-maybank-women-ecoweavers-2617-perempuan-penenun-diberdayakan",
       "published_date": "2026-08-22T10:13:20+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Cultural Carnival and Merdeka Night Run Liven up RI's 81st HUT at IKN",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tjtf69375/karnaval-budaya-dan-merdeka-night-run-semarakkan-hut-ke81-ri-di-ikn",
-      "published_date": "2026-08-15T23:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Türkiye and Pakistan's New Regional Axis, How Does Indonesia Behave?",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tjtmzv282/poros-regional-baru-saudi-turki-dan-pakistan-bagaimana-ri-bersikap",
-      "published_date": "2026-08-15T22:14:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "China and the Changing Map of World Oil Power",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tk712c393/china-dan-berubahnya-peta-kekuatan-minyak-dunia",
+      "published_date": "2026-08-22T22:56:36+00:00",
+      "category": "Military"
+    },
     {
       "title": "West Sumatra Police Arrest Indian Foreigner, Secure 1.4 Kg of Gold from Illegal Mining",
       "source": "Republika English",
@@ -120,23 +113,16 @@
       "url": "https://khazanah.republika.co.id/berita/tjwta7430/pdip-sayangkan-terjadinya-insiden-saat-pengibaran-bendera-di-aceh",
       "published_date": "2026-08-17T10:32:31+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Bullying Victim of SMPN 1 Blora Chooses to Make Peace, Police Report Withdrawn",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjtzsl2830000/korban-perundungan-smpn-1-blora-pilih-berdamai-laporan-polisi-dicabut",
-      "published_date": "2026-08-15T22:00:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ministry of Defense Ensures Formation of Two Komcad Battalions in Each Regency/City",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjt9vh484/kemenhan-pastikan-bentuk-dua-batalyon-komcad-di-setiap-kabupatenkota",
-      "published_date": "2026-08-15T19:19:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "South Kalimantan Provincial Government and GAPKI Distribute 20,000 Masks to Protect Residents from Forest and Forestry Smoke Haze",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6x5y3030000/pemprov-kalsel-dan-gapki-bagikan-20000-masker-untuk-lindungi-warga-dari-kabut-asap-karhutla",
+      "published_date": "2026-08-22T21:32:22+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Deputy Chair of Commission VII Encourages Strengthening of the National Electric Vehicle Industry",
       "source": "Republika English",
@@ -359,6 +345,48 @@
   ],
   "Local Events": [
     {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6kkj630000/kementerian-pu-perkuat-layanan-air-minum-dan-sanitasi-untuk-2623-pengungsi-gempa-di-reok-ntt",
+      "published_date": "2026-08-22T22:55:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Sumatra Provincial Government Encourages Students to Become Drivers of Ethical Digital Transformation",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6zue5830000/pemprov-sumut-dorong-mahasiswa-jadi-penggerak-transformasi-digital-beretika",
+      "published_date": "2026-08-22T22:30:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BMKG Weather Forecast: Jakarta will be sunny and cloudy this afternoon until tonight",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6z5d6530000/prakiraan-cuaca-bmkg-jakarta-cerah-berawan-siang-hingga-malam-ini",
+      "published_date": "2026-08-22T22:15:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "QRIS Users and Merchants in South Sulawesi Reach 1.5 Million",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6yge6030000/pengguna-dan-merchant-qris-di-sulawesi-selatan-tembus-15-juta",
+      "published_date": "2026-08-22T22:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 5.4 magnitude earthquake shook the waters of Puah Island, Central Sulawesi, early in the morning",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6wdb330000/gempa-magnitudo-54-guncang-perairan-pulau-puah-sulawesi-tengah-dini-hari",
+      "published_date": "2026-08-22T21:15:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forest and Land Fire Haze Covers North Kalimantan, Tanjung Selor-Tarakan Speedboat Sailing Still Normal",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk6vrd9330000/kabut-asap-karhutla-selimuti-kaltara-pelayaran-speedboat-tanjung-selortarakan-masih-normal",
+      "published_date": "2026-08-22T21:02:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sumatran Tiger Habitat Forest Cleared, Ministry of Forestry Names Six Suspects",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tk5rjx416/hutan-habitat-harimau-sumatra-dibabat-kemenhut-tetapkan-enam-tersangka",
@@ -454,48 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk557j8830000/kpk-sita-uang-rp764-juta-dari-kasus-suap-penerimaan-mahasiswa-baru-unsoed",
       "published_date": "2026-08-21T22:30:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ULM Collaborates with IBEC to Open Opportunities for Students to Continue Studying in England",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk54ht5830000/ulm-gandeng-ibec-buka-peluang-mahasiswa-studi-lanjut-ke-inggris",
-      "published_date": "2026-08-21T22:15:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk533h3130000/timnas-futsal-indonesia-dibantai-klub-spanyol-noia-25-di-laga-uji-coba",
-      "published_date": "2026-08-21T21:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chancellor of Unsoed Allegedly Gave Subordinates Access to Pass Camaba After Receiving IDR 1.12 Billion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk52eg6130000/rektor-unsoed-diduga-beri-akses-bawahan-loloskan-camaba-usai-terima-rp112-miliar",
-      "published_date": "2026-08-21T21:30:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unsoed Chancellor Ahmad Sodiq Officially Detained by KPK, Here's What He Looks Like",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tk4zqn375/rektor-unsoed-ahmad-sodiq-resmi-ditahan-kpk-begini-penampakannya",
-      "published_date": "2026-08-21T20:32:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Make it easier for residents to manage population administration, South Jakarta Dukcapil Holds Football Pick-up Service",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tk49st375/mudahkan-warga-urus-administrasi-kependudukan-dukcapil-jaksel-gelar-layanan-jemput-bola",
-      "published_date": "2026-08-21T11:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flores NTT Earthquake Damages 1,378 Schools, Hundreds of Thousands of Students Affected",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk49p6409/gempa-flores-ntt-akibatkan-1378-sekolah-rusak-seratusan-ribu-siswa-terdampak",
-      "published_date": "2026-08-21T11:10:18+00:00",
       "category": "Local Events"
     }
   ]
