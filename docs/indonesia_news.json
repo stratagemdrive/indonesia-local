@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Manchester United agrees to transfer Carlos Baleba from Brighton worth IDR 1.68 trillion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk647o348/manchester-united-sepakati-transfer-carlos-baleba-dari-brighton-senilai-rp168-triliun",
+      "published_date": "2026-08-22T11:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "10 Years of Maybank Women Eco-Weavers, 2,617 Women Weavers Empowered",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk61q8349/10-tahun-maybank-women-ecoweavers-2617-perempuan-penenun-diberdayakan",
+      "published_date": "2026-08-22T10:13:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Cultural Carnival and Merdeka Night Run Liven up RI's 81st HUT at IKN",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tjtf69375/karnaval-budaya-dan-merdeka-night-run-semarakkan-hut-ke81-ri-di-ikn",
@@ -120,13 +134,6 @@
       "url": "https://news.republika.co.id/berita/tjt9vh484/kemenhan-pastikan-bentuk-dua-batalyon-komcad-di-setiap-kabupatenkota",
       "published_date": "2026-08-15T19:19:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "This is an explanation of why Haji Isam's cruise ship has the Ministry of Defense logo affixed to it",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjt1hr377/ini-penjelasan-mengapa-kapal-pesiar-milik-haji-isam-ditempel-logo-kemhan",
-      "published_date": "2026-08-15T09:39:27+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -206,16 +213,23 @@
       "url": "https://esgnow.republika.co.id/berita/tjux0g368/kembalikan-senyum-anak-untuk-perkuat-masa-depan-indonesia",
       "published_date": "2026-08-16T09:57:52+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Legislators Support Prabowo's Steps to Eradicate Illegal Mining",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tjt26w416/legislator-dukung-langkah-prabowo-berantas-tambang-ilegal",
-      "published_date": "2026-08-15T09:54:32+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Manggarai residential mortgage can be paid in installments in 40 years, interest remains at 6 percent",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk5ra1416/kpr-hunian-manggarai-bisa-dicicil-40-tahun-bunga-tetap-6-persen",
+      "published_date": "2026-08-22T10:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Forest and Land Fires Expand, Legislators Ask the Ministry of Finance to Disburse Emergency Budget of IDR 290 Billion",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk5a3w416/karhutla-meluas-legislator-minta-kemenkeu-cairkan-anggaran-darurat-rp290-miliar",
+      "published_date": "2026-08-22T10:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "ULM Develops Integrated Agroeco-tourism in Tirta Jaya Tanah Laut Village",
       "source": "Republika English",
@@ -341,23 +355,79 @@
       "url": "https://esgnow.republika.co.id/berita/tjyn8n416/dosen-ubhara-jaya-dampingi-klub-voli-sukabumi-bangun-prestasi-dan-bisnis-klub",
       "published_date": "2026-08-18T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ojol Presidential Decree Approved, Komdigi Gets Mandate to Set Tariffs for Goods and Food",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjynvd416/perpres-ojol-disepakati-komdigi-dapat-mandat-atur-tarif-barang-dan-makanan",
-      "published_date": "2026-08-18T10:30:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Education as a Way to Islamize the Archipelago",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tjx29n451/pendidikan-sebagai-jalan-islamisasi-nusantara",
-      "published_date": "2026-08-17T21:36:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sumatran Tiger Habitat Forest Cleared, Ministry of Forestry Names Six Suspects",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk5rjx416/hutan-habitat-harimau-sumatra-dibabat-kemenhut-tetapkan-enam-tersangka",
+      "published_date": "2026-08-22T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A number of players competing in the Soekarno Cup are monitored by League 2 and League 3 clubs",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk63j9348/sejumlah-pemain-yang-berlaga-di-soekarno-cup-dipantau-klub-liga-2-dan-liga-3",
+      "published_date": "2026-08-22T10:52:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "wondrX 2026 Becomes Danantara Housing Expo Pre-Event, BNI Expands Access to Residential Financing",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk638u368/wondrx-2026-jadi-preevent-danantara-housing-expo-bni-perluas-akses-pembiayaan-hunian",
+      "published_date": "2026-08-22T10:46:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moment when President Prabowo directly inspects forest and land fires in Kubu Raya",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tk62yw375/momen-presiden-prabowo-tinjau-langsung-karhutla-di-kubu-raya",
+      "published_date": "2026-08-22T10:40:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collaboration of UBSI Silat and Dance UKM Celebrates the 81st Indonesian Independence Day Ceremony at ITARU",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk60vw368/kolaborasi-ukm-silat-dan-tari-ubsi-meriahkan-upacara-hut-ri-ke81-di-itaru",
+      "published_date": "2026-08-22T10:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamic Spirit and Creativity Behind the Vibrant Alisfest 2026",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk5gsi320/spirit-islam-dan-kreativitas-di-balik-semarak-alisfest-2026",
+      "published_date": "2026-08-22T10:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jakarta Prepares New Regulations on Air Pollution, This is a Big Job",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tk5n4d416/jakarta-siapkan-aturan-baru-soal-polusi-udara-ini-pekerjaan-besarnya",
+      "published_date": "2026-08-22T10:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strengthening Digital Transformation, UPN Veteran East Java Conducts Benchmarking to UBSI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk60s8368/perkuat-transformasi-digital-upn-veteran-jatim-lakukan-benchmarking-ke-ubsi",
+      "published_date": "2026-08-22T09:52:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prabowo goes directly to handle forest and land fires, deploys top TNI-Polri officials to four provinces",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk60bv416/prabowo-turun-langsung-tangani-karhutla-kerahkan-petinggi-tnipolri-ke-empat-provinsi",
+      "published_date": "2026-08-22T09:43:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amri/Nita Win Bronze at the 2026 World Championship, Indonesia Without Representatives in the Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk601g348/amrinita-raih-perunggu-kejuaraan-dunia-2026-indonesia-tanpa-wakil-di-final",
+      "published_date": "2026-08-22T09:36:52+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "OTT Unsoed, MTI Encourages Evaluation of Student Admissions Management and Proposes 7 Recommendations",
       "source": "Republika English",
@@ -426,76 +496,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk49p6409/gempa-flores-ntt-akibatkan-1378-sekolah-rusak-seratusan-ribu-siswa-terdampak",
       "published_date": "2026-08-21T11:10:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bareskrim Names Ex-Rock Climbing Coach Suspect, Menpora Erick: State Is Here to Protect Athletes",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk49fy348/bareskrim-tetapkan-eks-pelatih-panjat-tebing-tersangka-menpora-erick-negara-hadir-lindungi-atlet",
-      "published_date": "2026-08-21T11:04:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andrea Bocelli Holds Two Concerts in Indonesia, Here's the Schedule",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tk3yjy416/andrea-bocelli-gelar-dua-konser-di-indonesia-ini-jadwalnya",
-      "published_date": "2026-08-21T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arthatel and AGP Educate Children About Smart, Safe and Responsible Internet",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk48vj472/arthatel-dan-agp-edukasi-anak-tentang-internet-cerdas-aman-dan-bertanggung-jawab",
-      "published_date": "2026-08-21T10:52:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BSI Hajj Savings Grows 24 Percent, Accounts Reach 7.69 Million",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tk47vz423/tabungan-haji-bsi-tumbuh-24-persen-rekening-tembus-769-juta",
-      "published_date": "2026-08-21T10:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Commission on Hajj Proposed Value of Hajj Costs at 60 Percent of the Benefit Value is a Time Bomb",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tk4883430/komnas-haji-nilai-usulan-biaya-haji-60-persen-dari-nilai-manfaat-jadi-bom-waktu",
-      "published_date": "2026-08-21T10:38:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Nino Drains Saguling Reservoir, Hydroelectric Power Production is Called Still Safe",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tk4741416/el-nino-kuras-waduk-saguling-produksi-listrik-plta-disebut-masih-aman",
-      "published_date": "2026-08-21T10:16:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven Days After the NTT Earthquake, Victims Still Continue to Increase",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk470v393/tujuh-hari-pascagempa-ntt-korban-masih-terus-bertambah",
-      "published_date": "2026-08-21T10:12:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The NTT Earthquake Disrupted Electricity, Quick Recovery Is the Key to Economic Activity",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk3ch2370/gempa-ntt-sempat-ganggu-listrik-pemulihan-cepat-jadi-kunci-aktivitas-ekonomi",
-      "published_date": "2026-08-20T23:12:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Home Affairs Ensures Central Government Accompanies Handling of NTT Earthquake",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk3c1z451/mendagri-pastikan-pemerintah-pusat-dampingi-penanganan-gempa-ntt",
-      "published_date": "2026-08-20T23:03:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Permata Bank Syariah and DT Peduli Build Eight Huntaps in Bireuen",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tk2pid416/permata-bank-syariah-dan-dt-peduli-bangun-delapan-huntap-di-bireuen",
-      "published_date": "2026-08-20T23:00:00+00:00",
       "category": "Local Events"
     }
   ]
