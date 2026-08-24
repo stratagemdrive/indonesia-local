@@ -17,6 +17,20 @@
   ],
   "Military": [
     {
+      "title": "DPR: Hijab at Defense University Must No Longer Become a Polemic",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk9rcc451/dpr-hijab-di-unhan-tak-boleh-lagi-jadi-polemik",
+      "published_date": "2026-08-24T11:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI Satsiber Opens Soldier Recruitment, Education Only One Month",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk9sjc484/satsiber-tni-buka-rekrutmen-prajurit-pendidikan-hanya-sebulan",
+      "published_date": "2026-08-24T10:45:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "National Police Names 72 Suspects in Forest and Land Fire Cases in Nine Polda, Among the Evidence There are Palm Oil Seeds",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk7yk7487/polri-tetapkan-72-tersangka-kasus-karhutla-di-sembilan-polda-di-antara-barang-bukti-ada-bibit-sawit",
@@ -134,20 +148,6 @@
       "url": "https://news.republika.co.id/berita/tjxqhe483/upacara-kemerdekaan-ri-di-batas-negeri-serasan-jadi-akses-ekspor-indonesia-ke-negeri-tetangga",
       "published_date": "2026-08-17T22:29:38+00:00",
       "category": "Military"
-    },
-    {
-      "title": "81st Republic of Indonesia Anniversary, UNIPA Academic: Peace is the Key to Progressing Papua",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tjwthm430/hut-ri-ke-81-akademisi-unipa-perdamaian-jadi-kunci-papua-maju",
-      "published_date": "2026-08-17T10:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PDIP Regrets the Incident that Occurred during the Flag Raising in Aceh",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tjwta7430/pdip-sayangkan-terjadinya-insiden-saat-pengibaran-bendera-di-aceh",
-      "published_date": "2026-08-17T10:32:31+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -199,23 +199,30 @@
       "url": "https://news.republika.co.id/berita/tjxp4f4430000/726-napi-lapas-tenggarong-terima-remisi-hut-ke81-ri-15-langsung-bebas",
       "published_date": "2026-08-17T22:00:15+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina President Director Visits Flores Earthquake Location, Distributes Aid and Energy Supply",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjwuwp416/dirut-pertamina-tinjau-lokasi-gempa-flores-distribusikan-bantuan-dan-pasokan-energi",
-      "published_date": "2026-08-17T11:08:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pertamina Accelerates Normalization of Fuel Distribution in Flores, Transfers Dozens of Tank Cars from Bima",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tjwt6s522/pertamina-percepat-normalisasi-penyaluran-bbm-di-flores-seberangkan-belasan-mobil-tangki-dari-bima",
-      "published_date": "2026-08-17T10:30:28+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Stories of elderly people earning rupiah from selling flags on Merdeka Day",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tk9rl6282/cerita-lansia-mengais-rupiah-dari-menjual-bendera-di-hari-merdeka",
+      "published_date": "2026-08-24T10:24:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hayden Panettiere's death opens Hollywood's 'ulcers' regarding the exploitation of child artists",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tk9rd3425/kematian-hayden-panettiere-buka-borok-hollywood-soal-eksploitasi-artis-cilik",
+      "published_date": "2026-08-24T10:19:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Customer Trust is the Key to Banking, This is the Impact If Funds Are Transferred",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tk9r42370/kepercayaan-nasabah-jadi-kunci-perbankan-ini-dampak-jika-dana-dipindahkan",
+      "published_date": "2026-08-24T10:14:26+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Manggarai residential mortgage can be paid in installments in 40 years, interest remains at 6 percent",
       "source": "Republika English",
@@ -334,30 +341,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tjyzv4416/pertumbuhan-ekonomi-diharapkan-dorong-kesejahteraan",
       "published_date": "2026-08-18T23:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "MSMEs no longer just rely on the Marketplace, SendinAja Encourages Independent Sales Channels",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tjzj3h291/umkm-tak-lagi-cukup-andalkan-marketplace-kiriminaja-dorong-kanal-penjualan-mandiri",
-      "published_date": "2026-08-18T22:39:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Finance Ensures Transfer of Teacher PPPK Status Will Not Disturb Fiscal Sustainability",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tjzdo87730000/menkeu-pastikan-alih-status-pppk-guru-tak-ganggu-keberlanjutan-fiskal",
-      "published_date": "2026-08-18T19:48:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ubhara Jaya Lecturers Accompany Sukabumi Volleyball Club to Build Achievements and Club Business",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tjyn8n416/dosen-ubhara-jaya-dampingi-klub-voli-sukabumi-bangun-prestasi-dan-bisnis-klub",
-      "published_date": "2026-08-18T11:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ups and Downs on the Field, Still on the Podium! Nurul Fikri IT High School Shines in Creation 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk9rki368/jatuh-bangun-di-lapangan-tetap-naik-podium-sma-it-nurul-fikri-bersinar-di-kreasi-2026",
+      "published_date": "2026-08-24T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commemorating Maulid, Minister of Religion Invites People to Make Morals the Foundation of Civilization",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk9tn9483/peringati-maulid-menag-ajak-umat-jadikan-akhlak-sebagai-fondasi-peradaban",
+      "published_date": "2026-08-24T11:09:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tk9suv483/pcim-resmi-masuk-ke-dewan-muslim-inggris-sekjen-sejak-kecil-saya-belajar-tentang-muhammadiyah",
+      "published_date": "2026-08-24T10:52:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SMA Negeri 111 Jakarta Wins 1st Place in the 2026 Kreasi Nusa Mandiri Futsal Competition",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk9rbm368/sma-negeri-111-jakarta-sabet-juara-1-kreasi-2026-futsal-competition-nusa-mandiri",
+      "published_date": "2026-08-24T10:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Akhmad Sodiq once took part in anti-corruption outreach in Unsoed before being arrested by the KPK",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk9s57409/akhmad-sodiq-pernah-ikut-sosialisasi-antikorupsi-di-unsoed-sebelum-ditangkap-kpk",
+      "published_date": "2026-08-24T10:36:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "YLKI: Blocking of AMPB Coordinator's Account Violates Customer Rights",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tk9ru4409/ylki-pemblokiran-rekening-koordinator-ampb-pelanggaran-hak-nasabah",
+      "published_date": "2026-08-24T10:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ampera Bridge Covered by Smog in Palembang",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tk9r522131946537/jembatan-ampera-tertutup-kabut-asap-di-palembang",
+      "published_date": "2026-08-24T10:15:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "President Prabowo Leads a Meeting in Hambalang, Discusses Forest and Land Fires and the NTT Disaster",
       "source": "Republika English",
@@ -447,55 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk6vrd9330000/kabut-asap-karhutla-selimuti-kaltara-pelayaran-speedboat-tanjung-selortarakan-masih-normal",
       "published_date": "2026-08-22T21:02:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sumatran Tiger Habitat Forest Cleared, Ministry of Forestry Names Six Suspects",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tk5rjx416/hutan-habitat-harimau-sumatra-dibabat-kemenhut-tetapkan-enam-tersangka",
-      "published_date": "2026-08-22T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A number of players competing in the Soekarno Cup are monitored by League 2 and League 3 clubs",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk63j9348/sejumlah-pemain-yang-berlaga-di-soekarno-cup-dipantau-klub-liga-2-dan-liga-3",
-      "published_date": "2026-08-22T10:52:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "wondrX 2026 Becomes Danantara Housing Expo Pre-Event, BNI Expands Access to Residential Financing",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk638u368/wondrx-2026-jadi-preevent-danantara-housing-expo-bni-perluas-akses-pembiayaan-hunian",
-      "published_date": "2026-08-22T10:46:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moment when President Prabowo directly inspects forest and land fires in Kubu Raya",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tk62yw375/momen-presiden-prabowo-tinjau-langsung-karhutla-di-kubu-raya",
-      "published_date": "2026-08-22T10:40:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Collaboration of UBSI Silat and Dance UKM Celebrates the 81st Indonesian Independence Day Ceremony at ITARU",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk60vw368/kolaborasi-ukm-silat-dan-tari-ubsi-meriahkan-upacara-hut-ri-ke81-di-itaru",
-      "published_date": "2026-08-22T10:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic Spirit and Creativity Behind the Vibrant Alisfest 2026",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tk5gsi320/spirit-islam-dan-kreativitas-di-balik-semarak-alisfest-2026",
-      "published_date": "2026-08-22T10:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Prepares New Regulations on Air Pollution, This is a Big Job",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tk5n4d416/jakarta-siapkan-aturan-baru-soal-polusi-udara-ini-pekerjaan-besarnya",
-      "published_date": "2026-08-22T10:00:00+00:00",
       "category": "Local Events"
     }
   ]
