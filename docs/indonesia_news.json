@@ -99,23 +99,16 @@
       "url": "https://news.republika.co.id/berita/tk2e7k377/polisi-terjunkan-tim-bebaskan-sembilan-remaja-diculik-separatis-papua",
       "published_date": "2026-08-20T10:52:32+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Indonesia-China naval exercise: is Jakarta falling into Beijing’s Taiwan playbook?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesia-china-naval-exercise-is-jakarta-falling-into-beijings-taiwan-playbook/",
-      "published_date": "2026-08-20T00:50:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Warren Buffett's 5 Principles for Building Wealth",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk0xcy451/5-prinsipwarren-buffett-membangun-kekayaan",
-      "published_date": "2026-08-19T22:44:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "KAI Implements B50 to Reduce the Carbon Footprint of Train Travel",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tkerls490/kai-terapkan-b50-untuk-kurangi-jejak-karbon-perjalanan-kereta-api",
+      "published_date": "2026-08-27T03:13:04+00:00",
+      "category": "Energy"
+    },
     {
       "title": "South Kalimantan Provincial Government and GAPKI Distribute 20,000 Masks to Protect Residents from Forest and Forestry Smoke Haze",
       "source": "Republika English",
@@ -136,16 +129,16 @@
       "url": "https://visual.republika.co.id/berita/tk2aqo375/tambang-pasir-ilegal-di-sungai-brantas-kediri-dirazia-petugas",
       "published_date": "2026-08-20T10:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "BMW Passato by Indonesian Modifiers Ready to Appear at the 2026 SEMA Show in Las Vegas",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk1b3h9930000/bmw-passato-karya-modifikator-indonesia-siap-tampil-di-sema-show-2026-las-vegas",
-      "published_date": "2026-08-19T20:47:41+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Market Pays Attention to Demonstrations, JCI Opens Weaker",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkes7l490/pasar-cermati-aksi-demo-ihsg-dibuka-melemah",
+      "published_date": "2026-08-27T03:26:09+00:00",
+      "category": "Economy"
+    },
     {
       "title": "The smoke is back: has Indonesia unlearned the lessons of its recurring fires?",
       "source": "Indonesia at Melbourne",
@@ -264,23 +257,51 @@
       "url": "https://ekonomi.republika.co.id/berita/tk2cao484/bei-ubah-harga-saham-terendah-dari-rp-50-jadi-rp-1-saham-rp-11rp-200-ara-35-persen",
       "published_date": "2026-08-20T10:11:12+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Baznas and BKKBN Encourage Zakat to Become a Family Economic Driver",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tk0wg6416/baznas-dan-bkkbn-dorong-zakat-jadi-penggerak-ekonomi-keluarga",
-      "published_date": "2026-08-19T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Downstreaming Encourages Investment and Strengthening the Indonesian Metal Industry",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk1gi7370/hilirisasi-dorong-investasi-dan-penguatan-industri-logam-indonesia",
-      "published_date": "2026-08-19T22:44:31+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "G-Dragon's Quick Action Saves Cameraman Who Almost Falls from the Stage",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkessu425/aksi-cepat-gdragon-selamatkan-juru-kamera-yang-nyaris-jatuh-dari-panggung",
+      "published_date": "2026-08-27T03:38:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TPS 3R Cereal Land, West Jakarta Processes up to 2 Tons of Waste per Day",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkeqrr375/tps-3r-tanah-sereal-jakbar-olah-hingga-2-ton-sampah-per-hari",
+      "published_date": "2026-08-27T03:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today's Antam Gold Price Has Dropped IDR 27,000 per Gram, Here's the Complete List",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkerv8490/harga-emas-antam-hari-ini-turun-rp27000-per-gram-ini-daftar-lengkapnya",
+      "published_date": "2026-08-27T03:18:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blood sugar rises even though you haven't eaten? This is the reason why skipping breakfast is actually dangerous",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkeqd7425/gula-darah-naik-meski-belum-makan-ini-alasan-mengapa-skip-sarapan-justru-berbahaya",
+      "published_date": "2026-08-27T02:46:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "List of Transjakarta Route Adjustments Due to the August 27 Demo at the DPR",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkephs409/daftar-penyesuaian-rute-transjakarta-imbas-demo-27-agustus-di-dpr",
+      "published_date": "2026-08-27T02:27:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Islamic Youth Organization Forum Conveys Eight Demands to the Government",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkepg8483/forum-organisasi-pemuda-islam-nasional-sampaikan-delapan-tuntutan-untuk-pemerintah",
+      "published_date": "2026-08-27T02:26:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ups and Downs on the Field, Still on the Podium! Nurul Fikri IT High School Shines in Creation 2026",
       "source": "Republika English",
@@ -377,48 +398,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tk7tu5487/bnpb-minta-malaysiasingapura-tak-saling-menyalahkan-soal-asap-karhutla-di-kalimantan",
       "published_date": "2026-08-23T09:18:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6kkj630000/kementerian-pu-perkuat-layanan-air-minum-dan-sanitasi-untuk-2623-pengungsi-gempa-di-reok-ntt",
-      "published_date": "2026-08-22T22:55:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sumatra Provincial Government Encourages Students to Become Drivers of Ethical Digital Transformation",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6zue5830000/pemprov-sumut-dorong-mahasiswa-jadi-penggerak-transformasi-digital-beretika",
-      "published_date": "2026-08-22T22:30:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BMKG Weather Forecast: Jakarta will be sunny and cloudy this afternoon until tonight",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6z5d6530000/prakiraan-cuaca-bmkg-jakarta-cerah-berawan-siang-hingga-malam-ini",
-      "published_date": "2026-08-22T22:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "QRIS Users and Merchants in South Sulawesi Reach 1.5 Million",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6yge6030000/pengguna-dan-merchant-qris-di-sulawesi-selatan-tembus-15-juta",
-      "published_date": "2026-08-22T22:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 5.4 magnitude earthquake shook the waters of Puah Island, Central Sulawesi, early in the morning",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6wdb330000/gempa-magnitudo-54-guncang-perairan-pulau-puah-sulawesi-tengah-dini-hari",
-      "published_date": "2026-08-22T21:15:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forest and Land Fire Haze Covers North Kalimantan, Tanjung Selor-Tarakan Speedboat Sailing Still Normal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6vrd9330000/kabut-asap-karhutla-selimuti-kaltara-pelayaran-speedboat-tanjung-selortarakan-masih-normal",
-      "published_date": "2026-08-22T21:02:01+00:00",
       "category": "Local Events"
     }
   ]
