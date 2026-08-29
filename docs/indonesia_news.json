@@ -27,20 +27,6 @@
       "url": "https://news.republika.co.id/berita/tkiff0348/odekta-elvina-naibaho-juara-merdeka-run-2026-merinding-dapat-sambutan-riuh-peserta",
       "published_date": "2026-08-29T02:40:12+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Manchester United agrees to transfer Carlos Baleba from Brighton worth IDR 1.68 trillion",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk647o348/manchester-united-sepakati-transfer-carlos-baleba-dari-brighton-senilai-rp168-triliun",
-      "published_date": "2026-08-22T11:07:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "10 Years of Maybank Women Eco-Weavers, 2,617 Women Weavers Empowered",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tk61q8349/10-tahun-maybank-women-ecoweavers-2617-perempuan-penenun-diberdayakan",
-      "published_date": "2026-08-22T10:13:20+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -124,6 +110,13 @@
   ],
   "Energy": [
     {
+      "title": "Pertamax Turbo Supports the 2026 MotoPrix National Championship as Official Fuel Partner",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkj8b2522/pertamax-turbo-dukung-kejurnas-motoprix-2026-sebagai-official-fuel-partner",
+      "published_date": "2026-08-29T15:03:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "KAI Implements B50 to Reduce the Carbon Footprint of Train Travel",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tkerls490/kai-terapkan-b50-untuk-kurangi-jejak-karbon-perjalanan-kereta-api",
@@ -139,6 +132,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "MCEBI Opens Market Access for Student Products Through Indonesian Halal Week 2026",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tkj617416/mcebi-buka-akses-pasar-produk-mahasiswa-lewat-pekan-halal-indonesia-2026",
+      "published_date": "2026-08-29T14:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BI Reveals 25 Banks Still Deposit a Lot of Money in Securities",
       "source": "Republika English",
@@ -187,23 +187,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tk9r42370/kepercayaan-nasabah-jadi-kunci-perbankan-ini-dampak-jika-dana-dipindahkan",
       "published_date": "2026-08-24T10:14:26+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Manggarai residential mortgage can be paid in installments in 40 years, interest remains at 6 percent",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk5ra1416/kpr-hunian-manggarai-bisa-dicicil-40-tahun-bunga-tetap-6-persen",
-      "published_date": "2026-08-22T10:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Forest and Land Fires Expand, Legislators Ask the Ministry of Finance to Disburse Emergency Budget of IDR 290 Billion",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tk5a3w416/karhutla-meluas-legislator-minta-kemenkeu-cairkan-anggaran-darurat-rp290-miliar",
-      "published_date": "2026-08-22T10:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Results of Musda XI, Farah Savira Leads DPD Golkar South Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkjela484/hasil-musda-xi-farah-savira-pimpin-dpd-golkar-jaksel",
+      "published_date": "2026-08-29T15:19:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Support BSI's Three Million Houses Program to Expand Distribution to Regions",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tkjdo1606713070/dukung-program-tiga-juta-rumah-bsi-perluas-penyaluran-ke-daerah",
+      "published_date": "2026-08-29T15:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exploring the World of Digital Literacy in the Jakarta Library's Immersive Studio",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkjdgf375/menjelajah-dunia-literasi-digital-di-immersive-studio-perpustakaan-jakarta",
+      "published_date": "2026-08-29T14:55:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkj7l1423/4-ton-kopi-arabika-tangkuban-parahu-diekspor-ke-arab-saudi-nilainya-rp-800-juta",
+      "published_date": "2026-08-29T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: changing human-tiger relations in Sumatra",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-changing-human-tiger-relations-in-sumatra/",
+      "published_date": "2026-08-29T06:12:46+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "OJK: Don't wait to have lots of money to start saving",
       "source": "Republika English",
@@ -307,41 +328,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tkessu425/aksi-cepat-gdragon-selamatkan-juru-kamera-yang-nyaris-jatuh-dari-panggung",
       "published_date": "2026-08-27T03:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TPS 3R Cereal Land, West Jakarta Processes up to 2 Tons of Waste per Day",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tkeqrr375/tps-3r-tanah-sereal-jakbar-olah-hingga-2-ton-sampah-per-hari",
-      "published_date": "2026-08-27T03:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today's Antam Gold Price Has Dropped IDR 27,000 per Gram, Here's the Complete List",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkerv8490/harga-emas-antam-hari-ini-turun-rp27000-per-gram-ini-daftar-lengkapnya",
-      "published_date": "2026-08-27T03:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blood sugar rises even though you haven't eaten? This is the reason why skipping breakfast is actually dangerous",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tkeqd7425/gula-darah-naik-meski-belum-makan-ini-alasan-mengapa-skip-sarapan-justru-berbahaya",
-      "published_date": "2026-08-27T02:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "List of Transjakarta Route Adjustments Due to the August 27 Demo at the DPR",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkephs409/daftar-penyesuaian-rute-transjakarta-imbas-demo-27-agustus-di-dpr",
-      "published_date": "2026-08-27T02:27:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Islamic Youth Organization Forum Conveys Eight Demands to the Government",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkepg8483/forum-organisasi-pemuda-islam-nasional-sampaikan-delapan-tuntutan-untuk-pemerintah",
-      "published_date": "2026-08-27T02:26:32+00:00",
       "category": "Local Events"
     }
   ]
