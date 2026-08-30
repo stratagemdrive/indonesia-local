@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesian Embassy in Seoul Encourages 50 Thousand Muslim Diaspora to Become Sharia Economic Drivers",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tkk4gw451/kbri-seoul-dorong-50-ribu-diaspora-muslim-jadi-penggerak-ekonomi-syariah",
+      "published_date": "2026-08-30T00:38:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Thousands of Drones and Three F-16 Jets Liven Up the Sky of Merdeka Run 2026",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tkii2e328/ribuan-drone-dan-tiga-jet-f16-semarakkan-langit-merdeka-run-2026",
@@ -30,6 +37,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Menpora Erick Thohir Ignites Athletes' Spirit Ahead of the 2026 Asian Games on Team Indonesia Day",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkk1x6348/menpora-erick-thohir-kobarkan-semangat-atlet-jelang-asian-games-2026-di-tim-indonesia-day",
+      "published_date": "2026-08-29T23:43:54+00:00",
+      "category": "Military"
+    },
     {
       "title": "Japanese Ministry of Defense Sends Three Chinook Helicopters to Help Overcome Forest and Land Fires in Kalimantan",
       "source": "Republika English",
@@ -99,13 +113,6 @@
       "url": "https://khazanah.republika.co.id/berita/tk7st5370/bpkh-skema-akun-individual-solusi-eliminasi-data-antrean-jamaah-haji-invalid",
       "published_date": "2026-08-23T08:55:53+00:00",
       "category": "Military"
-    },
-    {
-      "title": "China and the Changing Map of World Oil Power",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tk712c393/china-dan-berubahnya-peta-kekuatan-minyak-dunia",
-      "published_date": "2026-08-22T22:56:36+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -121,13 +128,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tkerls490/kai-terapkan-b50-untuk-kurangi-jejak-karbon-perjalanan-kereta-api",
       "published_date": "2026-08-27T03:13:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "South Kalimantan Provincial Government and GAPKI Distribute 20,000 Masks to Protect Residents from Forest and Forestry Smoke Haze",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk6x5y3030000/pemprov-kalsel-dan-gapki-bagikan-20000-masker-untuk-lindungi-warga-dari-kabut-asap-karhutla",
-      "published_date": "2026-08-22T21:32:22+00:00",
       "category": "Energy"
     }
   ],
@@ -190,6 +190,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Victory in the Aragon Sprint Race Keeps Marc Marquez's Chance to Defend the MotoGP Title",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkk2tm348/kemenangan-di-balapan-sprint-aragon-jaga-peluang-marc-marquez-pertahankan-gelar-motogp",
+      "published_date": "2026-08-30T00:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kudus Regional Levy Reaches IDR 215.34 Billion, 2026 Target Believed to Be Achieved",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tkjxgh451/retribusi-daerah-kudus-tembus-rp21534-miliar-target-2026-diyakini-tercapai",
+      "published_date": "2026-08-30T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkk25c368/kuatkan-ekosistem-pemberdayaan-dompet-dhuafa-gelar-kongres-kemandirian-2026",
+      "published_date": "2026-08-29T23:48:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juventus Continues Perfect Start in Serie A After Beating Parma",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkk10d348/juventus-lanjutkan-start-sempurna-di-serie-a-setelah-tundukkan-parma",
+      "published_date": "2026-08-29T23:24:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newcastle's Two Goals Put Tottenham at Home",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkk0nl348/dua-gol-newcastle-benamkan-tottenham-di-kandang-sendiri",
+      "published_date": "2026-08-29T23:16:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Droughts are getting drier, industrial water management needs to be data-based",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tkjdp1416/kemarau-makin-kering-pengelolaan-air-industri-perlu-berbasis-data",
+      "published_date": "2026-08-29T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump's Support Slumps, MAGA Cracks Begin to Show in the Heart of Republican Voters",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkjx5y451/dukungan-trump-merosot-retakan-maga-mulai-terlihat-di-jantung-pemilih-republik",
+      "published_date": "2026-08-29T22:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "583 Hectares of Peat Burned in Riau Corporate Concession",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tkjyls393/583-hektare-gambut-terbakar-di-konsesi-korporasi-riau",
+      "published_date": "2026-08-29T22:32:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Health Reveals Decreased Air Quality Due to Forest and Land Fires",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkjy9s393/kemenkes-ungkap-turunnya-kualitas-udara-akibat-karhutla",
+      "published_date": "2026-08-29T22:25:04+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Results of Musda XI, Farah Savira Leads DPD Golkar South Jakarta",
       "source": "Republika English",
@@ -265,69 +328,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tkgdhc522/pertamax-turbo-drag-fest-2026-kembali-digelar-drag-race-resmi-masuk-kejurnas",
       "published_date": "2026-08-28T05:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polda Metro Jaya Ensures Activities of Jakarta Residents Today Run Normally",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkgqpo409/polda-metro-jaya-pastikan-aktivitas-warga-jakarta-hari-ini-berjalan-normal",
-      "published_date": "2026-08-28T04:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commission X Monitors Status Certainty of 172 Thousand Non-ASN Teachers",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkgnpw416/komisi-x-kawal-kepastian-status-172-ribu-guru-nonasn",
-      "published_date": "2026-08-28T04:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BPKH Distributes Aid to Seven Disaster Affected Districts in NTT",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkgowj416/bpkh-salurkan-bantuan-ke-tujuh-kabupaten-terdampak-bencana-di-ntt",
-      "published_date": "2026-08-28T04:12:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ponorogo Encourages MSME Competitiveness Through Culinary Village Halal Certification",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkg3oq2930000/ponorogo-dorong-daya-saing-umkm-lewat-sertifikasi-halal-kampung-kuliner",
-      "published_date": "2026-08-27T20:31:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Sumatra Provincial Government Holds Simultaneous Cheap Food Movement Starting August 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkg1k95430000/pemprov-sumut-gelar-gerakan-pangan-murah-serentak-mulai-agustus-2026",
-      "published_date": "2026-08-27T19:45:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bogor Regency Government Launches Inspirational Cooperative Program as Mentors for Other Cooperatives",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkg05g330000/pemkab-bogor-luncurkan-program-koperasi-inspiratif-sebagai-mentor-bagi-koperasi-lain",
-      "published_date": "2026-08-27T19:15:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Having Received Compensation But Still Reluctant To Sell, Trader On Subang-Bandung Route Controlled By Satpol PP",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tkfvt3282/sudah-terima-kompensasi-tapi-masih-nekat-jualan-pedagang-jalur-subangbandung-ditertibkan-satpol-pp",
-      "published_date": "2026-08-27T19:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bekasi Regency Government Emphasizes Objectivity in Special Selection of Village Head Candidates in the 2026 Village Head Election",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkfzgj9630000/pemkab-bekasi-tekankan-objektivitas-seleksi-khusus-calon-kades-di-pilkades-2026",
-      "published_date": "2026-08-27T19:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "G-Dragon's Quick Action Saves Cameraman Who Almost Falls from the Stage",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tkessu425/aksi-cepat-gdragon-selamatkan-juru-kamera-yang-nyaris-jatuh-dari-panggung",
-      "published_date": "2026-08-27T03:38:54+00:00",
       "category": "Local Events"
     }
   ]
