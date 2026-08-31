@@ -78,20 +78,6 @@
       "url": "https://news.republika.co.id/berita/tkgqhx409/pos-lantas-slipi-dirusak-massa-polisi-jamin-arus-lalu-lintas-sudah-kembali-kondusif",
       "published_date": "2026-08-28T04:44:21+00:00",
       "category": "Military"
-    },
-    {
-      "title": "DPR: Hijab at Defense University Must No Longer Become a Polemic",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tk9rcc451/dpr-hijab-di-unhan-tak-boleh-lagi-jadi-polemik",
-      "published_date": "2026-08-24T11:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TNI Satsiber Opens Soldier Recruitment, Education Only One Month",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tk9sjc484/satsiber-tni-buka-rekrutmen-prajurit-pendidikan-hanya-sebulan",
-      "published_date": "2026-08-24T10:45:12+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -111,6 +97,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "MK Proposes Additional Budget of IDR 67 Billion for 2027, Total to IDR 427.8 Billion",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkn99e7930000/mk-ajukan-tambahan-anggaran-rp67-miliar-untuk-tahun-2027-total-jadi-rp4278-miliar",
+      "published_date": "2026-08-31T17:15:14+00:00",
+      "category": "Economy"
+    },
     {
       "title": "MCEBI Opens Market Access for Student Products Through Indonesian Halal Week 2026",
       "source": "Republika English",
@@ -145,30 +138,65 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/the-smoke-is-back-has-indonesia-unlearned-the-lessons-of-its-recurring-fires/",
       "published_date": "2026-08-25T00:35:11+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Stories of elderly people earning rupiah from selling flags on Merdeka Day",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tk9rl6282/cerita-lansia-mengais-rupiah-dari-menjual-bendera-di-hari-merdeka",
-      "published_date": "2026-08-24T10:24:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hayden Panettiere's death opens Hollywood's 'ulcers' regarding the exploitation of child artists",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tk9rd3425/kematian-hayden-panettiere-buka-borok-hollywood-soal-eksploitasi-artis-cilik",
-      "published_date": "2026-08-24T10:19:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Customer Trust is the Key to Banking, This is the Impact If Funds Are Transferred",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tk9r42370/kepercayaan-nasabah-jadi-kunci-perbankan-ini-dampak-jika-dana-dipindahkan",
-      "published_date": "2026-08-24T10:14:26+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Citizens' Enthusiasm in Accessing Information about Fiduciary and Citizenship",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tkn885320/antusiasme-warga-mengakses-informasi-tentang-fidusia-hingga-kewarganegaraan",
+      "published_date": "2026-08-31T16:52:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mount Sinabung Erupts, Ash Column Reaches 3,500 Meters Height",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkmz03375/gunung-sinabung-erupsi-tinggi-kolom-abu-capai-3500-meter",
+      "published_date": "2026-08-31T16:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z's lifestyle is in the spotlight of general practitioners",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tkn7v2323472288/gaya-hidup-gen-z-jadi-sorotan-dokter-umum",
+      "published_date": "2026-08-31T16:45:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Discussion Notes for Nobel Laureate Kailash Satyarthi: When People are Powerless in the Middle of Democracy",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkn717320/catatan-diskusi-peraih-nobel-kailash-satyarthi-kala-rakyat-tak-berdaya-di-tengah-gempita-demokrasi",
+      "published_date": "2026-08-31T16:27:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is it true that US-Israel relations are undergoing fundamental changes that were not friendly before? This is what the analyst said",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkn6jd320/benarkah-hubungan-as-israel-mengalimi-perubahan-mendasar-tak-semesra-dulu-ini-kata-analis",
+      "published_date": "2026-08-31T16:16:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GIIAS Surabaya 2026 Records Record, Visitors Reach 45,763 People",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkn6is348/giias-surabaya-2026-catat-rekor-pengunjung-tembus-45763-orang",
+      "published_date": "2026-08-31T16:16:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen Z's lifestyle is in the spotlight of general practitioners",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tkn6h1234490887/gaya-hidup-gen-z-jadi-sorotan-dokter-umum",
+      "published_date": "2026-08-31T16:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "These Facts Reveal How Rasulullah SAW More Often Shares Good News",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkn5vl320/sejumlah-fakta-ini-ungkap-betapa-rasulullah-saw-lebih-sering-berbagi-berita-gembira",
+      "published_date": "2026-08-31T16:02:09+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "This is the profile of KH Abdul Hakim who was elected as General Chair of PBNU",
       "source": "Republika English",
@@ -251,62 +279,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tkk10d348/juventus-lanjutkan-start-sempurna-di-serie-a-setelah-tundukkan-parma",
       "published_date": "2026-08-29T23:24:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newcastle's Two Goals Put Tottenham at Home",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkk0nl348/dua-gol-newcastle-benamkan-tottenham-di-kandang-sendiri",
-      "published_date": "2026-08-29T23:16:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Droughts are getting drier, industrial water management needs to be data-based",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tkjdp1416/kemarau-makin-kering-pengelolaan-air-industri-perlu-berbasis-data",
-      "published_date": "2026-08-29T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump's Support Slumps, MAGA Cracks Begin to Show in the Heart of Republican Voters",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkjx5y451/dukungan-trump-merosot-retakan-maga-mulai-terlihat-di-jantung-pemilih-republik",
-      "published_date": "2026-08-29T22:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "583 Hectares of Peat Burned in Riau Corporate Concession",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tkjyls393/583-hektare-gambut-terbakar-di-konsesi-korporasi-riau",
-      "published_date": "2026-08-29T22:32:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Health Reveals Decreased Air Quality Due to Forest and Land Fires",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkjy9s393/kemenkes-ungkap-turunnya-kualitas-udara-akibat-karhutla",
-      "published_date": "2026-08-29T22:25:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Results of Musda XI, Farah Savira Leads DPD Golkar South Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkjela484/hasil-musda-xi-farah-savira-pimpin-dpd-golkar-jaksel",
-      "published_date": "2026-08-29T15:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Support BSI's Three Million Houses Program to Expand Distribution to Regions",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tkjdo1606713070/dukung-program-tiga-juta-rumah-bsi-perluas-penyaluran-ke-daerah",
-      "published_date": "2026-08-29T15:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exploring the World of Digital Literacy in the Jakarta Library's Immersive Studio",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tkjdgf375/menjelajah-dunia-literasi-digital-di-immersive-studio-perpustakaan-jakarta",
-      "published_date": "2026-08-29T14:55:27+00:00",
       "category": "Local Events"
     }
   ]
