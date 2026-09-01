@@ -38,6 +38,13 @@
   ],
   "Military": [
     {
+      "title": "Coerced, co-opted: are local media complicit in the rise of TNI in Indonesian villages?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/coerced-co-opted-are-local-media-complicit-in-the-rise-of-tni-in-indonesian-villages/",
+      "published_date": "2026-09-01T02:57:45+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tknvsv377/kasus-kematian-presenter-tvri-naik-penyidikan-bukan-sekadar-terseret-sungai-diduga-ada-pidana",
@@ -89,6 +96,20 @@
   ],
   "Energy": [
     {
+      "title": "Ahead of National Customer Day, Pertamina Lubricants Reminds the Importance of Changing Oil on Time",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkowns348/jelang-hari-pelanggan-nasional-pertamina-lubricants-ingatkan-pentingnya-ganti-oli-tepat-waktu",
+      "published_date": "2026-09-01T14:38:16+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "More than 4,000 Business Actors Registered for Pertamina UMK Academy 2026",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tko35r522/lebih-dari-4000-pelaku-usaha-mendaftar-pertamina-umk-academy-2026",
+      "published_date": "2026-09-01T13:59:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "This is Pertamina's consideration for adjusting the Pertamax Turbo price",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tknvwr370/ini-pertimbangan-pertamina-lakukan-penyesuaian-harga-pertamax-turbo",
@@ -111,6 +132,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "The League Must Be Clean Erick Thohir Emphasizes Referee Accuracy",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tkovl21244936336/liga-harus-bersih-erick-thohir-tekankan-soal-akurasi-wasit",
+      "published_date": "2026-09-01T14:15:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Russia is Seriously Working on Halal Tourism to Attract Muslim Travelers",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tkou9a502/rusia-serius-garap-wisata-halal-demi-gaet-traveler-muslim",
+      "published_date": "2026-09-01T13:46:22+00:00",
+      "category": "Economy"
+    },
     {
       "title": "MK Proposes Additional Budget of IDR 67 Billion for 2027, Total to IDR 427.8 Billion",
       "source": "Republika English",
@@ -148,6 +183,76 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "220 Electric Rickshaws Produced by Pindad Distributed to Elderly Rickshaw Drivers",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkoq9h375/220-becak-listrik-produksi-pindad-dibagikan-kepada-pengemudi-becak-lansia",
+      "published_date": "2026-09-01T15:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deloitte Indonesia Runify 2026 Raises IDR 170 Million for Sustainable Education",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkopet483/deloitte-indonesia-runify-2026-galang-dana-rp170-juta-untuk-pendidikan-berkelanjutan",
+      "published_date": "2026-09-01T14:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ustadz Fatih Karim Discusses the True Purpose of a Leader at the 2026 Spiritual Leadership Forum",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkowp1430/ustadz-fatih-karim-kupas-tujuan-sejati-seorang-pemimpin-di-spiritual-leadership-forum-2026",
+      "published_date": "2026-09-01T14:39:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forest and Land Fires Expand, Need for Rice Assistance in Kalimantan Mapped",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkowkp430/karhutla-meluas-kebutuhan-bantuan-beras-di-kalimantan-dipetakan",
+      "published_date": "2026-09-01T14:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI Becomes Novo Nordisk's Mainstay to Accelerate Drug Development",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkoogh370/ai-jadi-andalan-novo-nordisk-untuk-percepat-pengembangan-obat",
+      "published_date": "2026-09-01T14:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Looking for God from the Golden Bed and Palace? The question that turned the King into a Sufi",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkovun430/mencari-allah-dari-ranjang-emas-dan-istana-pertanyaan-yang-mengubah-raja-menjadi-sufi",
+      "published_date": "2026-09-01T14:20:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Years of Waiting for Repairs, Elementary School Students in Bangkalan Learn to Share Rooms",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkopx7375/bertahuntahun-menanti-perbaikan-murid-sd-di-bangkalan-belajar-berbagi-ruangan",
+      "published_date": "2026-09-01T14:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Getting Treatment at Home or Abroad, What Should You Consider?",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkon3k416/berobat-di-dalam-atau-luar-negeri-apa-yang-harus-dipertimbangkan",
+      "published_date": "2026-09-01T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Domination does not result in goals, Nova Arianto evaluates the U-20 national team's finishing against Malaysia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkouex348/dominasi-tak-berbuah-gol-nova-arianto-evaluasi-finishing-timnas-u20-saat-lawan-malaysia",
+      "published_date": "2026-09-01T13:49:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkou33348/leodaniel-singkirkan-ganda-putra-nomor-satu-korea-di-china-masters-2026",
+      "published_date": "2026-09-01T13:42:39+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
@@ -216,76 +321,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tkn6is348/giias-surabaya-2026-catat-rekor-pengunjung-tembus-45763-orang",
       "published_date": "2026-08-31T16:16:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gen Z's lifestyle is in the spotlight of general practitioners",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tkn6h1234490887/gaya-hidup-gen-z-jadi-sorotan-dokter-umum",
-      "published_date": "2026-08-31T16:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "These Facts Reveal How Rasulullah SAW More Often Shares Good News",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkn5vl320/sejumlah-fakta-ini-ungkap-betapa-rasulullah-saw-lebih-sering-berbagi-berita-gembira",
-      "published_date": "2026-08-31T16:02:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is the profile of KH Abdul Hakim who was elected as General Chair of PBNU",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tklzjy393/ini-profil-kh-abdul-hakim-yang-terpilih-jadi-ketua-umum-pbnu",
-      "published_date": "2026-08-31T00:47:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Xinjiang, the Heavenly Lake Keeps Silence",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tklzdx451/di-xinjiang-danau-surgawi-menjaga-sunyi",
-      "published_date": "2026-08-31T00:44:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Religious Tourism to the Community's Economic Ecosystem, Proposed Wali Songo Economic Corridor",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tklyxa475/dari-wisata-religi-ke-ekosistem-ekonomi-umat-usulan-koridor-ekonomi-wali-songo",
-      "published_date": "2026-08-31T00:34:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JLL Findings, Office Rearrangement Costs in Jakarta are Cheaper",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tklyvb484/temuan-jll-biaya-penataan-ulang-kantor-di-jakarta-lebih-murah",
-      "published_date": "2026-08-31T00:33:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Badminton Building in Bumiayu Brebes Collapses, Three Residents Die, Here's the Chronology",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tklyko377/gedung-badminton-di-bumiayu-brebes-ambruk-tiga-warga-tewas-begini-kronologinya",
-      "published_date": "2026-08-31T00:26:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Badminton Building in Bumiayu Brebes Collapsed, Three People Died in the Fallen Fall",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tklfny375/gedung-badminton-di-bumiayu-brebes-roboh-tiga-orang-tewas-tertimpa-reruntuhan",
-      "published_date": "2026-08-31T00:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Wins Three Titles at the 2026 Polytron Pontianak International Challenge",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tklw32348/indonesia-borong-tiga-gelar-di-polytron-pontianak-international-challenge-2026",
-      "published_date": "2026-08-30T23:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karhutla to Papua, 2,496 Hectares of Land Burned",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tklvrz393/karhutla-sampai-papua-2496-hektare-lahan-terbakar",
-      "published_date": "2026-08-30T23:26:23+00:00",
       "category": "Local Events"
     }
   ]
