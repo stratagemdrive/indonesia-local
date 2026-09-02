@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Manchester City Officially Signs Enzo Fernandez from Chelsea",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpkt6348/manchester-city-resmi-datangkan-enzo-fernandez-dari-chelsea",
+      "published_date": "2026-09-01T23:19:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesian Embassy in Seoul Encourages 50 Thousand Muslim Diaspora to Become Sharia Economic Drivers",
       "source": "Republika English",
       "url": "https://sharia.republika.co.id/berita/tkk4gw451/kbri-seoul-dorong-50-ribu-diaspora-muslim-jadi-penggerak-ekonomi-syariah",
@@ -37,6 +44,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "1 out of 8 Indonesian citizens who became Russian soldiers turned out to be Depok residents",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpmnu484/1-dari-8-wni-yang-jadi-tentara-rusia-ternyata-warga-depok",
+      "published_date": "2026-09-01T23:59:54+00:00",
+      "category": "Military"
+    },
     {
       "title": "Coerced, co-opted: are local media complicit in the rise of TNI in Indonesian villages?",
       "source": "Indonesia at Melbourne",
@@ -133,6 +147,20 @@
   ],
   "Economy": [
     {
+      "title": "Borussia Dortmund Officially Loans Ethan Nwaneri for One Season from Arsenal",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpmgg348/borussia-dortmund-resmi-pinjam-ethan-nwaneri-selama-semusim-dari-arsenal",
+      "published_date": "2026-09-02T00:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Contributing to the Economy, Chairman of PSSI Increases the Value of the Quality of the Indonesian Football League",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkplkt348/beri-kontribusi-pada-perekonomian-ketum-pssi-nilai-kualitas-liga-sepak-bola-indonesia-meningkat",
+      "published_date": "2026-09-01T23:49:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The League Must Be Clean Erick Thohir Emphasizes Referee Accuracy",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tkovl21244936336/liga-harus-bersih-erick-thohir-tekankan-soal-akurasi-wasit",
@@ -183,6 +211,62 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Netizens Also Love the Version! “Kasih Aba-Aba 2.0” Shopee 9.9 a la Naykila x Tenxi Viral",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkouur430/netizen-ikut-kasih-versi-kasih-abaaba-20-shopee-99-ala-naykila-x-tenxi-viral",
+      "published_date": "2026-09-02T00:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not wanting to miss the opportunity, Iliman Ndiaye officially joins Manchester City",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpm5g348/tak-mau-lewatkan-kesempatan-iliman-ndiaye-resmi-gabung-manchester-city",
+      "published_date": "2026-09-02T00:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penetrating the Forest for Water, Boyolali Residents Struggle to Face the Drought",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkp38p375/menembus-hutan-demi-air-perjuangan-warga-boyolali-hadapi-kemarau",
+      "published_date": "2026-09-02T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antonio Rudiger Announces Retirement from the German National Team After Competing in the 2026 World Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpl06348/antonio-rudiger-umumkan-pensiun-dari-timnas-jerman-usai-berlaga-di-piala-dunia-2026",
+      "published_date": "2026-09-01T23:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Tug of War between Cultural Heritage and Geothermal Projects on Mount Ungaran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpkzo393/tarik-ulur-warisan-budaya-dan-proyek-geotermal-di-gunung-ungaran",
+      "published_date": "2026-09-01T23:23:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Having the same Sanad as NU, Al Washliyah is Ready to Collaborate with the New Chairman of PBNU",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkovzu483/punya-sanad-yang-sama-dengan-nu-al-washliyah-siap-berkolaborasi-dengan-ketum-pbnu-yang-baru",
+      "published_date": "2026-09-01T23:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juventus Borrows Nick Woltemade, Newcastle's Expensive Recruit Who Failed to Shine in the Premier League",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkpkda348/juventus-pinjam-nick-woltemade-rekrutan-mahal-newcastle-yang-gagal-bersinar-di-liga-inggris",
+      "published_date": "2026-09-01T23:10:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orphans don't just need compensation, this is what needs to be strengthened",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkp05d416/anak-yatim-tak-hanya-butuh-santunan-ini-yang-perlu-diperkuat",
+      "published_date": "2026-09-01T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "220 Electric Rickshaws Produced by Pindad Distributed to Elderly Rickshaw Drivers",
       "source": "Republika English",
@@ -265,62 +349,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tknqkt348/barcelona-pesta-gol-ke-gawang-rayo-raphinha-dan-yamal-bersinar",
       "published_date": "2026-08-31T23:29:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tknqgf393/klh-segel-19-badan-usaha-terkait-karhutla",
-      "published_date": "2026-08-31T23:26:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tknpzc348/bukayo-saka-jadi-penentu-saat-arsenal-bungkam-aston-villa-10",
-      "published_date": "2026-08-31T23:16:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Citizens' Enthusiasm in Accessing Information about Fiduciary and Citizenship",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tkn885320/antusiasme-warga-mengakses-informasi-tentang-fidusia-hingga-kewarganegaraan",
-      "published_date": "2026-08-31T16:52:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mount Sinabung Erupts, Ash Column Reaches 3,500 Meters Height",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tkmz03375/gunung-sinabung-erupsi-tinggi-kolom-abu-capai-3500-meter",
-      "published_date": "2026-08-31T16:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gen Z's lifestyle is in the spotlight of general practitioners",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tkn7v2323472288/gaya-hidup-gen-z-jadi-sorotan-dokter-umum",
-      "published_date": "2026-08-31T16:45:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Discussion Notes for Nobel Laureate Kailash Satyarthi: When People are Powerless in the Middle of Democracy",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkn717320/catatan-diskusi-peraih-nobel-kailash-satyarthi-kala-rakyat-tak-berdaya-di-tengah-gempita-demokrasi",
-      "published_date": "2026-08-31T16:27:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is it true that US-Israel relations are undergoing fundamental changes that were not friendly before? This is what the analyst said",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkn6jd320/benarkah-hubungan-as-israel-mengalimi-perubahan-mendasar-tak-semesra-dulu-ini-kata-analis",
-      "published_date": "2026-08-31T16:16:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GIIAS Surabaya 2026 Records Record, Visitors Reach 45,763 People",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkn6is348/giias-surabaya-2026-catat-rekor-pengunjung-tembus-45763-orang",
-      "published_date": "2026-08-31T16:16:04+00:00",
       "category": "Local Events"
     }
   ]
