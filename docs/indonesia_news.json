@@ -147,6 +147,13 @@
   ],
   "Economy": [
     {
+      "title": "US-China Heats Up in Orbit, Hunter Satellites Begin to Spy on Each Other",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkri8v451/aschina-memanas-di-orbit-satelit-pemburu-mulai-saling-mengintai",
+      "published_date": "2026-09-03T00:19:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The West Java Textile and Apparel Industry is still considered to have potential",
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tkqoar416/industri-tekstil-dan-apparel-jabar-dinilai-masih-potensial",
@@ -218,6 +225,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Diligent Food Logging Is Associated with Greater Weight Loss",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkrh0r328/rajin-catat-makanan-dikaitkan-dengan-penurunan-berat-badan-lebih-besar",
+      "published_date": "2026-09-03T00:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkrgr0328/kematian-tim-curry-terungkap-akibat-jantung-koroner",
+      "published_date": "2026-09-02T23:47:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "76 Residents of Kehli Village, Southwest Maluku Receive Free Health Services from Kodaeral IX",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkrdvi9130000/76-warga-desa-kehli-maluku-barat-daya-terima-layanan-kesehatan-gratis-dari-kodaeral-ix",
+      "published_date": "2026-09-02T22:45:18+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Forest and Land Fires Worsen Air Quality, Dompet Dhuafa Intensively Distributes Masks",
       "source": "Republika English",
@@ -335,27 +363,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tkoogh370/ai-jadi-andalan-novo-nordisk-untuk-percepat-pengembangan-obat",
       "published_date": "2026-09-01T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Looking for God from the Golden Bed and Palace? The question that turned the King into a Sufi",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkovun430/mencari-allah-dari-ranjang-emas-dan-istana-pertanyaan-yang-mengubah-raja-menjadi-sufi",
-      "published_date": "2026-09-01T14:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Years of Waiting for Repairs, Elementary School Students in Bangkalan Learn to Share Rooms",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tkopx7375/bertahuntahun-menanti-perbaikan-murid-sd-di-bangkalan-belajar-berbagi-ruangan",
-      "published_date": "2026-09-01T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Getting Treatment at Home or Abroad, What Should You Consider?",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tkon3k416/berobat-di-dalam-atau-luar-negeri-apa-yang-harus-dipertimbangkan",
-      "published_date": "2026-09-01T14:00:00+00:00",
       "category": "Local Events"
     }
   ]
