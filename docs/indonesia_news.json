@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia Coordinates with ASEAN to Handle Forest and Forestry Haze",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tkw1id423/indonesia-koordinasi-dengan-asean-tangani-kabut-asap-karhutla",
+      "published_date": "2026-09-05T11:06:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Manchester City Officially Signs Enzo Fernandez from Chelsea",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tkpkt6348/manchester-city-resmi-datangkan-enzo-fernandez-dari-chelsea",
@@ -13,37 +20,16 @@
       "url": "https://sharia.republika.co.id/berita/tkk4gw451/kbri-seoul-dorong-50-ribu-diaspora-muslim-jadi-penggerak-ekonomi-syariah",
       "published_date": "2026-08-30T00:38:56+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands of Drones and Three F-16 Jets Liven Up the Sky of Merdeka Run 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkii2e328/ribuan-drone-dan-tiga-jet-f16-semarakkan-langit-merdeka-run-2026",
-      "published_date": "2026-08-29T03:44:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "J Trust Bank Rebranding, Prepares New Strategy in Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkihmb416/j-trust-bank-rebranding-siapkan-strategi-baru-di-indonesia",
-      "published_date": "2026-08-29T03:27:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesian National Team Coach John Herdman Becomes a Magnet in the Merdeka Run",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkih9f348/pelatih-timnas-indonesia-john-herdman-jadi-magnet-di-merdeka-run",
-      "published_date": "2026-08-29T03:20:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Odekta Elvina Naibaho Wins Merdeka Run 2026, Goosebumps Receives Roaring Welcome from Participants",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkiff0348/odekta-elvina-naibaho-juara-merdeka-run-2026-merinding-dapat-sambutan-riuh-peserta",
-      "published_date": "2026-08-29T02:40:12+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Government Relies on Weather Modification and Land Troops to Handle Forest and Land Fires in West Kalimantan",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tkw33p423/pemerintah-andalkan-modifikasi-cuaca-dan-pasukan-darat-tangani-karhutla-di-kalbar",
+      "published_date": "2026-09-05T11:55:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "1 out of 8 Indonesian citizens who became Russian soldiers turned out to be Depok residents",
       "source": "Republika English",
@@ -84,13 +70,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tkk1x6348/menpora-erick-thohir-kobarkan-semangat-atlet-jelang-asian-games-2026-di-tim-indonesia-day",
       "published_date": "2026-08-29T23:43:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japanese Ministry of Defense Sends Three Chinook Helicopters to Help Overcome Forest and Land Fires in Kalimantan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkif92484/kemenhan-jepang-kirim-tiga-helikopter-chinook-bantu-atasi-karhutla-di-kalimantan",
-      "published_date": "2026-08-29T02:36:38+00:00",
       "category": "Military"
     }
   ],
@@ -243,16 +222,44 @@
       "url": "https://sharia.republika.co.id/berita/tkj617416/mcebi-buka-akses-pasar-produk-mahasiswa-lewat-pekan-halal-indonesia-2026",
       "published_date": "2026-08-29T14:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BI Reveals 25 Banks Still Deposit a Lot of Money in Securities",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkiitw416/bi-ungkap-25-bank-masih-endapkan-banyak-uang-di-surat-berharga",
-      "published_date": "2026-08-29T03:53:56+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Mount Anak Krakatau erupts, Ministry of Transportation Ensures Airport Operations Run Normally",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkw81k423/erupsi-gunung-anak-krakatau-kemenhub-pastikan-operasional-bandara-berjalan-normal",
+      "published_date": "2026-09-05T13:27:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian film Thirteen In Gaza will premiere at the Toronto Film Festival",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkw5qy425/film-palestina-thirteen-in-gaza-akan-tayang-perdana-di-festival-film-toronto",
+      "published_date": "2026-09-05T12:37:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tkw3ti328/drama-descendants-of-the-sun-diadaptasi-jadi-film-di-indonesia",
+      "published_date": "2026-09-05T11:56:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkw30w416/pb-ika-pmii-dan-laz-gerakin-serukan-shalat-istisqa-di-tengah-rentetan-bencana",
+      "published_date": "2026-09-05T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkw2yb375/kemarau-debit-waduk-benanga-lempake-terus-menyusut",
+      "published_date": "2026-09-05T11:37:23+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pink Floyd Founder Roger Waters Becomes Producer of Palestine Documentary Film Freedom Theatre",
       "source": "Republika English",
@@ -356,41 +363,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tksgf3320/menembus-pelosok-132-dai-lanjutkan-perjuangan-dakwah-pedalaman-berkat-dukungan-zis",
       "published_date": "2026-09-03T12:37:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fiscal recentralization weakens local government capacity",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/fiscal-recentralization-weakens-local-government-capacity/",
-      "published_date": "2026-09-03T01:33:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diligent Food Logging Is Associated with Greater Weight Loss",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tkrh0r328/rajin-catat-makanan-dikaitkan-dengan-penurunan-berat-badan-lebih-besar",
-      "published_date": "2026-09-03T00:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tkrgr0328/kematian-tim-curry-terungkap-akibat-jantung-koroner",
-      "published_date": "2026-09-02T23:47:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "76 Residents of Kehli Village, Southwest Maluku Receive Free Health Services from Kodaeral IX",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkrdvi9130000/76-warga-desa-kehli-maluku-barat-daya-terima-layanan-kesehatan-gratis-dari-kodaeral-ix",
-      "published_date": "2026-09-02T22:45:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forest and Land Fires Worsen Air Quality, Dompet Dhuafa Intensively Distributes Masks",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkqrfc430/karhutla-memperburuk-kualitas-udara-dompet-dhuafa-gencar-bagikan-masker",
-      "published_date": "2026-09-02T14:40:24+00:00",
       "category": "Local Events"
     }
   ]
