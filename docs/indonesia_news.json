@@ -24,6 +24,13 @@
   ],
   "Military": [
     {
+      "title": "Successive Accidents in Kembangan Kill Three People, Police Reveal Chronology",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkwyhq370/kecelakaan-beruntun-di-kembangan-tewaskan-tiga-orang-polisi-ungkap-kronologinya",
+      "published_date": "2026-09-05T22:58:38+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Government Relies on Weather Modification and Land Troops to Handle Forest and Land Fires in West Kalimantan",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tkw33p423/pemerintah-andalkan-modifikasi-cuaca-dan-pasukan-darat-tangani-karhutla-di-kalbar",
@@ -63,13 +70,6 @@
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tklw1s393/tarik-tambang-hukum-aschina",
       "published_date": "2026-08-30T23:32:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Menpora Erick Thohir Ignites Athletes' Spirit Ahead of the 2026 Asian Games on Team Indonesia Day",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkk1x6348/menpora-erick-thohir-kobarkan-semangat-atlet-jelang-asian-games-2026-di-tim-indonesia-day",
-      "published_date": "2026-08-29T23:43:54+00:00",
       "category": "Military"
     }
   ],
@@ -115,16 +115,30 @@
       "url": "https://ekonomi.republika.co.id/berita/tknvwr370/ini-pertimbangan-pertamina-lakukan-penyesuaian-harga-pertamax-turbo",
       "published_date": "2026-09-01T01:24:27+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamax Turbo Supports the 2026 MotoPrix National Championship as Official Fuel Partner",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkj8b2522/pertamax-turbo-dukung-kejurnas-motoprix-2026-sebagai-official-fuel-partner",
-      "published_date": "2026-08-29T15:03:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "North Sulawesi Directs APBD Changes to Priority Programs",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tkx1o5451/sulut-arahkan-apbd-perubahan-ke-program-prioritas",
+      "published_date": "2026-09-06T00:07:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "When Fire Burns the Kalimantan Animal House",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tkwah9483/ketika-api-membakar-rumah-satwa-kalimantan",
+      "published_date": "2026-09-05T23:13:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Swiss-Belhotel Boss: Hotel Investment in Indonesia Remains Attractive Amid the Global Crisis",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkwt505630000/bos-swissbelhotel-investasi-hotel-di-indonesia-tetap-menarik-di-tengah-krisis-global",
+      "published_date": "2026-09-05T21:03:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Minister of Forestry Suspends Licenses of Five Companies Related to Forest and Forestry in West Kalimantan",
       "source": "Republika English",
@@ -215,16 +229,30 @@
       "url": "https://news.republika.co.id/berita/tkn99e7930000/mk-ajukan-tambahan-anggaran-rp67-miliar-untuk-tahun-2027-total-jadi-rp4278-miliar",
       "published_date": "2026-08-31T17:15:14+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "MCEBI Opens Market Access for Student Products Through Indonesian Halal Week 2026",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tkj617416/mcebi-buka-akses-pasar-produk-mahasiswa-lewat-pekan-halal-indonesia-2026",
-      "published_date": "2026-08-29T14:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Participants in the 2026 Madrasah Olympiad reach 230 thousand students",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tkwwws483/peserta-olimpiade-madrasah-2026-tembus-230-ribu-siswa",
+      "published_date": "2026-09-05T23:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soekarno-Hatta Airport Temporarily Closed Due to the Spread of Volcanic Ash from Mount Anak Krakatau",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tkwueg3830000/bandara-soekarnohatta-ditutup-sementara-akibat-sebaran-abu-vulkanik-gunung-anak-krakatau",
+      "published_date": "2026-09-05T21:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Moment Haru Kahitna Presents Carlo Saba Virtually at the 40th Anniversary Concert",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tkwsff6730000/momen-haru-kahitna-hadirkan-carlo-saba-secara-virtual-di-konser-40-tahun",
+      "published_date": "2026-09-05T20:47:39+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Mount Anak Krakatau erupts, Ministry of Transportation Ensures Airport Operations Run Normally",
       "source": "Republika English",
@@ -342,27 +370,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tkskck416/komisi-viii-kawal-penanganan-dugaan-keracunan-mbg-sidoarjo",
       "published_date": "2026-09-03T14:13:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Social Affairs Distributes Aid to 162 Beneficiaries in Semarang",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tksc8u375/kemensos-salurkan-bantuan-untuk-162-penerima-manfaat-di-semarang",
-      "published_date": "2026-09-03T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sin prevents knowledge and sustenance",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tksgxc430/maksiat-menghalangi-ilmu-dan-rezeki",
-      "published_date": "2026-09-03T12:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penetrating Remote Areas, 132 Dai Continue the Struggle for Inland Da'wah Thanks to ZIS Support",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tksgf3320/menembus-pelosok-132-dai-lanjutkan-perjuangan-dakwah-pedalaman-berkat-dukungan-zis",
-      "published_date": "2026-09-03T12:37:51+00:00",
       "category": "Local Events"
     }
   ]
