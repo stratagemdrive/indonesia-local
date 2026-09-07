@@ -112,6 +112,20 @@
   ],
   "Economy": [
     {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tkzp4r370/strategi-sederhana-pedagang-untuk-kembangkan-usaha-dan-pendapatan",
+      "published_date": "2026-09-07T15:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prabowo Lessons for Us to Increase Disaster Budgets",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tl02d4344329740/prabowo-pelajaran-buat-kita-tambah-anggaran-bencana",
+      "published_date": "2026-09-07T15:15:04+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "North Sulawesi Directs APBD Changes to Priority Programs",
       "source": "Republika English",
       "url": "https://republika.co.id/berita//tkx1o5451/sulut-arahkan-apbd-perubahan-ke-program-prioritas",
@@ -225,6 +239,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tkzy72375/mengenang-22-tahun-wafat-munir-aktivis-gelar-aksi-merawat-ingat-dan-menolak-lupa",
+      "published_date": "2026-09-07T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Airport Closed Due to Krakatoa Eruption, Threatens Travel of 10 National MTQ Caravans",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tkzyo9282/bandara-ditutup-akibat-erupsi-krakatau-perjalanan-10-kafilah-mtq-nasional-terancam",
+      "published_date": "2026-09-07T13:55:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The dream of Cikole Lembang residents to have smooth roads has finally come true",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tkzvv6370/mimpi-warga-cikole-lembang-punya-jalan-mulus-akhirnya-terwujud",
+      "published_date": "2026-09-07T13:25:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Republika English",
@@ -342,27 +377,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tkw5qy425/film-palestina-thirteen-in-gaza-akan-tayang-perdana-di-festival-film-toronto",
       "published_date": "2026-09-05T12:37:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tkw3ti328/drama-descendants-of-the-sun-diadaptasi-jadi-film-di-indonesia",
-      "published_date": "2026-09-05T11:56:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkw30w416/pb-ika-pmii-dan-laz-gerakin-serukan-shalat-istisqa-di-tengah-rentetan-bencana",
-      "published_date": "2026-09-05T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tkw2yb375/kemarau-debit-waduk-benanga-lempake-terus-menyusut",
-      "published_date": "2026-09-05T11:37:23+00:00",
       "category": "Local Events"
     }
   ]
