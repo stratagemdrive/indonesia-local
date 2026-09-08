@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Erick Thohir Checks Stadium Readiness Ahead of the 2026 FIFA ASEAN Cup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl1tsm348/erick-thohir-cek-kesiapan-stadion-jelang-fifa-asean-cup-2026",
+      "published_date": "2026-09-08T14:05:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Qatar and Spain Strengthen Security Cooperation Ahead of the 2030 World Cup",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tl0ope348/qatar-dan-spanyol-perkuat-kerja-sama-keamanan-jelang-piala-dunia-2030",
@@ -23,6 +30,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Many Adidas Ads Show Ex-IDF Soldiers, Palestinians: Apologizing Isn't Enough, They Must Be Boycotted!",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tl1vue483/ramai-iklan-adidas-tampilkan-eks-tentara-idf-warga-palestina-minta-maaf-tak-cukup-harus-diboikot",
+      "published_date": "2026-09-08T14:49:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "Prabowo Mentions Black Hawk Helicopters when Discussing the Garibaldi Aircraft Carrier",
       "source": "Republika English",
@@ -71,23 +85,23 @@
       "url": "https://news.republika.co.id/berita/tkpmnu484/1-dari-8-wni-yang-jadi-tentara-rusia-ternyata-warga-depok",
       "published_date": "2026-09-01T23:59:54+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Coerced, co-opted: are local media complicit in the rise of TNI in Indonesian villages?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/coerced-co-opted-are-local-media-complicit-in-the-rise-of-tni-in-indonesian-villages/",
-      "published_date": "2026-09-01T02:57:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tknvsv377/kasus-kematian-presenter-tvri-naik-penyidikan-bukan-sekadar-terseret-sungai-diduga-ada-pidana",
-      "published_date": "2026-09-01T01:22:07+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina says there are no significant complaints from B50 users",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tl1uao490/pertamina-sebut-tak-ada-komplain-signifikan-dari-pengguna-b50",
+      "published_date": "2026-09-08T14:16:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy Subsidy Budget Cut, This is Pertamina's Response",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tl1tsh490/anggaran-subsidi-energi-dipangkas-ini-respons-pertamina",
+      "published_date": "2026-09-08T14:05:05+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Mount Anak Krakatau Status Remains Alert Level III, Safe Radius 3 Kilometers",
       "source": "Republika English",
@@ -115,30 +129,23 @@
       "url": "https://esgnow.republika.co.id/berita/tks5gp522/pertagas-catat-123-juta-jam-kerja-selamat-perkuat-budaya-keselamatan-operasional",
       "published_date": "2026-09-03T13:39:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Ahead of National Customer Day, Pertamina Lubricants Reminds the Importance of Changing Oil on Time",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkowns348/jelang-hari-pelanggan-nasional-pertamina-lubricants-ingatkan-pentingnya-ganti-oli-tepat-waktu",
-      "published_date": "2026-09-01T14:38:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "More than 4,000 Business Actors Registered for Pertamina UMK Academy 2026",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tko35r522/lebih-dari-4000-pelaku-usaha-mendaftar-pertamina-umk-academy-2026",
-      "published_date": "2026-09-01T13:59:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "This is Pertamina's consideration for adjusting the Pertamax Turbo price",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tknvwr370/ini-pertimbangan-pertamina-lakukan-penyesuaian-harga-pertamax-turbo",
-      "published_date": "2026-09-01T01:24:27+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Minister of Agriculture Amran, Two Years of Best Performance in the Red and White Cabinet",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tl1uyj370/mentan-amran-dua-tahun-berkinerja-terbaik-di-kabinet-merah-putih",
+      "published_date": "2026-09-08T14:30:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Industry Strengthens Potato Supply Chain in West Java",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tl1ubr483/industri-perkuat-rantai-pasok-kentang-di-jawa-barat",
+      "published_date": "2026-09-08T14:16:39+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Karhutla and Abu Anak Krakatau Threaten Economic Activities of up to IDR 123.1 Trillion",
       "source": "Republika English",
@@ -264,23 +271,23 @@
       "url": "https://news.republika.co.id/berita/tkpmgg348/borussia-dortmund-resmi-pinjam-ethan-nwaneri-selama-semusim-dari-arsenal",
       "published_date": "2026-09-02T00:18:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Contributing to the Economy, Chairman of PSSI Increases the Value of the Quality of the Indonesian Football League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkplkt348/beri-kontribusi-pada-perekonomian-ketum-pssi-nilai-kualitas-liga-sepak-bola-indonesia-meningkat",
-      "published_date": "2026-09-01T23:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The League Must Be Clean Erick Thohir Emphasizes Referee Accuracy",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tkovl21244936336/liga-harus-bersih-erick-thohir-tekankan-soal-akurasi-wasit",
-      "published_date": "2026-09-01T14:15:02+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Anak Krakatau Volcanic Ash Spreads to Jakarta, PAM Jaya Ensures Safe Water",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tl1pfj416/abu-vulkanis-anak-krakatau-menyebar-ke-jakarta-pam-jaya-pastikan-air-aman",
+      "published_date": "2026-09-08T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 Photojournalists Reportedly Lost Contact While Covering Mount Anak Krakatau",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl1suy377/5-wartawan-foto-dilaporkan-hilang-kontak-saat-hendak-meliput-gunung-anak-krakatau",
+      "published_date": "2026-09-08T13:44:58+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Where is the Head of the Grandson of the Messenger of God, Imam Husain, Is it Really in Cairo? Here are 6 Opinion Versions",
       "source": "Republika English",
@@ -405,20 +412,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tky2kn282/pemprov-jabar-terus-tertibkan-bangunan-liar-di-jalur-wisata-ciater-subangbandung",
       "published_date": "2026-09-06T13:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KDM Instructs PJJ for Schools in West Java Affected by Volcanic Ash from the Eruption of Mount Anak Krakatau",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tky2ed282/kdm-intruksikan-pjj-untuk-sekolah-di-jabar-yang-terdampak-abu-vulkanik-erupsi-gunung-anak-krakatau",
-      "published_date": "2026-09-06T13:20:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sumberkepuh Nganjuk Reservoir Drying Up, Irrigation of 400 Hectares of Agricultural Land Affected",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tkxyxe375/waduk-sumberkepuh-nganjuk-mengering-irigasi-400-hektare-lahan-pertanian-terdampak",
-      "published_date": "2026-09-06T13:00:00+00:00",
       "category": "Local Events"
     }
   ]
