@@ -24,6 +24,27 @@
   ],
   "Military": [
     {
+      "title": "BRIN-BNPP: Border Management Must Be Suitable to the Characteristics of Each Region",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl3qmt483/brinbnpp-tata-kelola-perbatasan-harus-sesuai-dengan-karakteristik-setiap-wilayah",
+      "published_date": "2026-09-09T14:52:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Investigating Alleged PTSL Land Mafia 2019, Police Search BPN Bogor Office",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tl3qlg375/usut-dugaan-mafia-tanah-ptsl-2019-polisi-geledah-kantor-bpn-bogor",
+      "published_date": "2026-09-09T14:51:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Macklemore's action to defend Palestine at Ed Sheeran's concert ends in heat, Pink's name is also dragged down",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tl3oli425/aksi-macklemore-bela-palestina-di-konser-ed-sheeran-berujung-panas-nama-pink-lkut-terseret",
+      "published_date": "2026-09-09T14:08:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "PISA 2025: Indonesia's Score Soars Amid Falling Global Scores",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tl2m3a483/pisa-2025-skor-indonesia-melonjak-di-tengah-anjloknya-nilai-global",
@@ -161,6 +182,13 @@
   ],
   "Economy": [
     {
+      "title": "The 2026 National MTQ Economic Turnover in Central Java is estimated at IDR 1.2 trillion",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tl3qfq366/perputaran-ekonomi-mtq-nasional-2026-di-jateng-diperkirakan-rp-12-triliun",
+      "published_date": "2026-09-09T14:48:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Purbaya: BNPB has not asked for additional budget, ready-to-use funds of IDR 950 billion",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tl2l51423/purbaya-bnpb-belum-minta-tambahan-anggaran-dana-siap-pakai-rp-950-miliar",
@@ -292,16 +320,65 @@
       "url": "https://news.republika.co.id/berita/tkri8v451/aschina-memanas-di-orbit-satelit-pemburu-mulai-saling-mengintai",
       "published_date": "2026-09-03T00:19:43+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "The West Java Textile and Apparel Industry is still considered to have potential",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tkqoar416/industri-tekstil-dan-apparel-jabar-dinilai-masih-potensial",
-      "published_date": "2026-09-02T13:36:04+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "What Happened in the 18th and 19th Centuries AD: The Decline of the Islamic World and the Collapse of Ottoman Power",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tl3qr7320/yang-terjadi-abad-ke18-dan-19-masehi-kemunduran-dunia-islam-dan-runtuhnya-kekuasaan-ottoman",
+      "published_date": "2026-09-09T14:54:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The First UBM Research Center for Data Science & AI in Indonesia Officially Launched",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl3qhh320/the-ubm-research-center-for-data-science-ai-pertama-di-indonesia-resmi-diluncurkan",
+      "published_date": "2026-09-09T14:48:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erick Thohir Appreciates the Quick Response of CdM and the Chairman of KOI in Facing the Challenges of the 2026 Asian Games",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl3put348/erick-thohir-apresiasi-respons-cepat-cdm-dan-ketua-koi-hadapi-tantangan-asian-games-2026",
+      "published_date": "2026-09-09T14:35:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BAIC Strengthens Network in West Java, Brings T1 Electric Car to GIIAS Bandung",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tl3pcr348/baic-perkuat-jaringan-di-jawa-barat-bawa-mobil-listrik-t1-ke-giias-bandung",
+      "published_date": "2026-09-09T14:24:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barcelona without Garcia faces Feyenoord tonight, new players ready to show off",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl3omi348/barcelona-tanpa-garcia-hadapi-feyenoord-malam-ini-pemain-baru-siap-unjuk-gigi",
+      "published_date": "2026-09-09T14:08:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rain falls in Sangatta after Istisqa prayers, residents welcome it with gratitude",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tl3oho366/hujan-turun-di-sangatta-setelah-sholat-istisqa-warga-sambut-dengan-syukur",
+      "published_date": "2026-09-09T14:05:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashes of Anak Krakatau Still Potential to Spread, Masks Distributed to Jakarta Residents",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tl3jz3416/abu-anak-krakatau-masih-berpotensi-menyebar-masker-dibagikan-ke-warga-jakarta",
+      "published_date": "2026-09-09T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bitcoin Prices Fall, ETF Funds Flow Rapidly",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tl3o3u416/harga-bitcoin-turun-arus-dana-etf-mengalir-deras",
+      "published_date": "2026-09-09T13:57:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "346 SLB Students Participate in Special Needs Scout Camp",
       "source": "Republika English",
@@ -384,62 +461,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tkzyo9282/bandara-ditutup-akibat-erupsi-krakatau-perjalanan-10-kafilah-mtq-nasional-terancam",
       "published_date": "2026-09-07T13:55:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The dream of Cikole Lembang residents to have smooth roads has finally come true",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tkzvv6370/mimpi-warga-cikole-lembang-punya-jalan-mulus-akhirnya-terwujud",
-      "published_date": "2026-09-07T13:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkyw1i423/menhub-abu-vulkanik-krakatau-sebabkan-penumpang-transportasi-laut-turun",
-      "published_date": "2026-09-07T00:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkyvid502/total-1039-penerbangan-di-bandara-soetta-terdampak-erupsi-gunung-anak-krakatau",
-      "published_date": "2026-09-06T23:49:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tkyuf1430/maksiat-menggelapkan-hati-melemahkan-badan-dan-menghalangi-ketaatan",
-      "published_date": "2026-09-06T23:25:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://iqra.republika.co.id/berita/tkytrd320/18-orang-yang-mempunyai-kemiripan-dengan-rasulullah-saw-siapa-sajakah-mereka",
-      "published_date": "2026-09-06T23:11:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tkytma484/erupsi-anak-krakatau-bgn-setop-sementara-mbg-di-sekolah-terdampak",
-      "published_date": "2026-09-06T23:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Development of Young Athletes Requires Continuous Competition",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tky8nn416/pembinaan-atlet-usia-muda-butuh-kompetisi-berkelanjutan",
-      "published_date": "2026-09-06T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Transportation asks airlines to facilitate refunds and rescheduling of passengers affected by the eruption of Mount Anak Krakatau",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkyruh5230000/menhub-minta-maskapai-fasilitasi-refund-dan-reschedule-penumpang-terdampak-erupsi-gunung-anak-krakatau",
-      "published_date": "2026-09-06T22:30:17+00:00",
       "category": "Local Events"
     }
   ]
