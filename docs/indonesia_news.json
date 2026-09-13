@@ -1,6 +1,34 @@
 {
   "Diplomacy": [
     {
+      "title": "Lima Tahun Holding Ultra Mikro, PNM Perkuat Pembiayaan dan Pemberdayaan Keluarga Prasejahtera",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlawt4370/lima-tahun-holding-ultra-mikro-pnm-perkuat-pembiayaan-dan-pemberdayaan-keluarga-prasejahtera",
+      "published_date": "2026-09-13T14:44:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jarak Pandang Turun hingga 300 Meter, 30 Penerbangan di Bandara Supadio Dibatalkan",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlb07v375/jarak-pandang-turun-hingga-300-meter-30-penerbangan-di-bandara-supadio-dibatalkan",
+      "published_date": "2026-09-13T14:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Menpora Erick Ajak Sekjen AFC Berkeliling Kunjungi Booth ISS 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlb21d348/menpora-erick-ajak-sekjen-afc-berkeliling-kunjungi-booth-iss-2026",
+      "published_date": "2026-09-13T13:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BBM Langka di Sulsel, Sistem Ganjil Genap Diterapkan untuk Kendalikan Antrean Membludak",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlb1vg502/bbm-langka-di-sulsel-sistem-ganjil-genap-diterapkan-untuk-kendalikan-antrean-membludak",
+      "published_date": "2026-09-13T13:38:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "IGN and Puspresnas Prepare Debate Talents for International Forums",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tl97lq416/ign-dan-puspresnas-siapkan-talenta-debat-ke-forum-internasional",
@@ -30,6 +58,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "Kerja Bersama Menangani Karhutla di Kalimantan Tengah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tl5lne487/kerja-bersama-menangani-karhutla-di-kalimantan-tengah",
+      "published_date": "2026-09-13T13:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Warga Polisikan SPPG Blora Buntut Keracunan MBG, Waka BGN: Bisa Diselesaikan Lewat Hukum",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tlb101282/warga-polisikan-sppg-blora-buntut-keracunan-mbg-waka-bgn-bisa-diselesaikan-lewat-hukum",
+      "published_date": "2026-09-13T13:19:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "260 Warga Kabupaten Bandung Terima Bantuan Becak Listrik dari Presiden",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tlazl3416/260-warga-kabupaten-bandung-terima-bantuan-becak-listrik-dari-presiden",
+      "published_date": "2026-09-13T12:48:39+00:00",
+      "category": "Military"
+    },
     {
       "title": "Jelita Gabriella Appreciates the Rally for Environment which Combines Sports and Environmental Action",
       "source": "Republika English",
@@ -120,16 +169,16 @@
       "url": "https://news.republika.co.id/berita/tl0pwl484/prabowo-ingin-tni-al-perbanyak-pengadaan-kapa-lcm-dan-lcvp",
       "published_date": "2026-09-07T23:43:33+00:00",
       "category": "Military"
-    },
-    {
-      "title": "As Meru erupted, Malang's sky was filled with eruptions as high as 1,000 meters",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tky1ag282/semeru-erupsi-langit-malang-dipenuhi-letusan-setinggi-1000-meter",
-      "published_date": "2026-09-06T12:56:40+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Patra Niaga Gandeng Pemprov, Antrean BBM di Sejumlah SPBU Makassar Mulai Melandai",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlae5n522/pertamina-patra-niaga-gandeng-pemprov-antrean-bbm-di-sejumlah-spbu-makassar-mulai-melandai",
+      "published_date": "2026-09-13T13:04:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Patra Niaga Changes Configuration and Adds Subsidized Fuel Nozzles at 12 SPBUs in Makassar",
       "source": "Republika English",
@@ -177,13 +226,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tl1tsh490/anggaran-subsidi-energi-dipangkas-ini-respons-pertamina",
       "published_date": "2026-09-08T14:05:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Mount Anak Krakatau Status Remains Alert Level III, Safe Radius 3 Kilometers",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tky0ut490/status-gunung-anak-krakatau-tetap-siaga-level-iii-radius-aman-3-kilometer",
-      "published_date": "2026-09-06T12:47:17+00:00",
       "category": "Energy"
     }
   ],
@@ -295,6 +337,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Benjamin Sesko Pastikan Pulih Total Jelang Derby Manchester Malam Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlb1r8348/benjamin-sesko-pastikan-pulih-total-jelang-derby-manchester-malam-ini",
+      "published_date": "2026-09-13T13:35:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transformasi Digital Perbankan Butuh Infrastruktur Lebih Adaptif",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlb07g522/transformasi-digital-perbankan-butuh-infrastruktur-lebih-adaptif",
+      "published_date": "2026-09-13T13:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wali Kota Bandung Siapkan Reaktivasi CFD Buahbatu",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tlazcg416/wali-kota-bandung-siapkan-reaktivasi-cfd-buahbatu",
+      "published_date": "2026-09-13T12:43:28+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Entering the Second Century, Gontor Encourages Civilization Diplomacy and Global Networking",
       "source": "Republika English",
@@ -412,27 +475,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tl906i487/persija-bungkam-persib-21-lewat-gol-dramatis-ivan-mamut-di-menit-akhir",
       "published_date": "2026-09-12T11:06:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tangsel Prepares to Welcome Porprov VII Banten November 2026",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tl8y3l451/tangsel-bersiap-sambut-porprov-vii-banten-november-2026",
-      "published_date": "2026-09-12T10:21:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomber's Important Message Ahead of the Persib Bandung vs Persija Jakarta Classic Duel at SUGK",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tl7dbs282/pesan-penting-bomber-jelang-duel-klasik-persib-bandung-vs-persija-jakarta-di-sugk",
-      "published_date": "2026-09-11T14:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UMJ Students Won 1st Place in YOT ​​VI 2026 International Karate Championship",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl5krn370/mahasiswa-umj-borong-juara-1-di-yot-vi-2026-international-karate-championship",
-      "published_date": "2026-09-10T14:40:35+00:00",
       "category": "Local Events"
     }
   ]
