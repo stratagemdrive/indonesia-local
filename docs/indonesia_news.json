@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ambruk Saat Diresmikan, Jembatan Pongpet Pangandaran Akan Dibangun Kembali",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlcycp375/ambruk-saat-diresmikan-jembatan-pongpet-pangandaran-akan-dibangun-kembali",
+      "published_date": "2026-09-14T15:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Harga Emas Diprediksi Turun Terbatas, Ini Kisaran Harganya Sepekan ke Depan",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tlbvc9490/harga-emas-diprediksi-turun-terbatas-ini-kisaran-harganya-sepekan-ke-depan",
@@ -72,6 +79,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Keracunan Massal MBG di Blora, SPPG Di-suspend 30 Hari dan Kepala Dapur Dicopot",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tld454282/keracunan-massal-mbg-di-blora-sppg-disuspend-30-hari-dan-kepala-dapur-dicopot",
+      "published_date": "2026-09-14T16:22:16+00:00",
+      "category": "Military"
+    },
     {
       "title": "Kerja Bersama Menangani Karhutla di Kalimantan Tengah",
       "source": "Republika English",
@@ -186,6 +200,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Kebakaran Lahan di Pademangan Ganggu Perjalanan Kereta, 15 Mobil Damkar Dikerahkan Padamkan Api",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlcyt2375/kebakaran-lahan-di-pademangan-ganggu-perjalanan-kereta-15-mobil-damkar-dikerahkan-padamkan-api",
+      "published_date": "2026-09-14T16:15:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Kejelasan Wilayah Dinilai Menjadi Fondasi Kepastian Hukum Desa",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tlczn4483/kejelasan-wilayah-dinilai-menjadi-fondasi-kepastian-hukum-desa",
+      "published_date": "2026-09-14T14:45:04+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Ajak Masyarakat Awasi Penyaluran BBM Subsidi di Tengah Kemarau",
       "source": "Republika English",
@@ -341,23 +369,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tl0q04348/penjualan-daihatsu-tumbuh-10-persen-gran-max-dan-lcgc-paling-diminati",
       "published_date": "2026-09-07T23:45:40+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tkzp4r370/strategi-sederhana-pedagang-untuk-kembangkan-usaha-dan-pendapatan",
-      "published_date": "2026-09-07T15:24:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Prabowo Lessons for Us to Increase Disaster Budgets",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tl02d4344329740/prabowo-pelajaran-buat-kita-tambah-anggaran-bencana",
-      "published_date": "2026-09-07T15:15:04+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "MUI: Karnaval Ritual Satanic di Pekalongan Jauh dari Nilai-Nilai Islam dan Semangat Maulid Nabi",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tld3c8282/mui-karnaval-ritual-satanic-di-pekalongan-jauh-dari-nilainilai-islam-dan-semangat-maulid-nabi",
+      "published_date": "2026-09-14T16:04:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ekonomi RI Diprediksi Tumbuh, Faktor Investasi Hingga Belanja Jadi Pemicu",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlcyza483/ekonomi-ri-diprediksi-tumbuh-faktor-investasi-hingga-belanja-jadi-pemicu",
+      "published_date": "2026-09-14T15:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petani Gelar Aksi di DPR, Desak RUU Reforma Agraria Berpihak pada Rakyat",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlcy1j375/petani-gelar-aksi-di-dpr-desak-ruu-reforma-agraria-berpihak-pada-rakyat",
+      "published_date": "2026-09-14T15:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahlil Soroti Penyalahgunaan BBM Subsidi, Sebut Tangki Modifikasi Capai 1 Ton",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlcym0423/bahlil-soroti-penyalahgunaan-bbm-subsidi-sebut-tangki-modifikasi-capai-1-ton",
+      "published_date": "2026-09-14T14:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemerintah Dorong Bisnis Tak Sekadar Patuh Regulasi Lingkungan",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlcz1y451/pemerintah-dorong-bisnis-tak-sekadar-patuh-regulasi-lingkungan",
+      "published_date": "2026-09-14T14:32:22+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Lihat Langsung Dampak Karhutla, Kunjungan Wapres ke Pusat Rehabilitasi Orangutan Dinilai Penting",
       "source": "Republika English",
@@ -461,41 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tla0aw451/masuki-abad-kedua-gontor-dorong-diplomasi-peradaban-dan-jejaring-global",
       "published_date": "2026-09-13T00:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CBI Group Sends 19 Tons of Aid to NTT",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tl9a3b416/cbi-group-kirim-19-ton-bantuan-ke-ntt",
-      "published_date": "2026-09-13T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSSI and Ajax Establish Collaboration for the Development of Indonesian Football at ISS 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl9zvg348/pssi-dan-ajax-jalin-kerja-sama-pengembangan-sepak-bola-indonesia-di-iss-2026",
-      "published_date": "2026-09-12T23:57:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Pigai Versus Deputy Minister of Home Affairs Rebekah Makes Minister of Home Affairs Tito Intervene",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl9xlq484/menteri-pigai-versus-wamendagri-ribka-buat-mendagri-tito-turun-tangan",
-      "published_date": "2026-09-12T23:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persija Defeats Persib in Jakarta, Pramono: Rivalry Ends when the Match is Finished",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl9zc5348/persija-tekuk-persib-di-jakarta-pramono-rivalitas-berakhir-saat-pertandingan-selesai",
-      "published_date": "2026-09-12T23:45:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rally for Environment Implements 3R Based Waste Management",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tl9yym423/rally-for-environment-terapkan-pengelolaan-sampah-berbasis-3r",
-      "published_date": "2026-09-12T23:45:00+00:00",
       "category": "Local Events"
     }
   ]
