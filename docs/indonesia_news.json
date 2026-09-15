@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "SCG Dorong Transisi Hijau Inklusif ASEAN",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tleugv423/scg-dorong-transisi-hijau-inklusif-asean",
+      "published_date": "2026-09-15T14:48:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why ASEAN’s haze agreement doesn’t stop Indonesia’s wildfires from choking its neighbours",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/why-aseans-haze-agreement-doesnt-stop-indonesias-wildfires-from-choking-its-neighbours/",
+      "published_date": "2026-09-15T01:14:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Serikat Ojol Sebut Pengemudi Bukan Populasi Seragam, Minta Perlindungan Platform",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tldob9484/serikat-ojol-sebut-pengemudi-bukan-populasi-seragam-minta-perlindungan-platform",
@@ -76,16 +90,16 @@
       "url": "https://news.republika.co.id/berita/tl83vl348/menpora-erick-thohir-luncurkan-portal-sport-in-indonesia-dalam-pembukaan-iss-2026",
       "published_date": "2026-09-11T23:40:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Erick Thohir Checks Stadium Readiness Ahead of the 2026 FIFA ASEAN Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl1tsm348/erick-thohir-cek-kesiapan-stadion-jelang-fifa-asean-cup-2026",
-      "published_date": "2026-09-08T14:05:10+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Kualitas Udara Memburuk akibat Karhutla, Perlindungan Warga Diperkuat",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tleraw416/kualitas-udara-memburuk-akibat-karhutla-perlindungan-warga-diperkuat",
+      "published_date": "2026-09-15T14:45:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "WNI yang Jadi Tentara Rusia Bersurat ke KBRI, Menlu, dan Presiden: Minta Dipulangkan",
       "source": "Republika English",
@@ -183,16 +197,16 @@
       "url": "https://news.republika.co.id/berita/tl2kne484/kemenhan-helikopter-chinook-jepang-dipakai-tangani-karhutla-1219-september-2026",
       "published_date": "2026-09-08T23:45:14+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Many Adidas Ads Show Ex-IDF Soldiers, Palestinians: Apologizing Isn't Enough, They Must Be Boycotted!",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tl1vue483/ramai-iklan-adidas-tampilkan-eks-tentara-idf-warga-palestina-minta-maaf-tak-cukup-harus-diboikot",
-      "published_date": "2026-09-08T14:49:26+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Perkuat Ketahanan Energi dengan Portofolio LNG",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tletim423/pertamina-perkuat-ketahanan-energi-dengan-portofolio-lng",
+      "published_date": "2026-09-15T14:27:58+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Kebakaran Lahan di Pademangan Ganggu Perjalanan Kereta, 15 Mobil Damkar Dikerahkan Padamkan Api",
       "source": "Republika English",
@@ -255,20 +269,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tl2mkk416/bioetanol-e20-ditargetkan-berlaku-2028",
       "published_date": "2026-09-09T00:32:44+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina says there are no significant complaints from B50 users",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl1uao490/pertamina-sebut-tak-ada-komplain-signifikan-dari-pengguna-b50",
-      "published_date": "2026-09-08T14:16:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy Subsidy Budget Cut, This is Pertamina's Response",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl1tsh490/anggaran-subsidi-energi-dipangkas-ini-respons-pertamina",
-      "published_date": "2026-09-08T14:05:05+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -320,23 +320,51 @@
       "url": "https://ekonomi.republika.co.id/berita/tl2l51423/purbaya-bnpb-belum-minta-tambahan-anggaran-dana-siap-pakai-rp-950-miliar",
       "published_date": "2026-09-09T00:01:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Minister of Agriculture Amran, Two Years of Best Performance in the Red and White Cabinet",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl1uyj370/mentan-amran-dua-tahun-berkinerja-terbaik-di-kabinet-merah-putih",
-      "published_date": "2026-09-08T14:30:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Industry Strengthens Potato Supply Chain in West Java",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tl1ubr483/industri-perkuat-rantai-pasok-kentang-di-jawa-barat",
-      "published_date": "2026-09-08T14:16:39+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "8 Tersangka Kasus Dugaan Suap dan Gratifikasi di ATR/BPN Resmi Ditahan KPK",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlevi8375/8-tersangka-kasus-dugaan-suap-dan-gratifikasi-di-atrbpn-resmi-ditahan-kpk",
+      "published_date": "2026-09-15T15:10:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dialog Rasulullah SAW dan Para Sahabat Pemisah Kuat Antara yang Hak dan Batik Setelah Perang Uhud",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tleso0320/dialog-rasulullah-saw-dan-para-sahabat-pemisah-kuat-antara-yang-hak-dan-batik-setelah-perang-uhud",
+      "published_date": "2026-09-15T15:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grand Launching I-CHIP UMJ, Dorong Kebijakan Kesehatan Berbasis Bukti",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlev1l423/grand-launching-ichip-umj-dorong-kebijakan-kesehatan-berbasis-bukti",
+      "published_date": "2026-09-15T15:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ini Bahaya Nyata Overthinking yang Jarang Disadari",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tletjd425/ini-bahaya-nyata-overthinking-yang-jarang-disadari",
+      "published_date": "2026-09-15T14:28:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Kaget Banyak Pembeli Tiket Konser YE di Jakarta Berasal dari Australia",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tlep0y409/pramono-kaget-banyak-pembeli-tiket-konser-ye-di-jakarta-berasal-dari-australia",
+      "published_date": "2026-09-15T14:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ye Live in Jakarta Diproyeksi Tarik 15 Ribu Wisman, Hotel dan Kuliner Berpotensi Bergeliat",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlesaw328/ye-live-in-jakarta-diproyeksi-tarik-15-ribu-wisman-hotel-dan-kuliner-berpotensi-bergeliat",
+      "published_date": "2026-09-15T14:01:44+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ucap 'Free Palestine', Macklemore Didepak dari Konser Ed Sheeran",
       "source": "Republika English",
@@ -433,48 +461,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlbvgf430/lihat-langsung-dampak-karhutla-kunjungan-wapres-ke-pusat-rehabilitasi-orangutan-dinilai-penting",
       "published_date": "2026-09-14T00:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "107 Penumpang KMP Virgo Selamat, Ini Kronologi Kejadiannya",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlbv1n490/107-penumpang-kmp-virgo-selamat-ini-kronologi-kejadiannya",
-      "published_date": "2026-09-14T00:08:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Musibah Juga Menguji Mereka yang tak Terkena Bencana",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlboyg483/musibah-juga-menguji-mereka-yang-tak-terkena-bencana",
-      "published_date": "2026-09-13T23:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MV Haida Bawa 69 Korban Kapal Virgo ke Pelabuhan Trisakti Banjarmasin",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlbu5z348/mv-haida-bawa-69-korban-kapal-virgo-ke-pelabuhan-trisakti-banjarmasin",
-      "published_date": "2026-09-13T23:49:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bongkar Taktik Intelijen Israel di Gaza, NAZA Sabet Penghargaan di Festival Film Venesia",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlbtlm425/bongkar-taktik-intelijen-israel-di-gaza-naza-sabet-penghargaan-di-festival-film-venesia",
-      "published_date": "2026-09-13T23:36:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gol Menit ke-94 Bawa Sassuolo Kalahkan Juventus 3-2, Jay Idzes Tampil Penuh",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlbt51348/gol-menit-ke94-bawa-sassuolo-kalahkan-juventus-32-jay-idzes-tampil-penuh",
-      "published_date": "2026-09-13T23:27:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro Ref Akui VAR Keliru Sahkan Gol Haaland, MU Kalah Kontroversial dari City",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlbsmu348/pro-ref-akui-var-keliru-sahkan-gol-haaland-mu-kalah-kontroversial-dari-city",
-      "published_date": "2026-09-13T23:16:06+00:00",
       "category": "Local Events"
     }
   ]
