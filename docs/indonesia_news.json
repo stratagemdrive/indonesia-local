@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Malaysia Sanjung Kemitraan Bilateral dengan Indonesia di Perayaan Hari Nasional",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfgji4730000/malaysia-sanjung-kemitraan-bilateral-dengan-indonesia-di-perayaan-hari-nasional",
+      "published_date": "2026-09-15T22:45:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "SCG Dorong Transisi Hijau Inklusif ASEAN",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tleugv423/scg-dorong-transisi-hijau-inklusif-asean",
@@ -169,34 +176,6 @@
       "url": "https://ameera.republika.co.id/berita/tl3oli425/aksi-macklemore-bela-palestina-di-konser-ed-sheeran-berujung-panas-nama-pink-lkut-terseret",
       "published_date": "2026-09-09T14:08:06+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PISA 2025: Indonesia's Score Soars Amid Falling Global Scores",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl2m3a483/pisa-2025-skor-indonesia-melonjak-di-tengah-anjloknya-nilai-global",
-      "published_date": "2026-09-09T00:16:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Upon arrival in Indonesia, the Garibaldi aircraft carrier was deployed to handle forest and land fires",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl2ls3484/setiba-di-indonesia-kapal-induk-garibaldi-dikerahkan-tangani-karhutla",
-      "published_date": "2026-09-09T00:09:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Eyes Türkiye's KAAN, F-35 Still Not Certain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl2lpb451/saudi-lirik-kaan-turki-f35-belum-juga-pasti",
-      "published_date": "2026-09-09T00:07:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ministry of Defense: Japanese Chinook Helicopters Used to Handle Forest and Land Fires 12-19 September 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tl2kne484/kemenhan-helikopter-chinook-jepang-dipakai-tangani-karhutla-1219-september-2026",
-      "published_date": "2026-09-08T23:45:14+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -255,23 +234,16 @@
       "url": "https://news.republika.co.id/berita/tl837p348/itdc-persiapan-motogp-mandalika-capai-80-persen-targetkan-145-ribu-penonton",
       "published_date": "2026-09-11T23:14:13+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Climate Crisis Threatens to Improve World Air Quality",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tl2lg2423/krisis-iklim-ancam-perbaikan-kualitas-udara-dunia",
-      "published_date": "2026-09-09T00:35:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bioethanol E20 is targeted to take effect in 2028",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl2mkk416/bioetanol-e20-ditargetkan-berlaku-2028",
-      "published_date": "2026-09-09T00:32:44+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "KPK Sita Rp106,3 M dan Tersangkakan 8 Orang Hasil OTT BPN Bogor",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlferr393/kpk-sita-rp1063-m-dan-tersangkakan-8-orang-hasil-ott-bpn-bogor",
+      "published_date": "2026-09-15T22:07:03+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BTN Bancassurance Generates IDR 27.4 Billion by Semester I 2026",
       "source": "Republika English",
@@ -313,16 +285,93 @@
       "url": "https://khazanah.republika.co.id/berita/tl3qfq366/perputaran-ekonomi-mtq-nasional-2026-di-jateng-diperkirakan-rp-12-triliun",
       "published_date": "2026-09-09T14:48:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Purbaya: BNPB has not asked for additional budget, ready-to-use funds of IDR 950 billion",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl2l51423/purbaya-bnpb-belum-minta-tambahan-anggaran-dana-siap-pakai-rp-950-miliar",
-      "published_date": "2026-09-09T00:01:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "AS Akui Tempatkan Senjata di Luar Angkasa, China-Rusia Peringatkan Perang Antariksa",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfknp451/as-akui-tempatkan-senjata-di-luar-angkasa-chinarusia-peringatkan-perang-antariksa",
+      "published_date": "2026-09-16T00:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baru Dilantik Jadi Dirjen Pesantren, Basnang Said Siapkan Satu Dekade Hari Santri",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlfk3h483/baru-dilantik-jadi-dirjen-pesantren-basnang-said-siapkan-satu-dekade-hari-santri",
+      "published_date": "2026-09-16T00:02:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kevin Hansen dan Sebastien Loeb akan Tampil di FIA Rallycross World Cup Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfjq9348/kevin-hansen-dan-sebastien-loeb-akan-tampil-di-fia-rallycross-world-cup-jakarta",
+      "published_date": "2026-09-15T23:54:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Duga Fahd Arafiq Jadi Penampung Uang Hasil Korupsi ATR/BPN",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfjeo348/kpk-duga-fahd-arafiq-jadi-penampung-uang-hasil-korupsi-atrbpn",
+      "published_date": "2026-09-15T23:47:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emil Audero Tampil Penuh Saat Rayo Vallecano Taklukkan Espanyol",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfj0w348/emil-audero-tampil-penuh-saat-rayo-vallecano-taklukkan-espanyol",
+      "published_date": "2026-09-15T23:38:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maarten Paes dan Nathan Tjoe-A-On Tampil Saat Ajax Bekuk Willem II",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfijq348/maarten-paes-dan-nathan-tjoeaon-tampil-saat-ajax-bekuk-willem-ii",
+      "published_date": "2026-09-15T23:28:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal Hantam Ipswich, Liverpool Singkirkan Tottenham di Piala Liga Inggris",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfhr0348/arsenal-hantam-ipswich-liverpool-singkirkan-tottenham-di-piala-liga-inggris",
+      "published_date": "2026-09-15T23:11:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank Aladin Syariah Dukung Penambahan Ruang Kelas SD Muhammadiyah",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tleyvv416/bank-aladin-syariah-dukung-penambahan-ruang-kelas-sd-muhammadiyah",
+      "published_date": "2026-09-15T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid Menang Dramatis atas Elche, Carlos Espi Jadi Penentu",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlfgr5348/real-madrid-menang-dramatis-atas-elche-carlos-espi-jadi-penentu",
+      "published_date": "2026-09-15T22:49:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemprov Sulut Targetkan 700 UMKM Raih Sertifikat Halal Gratis via Program Sehati 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlffuh2830000/pemprov-sulut-targetkan-700-umkm-raih-sertifikat-halal-gratis-via-program-sehati-2026",
+      "published_date": "2026-09-15T22:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Di Cirebon, Mereka Menunggu Kabar Nasib Kerabat Penumpang Kapal Virgo",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tlfejq393/di-cirebon-mereka-menunggu-kabar-nasib-kerabat-penumpang-kapal-virgo",
+      "published_date": "2026-09-15T22:02:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jamaah Lansia Haji dan Umrah Rentan Kulit Kering, Ini Saran Dokter",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlewac366/jamaah-lansia-haji-dan-umrah-rentan-kulit-kering-ini-saran-dokter",
+      "published_date": "2026-09-15T21:45:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "8 Tersangka Kasus Dugaan Suap dan Gratifikasi di ATR/BPN Resmi Ditahan KPK",
       "source": "Republika English",
@@ -377,90 +426,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tldrit393/dirjen-atrbpn-yang-dikabarkan-kena-ciduk-kpk-punya-harta-rp73-miliar",
       "published_date": "2026-09-15T00:47:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China Tolak Seruan AS Perlambat AI, Rivalitas Teknologi Kian Tajam",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tldpoe451/china-tolak-seruan-as-perlambat-ai-rivalitas-teknologi-kian-tajam",
-      "published_date": "2026-09-15T00:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Satu Bulan Penerapan, 72.236 Angkutan Barang Terdeteksi Melalui ETLE HUB",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tldq8v490/satu-bulan-penerapan-72236-angkutan-barang-terdeteksi-melalui-etle-hub",
-      "published_date": "2026-09-15T00:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leeds Hancurkan Newcastle 4-1, Calvert-Lewin Jadi Bintang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tldoje348/leeds-hancurkan-newcastle-41-calvertlewin-jadi-bintang",
-      "published_date": "2026-09-14T23:42:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dahnil Temukan 400 Ribu Data Antrean Haji yang tidak Valid",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tldofb483/dahnil-temukan-400-ribu-data-antrean-haji-yang-tidak-valid",
-      "published_date": "2026-09-14T23:40:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Purbaya Diganti, Bagaimana Kelanjutan Polemik Dana Jakarta?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tldmr2393/purbaya-diganti-bagaimana-kelanjutan-polemik-dana-jakarta",
-      "published_date": "2026-09-14T23:04:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Como dan Roma Menang, Papan Atas Serie A Sengit",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tldml6348/como-dan-roma-menang-papan-atas-serie-a-sengit",
-      "published_date": "2026-09-14T23:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MUI: Karnaval Ritual Satanic di Pekalongan Jauh dari Nilai-Nilai Islam dan Semangat Maulid Nabi",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tld3c8282/mui-karnaval-ritual-satanic-di-pekalongan-jauh-dari-nilainilai-islam-dan-semangat-maulid-nabi",
-      "published_date": "2026-09-14T16:04:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ekonomi RI Diprediksi Tumbuh, Faktor Investasi Hingga Belanja Jadi Pemicu",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlcyza483/ekonomi-ri-diprediksi-tumbuh-faktor-investasi-hingga-belanja-jadi-pemicu",
-      "published_date": "2026-09-14T15:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Petani Gelar Aksi di DPR, Desak RUU Reforma Agraria Berpihak pada Rakyat",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlcy1j375/petani-gelar-aksi-di-dpr-desak-ruu-reforma-agraria-berpihak-pada-rakyat",
-      "published_date": "2026-09-14T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahlil Soroti Penyalahgunaan BBM Subsidi, Sebut Tangki Modifikasi Capai 1 Ton",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlcym0423/bahlil-soroti-penyalahgunaan-bbm-subsidi-sebut-tangki-modifikasi-capai-1-ton",
-      "published_date": "2026-09-14T14:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemerintah Dorong Bisnis Tak Sekadar Patuh Regulasi Lingkungan",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tlcz1y451/pemerintah-dorong-bisnis-tak-sekadar-patuh-regulasi-lingkungan",
-      "published_date": "2026-09-14T14:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lihat Langsung Dampak Karhutla, Kunjungan Wapres ke Pusat Rehabilitasi Orangutan Dinilai Penting",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlbvgf430/lihat-langsung-dampak-karhutla-kunjungan-wapres-ke-pusat-rehabilitasi-orangutan-dinilai-penting",
-      "published_date": "2026-09-14T00:19:00+00:00",
       "category": "Local Events"
     }
   ]
