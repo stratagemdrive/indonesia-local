@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "CTI Gandeng Jenama Muda untuk Kenalkan Tenun Nusantara",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tljblm328/cti-gandeng-jenama-muda-untuk-kenalkan-tenun-nusantara",
+      "published_date": "2026-09-18T00:48:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Perang Ukraina Bongkar Kelemahan NATO, Benarkah Siap Menghadapi Rusia?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlinlc451/perang-ukraina-bongkar-kelemahan-nato-benarkah-siap-menghadapi-rusia",
+      "published_date": "2026-09-18T00:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "LRT Jabodebek Uji Coba Perjalanan Pukul 05.30 WIB untuk Pengguna Whoosh",
       "source": "Republika English",
       "url": "https://republika.co.id/berita//tlij4l349/lrt-jabodebek-uji-coba-perjalanan-pukul-05-30-wib-untuk-pengguna-whoosh",
@@ -310,6 +324,69 @@
   ],
   "Local Events": [
     {
+      "title": "Tauhid Prof Jiang",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tljbp0415/tauhid-prof-jiang",
+      "published_date": "2026-09-18T00:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jurgen Klopp Panggil 44 Pemain, Timnas Jerman Dibagi Jadi Dua Skuad untuk Empat Laga",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj9c7348/jurgen-klopp-panggil-44-pemain-timnas-jerman-dibagi-jadi-dua-skuad-untuk-empat-laga",
+      "published_date": "2026-09-18T00:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Kembali Ancam Binasakan Iran, Isyarat Pakai Bom Nuklir?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj9or393/trump-kembali-ancam-binasakan-iran-isyarat-pakai-bom-nuklir",
+      "published_date": "2026-09-18T00:07:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yoga Ardika dan Uba/La Ode Lolos ke Perebutan Medali Perunggu Teqball Asian Games 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj92i348/yoga-ardika-dan-ubala-ode-lolos-ke-perebutan-medali-perunggu-teqball-asian-games-2026",
+      "published_date": "2026-09-17T23:54:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asabri Petakan TJSL Berdasarkan Target SDGs",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlj85y416/asabri-petakan-tjsl-berdasarkan-target-sdgs",
+      "published_date": "2026-09-17T23:54:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Sebut Israel di Balik Serangan Drone Menuju Makkah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj8iu393/iran-sebut-israel-di-balik-serangan-drone-menuju-makkah",
+      "published_date": "2026-09-17T23:42:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manchester City Hancurkan Norwich 5-0, Ditantang Brighton di 16 Besar Piala Liga Inggris",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj7zq348/manchester-city-hancurkan-norwich-50-ditantang-brighton-di-16-besar-piala-liga-inggris",
+      "published_date": "2026-09-17T23:31:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Basarnas Pastikan KM Virgo Transport 8 Tak Bocor, Bangkai Kapal Tenggelam 29 Meter",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj7kk370/basarnas-pastikan-km-virgo-transport-8-tak-bocor-bangkai-kapal-tenggelam-29-meter",
+      "published_date": "2026-09-17T23:21:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liga Europa: Juventus Hancurkan NEC Nijmegen 5-0, Bournemouth Tundukkan Sociedad",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlj7jq348/liga-europa-juventus-hancurkan-nec-nijmegen-50-bournemouth-tundukkan-sociedad",
+      "published_date": "2026-09-17T23:21:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Jadwal Pekan Ketiga Super League 2026/2027: Borneo vs Bali United, Persib Bertamu ke Jepara",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlikic348/jadwal-pekan-ketiga-super-league-20262027-borneo-vs-bali-united-persib-bertamu-ke-jepara",
@@ -384,69 +461,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tlhcwa370/dirjen-pajak-usulkan-rotasi-pejabat-kemenkeu-ditunda-soroti-prosedur-pengangkatan",
       "published_date": "2026-09-16T23:21:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raphinha Hattrick, Barcelona Libas Racing Santander 7-2",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlhck2348/raphinha-hattrick-barcelona-libas-racing-santander-72",
-      "published_date": "2026-09-16T23:14:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester United Tersingkir dari Piala Liga, Tekanan kepada Michael Carrick Makin Besar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlhc5c348/manchester-united-tersingkir-dari-piala-liga-tekanan-kepada-michael-carrick-makin-besar",
-      "published_date": "2026-09-16T23:05:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jenius Catat Penggunaan Layanan di 188 Negara",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlgpzh416/jenius-catat-penggunaan-layanan-di-188-negara",
-      "published_date": "2026-09-16T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Waduk Manggar Dipenuhi Gulma, Aktivitas Wisata dan Pasokan Air Terdampak",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlgkz0375/waduk-manggar-dipenuhi-gulma-aktivitas-wisata-dan-pasokan-air-terdampak",
-      "published_date": "2026-09-16T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persib Tundukkan FC Seoul, Tolic Apresiasi Perjuangan Keras Pemain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlgnqb348/persib-tundukkan-fc-seoul-tolic-apresiasi-perjuangan-keras-pemain",
-      "published_date": "2026-09-16T14:18:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putusan MK Ubah Penetapan Bencana Nasional,     Ini Indikator yang Wajib Dipenuhi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlgnon416/putusan-mk-ubah-penetapan-bencana-nasional-ini-indikator-yang-wajib-dipenuhi",
-      "published_date": "2026-09-16T14:17:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bank BSN Bidik Transaksi Digital dari Ekosistem Umrah",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tlgmoe416/bank-bsn-bidik-transaksi-digital-dari-ekosistem-umrah",
-      "published_date": "2026-09-16T13:56:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sebanyak 1.276 Dapur MBG Dihentikan Sementara Karena tak Penuhi SLHS",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlgm8b393/sebanyak-1276-dapur-mbg-dihentikan-sementara-karena-tak-penuhi-slhs",
-      "published_date": "2026-09-16T13:45:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ribuan Paket Sembako Dibagikan untuk Mahasiswa Terdampak Karhutla",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlgkh5375/ribuan-paket-sembako-dibagikan-untuk-mahasiswa-terdampak-karhutla",
-      "published_date": "2026-09-16T13:30:00+00:00",
       "category": "Local Events"
     }
   ]
