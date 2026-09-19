@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia Design Week 2026 Perluas Eksplorasi Desain ke Sejumlah Destinasi PIK",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tlm6ca456/indonesia-design-week-2026-perluas-eksplorasi-desain-ke-sejumlah-destinasi-pik",
+      "published_date": "2026-09-19T13:48:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nextgen Student League 2026 Bangun Jalur Talenta Basket Pelajar hingga NSL All Star",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlm541456/nextgen-student-league-2026-bangun-jalur-talenta-basket-pelajar-hingga-nsl-all-star",
+      "published_date": "2026-09-19T13:22:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Daftar 23 Pemain yang Dipanggil John Herdman untuk FIFA ASEAN Cup 2026",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlkdi5409/daftar-23-pemain-yang-dipanggil-john-herdman-untuk-fifa-asean-cup-2026",
@@ -125,23 +139,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tlawt4370/lima-tahun-holding-ultra-mikro-pnm-perkuat-pembiayaan-dan-pemberdayaan-keluarga-prasejahtera",
       "published_date": "2026-09-13T14:44:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Jarak Pandang Turun hingga 300 Meter, 30 Penerbangan di Bandara Supadio Dibatalkan",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlb07v375/jarak-pandang-turun-hingga-300-meter-30-penerbangan-di-bandara-supadio-dibatalkan",
-      "published_date": "2026-09-13T14:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Menpora Erick Ajak Sekjen AFC Berkeliling Kunjungi Booth ISS 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlb21d348/menpora-erick-ajak-sekjen-afc-berkeliling-kunjungi-booth-iss-2026",
-      "published_date": "2026-09-13T13:49:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Kemarau Panjang, 74 KK di Lenteng Agung Dapat Bantuan Air Bersih",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlm3cq375/kemarau-panjang-74-kk-di-lenteng-agung-dapat-bantuan-air-bersih",
+      "published_date": "2026-09-19T13:15:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Dubes RI di Moskow Imbau Warga Waspada Jebakan Kontrak Tentara Bayaran di Rusia",
       "source": "Republika English",
@@ -229,6 +236,13 @@
   ],
   "Energy": [
     {
+      "title": "Raih Posisi Puncak Fortune Indonesia 100 Gala 2026, Bukti Kinerja Positif Pertamina",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlm58g490/raih-posisi-puncak-fortune-indonesia-100-gala-2026-bukti-kinerja-positif-pertamina",
+      "published_date": "2026-09-19T13:24:16+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Dirut PT PAL Buka Peluang Ganti Mesin Kapal Induk Garibaldi",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tll5bd484/dirut-pt-pal-buka-peluang-ganti-mesin-kapal-induk-garibaldi",
@@ -304,20 +318,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tlae5n522/pertamina-patra-niaga-gandeng-pemprov-antrean-bbm-di-sejumlah-spbu-makassar-mulai-melandai",
       "published_date": "2026-09-13T13:04:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Changes Configuration and Adds Subsidized Fuel Nozzles at 12 SPBUs in Makassar",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl8prq522/pertamina-patra-niaga-ubah-konfigurasi-dan-tambah-nozzle-bbm-subsidi-12-spbu-di-makassar",
-      "published_date": "2026-09-12T13:19:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Expert Explains Economic and Environmental Potential of Mount Ungaran PLTP",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl93ti370/pakar-jelaskan-potensi-ekonomi-dan-lingkungan-pltp-gunung-ungaran",
-      "published_date": "2026-09-12T12:24:54+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -334,30 +334,44 @@
       "url": "https://ekonomi.republika.co.id/berita/tla006423/bancassurance-btn-hasilkan-rp-274-miliar-hingga-semester-i-2026",
       "published_date": "2026-09-13T00:10:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Mini LED TVs are getting more attention, dimming and color technology are becoming a mainstay",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tl8yfd451/tv-mini-led-makin-dilirik-teknologi-dimming-dan-warna-jadi-andalan",
-      "published_date": "2026-09-12T12:23:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Reaching 1.63 Million Visitors, Lawang Sewu Becomes Semarang's Heritage Tourism Magnet",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tl93l7349/tembus-163-juta-pengunjung-lawang-sewu-jadi-magnet-wisata-heritage-semarang",
-      "published_date": "2026-09-12T12:19:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Three After 5 PM Habits that are Good for Metabolic Health",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tl8x4k425/tiga-kebiasaan-setelah-jam-5-sore-yang-baik-buat-kesehatan-metabolik",
-      "published_date": "2026-09-12T10:00:20+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Piala Davis 2026: Indonesia Kalah dari Rumania, Pemain Muda Petik Pelajaran Berharga",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlm6vd348/piala-davis-2026-indonesia-kalah-dari-rumania-pemain-muda-petik-pelajaran-berharga",
+      "published_date": "2026-09-19T13:59:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bawa Pulang Karya Lokal! Serunya Petualangan BRIZZI ARKIV di Blok M Hub",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlm4ss490/bawa-pulang-karya-lokal-serunya-petualangan-brizzi-arkiv-di-blok-m-hub",
+      "published_date": "2026-09-19T13:14:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Himpaudi Jabar Desak Pemkab Indramayu Segera Cairkan Insentif Guru PAUD",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tlm4py282/himpaudi-jabar-desak-pemkab-indramayu-segera-cairkan-insentif-guru-paud",
+      "published_date": "2026-09-19T13:13:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asian Games 2026 Resmi Dibuka, Indonesia Turunkan 430 Atlet di 35 Cabor",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlm30c375/asian-games-2026-resmi-dibuka-indonesia-turunkan-430-atlet-di-35-cabor",
+      "published_date": "2026-09-19T12:36:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemerintah Pertimbangkan Kondisi UMKM dalam Kewajiban Sertifikasi Halal",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tlm1sq490/pemerintah-pertimbangkan-kondisi-umkm-dalam-kewajiban-sertifikasi-halal",
+      "published_date": "2026-09-19T12:10:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Investasi Makin Digital, BNI Sekuritas Tetap Andalkan Cabang",
       "source": "Republika English",
@@ -461,41 +475,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tlj85y416/asabri-petakan-tjsl-berdasarkan-target-sdgs",
       "published_date": "2026-09-17T23:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Sebut Israel di Balik Serangan Drone Menuju Makkah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj8iu393/iran-sebut-israel-di-balik-serangan-drone-menuju-makkah",
-      "published_date": "2026-09-17T23:42:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City Hancurkan Norwich 5-0, Ditantang Brighton di 16 Besar Piala Liga Inggris",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj7zq348/manchester-city-hancurkan-norwich-50-ditantang-brighton-di-16-besar-piala-liga-inggris",
-      "published_date": "2026-09-17T23:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Basarnas Pastikan KM Virgo Transport 8 Tak Bocor, Bangkai Kapal Tenggelam 29 Meter",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj7kk370/basarnas-pastikan-km-virgo-transport-8-tak-bocor-bangkai-kapal-tenggelam-29-meter",
-      "published_date": "2026-09-17T23:21:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liga Europa: Juventus Hancurkan NEC Nijmegen 5-0, Bournemouth Tundukkan Sociedad",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj7jq348/liga-europa-juventus-hancurkan-nec-nijmegen-50-bournemouth-tundukkan-sociedad",
-      "published_date": "2026-09-17T23:21:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jadwal Pekan Ketiga Super League 2026/2027: Borneo vs Bali United, Persib Bertamu ke Jepara",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlikic348/jadwal-pekan-ketiga-super-league-20262027-borneo-vs-bali-united-persib-bertamu-ke-jepara",
-      "published_date": "2026-09-17T15:03:48+00:00",
       "category": "Local Events"
     }
   ]
