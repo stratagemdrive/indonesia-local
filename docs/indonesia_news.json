@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Kenang Kepergian Rektor Universitas Cenderawasih, Mentrans Ajak Akademisi Lokal Bangun Papua",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlmw14291/kenang-kepergian-rektor-universitas-cenderawasih-mentrans-ajak-akademisi-lokal-bangun-papua",
+      "published_date": "2026-09-19T23:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesia Design Week 2026 Perluas Eksplorasi Desain ke Sejumlah Destinasi PIK",
       "source": "Republika English",
       "url": "https://republika.co.id/berita//tlm6ca456/indonesia-design-week-2026-perluas-eksplorasi-desain-ke-sejumlah-destinasi-pik",
@@ -132,13 +139,6 @@
       "url": "https://news.republika.co.id/berita/tlbr7d5230000/lima-tahun-holding-ultra-mikro-dorong-235-juta-nasabah-pnm-naik-kelas-ke-layanan-keuangan-formal",
       "published_date": "2026-09-13T22:45:13+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Lima Tahun Holding Ultra Mikro, PNM Perkuat Pembiayaan dan Pemberdayaan Keluarga Prasejahtera",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlawt4370/lima-tahun-holding-ultra-mikro-pnm-perkuat-pembiayaan-dan-pemberdayaan-keluarga-prasejahtera",
-      "published_date": "2026-09-13T14:44:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -224,13 +224,6 @@
       "source": "Republika English",
       "url": "https://rejabar.republika.co.id/berita/tlazl3416/260-warga-kabupaten-bandung-terima-bantuan-becak-listrik-dari-presiden",
       "published_date": "2026-09-13T12:48:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jelita Gabriella Appreciates the Rally for Environment which Combines Sports and Environmental Action",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tl9ylq423/jelita-gabriella-apresiasi-rally-for-environment-yang-gabungkan-olahraga-dan-aksi-lingkungan",
-      "published_date": "2026-09-12T23:29:50+00:00",
       "category": "Military"
     }
   ],
@@ -327,16 +320,93 @@
       "url": "https://news.republika.co.id/berita/tlferr393/kpk-sita-rp1063-m-dan-tersangkakan-8-orang-hasil-ott-bpn-bogor",
       "published_date": "2026-09-15T22:07:03+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BTN Bancassurance Generates IDR 27.4 Billion by Semester I 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tla006423/bancassurance-btn-hasilkan-rp-274-miliar-hingga-semester-i-2026",
-      "published_date": "2026-09-13T00:10:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Survei Global: 98 Persen Orang Indonesia Anggap Agama Sangat Penting dalam Kehidupan",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlmz38430/survei-global-98-persen-orang-indonesia-anggap-agama-sangat-penting-dalam-kehidupan",
+      "published_date": "2026-09-20T00:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gejolak Timur Tengah Pacu Transisi Energi, Dampaknya Belum Terlihat pada Emisi",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlmz59423/gejolak-timur-tengah-pacu-transisi-energi-dampaknya-belum-terlihat-pada-emisi",
+      "published_date": "2026-09-20T00:10:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ajang Sepak Bola Putri MilkLIfe Soccer Challenge Kembali Digelar di Sleman, Diikuti 1.294 Atlet",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tlmwgx291/ajang-sepak-bola-putri-milklife-soccer-challenge-kembali-digelar-di-sleman-diikuti-1294-atlet",
+      "published_date": "2026-09-20T00:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Induk Orangutan Peluk Anaknya Saat Dievakuasi di Tengah Lahan Terdampak Kebakaran Hutan",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlme8m375/induk-orangutan-peluk-anaknya-saat-dievakuasi-di-tengah-lahan-terdampak-kebakaran-hutan",
+      "published_date": "2026-09-20T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank BSN dan MBC Kembangkan Ekosistem Keuangan Berbasis Emas",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tlm4av416/bank-bsn-dan-mbc-kembangkan-ekosistem-keuangan-berbasis-emas",
+      "published_date": "2026-09-20T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JK: Solusi Dua Negara Jalan Tengah Konflik Palestina-Israel",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlmyjg430/jk-solusi-dua-negara-jalan-tengah-konflik-palestinaisrael",
+      "published_date": "2026-09-19T23:57:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kiandra Ramadhipa Gagal Tembus Tiga Besar Rookies Cup 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlmw0j409/kiandra-ramadhipa-gagal-tembus-tiga-besar-rookies-cup-2026",
+      "published_date": "2026-09-19T23:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terpilih Aklamasi, Ahmad Yani Basuki Kembali Pimpin PP IPHI 2026-2031",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlmbap483/terpilih-aklamasi-ahmad-yani-basuki-kembali-pimpin-pp-iphi-20262031",
+      "published_date": "2026-09-19T23:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kiai Tidjani Djauhari, Alumni Gontor Asal Madura yang Mendunia",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlmav4483/kiai-tidjani-djauhari-alumni-gontor-asal-madura-yang-mendunia",
+      "published_date": "2026-09-19T23:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kinerja Pasar Saham Bergerak Dinamis Sepekan Terakhir, IHSG Ditutup di Level 6.441",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlmwjd423/kinerja-pasar-saham-bergerak-dinamis-sepekan-terakhir-ihsg-ditutup-di-level-6441",
+      "published_date": "2026-09-19T23:14:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sumaya akan Ubah Cara Bermain demi Sabet Medali Emas Asian Games 2026 Hari Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlmvoy409/sumaya-akan-ubah-cara-bermain-demi-sabet-medali-emas-asian-games-2026-hari-ini",
+      "published_date": "2026-09-19T23:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menko PM: UMKM Perlu Akses Pasar, Bukan Sekadar Pelatihan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlm27l416/menko-pm-umkm-perlu-akses-pasar-bukan-sekadar-pelatihan",
+      "published_date": "2026-09-19T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Piala Davis 2026: Indonesia Kalah dari Rumania, Pemain Muda Petik Pelajaran Berharga",
       "source": "Republika English",
@@ -391,90 +461,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tll2tz348/thailand-juara-asian-minifootball-championship-2026-indonesia-amankan-tiket-ke-piala-dunia",
       "published_date": "2026-09-18T23:34:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Air Jet Buka Rute Kualanamu-Bandung, Pilihan Penerbangan dari Sumut Bertambah",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tll29c370/super-air-jet-buka-rute-kualanamubandung-pilihan-penerbangan-dari-sumut-bertambah",
-      "published_date": "2026-09-18T23:22:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ketika Pendidikan Tinggi Harus Menyesuaikan dengan Perjalanan Hidup Mahasiswa",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlkdbm328/ketika-pendidikan-tinggi-harus-menyesuaikan-dengan-perjalanan-hidup-mahasiswa",
-      "published_date": "2026-09-18T14:23:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atlet Para Cycling Fadli Bersiap Hadapi Tantangan di Aichi-Nagoya 2026 dengan Dukungan Toyota",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlkcyl348/atlet-para-cycling-fadli-bersiap-hadapi-tantangan-di-aichinagoya-2026-dengan-dukungan-toyota",
-      "published_date": "2026-09-18T14:15:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulhas: PAN akan Terus Mendukung Presiden Prabowo",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlkc48484/zulhas-pan-akan-terus-mendukung-presiden-prabowo",
-      "published_date": "2026-09-18T13:57:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RUU Reforma Agraria Masuk Babak Krusial, DIM Pemerintah Disorot",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tljyf6451/ruu-reforma-agraria-masuk-babak-krusial-dim-pemerintah-disorot",
-      "published_date": "2026-09-18T13:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peningkatan Keterampilan Petani Kakao Didorong untuk Perkuat Kesejahteraan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlk9va522/peningkatan-keterampilan-petani-kakao-didorong-untuk-perkuat-kesejahteraan",
-      "published_date": "2026-09-18T13:09:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pasar Kripto Sideways, Tokenisasi Aset Kian Diminati",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlk9k9370/pasar-kripto-sideways-tokenisasi-aset-kian-diminati",
-      "published_date": "2026-09-18T13:02:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tauhid Prof Jiang",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tljbp0415/tauhid-prof-jiang",
-      "published_date": "2026-09-18T00:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jurgen Klopp Panggil 44 Pemain, Timnas Jerman Dibagi Jadi Dua Skuad untuk Empat Laga",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj9c7348/jurgen-klopp-panggil-44-pemain-timnas-jerman-dibagi-jadi-dua-skuad-untuk-empat-laga",
-      "published_date": "2026-09-18T00:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Kembali Ancam Binasakan Iran, Isyarat Pakai Bom Nuklir?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj9or393/trump-kembali-ancam-binasakan-iran-isyarat-pakai-bom-nuklir",
-      "published_date": "2026-09-18T00:07:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yoga Ardika dan Uba/La Ode Lolos ke Perebutan Medali Perunggu Teqball Asian Games 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlj92i348/yoga-ardika-dan-ubala-ode-lolos-ke-perebutan-medali-perunggu-teqball-asian-games-2026",
-      "published_date": "2026-09-17T23:54:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asabri Petakan TJSL Berdasarkan Target SDGs",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tlj85y416/asabri-petakan-tjsl-berdasarkan-target-sdgs",
-      "published_date": "2026-09-17T23:54:15+00:00",
       "category": "Local Events"
     }
   ]
