@@ -143,6 +143,13 @@
   ],
   "Military": [
     {
+      "title": "Kolam Bekas Tambang di Samarinda Telan 55 Korban, Pengawasan Diperketat",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlo2wo375/kolam-bekas-tambang-di-samarinda-telan-55-korban-pengawasan-diperketat",
+      "published_date": "2026-09-21T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ratusan Warga Adukan Data Desil yang Dinilai Tak Sesuai Kondisi Ekonomi",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tlnz5p375/ratusan-warga-adukan-data-desil-yang-dinilai-tak-sesuai-kondisi-ekonomi",
@@ -290,16 +297,16 @@
       "url": "https://republika.co.id/berita//tlczn4483/kejelasan-wilayah-dinilai-menjadi-fondasi-kepastian-hukum-desa",
       "published_date": "2026-09-14T14:45:04+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Ajak Masyarakat Awasi Penyaluran BBM Subsidi di Tengah Kemarau",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tl5rxh8430000/pertamina-ajak-masyarakat-awasi-penyaluran-bbm-subsidi-di-tengah-kemarau",
-      "published_date": "2026-09-13T21:35:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Presiden akan Gratiskan Pendidikan dari SD hingga Perguruan Tinggi Negeri, Ekonom: tidak Mustahil",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlor0c423/presiden-akan-gratiskan-pendidikan-dari-sd-hingga-perguruan-tinggi-negeri-ekonom-tidak-mustahil",
+      "published_date": "2026-09-20T23:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "KPK Sita Rp106,3 M dan Tersangkakan 8 Orang Hasil OTT BPN Bogor",
       "source": "Republika English",
@@ -309,6 +316,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Harga Emas Diprediksi Bergerak Fluktuatif Pekan Ini di Kisaran Rp 2,62 Juta—Rp 2,82 Juta per Gram",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlormw423/harga-emas-diprediksi-bergerak-fluktuatif-pekan-ini-di-kisaran-rp-262-jutarp-282-juta-per-gram",
+      "published_date": "2026-09-20T23:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Membentengi RI dari 'Jalur Tikus' WNA Ilegal",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlnx7k409/membentengi-ri-dari-jalur-tikus-wna-ilegal",
+      "published_date": "2026-09-20T23:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal Asian Games 2026 Hari Ini: Indonesia Berburu Medali dari Wushu hingga Triathlon",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tloq6d393/jadwal-asian-games-2026-hari-ini-indonesia-berburu-medali-dari-wushu-hingga-triathlon",
+      "published_date": "2026-09-20T22:51:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AC Milan Hentikan Tren Negatif, Hajar Lecce 3-0 di San Siro",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tloohj1730000/ac-milan-hentikan-tren-negatif-hajar-lecce-30-di-san-siro",
+      "published_date": "2026-09-20T22:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gol Telat Cunha Selamatkan Manchester United dari Kekalahan di Kandang Fulham",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlomf23730000/gol-telat-cunha-selamatkan-manchester-united-dari-kekalahan-di-kandang-fulham",
+      "published_date": "2026-09-20T21:30:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gol Conceicao dan Bremer Bawa Juventus Kalahkan Atalanta 2-0",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlolpk3030000/gol-conceicao-dan-bremer-bawa-juventus-kalahkan-atalanta-20",
+      "published_date": "2026-09-20T21:15:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Veda Ega Pratama Finis ke-13 di Moto3 GP Austria 2026",
       "source": "Republika English",
@@ -405,48 +454,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlmw0j409/kiandra-ramadhipa-gagal-tembus-tiga-besar-rookies-cup-2026",
       "published_date": "2026-09-19T23:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terpilih Aklamasi, Ahmad Yani Basuki Kembali Pimpin PP IPHI 2026-2031",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlmbap483/terpilih-aklamasi-ahmad-yani-basuki-kembali-pimpin-pp-iphi-20262031",
-      "published_date": "2026-09-19T23:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kiai Tidjani Djauhari, Alumni Gontor Asal Madura yang Mendunia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlmav4483/kiai-tidjani-djauhari-alumni-gontor-asal-madura-yang-mendunia",
-      "published_date": "2026-09-19T23:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kinerja Pasar Saham Bergerak Dinamis Sepekan Terakhir, IHSG Ditutup di Level 6.441",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlmwjd423/kinerja-pasar-saham-bergerak-dinamis-sepekan-terakhir-ihsg-ditutup-di-level-6441",
-      "published_date": "2026-09-19T23:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sumaya akan Ubah Cara Bermain demi Sabet Medali Emas Asian Games 2026 Hari Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlmvoy409/sumaya-akan-ubah-cara-bermain-demi-sabet-medali-emas-asian-games-2026-hari-ini",
-      "published_date": "2026-09-19T23:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menko PM: UMKM Perlu Akses Pasar, Bukan Sekadar Pelatihan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlm27l416/menko-pm-umkm-perlu-akses-pasar-bukan-sekadar-pelatihan",
-      "published_date": "2026-09-19T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Piala Davis 2026: Indonesia Kalah dari Rumania, Pemain Muda Petik Pelajaran Berharga",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlm6vd348/piala-davis-2026-indonesia-kalah-dari-rumania-pemain-muda-petik-pelajaran-berharga",
-      "published_date": "2026-09-19T13:59:37+00:00",
       "category": "Local Events"
     }
   ]
