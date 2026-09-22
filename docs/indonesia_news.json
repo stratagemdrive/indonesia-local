@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "KPK Sita Dokumen dari Penggeledahan di Kantor Summarecon Bogor",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlqn5e484/kpk-sita-dokumen-dari-penggeledahan-di-kantor-summarecon-bogor",
+      "published_date": "2026-09-21T23:41:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FIFA ASEAN Cup 2026, Panggung Bergengsi Negara Asia Tenggara Setelah Piala Dunia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlqmss348/fifa-asean-cup-2026-panggung-bergengsi-negara-asia-tenggara-setelah-piala-dunia",
+      "published_date": "2026-09-21T23:34:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "IFG Life Bayarkan Klaim Rp9,4 Triliun, Premi Tumbuh 32,87 Persen",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tlptdi416/ifg-life-bayarkan-klaim-rp94-triliun-premi-tumbuh-3287-persen",
@@ -125,20 +139,6 @@
       "url": "https://esgnow.republika.co.id/berita/tleugv423/scg-dorong-transisi-hijau-inklusif-asean",
       "published_date": "2026-09-15T14:48:31+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Why ASEAN’s haze agreement doesn’t stop Indonesia’s wildfires from choking its neighbours",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/why-aseans-haze-agreement-doesnt-stop-indonesias-wildfires-from-choking-its-neighbours/",
-      "published_date": "2026-09-15T01:14:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Serikat Ojol Sebut Pengemudi Bukan Populasi Seragam, Minta Perlindungan Platform",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tldob9484/serikat-ojol-sebut-pengemudi-bukan-populasi-seragam-minta-perlindungan-platform",
-      "published_date": "2026-09-14T23:37:57+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -211,16 +211,23 @@
       "url": "https://esgnow.republika.co.id/berita/tleraw416/kualitas-udara-memburuk-akibat-karhutla-perlindungan-warga-diperkuat",
       "published_date": "2026-09-15T14:45:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "WNI yang Jadi Tentara Rusia Bersurat ke KBRI, Menlu, dan Presiden: Minta Dipulangkan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tldntv484/wni-yang-jadi-tentara-rusia-bersurat-ke-kbri-menlu-dan-presiden-minta-dipulangkan",
-      "published_date": "2026-09-14T23:27:31+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Perluas Akses Pasar Global 7 UMK di CAEXPO 2026",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlqpsy522/pertamina-perluas-akses-pasar-global-7-umk-di-caexpo-2026",
+      "published_date": "2026-09-22T00:38:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Terapi Baru GERD Hadir di Indonesia, Dokter: Pasien tak Perlu Putus Asa",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tlqp84328/terapi-baru-gerd-hadir-di-indonesia-dokter-pasien-tak-perlu-putus-asa",
+      "published_date": "2026-09-22T00:26:28+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina Trans Kontinental Perkuat Dukungan Maritim untuk Distribusi Biodiesel di Indonesia",
       "source": "Republika English",
@@ -317,6 +324,62 @@
   ],
   "Local Events": [
     {
+      "title": "Pemain Timnas Asal Persija dan Persib Kompak Ajak Fans Penuhi GBK Dukung Skuad Garuda",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlqrbo348/pemain-timnas-asal-persija-dan-persib-kompak-ajak-fans-penuhi-gbk-dukung-skuad-garuda",
+      "published_date": "2026-09-22T01:11:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kisah Perjuangan Ulama dan Santri Gontor Hadapi Ancaman Maut Pemberontakan PKI 1948",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlqq1q430/kisah-perjuangan-ulama-dan-santri-gontor-hadapi-ancaman-maut-pemberontakan-pki-1948",
+      "published_date": "2026-09-22T00:44:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Untuk Pertama Kalinya Setelah Tiga Tahun, Pelajar Gaza Belajar Tatap Muka di Kelas",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlqonq430/untuk-pertama-kalinya-setelah-tiga-tahun-pelajar-gaza-belajar-tatap-muka-di-kelas",
+      "published_date": "2026-09-22T00:14:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viral Unggahan Perilaku Korban Daycare Aresha, Psikolog Ungkap Tanda Trauma pada Anak",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tlqo7x425/viral-unggahan-perilaku-korban-daycare-aresha-psikolog-ungkap-tanda-trauma-pada-anak",
+      "published_date": "2026-09-22T00:04:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terseret Kasus Beli Sertifikat Vaksin Covid-19, Granit Xhaka Absen Bela Swiss",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlqo3a348/terseret-kasus-beli-sertifikat-vaksin-covid19-granit-xhaka-absen-bela-swiss",
+      "published_date": "2026-09-22T00:01:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bukan Hanya Korporasi, Solusi Keberlanjutan Tumbuh dari Masyarakat",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlqnqo416/bukan-hanya-korporasi-solusi-keberlanjutan-tumbuh-dari-masyarakat",
+      "published_date": "2026-09-21T23:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal Asian Games 2026 Hari Ini: Tim Bulu Tangkis Beregu Indonesia Berjuang ke Semifinal",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlqn6r348/jadwal-asian-games-2026-hari-ini-tim-bulu-tangkis-beregu-indonesia-berjuang-ke-semifinal",
+      "published_date": "2026-09-21T23:42:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Obat Ilegal Berpotensi Rugikan Konsumen, Ini Cara Cek Legalitasnya",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlqms1430/obat-ilegal-berpotensi-rugikan-konsumen-ini-cara-cek-legalitasnya",
+      "published_date": "2026-09-21T23:33:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran akan Ubah Geografis Perang dan Gunakan Senjata Terbaru, IRGC: Dunia akan Terkejut",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlq1ge409/iran-akan-ubah-geografis-perang-dan-gunakan-senjata-terbaru-irgc-dunia-akan-terkejut",
@@ -398,62 +461,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tlo0lv375/world-cleanup-day-2026-anak-muda-bergerak-bersihkan-jakarta",
       "published_date": "2026-09-20T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Kawinkan Gelar Juara SEABA U17 3x3 Championship 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlo0g6348/indonesia-kawinkan-gelar-juara-seaba-u17-3x3-championship-2026",
-      "published_date": "2026-09-20T13:36:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polisi Ungkap Motif Tersangka Tendang Perempuan di Senayan City",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlo01l348/polisi-ungkap-motif-tersangka-tendang-perempuan-di-senayan-city",
-      "published_date": "2026-09-20T13:27:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jelang Wajib Halal, DPR Minta BPJPH Perluas Pendampingan UMK",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tlnzfd416/jelang-wajib-halal-dpr-minta-bpjph-perluas-pendampingan-umk",
-      "published_date": "2026-09-20T13:17:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menpora Erick Apresiasi Perjuangan Sumaya Persembahkan Perak Pertama untuk Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlnzf7348/menpora-erick-apresiasi-perjuangan-sumaya-persembahkan-perak-pertama-untuk-indonesia",
-      "published_date": "2026-09-20T13:13:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imam Al-Ghazali Dituduh Diam Saat Yerusalem Direbut Pasukan Salib, Apa Sikapnya terhadap Jihad?",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlnyxx320/imam-alghazali-dituduh-diam-saat-yerusalem-direbut-pasukan-salib-apa-sikapnya-terhadap-jihad",
-      "published_date": "2026-09-20T13:03:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survei Global: 98 Persen Orang Indonesia Anggap Agama Sangat Penting dalam Kehidupan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlmz38430/survei-global-98-persen-orang-indonesia-anggap-agama-sangat-penting-dalam-kehidupan",
-      "published_date": "2026-09-20T00:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gejolak Timur Tengah Pacu Transisi Energi, Dampaknya Belum Terlihat pada Emisi",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tlmz59423/gejolak-timur-tengah-pacu-transisi-energi-dampaknya-belum-terlihat-pada-emisi",
-      "published_date": "2026-09-20T00:10:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ajang Sepak Bola Putri MilkLIfe Soccer Challenge Kembali Digelar di Sleman, Diikuti 1.294 Atlet",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tlmwgx291/ajang-sepak-bola-putri-milklife-soccer-challenge-kembali-digelar-di-sleman-diikuti-1294-atlet",
-      "published_date": "2026-09-20T00:06:00+00:00",
       "category": "Local Events"
     }
   ]
