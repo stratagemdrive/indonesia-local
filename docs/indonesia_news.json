@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Komisi I DPR Tuntaskan Fit and Proper Test, Dubes Iran Baru Setahun Diganti",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlud0x484/komisi-i-dpr-tuntaskan-fit-and-proper-test-dubes-iran-baru-setahun-diganti",
+      "published_date": "2026-09-23T23:53:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Omzet Pengusaha Naik Usai Bersertifikasi Halal, Pendampingan UMKM Dinilai Bangun Ekosistem",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tlto34483/omzet-pengusaha-naik-usai-bersertifikasi-halal-pendampingan-umkm-dinilai-bangun-ekosistem",
@@ -132,13 +139,6 @@
       "url": "https://news.republika.co.id/berita/tlkblb393/rayakan-hut-ke28-pan-luncurkan-gerakan-pansar-murah-nasional",
       "published_date": "2026-09-18T13:46:23+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Dana SAL Rp 299 Triliun di Perbankan, Rp 200 Triliun Dipertahankan hingga Juli 2027",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlk9rl423/dana-sal-rp-299-triliun-di-perbankan-rp-200-triliun-dipertahankan-hingga-juli-2027",
-      "published_date": "2026-09-18T13:15:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -218,23 +218,23 @@
       "url": "https://visual.republika.co.id/berita/tlifx5375/kapal-induk-italia-giuseppe-garibaldi-tiba-di-indonesia-dikawal-kri-tni-al",
       "published_date": "2026-09-17T15:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ramai Utas Skin Booster dari 'Kulit Mayat', Dokter Jelaskan Fakta Medisnya",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlhfkn425/ramai-utas-skin-booster-dari-kulit-mayat-dokter-jelaskan-fakta-medisnya",
-      "published_date": "2026-09-17T00:19:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone Tempur Otonom AS Segera Terbang Bersama F-35",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlhbvc451/drone-tempur-otonom-as-segera-terbang-bersama-f35",
-      "published_date": "2026-09-16T22:59:36+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pendanaan Pengelolaan Sampah Organik Dinilai Masih Timpang",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tluece423/pendanaan-pengelolaan-sampah-organik-dinilai-masih-timpang",
+      "published_date": "2026-09-24T00:35:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "AFT Kualanamu Salurkan 364 KL Avtur untuk Penerbangan Domestik dan Internasional",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tltsi2375/aft-kualanamu-salurkan-364-kl-avtur-untuk-penerbangan-domestik-dan-internasional",
+      "published_date": "2026-09-24T00:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Nonton MotoGP Mandalika, Tiket via Wondr BNI Dapat Diskon Rp300 Ribu",
       "source": "Republika English",
@@ -318,13 +318,6 @@
       "url": "https://news.republika.co.id/berita/tlkxs69330000/gasperini-akui-as-roma-belum-selevel-inter-milan-jelang-duel-puncak-klasemen",
       "published_date": "2026-09-18T21:45:42+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Petugas Gabungan Gelar Razia Blok Hunian Lapas Kelas IIA Palu",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlgyiw375/petugas-gabungan-gelar-razia-blok-hunian-lapas-kelas-iia-palu",
-      "published_date": "2026-09-17T00:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -337,6 +330,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Tim Penyelam TNI AL Temukan 15 Jenazah Korban KM Virgo Transport 8",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tluftf484/tim-penyelam-tni-al-temukan-15-jenazah-korban-km-virgo-transport-8",
+      "published_date": "2026-09-24T00:53:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sejumlah Harga Pangan Naik, Kemendag Pastikan Segera Bisa Terkendali",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlueqo423/sejumlah-harga-pangan-naik-kemendag-pastikan-segera-bisa-terkendali",
+      "published_date": "2026-09-24T00:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "90 Proyek, 11 Miliar Dolar, Nol Sekretariat: Ambisi C8 yang Dipertanyakan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tluf51451/90-proyek-11-miliar-dolar-nol-sekretariat-ambisi-c8-yang-dipertanyakan",
+      "published_date": "2026-09-24T00:39:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UU Reforma Agraria Disahkan, PDIP Sampaikan Sembilan Catatan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlueyw416/uu-reforma-agraria-disahkan-pdip-sampaikan-sembilan-catatan",
+      "published_date": "2026-09-24T00:35:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump-Xi Bertemu di Washington, Eropa Terjepit Tarif, Tanah Jarang, dan AI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tludzk451/trumpxi-bertemu-di-washington-eropa-terjepit-tarif-tanah-jarang-dan-ai",
+      "published_date": "2026-09-24T00:14:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pos AHASS Tefa Perkuat SDM Unggul dan Dukung Solusi Mobilitas",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tludst423/pos-ahass-tefa-perkuat-sdm-unggul-dan-dukung-solusi-mobilitas",
+      "published_date": "2026-09-24T00:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antisipasi Banjir, GP Ansor Siapkan Aksi Bersih Sungai",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tltspw416/antisipasi-banjir-gp-ansor-siapkan-aksi-bersih-sungai",
+      "published_date": "2026-09-24T00:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Jerawat Bandel Nggak Kunjung Sembuh? Cek DNA Kulit Pakai SkinSignal",
       "source": "Republika English",
@@ -426,55 +468,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlsi1m393/kpk-bupati-bolmut-kantongi-rp1153-miliar-uang-haram-hasil-korupsi",
       "published_date": "2026-09-22T23:46:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sriboga Flour Mill Gandeng Human Initiative Bantu Penyintas Gempa NTT",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tlroy3349/sriboga-flour-mill-gandeng-human-initiative-bantu-penyintas-gempa-ntt",
-      "published_date": "2026-09-22T14:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiga Korban Ditemukan di Badan KMP Virgo yang Tenggelam, Satu Jenazah Ditemukan di Kalteng",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tlrrg1282/tiga-korban-ditemukan-di-badan-kmp-virgo-yang-tenggelam-satu-jenazah-ditemukan-di-kalteng",
-      "published_date": "2026-09-22T14:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Logo dan Tema Hari Santri 2026 Diluncurkan, Menag Ingatkan Peran Ulama-Santri",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlrrby366/logo-dan-tema-hari-santri-2026-diluncurkan-menag-ingatkan-peran-ulamasantri",
-      "published_date": "2026-09-22T14:09:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemenangan Ubed Pastikan Tim Putra Indonesia Lolos ke Semifinal Bulu Tangkis Asian Games",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlrrbb348/kemenangan-ubed-pastikan-tim-putra-indonesia-lolos-ke-semifinal-bulu-tangkis-asian-games",
-      "published_date": "2026-09-22T14:09:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Studi Stanford dan UC Berkeley Uji Keamanan AI Kesehatan",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlrjgv416/studi-stanford-dan-uc-berkeley-uji-keamanan-ai-kesehatan",
-      "published_date": "2026-09-22T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemain Timnas Asal Persija dan Persib Kompak Ajak Fans Penuhi GBK Dukung Skuad Garuda",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlqrbo348/pemain-timnas-asal-persija-dan-persib-kompak-ajak-fans-penuhi-gbk-dukung-skuad-garuda",
-      "published_date": "2026-09-22T01:11:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kisah Perjuangan Ulama dan Santri Gontor Hadapi Ancaman Maut Pemberontakan PKI 1948",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlqq1q430/kisah-perjuangan-ulama-dan-santri-gontor-hadapi-ancaman-maut-pemberontakan-pki-1948",
-      "published_date": "2026-09-22T00:44:14+00:00",
       "category": "Local Events"
     }
   ]
