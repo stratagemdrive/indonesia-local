@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Kocaknya Dokter Bobby Ingatkan Bahaya Rokok dengan Gaya Satire",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tlw9sb425/kocaknya-dokter-bobby-ingatkan-bahaya-rokok-dengan-gaya-satire",
+      "published_date": "2026-09-25T00:38:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Perpusnas Tetapkan Babad Besuki Situbondo sebagai Ingatan Kolektif Nasional 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlw4je4130000/perpusnas-tetapkan-babad-besuki-situbondo-sebagai-ingatan-kolektif-nasional-2026",
+      "published_date": "2026-09-24T22:45:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The Dudas Full Support FIFA ASEAN CUP",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tlvke6560924841/the-dudas-full-support-fifa-asean-cup",
@@ -125,23 +139,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tlo1m5348/hyundai-dan-shell-perpanjang-kemitraan-global-gelar-program-pelanggan-di-indonesia",
       "published_date": "2026-09-20T14:01:17+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Luke Vickery dan Maarten Paes Antusias Sambut FIFA ASEAN Cup 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlnztr348/luke-vickery-dan-maarten-paes-antusias-sambut-fifa-asean-cup-2026",
-      "published_date": "2026-09-20T13:47:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenang Kepergian Rektor Universitas Cenderawasih, Mentrans Ajak Akademisi Lokal Bangun Papua",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlmw14291/kenang-kepergian-rektor-universitas-cenderawasih-mentrans-ajak-akademisi-lokal-bangun-papua",
-      "published_date": "2026-09-19T23:03:04+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Waspada Penipuan Berkedok Aktivasi IKD di Cimahi, Pahami Modusnya agar Rekening tak Terkuras",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tlwaiv416/waspada-penipuan-berkedok-aktivasi-ikd-di-cimahi-pahami-modusnya-agar-rekening-tak-terkuras",
+      "published_date": "2026-09-25T00:54:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Imnologi Ekonomi",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tlw7p8393/imnologi-ekonomi",
+      "published_date": "2026-09-24T23:53:32+00:00",
+      "category": "Military"
+    },
     {
       "title": "KRI Sriwijaya-100 Resmi Masuk Armada TNI AL, Jadi Kapal Induk Pertama Indonesia",
       "source": "Republika English",
@@ -228,6 +242,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Melihat PLTS Sei Mangkei, Langkah Pengembangan Energi Hijau di Sumatra Utara",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlvorr375/melihat-plts-sei-mangkei-langkah-pengembangan-energi-hijau-di-sumatra-utara",
+      "published_date": "2026-09-25T00:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Delegasi RI Ikut Boikot Pidato Netanyahu di Sidang Majelis Umum PBB",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlw6tb409/delegasi-ri-ikut-boikot-pidato-netanyahu-di-sidang-majelis-umum-pbb",
+      "published_date": "2026-09-24T23:34:23+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Ada Dirjen Pesantren, Menag Tegaskan akan Tertibkan Pesantren 'Abal-Abal'",
       "source": "Republika English",
@@ -345,6 +373,48 @@
   ],
   "Local Events": [
     {
+      "title": "Potensi PSI Dijegal Masuk Parlemen, Jokowi: Semuanya Bekerja Keras",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlw80d484/potensi-psi-dijegal-masuk-parlemen-jokowi-semuanya-bekerja-keras",
+      "published_date": "2026-09-25T00:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cabang Atletik dan Angkat Besi Berpeluang Tambah Medali untuk Indonesia Hari Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlw6dc409/cabang-atletik-dan-angkat-besi-berpeluang-tambah-medali-untuk-indonesia-hari-ini",
+      "published_date": "2026-09-24T23:24:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bongkar Kasus HGB Summarecon, KPK Kini Geledah Kanwil BPN Jatim",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlw64o484/bongkar-kasus-hgb-summarecon-kpk-kini-geledah-kanwil-bpn-jatim",
+      "published_date": "2026-09-24T23:19:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lewat 'Dessous du Sourire', Wissem Bouzaza Suarakan Pengalamannya tentang Dunia Kedokteran Gigi",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tlw3i6291/lewat-dessous-du-sourire-wissem-bouzaza-suarakan-pengalamannya-tentang-dunia-kedokteran-gigi",
+      "published_date": "2026-09-24T23:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cek Venue Latihan Para Pemain di Bandung, Ketum PSSI Pastikan Kenyamanan Peserta FIFA ASEAN Cup 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlw5bx348/cek-venue-latihan-para-pemain-di-bandung-ketum-pssi-pastikan-kenyamanan-peserta-fifa-asean-cup-2026",
+      "published_date": "2026-09-24T23:02:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BP2B Sambut RUU Daerah Kepulauan, Harapkan Akses Bawean Makin Terbuka",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlvilg416/bp2b-sambut-ruu-daerah-kepulauan-harapkan-akses-bawean-makin-terbuka",
+      "published_date": "2026-09-24T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Berbeda Tempat Tumbuh Satu Jiwa Garuda Ini Rumah Kita",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tlvke11485785444/berbeda-tempat-tumbuh-satu-jiwa-garuda-ini-rumah-kita",
@@ -440,48 +510,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tltmp1425/jerawat-bandel-nggak-kunjung-sembuh-cek-dna-kulit-pakai-skinsignal",
       "published_date": "2026-09-23T14:24:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OJK: Belum Ada Investor Ajukan Kepemilikan Saham BEI di Atas 5 Persen",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tltm2l370/ojk-belum-ada-investor-ajukan-kepemilikan-saham-bei-di-atas-5-persen",
-      "published_date": "2026-09-23T14:11:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pak Yai Hasan dan Sebuah Percakapan tentang Wali Allah",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tltlx3451/pak-yai-hasan-dan-sebuah-percakapan-tentang-wali-allah",
-      "published_date": "2026-09-23T14:07:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kabut Asap Pekat Selimuti Pontianak, Kualitas Udara Masuk Kategori Sangat Berbahaya",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tltgia375/kabut-asap-pekat-selimuti-pontianak-kualitas-udara-masuk-kategori-sangat-berbahaya",
-      "published_date": "2026-09-23T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembiayaan Naik 11 Persen, Ini Jurus ACC Penuhi Target 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tltlgy370/pembiayaan-naik-11-persen-ini-jurus-acc-penuhi-target-2026",
-      "published_date": "2026-09-23T13:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toyota: Elektrifikasi Buka Ruang Penguatan Industri Otomotif Nasional",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tltkze348/toyota-elektrifikasi-buka-ruang-penguatan-industri-otomotif-nasional",
-      "published_date": "2026-09-23T13:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPR Dorong Peremajaan Armada dan Peningkatan Layanan KAI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tltkob451/dpr-dorong-peremajaan-armada-dan-peningkatan-layanan-kai",
-      "published_date": "2026-09-23T13:40:59+00:00",
       "category": "Local Events"
     }
   ]
