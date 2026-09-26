@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Mendikdasmen Dorong OPSI 2026 Bangun Budaya Ilmiah Pelajar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlz3cs490/mendikdasmen-dorong-opsi-2026-bangun-budaya-ilmiah-pelajar",
+      "published_date": "2026-09-26T13:12:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tingkatkan Budaya Ilmiah Pelajar, UMJ Jadi Tuan Rumah OPSI Tingkat Nasional 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlz31l490/tingkatkan-budaya-ilmiah-pelajar-umj-jadi-tuan-rumah-opsi-tingkat-nasional-2026",
+      "published_date": "2026-09-26T13:05:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Bangun Tujuh Proyek, Bank Jakarta dan PT SMI Kucurkan Dana Rp 2,11 Triliun",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tly5cr484/bangun-tujuh-proyek-bank-jakarta-dan-pt-smi-kucurkan-dana-rp-211-triliun",
@@ -125,20 +139,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tltlmy370/fifgroup-bukukan-pembiayaan-rp3009-triliun-tumbuh-88-persen",
       "published_date": "2026-09-23T14:01:46+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Air Mata Kiai Hasan Abdullah Sahal di Seratus Tahun Gontor",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tltkyg451/air-mata-kiai-hasan-abdullah-sahal-di-seratus-tahun-gontor",
-      "published_date": "2026-09-23T13:47:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Calvin Verdonk Akhirnya Tiba di Tanah Air, Siap Perkuat Timnas di FIFA ASEAN Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlsiwz348/calvin-verdonk-akhirnya-tiba-di-tanah-air-siap-perkuat-timnas-di-fifa-asean-cup",
-      "published_date": "2026-09-23T00:05:23+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -232,16 +232,30 @@
       "url": "https://visual.republika.co.id/berita/tlnz5p375/ratusan-warga-adukan-data-desil-yang-dinilai-tak-sesuai-kondisi-ekonomi",
       "published_date": "2026-09-20T13:08:13+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Kemarau Panjang, 74 KK di Lenteng Agung Dapat Bantuan Air Bersih",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlm3cq375/kemarau-panjang-74-kk-di-lenteng-agung-dapat-bantuan-air-bersih",
-      "published_date": "2026-09-19T13:15:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina NRE Hadirkan Energi Surya dan Air Bersih di SD Gunung Bayu Simalungun",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlz3xj490/pertamina-nre-hadirkan-energi-surya-dan-air-bersih-di-sd-gunung-bayu-simalungun",
+      "published_date": "2026-09-26T13:24:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Patra Niaga Dorong Perempuan Berdaya dan Mandiri Lewat Program CSR Berbasis Potensi Lokal",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlz3ph522/pertamina-patra-niaga-dorong-perempuan-berdaya-dan-mandiri-lewat-program-csr-berbasis-potensi-lokal",
+      "published_date": "2026-09-26T13:20:05+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Raih The Best Service Quality Management Team & Best Agent Digital Email Publik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tlz3nx490/pertamina-raih-the-best-service-quality-management-team-best-agent-digital-email-publik",
+      "published_date": "2026-09-26T13:19:09+00:00",
+      "category": "Energy"
+    },
     {
       "title": "LPJK RI Tinjau Robot Konstruksi Canggih di Kompetisi Guangzhou",
       "source": "Republika English",
@@ -346,13 +360,6 @@
       "url": "https://news.republika.co.id/berita/tlo027416/pertamina-mandalika-racing-series-jadi-wadah-ekosistem-motorsport-nasional-menuju-panggung-dunia",
       "published_date": "2026-09-20T13:29:25+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Raih Posisi Puncak Fortune Indonesia 100 Gala 2026, Bukti Kinerja Positif Pertamina",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlm58g490/raih-posisi-puncak-fortune-indonesia-100-gala-2026-bukti-kinerja-positif-pertamina",
-      "published_date": "2026-09-19T13:24:16+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -365,6 +372,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Suasana Haru Iringi Pemakaman Guruh Soekarnoputra di TPU Karet Bivak",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tlz6se375/suasana-haru-iringi-pemakaman-guruh-soekarnoputra-di-tpu-karet-bivak",
+      "published_date": "2026-09-26T14:26:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jokowi Pamer KTA di Bandung: Saya Keluarga Besar PSI Sejak 14 Oktober 2025",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlz671487/jokowi-pamer-kta-di-bandung-saya-keluarga-besar-psi-sejak-14-oktober-2025",
+      "published_date": "2026-09-26T14:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "APHI Sambut Arahan Pemerintah Perkuat Pencegahan Karhutla",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tlz14k522/aphi-sambut-arahan-pemerintah-perkuat-pencegahan-karhutla",
+      "published_date": "2026-09-26T12:24:20+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Trump Terjepit 40 Hari Jelang Pemilu, Masalah Datang dari Partainya Sendiri",
       "source": "Republika English",
@@ -482,27 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlvilg416/bp2b-sambut-ruu-daerah-kepulauan-harapkan-akses-bawean-makin-terbuka",
       "published_date": "2026-09-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berbeda Tempat Tumbuh Satu Jiwa Garuda Ini Rumah Kita",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tlvke11485785444/berbeda-tempat-tumbuh-satu-jiwa-garuda-ini-rumah-kita",
-      "published_date": "2026-09-24T15:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salah Satunya Pahala Syahid, Ini 5 Hukum Khusus Terkait Korban Jiwa Tenggelam Menurut Islam",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlvkcg320/salah-satunya-pahala-syahid-ini-5-hukum-khusus-terkait-korban-jiwa-tenggelam-menurut-islam",
-      "published_date": "2026-09-24T15:29:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menpora Erick Thohir: Emas Beregu Putra Bulu Tangkis Bukti Indonesia Sejajar di Asia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlvk2d348/menpora-erick-thohir-emas-beregu-putra-bulu-tangkis-bukti-indonesia-sejajar-di-asia",
-      "published_date": "2026-09-24T15:23:01+00:00",
       "category": "Local Events"
     }
   ]
