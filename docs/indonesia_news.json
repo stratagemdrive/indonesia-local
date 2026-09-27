@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "FIFA ASEAN Cup 2026: Thailand dan Vietnam Buka Kiprah dengan Kemenangan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzw66348/fifa-asean-cup-2026-thailand-dan-vietnam-buka-kiprah-dengan-kemenangan",
+      "published_date": "2026-09-26T23:34:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Mendikdasmen Dorong OPSI 2026 Bangun Budaya Ilmiah Pelajar",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlz3cs490/mendikdasmen-dorong-opsi-2026-bangun-budaya-ilmiah-pelajar",
@@ -132,16 +139,16 @@
       "url": "https://ameera.republika.co.id/berita/tltbdh451/ponsel-baterai-8340-mah-ini-turun-harga-rp600-ribu",
       "published_date": "2026-09-23T14:15:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "FIFGROUP Bukukan Pembiayaan Rp30,09 Triliun, Tumbuh 8,8 Persen",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tltlmy370/fifgroup-bukukan-pembiayaan-rp3009-triliun-tumbuh-88-persen",
-      "published_date": "2026-09-23T14:01:46+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Dana Haji Capai Rp 180,72 Triliun, BPKH Raih Penghargaan",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tlzw6j430/dana-haji-capai-rp-18072-triliun-bpkh-raih-penghargaan",
+      "published_date": "2026-09-26T23:35:07+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sengketa Lahan di Menteng, Kapuspen TNI: Berstatus Barang Milik Negara",
       "source": "Republika English",
@@ -373,6 +380,76 @@
   ],
   "Local Events": [
     {
+      "title": "Lima Kebiasaan Sederhana yang Diklaim Bisa Turunkan Risiko Kanker Usus Besar",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tlzz4d425/lima-kebiasaan-sederhana-yang-diklaim-bisa-turunkan-risiko-kanker-usus-besar",
+      "published_date": "2026-09-27T00:38:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenali Sinyal Kulit, Langkah Awal Jaga Kesehatan Kulit Jangka Panjang",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tlzyn7328/kenali-sinyal-kulit-langkah-awal-jaga-kesehatan-kulit-jangka-panjang",
+      "published_date": "2026-09-27T00:28:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Timnas Panjat Tebing Indonesia Jajal Arena Asian Games 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzy3t348/timnas-panjat-tebing-indonesia-jajal-arena-asian-games-2026",
+      "published_date": "2026-09-27T00:16:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bebersih Leuweung di Titik Awal Napas Kehidupan Warga Jabar dan Jakarta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzx13393/bebersih-leuweung-di-titik-awal-napas-kehidupan-warga-jabar-dan-jakarta",
+      "published_date": "2026-09-27T00:11:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jokowi Dipastikan Jadi Ketua Dewan Pembina PSI pada November",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzxeq328/jokowi-dipastikan-jadi-ketua-dewan-pembina-psi-pada-november",
+      "published_date": "2026-09-27T00:01:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kiandra Ramadhipa Start dari Posisi Kelima di Moto3 Junior Aragon, Bidik Berdiri di Podium",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzvjw348/kiandra-ramadhipa-start-dari-posisi-kelima-di-moto3-junior-aragon-bidik-berdiri-di-podium",
+      "published_date": "2026-09-26T23:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal Asian Games 2026 Hari Ini: Sejumlah Atlet Indonesia Berburu Medali",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzv93348/jadwal-asian-games-2026-hari-ini-sejumlah-atlet-indonesia-berburu-medali",
+      "published_date": "2026-09-26T23:15:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guruh Soekarnoputra: Taksu Nusantara, Penerjemah Pancasila dalam Bahasa Keindahan",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tlzv3b320/guruh-soekarnoputra-taksu-nusantara-penerjemah-pancasila-dalam-bahasa-keindahan",
+      "published_date": "2026-09-26T23:11:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wamenpora Taufik Hidayat Optimistis Indonesia Capai Target Medali di Asian Games 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzuoi348/wamenpora-taufik-hidayat-optimistis-indonesia-capai-target-medali-di-asian-games-2026",
+      "published_date": "2026-09-26T23:02:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kepadatan KRL Green Line Over Kapasitas, Kemenhub dan KAI Didorong Tambah Rangkaian",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tlzubu425/kepadatan-krl-green-line-over-kapasitas-kemenhub-dan-kai-didorong-tambah-rangkaian",
+      "published_date": "2026-09-26T22:55:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Suasana Haru Iringi Pemakaman Guruh Soekarnoputra di TPU Karet Bivak",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tlz6se375/suasana-haru-iringi-pemakaman-guruh-soekarnoputra-di-tpu-karet-bivak",
@@ -440,76 +517,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tlxdfc366/imam-besar-dunia-berkumpul-di-istiqlal-doakan-persatuan-umat-dan-al-aqsa",
       "published_date": "2026-09-25T14:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City Dinyatakan Bersalah atas 114 dari 115 Dakwaan Pelanggaran Finansial, Sanksi Menanti",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlxcbo348/manchester-city-dinyatakan-bersalah-atas-114-dari-115-dakwaan-pelanggaran-finansial-sanksi-menanti",
-      "published_date": "2026-09-25T14:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebih dari 2 Juta Kasus Demensia di Indonesia, Ciputra Hospital Buka Memory Clinic",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlwkzu349/lebih-dari-2-juta-kasus-demensia-di-indonesia-ciputra-hospital-buka-memory-clinic",
-      "published_date": "2026-09-25T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemenag Luncurkan e-SMART Perkuat Kapasitas Komite Madrasah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlxbrm416/kemenag-luncurkan-esmart-perkuat-kapasitas-komite-madrasah",
-      "published_date": "2026-09-25T14:20:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hyori Mika Buka-bukaan Soal Tantangan Kabur dari Rumah di Film Desember Jani",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlwzxn425/hyori-mika-bukabukaan-soal-tantangan-kabur-dari-rumah-di-film-desember-jani",
-      "published_date": "2026-09-25T14:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Potensi PSI Dijegal Masuk Parlemen, Jokowi: Semuanya Bekerja Keras",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlw80d484/potensi-psi-dijegal-masuk-parlemen-jokowi-semuanya-bekerja-keras",
-      "published_date": "2026-09-25T00:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabang Atletik dan Angkat Besi Berpeluang Tambah Medali untuk Indonesia Hari Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlw6dc409/cabang-atletik-dan-angkat-besi-berpeluang-tambah-medali-untuk-indonesia-hari-ini",
-      "published_date": "2026-09-24T23:24:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bongkar Kasus HGB Summarecon, KPK Kini Geledah Kanwil BPN Jatim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlw64o484/bongkar-kasus-hgb-summarecon-kpk-kini-geledah-kanwil-bpn-jatim",
-      "published_date": "2026-09-24T23:19:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lewat 'Dessous du Sourire', Wissem Bouzaza Suarakan Pengalamannya tentang Dunia Kedokteran Gigi",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tlw3i6291/lewat-dessous-du-sourire-wissem-bouzaza-suarakan-pengalamannya-tentang-dunia-kedokteran-gigi",
-      "published_date": "2026-09-24T23:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cek Venue Latihan Para Pemain di Bandung, Ketum PSSI Pastikan Kenyamanan Peserta FIFA ASEAN Cup 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlw5bx348/cek-venue-latihan-para-pemain-di-bandung-ketum-pssi-pastikan-kenyamanan-peserta-fifa-asean-cup-2026",
-      "published_date": "2026-09-24T23:02:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BP2B Sambut RUU Daerah Kepulauan, Harapkan Akses Bawean Makin Terbuka",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlvilg416/bp2b-sambut-ruu-daerah-kepulauan-harapkan-akses-bawean-makin-terbuka",
-      "published_date": "2026-09-24T23:00:00+00:00",
       "category": "Local Events"
     }
   ]
