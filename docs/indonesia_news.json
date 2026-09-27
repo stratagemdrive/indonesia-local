@@ -143,6 +143,13 @@
   ],
   "Military": [
     {
+      "title": "Maulid Nabi di Masjid Istiqlal, Ketum PDBN Ajak Warga Demak Rawat Silaturahim dan Pengabdian",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm0xro320/maulid-nabi-di-masjid-istiqlal-ketum-pdbn-ajak-warga-demak-rawat-silaturahim-dan-pengabdian",
+      "published_date": "2026-09-27T13:07:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Dana Haji Capai Rp 180,72 Triliun, BPKH Raih Penghargaan",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tlzw6j430/dana-haji-capai-rp-18072-triliun-bpkh-raih-penghargaan",
@@ -232,16 +239,30 @@
       "url": "https://visual.republika.co.id/berita/tlo2wo375/kolam-bekas-tambang-di-samarinda-telan-55-korban-pengawasan-diperketat",
       "published_date": "2026-09-21T00:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ratusan Warga Adukan Data Desil yang Dinilai Tak Sesuai Kondisi Ekonomi",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlnz5p375/ratusan-warga-adukan-data-desil-yang-dinilai-tak-sesuai-kondisi-ekonomi",
-      "published_date": "2026-09-20T13:08:13+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "ARF: Golkar Apresiasi Kebijakan Bahlil Impor BBM yang Optimal",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm138v451/arf-golkar-apresiasi-kebijakan-bahlil-impor-bbm-yang-optimal",
+      "published_date": "2026-09-27T15:05:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Di Hadapan Para Imam Dunia, Imam Al-Aqsa Syekh Hussein Sentil Persatuan Umat",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm0yjq320/di-hadapan-para-imam-dunia-imam-alaqsa-syekh-hussein-sentil-persatuan-umat",
+      "published_date": "2026-09-27T13:23:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Dari Bali untuk Dunia, Pertamax Turbo Dukung Aksi 1.000 Riders BMW",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm0x95522/dari-bali-untuk-dunia-pertamax-turbo-dukung-aksi-1000-riders-bmw",
+      "published_date": "2026-09-27T12:55:53+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Pertamina NRE Hadirkan Energi Surya dan Air Bersih di SD Gunung Bayu Simalungun",
       "source": "Republika English",
@@ -360,13 +381,6 @@
       "url": "https://news.republika.co.id/berita/tlq0gw393/nusron-wahid-kesal-dicecar-soal-kasus-korupsi-kementerian-atrbpn",
       "published_date": "2026-09-21T15:31:44+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Mandalika Racing Series Jadi Wadah Ekosistem Motorsport Nasional Menuju Panggung Dunia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlo027416/pertamina-mandalika-racing-series-jadi-wadah-ekosistem-motorsport-nasional-menuju-panggung-dunia",
-      "published_date": "2026-09-20T13:29:25+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -379,6 +393,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Aparat Diminta Dalami Buku 'Memburu Muhammad' dan 'Bukan Perawan Maria'",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm11o4483/aparat-diminta-dalami-buku-memburu-muhammad-dan-bukan-perawan-maria",
+      "published_date": "2026-09-27T14:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gandeng Garuda Official Stores, UNERD Hadirkan 'Satu Nusa Satu Garuda' bagi Suporter Timnas",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tm10xt291/gandeng-garuda-official-stores-unerd-hadirkan-satu-nusa-satu-garuda-bagi-suporter-timnas",
+      "published_date": "2026-09-27T14:15:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bantu Aksesibilitas Disabilitas, Mahasiswa UNM Ciptakan DISABI Smart Accessibility",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm0wqo370/bantu-aksesibilitas-disabilitas-mahasiswa-unm-ciptakan-disabi-smart-accessibility",
+      "published_date": "2026-09-27T12:44:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hibah IPD 2026 UBSI Dorong PjBL, Ubah Kelas Jadi Ruang Kerja Akademik",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm0wmz370/hibah-ipd-2026-ubsi-dorong-pjbl-ubah-kelas-jadi-ruang-kerja-akademik",
+      "published_date": "2026-09-27T12:42:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persiapan Asian Games 2026, Ini Peran Strategis Esports Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm0vmg370/persiapan-asian-games-2026-ini-peran-strategis-esports-indonesia",
+      "published_date": "2026-09-27T12:20:40+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Lima Kebiasaan Sederhana yang Diklaim Bisa Turunkan Risiko Kanker Usus Besar",
       "source": "Republika English",
@@ -482,41 +531,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tlx3l0490/dari-warisan-jadi-gaya-kekinian-shopee-ajak-generasi-muda-rayakan-festival-batik-nusantara",
       "published_date": "2026-09-26T00:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PW RMI-NU DKI Jakarta Perkenalkan Sistem Komunikasi Digital Santri",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlxhr9416/pw-rminu-dki-jakarta-perkenalkan-sistem-komunikasi-digital-santri",
-      "published_date": "2026-09-25T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imigrasi Sulut Pastikan SKD Taruna Poltekimipas Berlangsung Transparan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlxx4k1030000/imigrasi-sulut-pastikan-skd-taruna-poltekimipas-berlangsung-transparan",
-      "published_date": "2026-09-25T22:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Optimalisasi Retribusi TKA, Kemendagri Minta Pemda Dorong Integrasi Sistem dan Data",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlx9ke370/optimalisasi-retribusi-tka-kemendagri-minta-pemda-dorong-integrasi-sistem-dan-data",
-      "published_date": "2026-09-25T15:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Dipelintir Tak Hormati Pakar Saya Paling Hormat",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tlxed22040377304/prabowo-dipelintir-tak-hormati-pakar-saya-paling-hormat",
-      "published_date": "2026-09-25T15:15:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imam Besar Dunia Berkumpul di Istiqlal, Doakan Persatuan Umat dan Al Aqsa",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlxdfc366/imam-besar-dunia-berkumpul-di-istiqlal-doakan-persatuan-umat-dan-al-aqsa",
-      "published_date": "2026-09-25T14:55:00+00:00",
       "category": "Local Events"
     }
   ]
