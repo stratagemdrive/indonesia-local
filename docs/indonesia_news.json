@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Dramatis! 10 Pemain Timnas Indonesia Tahan Imbang Malaysia 0-0 di FIFA ASEAN Cup",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tm310j375/dramatis-10-pemain-timnas-indonesia-tahan-imbang-malaysia-00-di-fifa-asean-cup",
+      "published_date": "2026-09-28T16:55:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gandeng Dompet Dhuafa, Cibis Night Run 2026 Padukan Olahraga dan Aksi Sosial",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tm2q8g416/gandeng-dompet-dhuafa-cibis-night-run-2026-padukan-olahraga-dan-aksi-sosial",
+      "published_date": "2026-09-28T16:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Joey Pelupessy Antusias Hadapi Malaysia: Stadion Penuh akan Tambah Energi",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tm1rq9348/joey-pelupessy-antusias-hadapi-malaysia-stadion-penuh-akan-tambah-energi",
@@ -125,23 +139,16 @@
       "url": "https://visual.republika.co.id/berita/tlvf6p375/kabut-asap-ganggu-penerbangan-bandara-tjilik-riwut-tutup-sementara",
       "published_date": "2026-09-24T14:30:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Komisi I DPR Tuntaskan Fit and Proper Test, Dubes Iran Baru Setahun Diganti",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlud0x484/komisi-i-dpr-tuntaskan-fit-and-proper-test-dubes-iran-baru-setahun-diganti",
-      "published_date": "2026-09-23T23:53:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Omzet Pengusaha Naik Usai Bersertifikasi Halal, Pendampingan UMKM Dinilai Bangun Ekosistem",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlto34483/omzet-pengusaha-naik-usai-bersertifikasi-halal-pendampingan-umkm-dinilai-bangun-ekosistem",
-      "published_date": "2026-09-23T14:54:40+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Kasus Influenza A Naik, Warga Diminta Kenali Gejala dan Cara Penanganannya",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tm30di282/kasus-influenza-a-naik-warga-diminta-kenali-gejala-dan-cara-penanganannya",
+      "published_date": "2026-09-28T16:16:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Panglima TNI: OPM Harus Ditumpas!",
       "source": "Republika English",
@@ -252,13 +259,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlrtgl490/polri-perkuat-tata-kelola-melalui-rekomendasi-kprp-dalam-buku-police-governance",
       "published_date": "2026-09-22T14:55:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Terdampak Karhutla dan Kekeringan, Warga Pulang Pisau Dapat Bantuan 7.200 Liter Air Bersih",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlprjq375/terdampak-karhutla-dan-kekeringan-warga-pulang-pisau-dapat-bantuan-7200-liter-air-bersih",
-      "published_date": "2026-09-21T14:02:00+00:00",
       "category": "Military"
     }
   ],
@@ -395,16 +395,16 @@
       "url": "https://ameera.republika.co.id/berita/tlqp84328/terapi-baru-gerd-hadir-di-indonesia-dokter-pasien-tak-perlu-putus-asa",
       "published_date": "2026-09-22T00:26:28+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Trans Kontinental Perkuat Dukungan Maritim untuk Distribusi Biodiesel di Indonesia",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tlq0hl522/pertamina-trans-kontinental-perkuat-dukungan-maritim-untuk-distribusi-biodiesel-di-indonesia",
-      "published_date": "2026-09-21T15:32:09+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Menpar Resmi Luncurkan Indonesia Tourism Outlook 2026/2027",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm30xx423/menpar-resmi-luncurkan-indonesia-tourism-outlook-20262027",
+      "published_date": "2026-09-28T16:20:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BI Rate Tetap, Ekonom: BI Memperluas Instrumen Stabilisasi Rupiah di Luar Suku Bunga",
       "source": "Republika English",
@@ -414,6 +414,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Brigjen Susetio Cahyadi Resmi Jabat Wakapolda Sulut Gantikan Irjen Awi Setiyono",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm360g7530000/brigjen-susetio-cahyadi-resmi-jabat-wakapolda-sulut-gantikan-irjen-awi-setiyono",
+      "published_date": "2026-09-28T18:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DPRD Bali Dorong Pembiayaan Murah untuk Calon Pekerja Migran Kurang Mampu",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm35bk7030000/dprd-bali-dorong-pembiayaan-murah-untuk-calon-pekerja-migran-kurang-mampu",
+      "published_date": "2026-09-28T17:45:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dion Cools Bangga Malaysia Curi Poin dari Timnas Indonesia yang Main 10 Pemain",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm34mi5830000/dion-cools-bangga-malaysia-curi-poin-dari-timnas-indonesia-yang-main-10-pemain",
+      "published_date": "2026-09-28T17:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KemenPPPA Luncurkan Program Siap, Bekali Gen Z Hadapi Masa Depan di Luar Dunia Kerja",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm33xh4630000/kemenpppa-luncurkan-program-siap-bekali-gen-z-hadapi-masa-depan-di-luar-dunia-kerja",
+      "published_date": "2026-09-28T17:15:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gibran Dialog dengan Korban Dugaan Keracunan MBG",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tm31u21481877918/gibran-dialog-dengan-korban-dugaan-keracunan-mbg",
+      "published_date": "2026-09-28T16:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mengapa Manusia Membenci Kematian, Padahal Semua akan Mengalaminya?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm2zg6320/mengapa-manusia-membenci-kematian-padahal-semua-akan-mengalaminya",
+      "published_date": "2026-09-28T16:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadi Penulis Kata Pengantar 'Memburu Muhammad', Nadirsyah Hosen Minta Buku Itu Dibaca Utuh",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm31bw483/jadi-penulis-kata-pengantar-memburu-muhammad-nadirsyah-hosen-minta-buku-itu-dibaca-utuh",
+      "published_date": "2026-09-28T16:19:08+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Emil Dardak Kembali Terpilih Jadi Ketua Umum MES Jawa Timur",
       "source": "Republika English",
@@ -503,55 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlzx13393/bebersih-leuweung-di-titik-awal-napas-kehidupan-warga-jabar-dan-jakarta",
       "published_date": "2026-09-27T00:11:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jokowi Dipastikan Jadi Ketua Dewan Pembina PSI pada November",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlzxeq328/jokowi-dipastikan-jadi-ketua-dewan-pembina-psi-pada-november",
-      "published_date": "2026-09-27T00:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kiandra Ramadhipa Start dari Posisi Kelima di Moto3 Junior Aragon, Bidik Berdiri di Podium",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlzvjw348/kiandra-ramadhipa-start-dari-posisi-kelima-di-moto3-junior-aragon-bidik-berdiri-di-podium",
-      "published_date": "2026-09-26T23:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jadwal Asian Games 2026 Hari Ini: Sejumlah Atlet Indonesia Berburu Medali",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlzv93348/jadwal-asian-games-2026-hari-ini-sejumlah-atlet-indonesia-berburu-medali",
-      "published_date": "2026-09-26T23:15:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guruh Soekarnoputra: Taksu Nusantara, Penerjemah Pancasila dalam Bahasa Keindahan",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tlzv3b320/guruh-soekarnoputra-taksu-nusantara-penerjemah-pancasila-dalam-bahasa-keindahan",
-      "published_date": "2026-09-26T23:11:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wamenpora Taufik Hidayat Optimistis Indonesia Capai Target Medali di Asian Games 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlzuoi348/wamenpora-taufik-hidayat-optimistis-indonesia-capai-target-medali-di-asian-games-2026",
-      "published_date": "2026-09-26T23:02:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kepadatan KRL Green Line Over Kapasitas, Kemenhub dan KAI Didorong Tambah Rangkaian",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlzubu425/kepadatan-krl-green-line-over-kapasitas-kemenhub-dan-kai-didorong-tambah-rangkaian",
-      "published_date": "2026-09-26T22:55:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suasana Haru Iringi Pemakaman Guruh Soekarnoputra di TPU Karet Bivak",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlz6se375/suasana-haru-iringi-pemakaman-guruh-soekarnoputra-di-tpu-karet-bivak",
-      "published_date": "2026-09-26T14:26:38+00:00",
       "category": "Local Events"
     }
   ]
