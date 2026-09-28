@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Joey Pelupessy Antusias Hadapi Malaysia: Stadion Penuh akan Tambah Energi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1rq9348/joey-pelupessy-antusias-hadapi-malaysia-stadion-penuh-akan-tambah-energi",
+      "published_date": "2026-09-27T23:54:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "FIFA ASEAN Cup 2026: Thailand dan Vietnam Buka Kiprah dengan Kemenangan",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tlzw66348/fifa-asean-cup-2026-thailand-dan-vietnam-buka-kiprah-dengan-kemenangan",
@@ -132,16 +139,37 @@
       "url": "https://khazanah.republika.co.id/berita/tlto34483/omzet-pengusaha-naik-usai-bersertifikasi-halal-pendampingan-umkm-dinilai-bangun-ekosistem",
       "published_date": "2026-09-23T14:54:40+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Ponsel Baterai 8.340 mAh Ini Turun Harga Rp600 Ribu",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tltbdh451/ponsel-baterai-8340-mah-ini-turun-harga-rp600-ribu",
-      "published_date": "2026-09-23T14:15:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Panglima TNI: OPM Harus Ditumpas!",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1un2393/panglima-tni-opm-harus-ditumpas",
+      "published_date": "2026-09-28T00:57:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Negara Pasifik Dukung Israel, Tapi Juga Bicara Papua Merdeka: Apa yang Sebenarnya Terjadi?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1sqi393/negara-pasifik-dukung-israel-tapi-juga-bicara-papua-merdeka-apa-yang-sebenarnya-terjadi",
+      "published_date": "2026-09-28T00:15:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "TNI Selamatkan 11 Warga Papua Nugini yang Hanyut di Samudra Pasifik",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1sog484/tni-selamatkan-11-warga-papua-nugini-yang-hanyut-di-samudra-pasifik",
+      "published_date": "2026-09-28T00:14:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Terima Laporan Pangkogabwilhan, Panglima: TNI Rebut 8 Pucuk Senjata OPM",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1py0484/terima-laporan-pangkogabwilhan-panglima-tni-rebut-8-pucuk-senjata-opm",
+      "published_date": "2026-09-27T23:15:36+00:00",
+      "category": "Military"
+    },
     {
       "title": "Maulid Nabi di Masjid Istiqlal, Ketum PDBN Ajak Warga Demak Rawat Silaturahim dan Pengabdian",
       "source": "Republika English",
@@ -232,16 +260,16 @@
       "url": "https://visual.republika.co.id/berita/tlprjq375/terdampak-karhutla-dan-kekeringan-warga-pulang-pisau-dapat-bantuan-7200-liter-air-bersih",
       "published_date": "2026-09-21T14:02:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Kolam Bekas Tambang di Samarinda Telan 55 Korban, Pengawasan Diperketat",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tlo2wo375/kolam-bekas-tambang-di-samarinda-telan-55-korban-pengawasan-diperketat",
-      "published_date": "2026-09-21T00:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "John Herdman Tegaskan Timnas Indonesia Siap Hadapi Tekanan Besar Lawan Malaysia Malam Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1rgd348/john-herdman-tegaskan-timnas-indonesia-siap-hadapi-tekanan-besar-lawan-malaysia-malam-ini",
+      "published_date": "2026-09-27T23:48:13+00:00",
+      "category": "Energy"
+    },
     {
       "title": "ARF: Golkar Apresiasi Kebijakan Bahlil Impor BBM yang Optimal",
       "source": "Republika English",
@@ -374,25 +402,46 @@
       "url": "https://esgnow.republika.co.id/berita/tlq0hl522/pertamina-trans-kontinental-perkuat-dukungan-maritim-untuk-distribusi-biodiesel-di-indonesia",
       "published_date": "2026-09-21T15:32:09+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Nusron Wahid Kesal Dicecar Soal Kasus Korupsi Kementerian ATR/BPN",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlq0gw393/nusron-wahid-kesal-dicecar-soal-kasus-korupsi-kementerian-atrbpn",
-      "published_date": "2026-09-21T15:31:44+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
     {
-      "title": "Presiden akan Gratiskan Pendidikan dari SD hingga Perguruan Tinggi Negeri, Ekonom: tidak Mustahil",
+      "title": "BI Rate Tetap, Ekonom: BI Memperluas Instrumen Stabilisasi Rupiah di Luar Suku Bunga",
       "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlor0c423/presiden-akan-gratiskan-pendidikan-dari-sd-hingga-perguruan-tinggi-negeri-ekonom-tidak-mustahil",
-      "published_date": "2026-09-20T23:30:00+00:00",
+      "url": "https://ekonomi.republika.co.id/berita/tlwwv7423/bi-rate-tetap-ekonom-bi-memperluas-instrumen-stabilisasi-rupiah-di-luar-suku-bunga",
+      "published_date": "2026-09-28T00:30:00+00:00",
       "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Emil Dardak Kembali Terpilih Jadi Ketua Umum MES Jawa Timur",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tm1tji490/emil-dardak-kembali-terpilih-jadi-ketua-umum-mes-jawa-timur",
+      "published_date": "2026-09-28T00:33:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diplomasi dari Mihrab",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tm1sgm451/diplomasi-dari-mihrab",
+      "published_date": "2026-09-28T00:09:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal Indonesia di Asian Games 2026 Hari Ini: Empat Wakil Bulu Tangkis Berebut Tiket Final",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm1pdl393/jadwal-indonesia-di-asian-games-2026-hari-ini-empat-wakil-bulu-tangkis-berebut-tiket-final",
+      "published_date": "2026-09-27T23:03:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Godfather AI Peringatkan Manusia Bisa Disingkirkan Mesin",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm145e451/godfather-ai-peringatkan-manusia-bisa-disingkirkan-mesin",
+      "published_date": "2026-09-27T22:18:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Aparat Diminta Dalami Buku 'Memburu Muhammad' dan 'Bukan Perawan Maria'",
       "source": "Republika English",
@@ -503,34 +552,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tlz6se375/suasana-haru-iringi-pemakaman-guruh-soekarnoputra-di-tpu-karet-bivak",
       "published_date": "2026-09-26T14:26:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jokowi Pamer KTA di Bandung: Saya Keluarga Besar PSI Sejak 14 Oktober 2025",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlz671487/jokowi-pamer-kta-di-bandung-saya-keluarga-besar-psi-sejak-14-oktober-2025",
-      "published_date": "2026-09-26T14:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "APHI Sambut Arahan Pemerintah Perkuat Pencegahan Karhutla",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tlz14k522/aphi-sambut-arahan-pemerintah-perkuat-pencegahan-karhutla",
-      "published_date": "2026-09-26T12:24:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Terjepit 40 Hari Jelang Pemilu, Masalah Datang dari Partainya Sendiri",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tly4lr451/trump-terjepit-40-hari-jelang-pemilu-masalah-datang-dari-partainya-sendiri",
-      "published_date": "2026-09-26T00:41:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dari Warisan Jadi Gaya Kekinian, Shopee Ajak Generasi Muda Rayakan Festival Batik Nusantara",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlx3l0490/dari-warisan-jadi-gaya-kekinian-shopee-ajak-generasi-muda-rayakan-festival-batik-nusantara",
-      "published_date": "2026-09-26T00:05:00+00:00",
       "category": "Local Events"
     }
   ]
