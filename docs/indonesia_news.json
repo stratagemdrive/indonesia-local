@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Ratusan Pelajar Berlatih Jadi Diplomat, Bahas Isu Global di AYIMUN",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tm6oe0416/ratusan-pelajar-berlatih-jadi-diplomat-bahas-isu-global-di-ayimun",
+      "published_date": "2026-09-30T15:32:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wakaf Berpotensi Hasilkan Rp 109 Triliun per Tahun",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm6n8e430/wakaf-berpotensi-hasilkan-rp-109-triliun-per-tahun",
+      "published_date": "2026-09-30T15:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Erick Thohir: Persaingan FIFA ASEAN Cup Makin Ketat, Indonesia tak Boleh Anggap Remeh Lawan",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tm5hsv348/erick-thohir-persaingan-fifa-asean-cup-makin-ketat-indonesia-tak-boleh-anggap-remeh-lawan",
@@ -125,20 +139,6 @@
       "url": "https://news.republika.co.id/berita/tlxap0348/gol-ragnar-oratmangoen-bawa-indonesia-unggul-10-atas-singapura-pada-babak-pertama",
       "published_date": "2026-09-25T13:55:48+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Kocaknya Dokter Bobby Ingatkan Bahaya Rokok dengan Gaya Satire",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlw9sb425/kocaknya-dokter-bobby-ingatkan-bahaya-rokok-dengan-gaya-satire",
-      "published_date": "2026-09-25T00:38:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Perpusnas Tetapkan Babad Besuki Situbondo sebagai Ingatan Kolektif Nasional 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlw4je4130000/perpusnas-tetapkan-babad-besuki-situbondo-sebagai-ingatan-kolektif-nasional-2026",
-      "published_date": "2026-09-24T22:45:14+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -253,16 +253,16 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-militarising-indonesia/",
       "published_date": "2026-09-24T06:43:24+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Gedung Artha Graha Gelar Fire Drill, Tingkatkan Kesiapsiagaan Penghuni Hadapi Keadaan Darurat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tltn5a490/gedung-artha-graha-gelar-fire-drill-tingkatkan-kesiapsiagaan-penghuni-hadapi-keadaan-darurat",
-      "published_date": "2026-09-23T14:34:22+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Sumur BDA-004 Indramayu Tiba-tiba Keluarkan Asap Putih, Pertamina EP Beri Penjelasan",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tm6pc3282/sumur-bda004-indramayu-tibatiba-keluarkan-asap-putih-pertamina-ep-beri-penjelasan",
+      "published_date": "2026-09-30T15:50:27+00:00",
+      "category": "Energy"
+    },
     {
       "title": "KAI Dukung Investigasi KNKT dan Proses Hukum Terkait Kecelakaan Kereta di Bekasi Timur",
       "source": "Republika English",
@@ -367,13 +367,6 @@
       "url": "https://visual.republika.co.id/berita/tltsi2375/aft-kualanamu-salurkan-364-kl-avtur-untuk-penerbangan-domestik-dan-internasional",
       "published_date": "2026-09-24T00:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Nonton MotoGP Mandalika, Tiket via Wondr BNI Dapat Diskon Rp300 Ribu",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tltlw2370/nonton-motogp-mandalika-tiket-via-wondr-bni-dapat-diskon-rp300-ribu",
-      "published_date": "2026-09-23T14:07:14+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -393,6 +386,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Lembaga Dakwah Islam Indonesia Ingatkan Bahaya Pemberontakan Gaya Baru di Dunia Digital",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm6qtu320/lembaga-dakwah-islam-indonesia-ingatkan-bahaya-pemberontakan-gaya-baru-di-dunia-digital",
+      "published_date": "2026-09-30T16:22:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jateng Tiga Besar PPD 2026, Speling Jadi Bukti Perencanaan Tak Berhenti di Atas Kertas",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tm6qt9451/jateng-tiga-besar-ppd-2026-speling-jadi-bukti-perencanaan-tak-berhenti-di-atas-kertas",
+      "published_date": "2026-09-30T16:22:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunung Ararat atau Judi di Turki, Mana Lebih Tepat Jadi Lokasi Bahtera Nabi Nuh? Ini Kata Pakar",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm6pyl320/gunung-ararat-atau-judi-di-turki-mana-lebih-tepat-jadi-lokasi-bahtera-nabi-nuh-ini-kata-pakar",
+      "published_date": "2026-09-30T16:03:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asia Tenggara Perkuat Layanan Kesehatan Regional",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tm68ed416/asia-tenggara-perkuat-layanan-kesehatan-regional",
+      "published_date": "2026-09-30T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transaksi Kripto Capai Rp171 Triliun, Literasi dan Perlindungan Konsumen Jadi Tantangan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm6hgk522/transaksi-kripto-capai-rp171-triliun-literasi-dan-perlindungan-konsumen-jadi-tantangan",
+      "published_date": "2026-09-30T15:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pancaroba Demokrasi Indonesia di Mata Guru Besar UIN Jakarta: Kemana Nilai-Nilai Pancasila?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm6p4u320/pancaroba-demokrasi-indonesia-di-mata-guru-besar-uin-jakarta-kemana-nilainilai-pancasila",
+      "published_date": "2026-09-30T15:46:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gus Kikin Sambut Gus Baha Masuk Struktur PBNU, Ini Alasannya",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm6obb430/gus-kikin-sambut-gus-baha-masuk-struktur-pbnu-ini-alasannya",
+      "published_date": "2026-09-30T15:28:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Komisi VIII Dukung BPKH Buka Data untuk Audit Forensik Keuangan Haji",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm6nt7320/komisi-viii-dukung-bpkh-buka-data-untuk-audit-forensik-keuangan-haji",
+      "published_date": "2026-09-30T15:17:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Desak Made Rita Rebut Emas Panjat Tebing Speed Putri Asian Games 2026",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tm6ni2375/desak-made-rita-rebut-emas-panjat-tebing-speed-putri-asian-games-2026",
+      "published_date": "2026-09-30T15:10:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Soal Penempatan Manajer Kopdes Jauh dari Domisili, Menkop: Terima Dulu, Nanti Disesuaikan",
       "source": "Republika English",
@@ -468,69 +524,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tm4w4f320/di-balik-desingan-peluru-dan-dentuman-bom-perang-intelijen-antara-houthi-dan-saudi-menentukan",
       "published_date": "2026-09-29T16:21:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motif Pembunuhan Wakil Rektor ITB Indonesia Terungkap, Dua Pelaku Memantau Korban Dua Bulan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm4uac377/motif-pembunuhan-wakil-rektor-itb-indonesia-terungkap-dua-pelaku-memantau-korban-dua-bulan",
-      "published_date": "2026-09-29T15:42:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Tempati Posisi 140 Kota Dunia, Pramono: Paling Tinggi di Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm4u2x484/jakarta-tempati-posisi-140-kota-dunia-pramono-paling-tinggi-di-indonesia",
-      "published_date": "2026-09-29T15:37:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lapas Cibinong Disebut Puncak Gunung Es, Ombudsman Ungkap Pungli Hingga Kelebihan Napi di Lapas Lain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm4tvz377/lapas-cibinong-disebut-puncak-gunung-es-ombudsman-ungkap-pungli-hingga-kelebihan-napi-di-lapas-lain",
-      "published_date": "2026-09-29T15:33:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Satu Kota Bersiap Menyambut Porprov VII Banten",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tm4j28451/satu-kota-bersiap-menyambut-porprov-vii-banten",
-      "published_date": "2026-09-29T14:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temukan Data Invalid Kemenhaj Perkirakan Data Faktual Antrean Haji",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tm4qy11991482421/temukan-data-invalid-kemenhaj-perkirakan-data-faktual-antrean-haji",
-      "published_date": "2026-09-29T14:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The rise and rise of the ‘preman state’: deciphering Prabowo’s ties to former gangster Hercules",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/the-rise-and-rise-of-the-preman-state-deciphering-prabowos-ties-to-former-gangster-hercules/",
-      "published_date": "2026-09-29T03:02:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Isu Gaza Ikut Menentukan Pertarungan Senat di Michigan, Ini Sebabnya",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm3ond451/isu-gaza-ikut-menentukan-pertarungan-senat-di-michigan-ini-sebabnya",
-      "published_date": "2026-09-29T02:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baliho Raksasa Roboh Timpa Kios di Bandung, 4 Orang Terluka Satu Tergencet",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tm3s6t282/baliho-raksasa-roboh-timpa-kios-di-bandung-4-orang-terluka-satu-tergencet",
-      "published_date": "2026-09-29T01:59:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jelang Wajib Halal 17 Oktober, Khatib Jumat Diimbau Gaungkan Pentingnya Sertifikasi Halal",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm3rnd483/jelang-wajib-halal-17-oktober-khatib-jumat-diimbau-gaungkan-pentingnya-sertifikasi-halal",
-      "published_date": "2026-09-29T01:47:37+00:00",
       "category": "Local Events"
     }
   ]
