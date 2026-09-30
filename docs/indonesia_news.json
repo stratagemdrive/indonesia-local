@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Erick Thohir: Persaingan FIFA ASEAN Cup Makin Ketat, Indonesia tak Boleh Anggap Remeh Lawan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm5hsv348/erick-thohir-persaingan-fifa-asean-cup-makin-ketat-indonesia-tak-boleh-anggap-remeh-lawan",
+      "published_date": "2026-09-30T00:10:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Lukman Hakim Saifuddin: Gontor Justru Muliakan Presiden",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tm3sol483/lukman-hakim-saifuddin-gontor-justru-muliakan-presiden",
@@ -132,13 +139,6 @@
       "url": "https://news.republika.co.id/berita/tlw4je4130000/perpusnas-tetapkan-babad-besuki-situbondo-sebagai-ingatan-kolektif-nasional-2026",
       "published_date": "2026-09-24T22:45:14+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "The Dudas Full Support FIFA ASEAN CUP",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tlvke6560924841/the-dudas-full-support-fifa-asean-cup",
-      "published_date": "2026-09-24T15:30:06+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -260,23 +260,16 @@
       "url": "https://news.republika.co.id/berita/tltn5a490/gedung-artha-graha-gelar-fire-drill-tingkatkan-kesiapsiagaan-penghuni-hadapi-keadaan-darurat",
       "published_date": "2026-09-23T14:34:22+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sekjen PBB di Sidang Majelis Umum: Aksi Israel di Tepi Barat Tingkatkan Risiko Pembersihan Etnis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlsk7u409/sekjen-pbb-di-sidang-majelis-umum-aksi-israel-di-tepi-barat-tingkatkan-risiko-pembersihan-etnis",
-      "published_date": "2026-09-23T00:33:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tanpa Menghakimi, Film Desember Jani Ajak Orang Tua dan Anak Berdialog",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tlsij9425/tanpa-menghakimi-film-desember-jani-ajak-orang-tua-dan-anak-berdialog",
-      "published_date": "2026-09-22T23:57:09+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "KAI Dukung Investigasi KNKT dan Proses Hukum Terkait Kecelakaan Kereta di Bekasi Timur",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm5jol490/kai-dukung-investigasi-knkt-dan-proses-hukum-terkait-kecelakaan-kereta-di-bekasi-timur",
+      "published_date": "2026-09-30T00:50:45+00:00",
+      "category": "Energy"
+    },
     {
       "title": "John Herdman Tegaskan Timnas Indonesia Siap Hadapi Tekanan Besar Lawan Malaysia Malam Ini",
       "source": "Republika English",
@@ -381,20 +374,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tltlw2370/nonton-motogp-mandalika-tiket-via-wondr-bni-dapat-diskon-rp300-ribu",
       "published_date": "2026-09-23T14:07:14+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pengawasan Distribusi Solar Bersubsidi Perlu Diperkuat",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlrv8f416/pengawasan-distribusi-solar-bersubsidi-perlu-diperkuat",
-      "published_date": "2026-09-23T00:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Secrecy surrounding Indonesia’s Asset Forfeiture Bill sparks fears of repression",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/secrecy-surrounding-indonesias-asset-forfeiture-bill-sparks-fears-of-repression/",
-      "published_date": "2026-09-22T23:32:14+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -414,6 +393,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Soal Penempatan Manajer Kopdes Jauh dari Domisili, Menkop: Terima Dulu, Nanti Disesuaikan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm5lh5490/soal-penempatan-manajer-kopdes-jauh-dari-domisili-menkop-terima-dulu-nanti-disesuaikan",
+      "published_date": "2026-09-30T01:29:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inggris Tundukkan 10 Pemain Ceko dengan Susah, Tuchel: Kami tak Selalu Harus Tampil Glamor",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm5ldg348/inggris-tundukkan-10-pemain-ceko-dengan-susah-tuchel-kami-tak-selalu-harus-tampil-glamor",
+      "published_date": "2026-09-30T01:27:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pangkas 17 Anak Usaha, Pelindo Perkuat Model Bisnis",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm5knr490/pangkas-17-anak-usaha-pelindo-perkuat-model-bisnis",
+      "published_date": "2026-09-30T01:11:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AS Ancam Sanksi China, Bos Nvidia Justru Pasang Badan soal Distilasi AI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm5kni451/as-ancam-sanksi-china-bos-nvidia-justru-pasang-badan-soal-distilasi-ai",
+      "published_date": "2026-09-30T01:11:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rencana Audit Forensik Keuangan Haji, BPKH Siap Buka Data",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm5k2s366/rencana-audit-forensik-keuangan-haji-bpkh-siap-buka-data",
+      "published_date": "2026-09-30T00:59:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jelang Wajib Halal Oktober 2026, BPJPH Buka Dialog Soal Hukum Rokok",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tm5jj1366/jelang-wajib-halal-oktober-2026-bpjph-buka-dialog-soal-hukum-rokok",
+      "published_date": "2026-09-30T00:47:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FEKDI x IFSE 2026: Digitalisasi Jadi Mesin Akselerasi Pertumbuhan Ekonomi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tm291h502/fekdi-x-ifse-2026-digitalisasi-jadi-mesin-akselerasi-pertumbuhan-ekonomi",
+      "published_date": "2026-09-30T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liga Primer Inggris Keluarkan Pernyataan Resmi Manchester City Bersalah Terkait FFP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm5h4q348/liga-primer-inggris-keluarkan-pernyataan-resmi-manchester-city-bersalah-terkait-ffp",
+      "published_date": "2026-09-29T23:55:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal.Asian Games 2026 Indonesia Hari Ini; Panjat Tebing Bidik Emas Melalui Speed Putri",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tm5g43348/jadwalasian-games-2026-indonesia-hari-ini-panjat-tebing-bidik-emas-melalui-speed-putri",
+      "published_date": "2026-09-29T23:33:39+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Dua Saksi Kasus Pemerasan Pengusaha di Pengadilan PN Jakpus Beratkan Terdakwa",
       "source": "Republika English",
@@ -489,69 +531,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tm3rnd483/jelang-wajib-halal-17-oktober-khatib-jumat-diimbau-gaungkan-pentingnya-sertifikasi-halal",
       "published_date": "2026-09-29T01:47:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rencana Impor KRL Bekas dari Jepang, Ini Penjelasan Menhub",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm3r37490/rencana-impor-krl-bekas-dari-jepang-ini-penjelasan-menhub",
-      "published_date": "2026-09-29T01:35:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cerita Ochi Rosdiana Lakoni Adegan Berat di Film Lingsir Wengi",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tm3qvs425/cerita-ochi-rosdiana-lakoni-adegan-berat-di-film-lingsir-wengi",
-      "published_date": "2026-09-29T01:31:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Program Pegadaian Peduli Rumah Ibadah Serahkan Bantuan untuk Masjid di Jakarta dan Banten",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tm3qgb456/program-pegadaian-peduli-rumah-ibadah-serahkan-bantuan-untuk-masjid-di-jakarta-dan-banten",
-      "published_date": "2026-09-29T01:21:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Usul Komposisi 52:48, Presiden Minta Biaya Haji tak Membebani Jamaah",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm3q5m483/usul-komposisi-5248-presiden-minta-biaya-haji-tak-membebani-jamaah",
-      "published_date": "2026-09-29T01:15:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brigjen Susetio Cahyadi Resmi Jabat Wakapolda Sulut Gantikan Irjen Awi Setiyono",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm360g7530000/brigjen-susetio-cahyadi-resmi-jabat-wakapolda-sulut-gantikan-irjen-awi-setiyono",
-      "published_date": "2026-09-28T18:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPRD Bali Dorong Pembiayaan Murah untuk Calon Pekerja Migran Kurang Mampu",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm35bk7030000/dprd-bali-dorong-pembiayaan-murah-untuk-calon-pekerja-migran-kurang-mampu",
-      "published_date": "2026-09-28T17:45:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dion Cools Bangga Malaysia Curi Poin dari Timnas Indonesia yang Main 10 Pemain",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm34mi5830000/dion-cools-bangga-malaysia-curi-poin-dari-timnas-indonesia-yang-main-10-pemain",
-      "published_date": "2026-09-28T17:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KemenPPPA Luncurkan Program Siap, Bekali Gen Z Hadapi Masa Depan di Luar Dunia Kerja",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm33xh4630000/kemenpppa-luncurkan-program-siap-bekali-gen-z-hadapi-masa-depan-di-luar-dunia-kerja",
-      "published_date": "2026-09-28T17:15:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gibran Dialog dengan Korban Dugaan Keracunan MBG",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tm31u21481877918/gibran-dialog-dengan-korban-dugaan-keracunan-mbg",
-      "published_date": "2026-09-28T16:30:02+00:00",
       "category": "Local Events"
     }
   ]
