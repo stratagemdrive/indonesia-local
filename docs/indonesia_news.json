@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Blok M Jadi Kawasan TOD, Dua Tower Mulai Dibangun Pekan Depan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmb4hh416/blok-m-jadi-kawasan-tod-dua-tower-mulai-dibangun-pekan-depan",
+      "published_date": "2026-10-03T01:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Genjot Diversifikasi Bisnis, Erajaya Perluas Jaringan Ritel dan Lifestyle",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmacol370/genjot-diversifikasi-bisnis-erajaya-perluas-jaringan-ritel-dan-lifestyle",
@@ -132,13 +139,6 @@
       "url": "https://news.republika.co.id/berita/tm3nt5451/seumur-hidup-pilih-republik-nenek-77-tahun-ini-kini-pertimbangkan-coblos-demokrat",
       "published_date": "2026-09-29T01:03:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Dramatis! 10 Pemain Timnas Indonesia Tahan Imbang Malaysia 0-0 di FIFA ASEAN Cup",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tm310j375/dramatis-10-pemain-timnas-indonesia-tahan-imbang-malaysia-00-di-fifa-asean-cup",
-      "published_date": "2026-09-28T16:55:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -246,13 +246,6 @@
       "url": "https://khazanah.republika.co.id/berita/tlzw6j430/dana-haji-capai-rp-18072-triliun-bpkh-raih-penghargaan",
       "published_date": "2026-09-26T23:35:07+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sengketa Lahan di Menteng, Kapuspen TNI: Berstatus Barang Milik Negara",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tly1tl484/sengketa-lahan-di-menteng-kapuspen-tni-berstatus-barang-milik-negara",
-      "published_date": "2026-09-25T23:41:45+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -353,13 +346,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tlz3nx490/pertamina-raih-the-best-service-quality-management-team-best-agent-digital-email-publik",
       "published_date": "2026-09-26T13:19:09+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "LPJK RI Tinjau Robot Konstruksi Canggih di Kompetisi Guangzhou",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tlxwfy6530000/lpjk-ri-tinjau-robot-konstruksi-canggih-di-kompetisi-guangzhou",
-      "published_date": "2026-09-25T21:45:34+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -393,6 +379,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "PTPN III Gandeng Unpad Kembangkan Riset dan Inovasi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmb3ev416/ptpn-iii-gandeng-unpad-kembangkan-riset-dan-inovasi",
+      "published_date": "2026-10-03T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Padel, Takraw, Voli Pantai dan Panjat Tebing Berpeluang Sumbang Medali Hari Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmb3zl409/padel-takraw-voli-pantai-dan-panjat-tebing-berpeluang-sumbang-medali-hari-ini",
+      "published_date": "2026-10-03T00:57:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Danantara dan Kemenhub Kaji Impor KRL Bekas Jepang",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmb35i416/danantara-dan-kemenhub-kaji-impor-krl-bekas-jepang",
+      "published_date": "2026-10-03T00:39:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Empat Pemanjat Indonesia Lolos ke Final Lead Asian Games 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmb1wa409/empat-pemanjat-indonesia-lolos-ke-final-lead-asian-games-2026",
+      "published_date": "2026-10-03T00:12:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "50 Persen Travel Umrah tidak Aktif, Sapuhi Soroti Penerbitan Izin",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmacj9366/50-persen-travel-umrah-tidak-aktif-sapuhi-soroti-penerbitan-izin",
+      "published_date": "2026-10-03T00:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IIQ Dorong Ekoteologi Qurani Atasi Krisis Iklim",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmagf0416/iiq-dorong-ekoteologi-qurani-atasi-krisis-iklim",
+      "published_date": "2026-10-03T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gandeng UI, Peradi Profesional Siapkan Pendidikan Advokat untuk 600 Peserta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmafq2416/gandeng-ui-peradi-profesional-siapkan-pendidikan-advokat-untuk-600-peserta",
+      "published_date": "2026-10-02T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Catatan Sumbangsih KH Imam Jazuli dalam Mengawal Penguatan Supremasi Syuriyah NU",
       "source": "Republika English",
@@ -482,55 +517,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tm8lfm320/struktur-baru-pbnu-selain-tanfidziyah-jk-jadi-mustasyar-kiai-cholil-rais-syuriah",
       "published_date": "2026-10-01T16:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 Wasiat Kebaikan Bersifat Universal yang Diabadikan Alquran Surah Al-Ana'am",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm8kq2320/10-wasiat-kebaikan-bersifat-universal-yang-diabadikan-alquran-surah-alanaam",
-      "published_date": "2026-10-01T16:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua PTKIN Sukses Tembus 10 Besar Universitas Terbaik di Indonesia Versi THE WUR 2027",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm7fr5320/dua-ptkin-sukses-tembus-10-besar-universitas-terbaik-di-indonesia-versi-the-wur-2027",
-      "published_date": "2026-10-01T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veddriq Leonardo Sebut Persaingan Speed Asia Semakin Merata",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm8iu0348/veddriq-leonardo-sebut-persaingan-speed-asia-semakin-merata",
-      "published_date": "2026-10-01T15:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guru Besar UIN Jakarta Dorong Penguatan Kepemimpinan Konstitusi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm8gio416/guru-besar-uin-jakarta-dorong-penguatan-kepemimpinan-konstitusi",
-      "published_date": "2026-10-01T15:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jetour T2 i-DM Bawa Teknologi PHEV untuk Mobilitas Kota hingga Perjalanan Jauh di GIIAS Semarang",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm8ije348/jetour-t2-idm-bawa-teknologi-phev-untuk-mobilitas-kota-hingga-perjalanan-jauh-di-giias-semarang",
-      "published_date": "2026-10-01T15:18:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mengatur Keuangan Jangka Panjang, Ini Hal yang Perlu Diperhatikan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm7fqr456/mengatur-keuangan-jangka-panjang-ini-hal-yang-perlu-diperhatikan",
-      "published_date": "2026-10-01T01:20:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jakarta Running Festival Digelar 24-25 Oktober, Peserta Digratiskan Naik Transportasi Publik",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm7e10490/jakarta-running-festival-digelar-2425-oktober-peserta-digratiskan-naik-transportasi-publik",
-      "published_date": "2026-10-01T00:43:48+00:00",
       "category": "Local Events"
     }
   ]
