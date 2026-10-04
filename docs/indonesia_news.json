@@ -143,6 +143,13 @@
   ],
   "Military": [
     {
+      "title": "Densus 88 Antiteror Tangkap 12 Terduga Teroris, Peran Masing-Masing Tersangka Diungkap",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmdt04487/densus-88-antiteror-tangkap-12-terduga-teroris-peran-masingmasing-tersangka-diungkap",
+      "published_date": "2026-10-04T11:52:52+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Baru 5 Bulan Menjabat, Kapolda Jabar Irjen Pipit Rismanto Diganti Hengki",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmczdf377/baru-5-bulan-menjabat-kapolda-jabar-irjen-pipit-rismanto-diganti-hengki",
@@ -239,13 +246,6 @@
       "url": "https://news.republika.co.id/berita/tm1py0484/terima-laporan-pangkogabwilhan-panglima-tni-rebut-8-pucuk-senjata-opm",
       "published_date": "2026-09-27T23:15:36+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Maulid Nabi di Masjid Istiqlal, Ketum PDBN Ajak Warga Demak Rawat Silaturahim dan Pengabdian",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm0xro320/maulid-nabi-di-masjid-istiqlal-ketum-pdbn-ajak-warga-demak-rawat-silaturahim-dan-pengabdian",
-      "published_date": "2026-09-27T13:07:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -311,27 +311,6 @@
       "url": "https://news.republika.co.id/berita/tm1rgd348/john-herdman-tegaskan-timnas-indonesia-siap-hadapi-tekanan-besar-lawan-malaysia-malam-ini",
       "published_date": "2026-09-27T23:48:13+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "ARF: Golkar Apresiasi Kebijakan Bahlil Impor BBM yang Optimal",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm138v451/arf-golkar-apresiasi-kebijakan-bahlil-impor-bbm-yang-optimal",
-      "published_date": "2026-09-27T15:05:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Di Hadapan Para Imam Dunia, Imam Al-Aqsa Syekh Hussein Sentil Persatuan Umat",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm0yjq320/di-hadapan-para-imam-dunia-imam-alaqsa-syekh-hussein-sentil-persatuan-umat",
-      "published_date": "2026-09-27T13:23:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dari Bali untuk Dunia, Pertamax Turbo Dukung Aksi 1.000 Riders BMW",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm0x95522/dari-bali-untuk-dunia-pertamax-turbo-dukung-aksi-1000-riders-bmw",
-      "published_date": "2026-09-27T12:55:53+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -365,6 +344,62 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Tutup Asian Games 2026, Indonesia Raih 39 Medali dan Tempati Posisi ke-16",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmdtki375/tutup-asian-games-2026-indonesia-raih-39-medali-dan-tempati-posisi-ke16",
+      "published_date": "2026-10-04T15:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Percasi DKI Jakarta Gelar Kejuaraan Daerah Piala Gubernur DKI Jakarta 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmdwo2456/percasi-dki-jakarta-gelar-kejuaraan-daerah-piala-gubernur-dki-jakarta-2026",
+      "published_date": "2026-10-04T13:12:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kemenag Benahi Sistem Pendataan Santri dan Pesantren",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmdwdt416/kemenag-benahi-sistem-pendataan-santri-dan-pesantren",
+      "published_date": "2026-10-04T13:05:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Resmi Dilantik Jadi Ketua KORMI KBB, Syahnaz Sadiqah Ungkap Komitmen dan Harapannya",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tmdvmq425/resmi-dilantik-jadi-ketua-kormi-kbb-syahnaz-sadiqah-ungkap-komitmen-dan-harapannya",
+      "published_date": "2026-10-04T12:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Permainan Tradisional Meriahkan Festival Olahraga Rakyat Jakarta 2026",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmdso7375/permainan-tradisional-meriahkan-festival-olahraga-rakyat-jakarta-2026",
+      "published_date": "2026-10-04T11:45:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IZI dan PT Paragon Corp Resmikan Program Beasiswa Mahasiswa di ITB",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmdskp425/izi-dan-pt-paragon-corp-resmikan-program-beasiswa-mahasiswa-di-itb",
+      "published_date": "2026-10-04T11:43:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asian Games Aichi-Nagoya 2026 Resmi Ditutup, Indonesia Raih 39 Medali Finis di Peringkat ke-16",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmdshe487/asian-games-aichinagoya-2026-resmi-ditutup-indonesia-raih-39-medali-finis-di-peringkat-ke16",
+      "published_date": "2026-10-04T11:41:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Studi: Orang Tua Ngevape Berisiko Tingkatkan Risiko Asma pada Anak",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmdqd5425/studi-orang-tua-ngevape-berisiko-tingkatkan-risiko-asma-pada-anak",
+      "published_date": "2026-10-04T10:55:53+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "InJourney Airports Siapkan 3 Bandara Utama Dukung MotoGP Mandalika 2026",
       "source": "Republika English",
@@ -447,62 +482,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmbtfd451/arf-rangkap-jabatan-menko-bahlil-perjelas-koordinasi-dan-percepat-eksekusi-hilirisasi",
       "published_date": "2026-10-03T13:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saat Pecinta Buku Berburu Bacaan di IIBF 2026",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmbyng375/saat-pecinta-buku-berburu-bacaan-di-iibf-2026",
-      "published_date": "2026-10-03T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Literasi Kemaritiman Diperkuat, PIS Kenalkan Dunia Laut kepada Siswa Pesisir",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tmc14w522/literasi-kemaritiman-diperkuat-pis-kenalkan-dunia-laut-kepada-siswa-pesisir",
-      "published_date": "2026-10-03T12:53:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mandat Bahlil Diperluas, Akademisi Soroti Pentingnya Sinkronisasi Hilirisasi dan Energi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmc11u522/mandat-bahlil-diperluas-akademisi-soroti-pentingnya-sinkronisasi-hilirisasi-dan-energi",
-      "published_date": "2026-10-03T12:51:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eskalator di Stasiun Duri Tiba-Tiba Berbalik Arah Turun, 12 Orang Luka-Luka",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmbzxy409/eskalator-di-stasiun-duri-tibatiba-berbalik-arah-turun-12-orang-lukaluka",
-      "published_date": "2026-10-03T12:27:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI Fatigue: Lelah dengan Kecerdasan Buatan",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tmbzoj291/ai-fatigue-lelah-dengan-kecerdasan-buatan",
-      "published_date": "2026-10-03T12:21:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gebyar Lelang BRI 2026 di 74 Lokasi, Cek Pilihan Properti untuk Hunian hingga Investasi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmbze4423/gebyar-lelang-bri-2026-di-74-lokasi-cek-pilihan-properti-untuk-hunian-hingga-investasi",
-      "published_date": "2026-10-03T12:15:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxim Indonesia Sayangkan Aksi Penyegelan Kantor Cabangnya di Yogyakarta",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tmbzdn291/maxim-indonesia-sayangkan-aksi-penyegelan-kantor-cabangnya-di-yogyakarta",
-      "published_date": "2026-10-03T12:15:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTPN III Gandeng Unpad Kembangkan Riset dan Inovasi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmb3ev416/ptpn-iii-gandeng-unpad-kembangkan-riset-dan-inovasi",
-      "published_date": "2026-10-03T01:00:00+00:00",
       "category": "Local Events"
     }
   ]
