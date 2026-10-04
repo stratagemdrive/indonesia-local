@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ramainya IIBF dan Bangkitnya Minat Baca Generasi Muda",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmctjh393/ramainya-iibf-dan-bangkitnya-minat-baca-generasi-muda",
+      "published_date": "2026-10-03T23:08:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Blok M Jadi Kawasan TOD, Dua Tower Mulai Dibangun Pekan Depan",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmb4hh416/blok-m-jadi-kawasan-tod-dua-tower-mulai-dibangun-pekan-depan",
@@ -132,16 +139,16 @@
       "url": "https://rejabar.republika.co.id/berita/tm3rei393/rumah-mualaf-di-kuningan-habis-terbakar-alquran-ditemukan-tetap-utuh",
       "published_date": "2026-09-29T01:42:18+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Seumur Hidup Pilih Republik, Nenek 77 Tahun Ini Kini Pertimbangkan Coblos Demokrat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm3nt5451/seumur-hidup-pilih-republik-nenek-77-tahun-ini-kini-pertimbangkan-coblos-demokrat",
-      "published_date": "2026-09-29T01:03:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Baru 5 Bulan Menjabat, Kapolda Jabar Irjen Pipit Rismanto Diganti Hengki",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmczdf377/baru-5-bulan-menjabat-kapolda-jabar-irjen-pipit-rismanto-diganti-hengki",
+      "published_date": "2026-10-04T01:12:51+00:00",
+      "category": "Military"
+    },
     {
       "title": "Peternakan MHU Buka Sumber Penghasilan Warga Kutai Kartanegara",
       "source": "Republika English",
@@ -238,13 +245,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tm0xro320/maulid-nabi-di-masjid-istiqlal-ketum-pdbn-ajak-warga-demak-rawat-silaturahim-dan-pengabdian",
       "published_date": "2026-09-27T13:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dana Haji Capai Rp 180,72 Triliun, BPKH Raih Penghargaan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tlzw6j430/dana-haji-capai-rp-18072-triliun-bpkh-raih-penghargaan",
-      "published_date": "2026-09-26T23:35:07+00:00",
       "category": "Military"
     }
   ],
@@ -366,6 +366,62 @@
   ],
   "Local Events": [
     {
+      "title": "InJourney Airports Siapkan 3 Bandara Utama Dukung MotoGP Mandalika 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmd1m0370/injourney-airports-siapkan-3-bandara-utama-dukung-motogp-mandalika-2026",
+      "published_date": "2026-10-04T02:01:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dari Wastra ke Gaya Sehari-hari, Ragam Bentala Perluas Cerita Batik Indonesia bersama Shopee",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmbufc423/dari-wastra-ke-gaya-seharihari-ragam-bentala-perluas-cerita-batik-indonesia-bersama-shopee",
+      "published_date": "2026-10-04T01:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houthi Serang Aramco di Ibu Kota Saudi dengan Drone dan Rudal Balistik",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmcspb483/houthi-serang-aramco-di-ibu-kota-saudi-dengan-drone-dan-rudal-balistik",
+      "published_date": "2026-10-04T01:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dirjen Basnang Dorong Pesantren Urus Legalitas",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmcbvk483/dirjen-basnang-dorong-pesantren-urus-legalitas",
+      "published_date": "2026-10-04T00:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sekjen MUI: Pembongkaran Masjid di India Bagian dari Islamofobia",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmcbfn483/sekjen-mui-pembongkaran-masjid-di-india-bagian-dari-islamofobia",
+      "published_date": "2026-10-04T00:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mengenalkan Betawi Lewat Motif Batik yang Penuh Cerita",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmcav1375/mengenalkan-betawi-lewat-motif-batik-yang-penuh-cerita",
+      "published_date": "2026-10-04T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belanja Buku Ala Gen-Z: Minat Besar Pilih Platform Digital",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmcagz483/belanja-buku-ala-genz-minat-besar-pilih-platform-digital",
+      "published_date": "2026-10-03T23:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kapal Tradisional Bisa Jadi Feeder Transportasi ke Kepulauan Seribu",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmcu87393/kapal-tradisional-bisa-jadi-feeder-transportasi-ke-kepulauan-seribu",
+      "published_date": "2026-10-03T23:21:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saat Terjadi Perang Salib, di Manakah Para Ulama dan Apa Sikap Mereka?",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tmc55u320/saat-terjadi-perang-salib-di-manakah-para-ulama-dan-apa-sikap-mereka",
@@ -447,62 +503,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmb3ev416/ptpn-iii-gandeng-unpad-kembangkan-riset-dan-inovasi",
       "published_date": "2026-10-03T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Padel, Takraw, Voli Pantai dan Panjat Tebing Berpeluang Sumbang Medali Hari Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmb3zl409/padel-takraw-voli-pantai-dan-panjat-tebing-berpeluang-sumbang-medali-hari-ini",
-      "published_date": "2026-10-03T00:57:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Danantara dan Kemenhub Kaji Impor KRL Bekas Jepang",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmb35i416/danantara-dan-kemenhub-kaji-impor-krl-bekas-jepang",
-      "published_date": "2026-10-03T00:39:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Empat Pemanjat Indonesia Lolos ke Final Lead Asian Games 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmb1wa409/empat-pemanjat-indonesia-lolos-ke-final-lead-asian-games-2026",
-      "published_date": "2026-10-03T00:12:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "50 Persen Travel Umrah tidak Aktif, Sapuhi Soroti Penerbitan Izin",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmacj9366/50-persen-travel-umrah-tidak-aktif-sapuhi-soroti-penerbitan-izin",
-      "published_date": "2026-10-03T00:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IIQ Dorong Ekoteologi Qurani Atasi Krisis Iklim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmagf0416/iiq-dorong-ekoteologi-qurani-atasi-krisis-iklim",
-      "published_date": "2026-10-03T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gandeng UI, Peradi Profesional Siapkan Pendidikan Advokat untuk 600 Peserta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmafq2416/gandeng-ui-peradi-profesional-siapkan-pendidikan-advokat-untuk-600-peserta",
-      "published_date": "2026-10-02T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catatan Sumbangsih KH Imam Jazuli dalam Mengawal Penguatan Supremasi Syuriyah NU",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmafu0320/catatan-sumbangsih-kh-imam-jazuli-dalam-mengawal-penguatan-supremasi-syuriyah-nu",
-      "published_date": "2026-10-02T16:15:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rahasia Mengapa Krisis Air Dijadikan sebagai Salah Satu Tanda Akhir Zaman Dekatnya Kiamat",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmaf6e320/rahasia-mengapa-krisis-air-dijadikan-sebagai-salah-satu-tanda-akhir-zaman-dekatnya-kiamat",
-      "published_date": "2026-10-02T16:01:26+00:00",
       "category": "Local Events"
     }
   ]
