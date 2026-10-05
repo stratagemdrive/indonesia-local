@@ -1,6 +1,34 @@
 {
   "Diplomacy": [
     {
+      "title": "Pentingnya Minum Air Putih Sebelum Ngopi Pagi",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmetrq425/pentingnya-minum-air-putih-sebelum-ngopi-pagi",
+      "published_date": "2026-10-05T01:07:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taruna Nusantara MUN Asah Kemampuan Diplomasi Pelajar dari 31 Provinsi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmdzc9416/taruna-nusantara-mun-asah-kemampuan-diplomasi-pelajar-dari-31-provinsi",
+      "published_date": "2026-10-05T01:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Menteri Perdagangan G20 Tolak Penggunaan Pangan untuk Tekanan Geopolitik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmer7a423/menteri-perdagangan-g20-tolak-penggunaan-pangan-untuk-tekanan-geopolitik",
+      "published_date": "2026-10-05T00:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Harga Emas Diprediksi Bergerak Fluktuatif di Kisaran Rp 2,42—Rp 2,68 Juta per Gram pada Pekan Ini",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmeqin423/harga-emas-diprediksi-bergerak-fluktuatif-di-kisaran-rp-242rp-268-juta-per-gram-pada-pekan-ini",
+      "published_date": "2026-10-04T23:56:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Ramainya IIBF dan Bangkitnya Minat Baca Generasi Muda",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmctjh393/ramainya-iibf-dan-bangkitnya-minat-baca-generasi-muda",
@@ -111,37 +139,30 @@
       "url": "https://ameera.republika.co.id/berita/tm6oe0416/ratusan-pelajar-berlatih-jadi-diplomat-bahas-isu-global-di-ayimun",
       "published_date": "2026-09-30T15:32:41+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Wakaf Berpotensi Hasilkan Rp 109 Triliun per Tahun",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm6n8e430/wakaf-berpotensi-hasilkan-rp-109-triliun-per-tahun",
-      "published_date": "2026-09-30T15:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Erick Thohir: Persaingan FIFA ASEAN Cup Makin Ketat, Indonesia tak Boleh Anggap Remeh Lawan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm5hsv348/erick-thohir-persaingan-fifa-asean-cup-makin-ketat-indonesia-tak-boleh-anggap-remeh-lawan",
-      "published_date": "2026-09-30T00:10:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lukman Hakim Saifuddin: Gontor Justru Muliakan Presiden",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tm3sol483/lukman-hakim-saifuddin-gontor-justru-muliakan-presiden",
-      "published_date": "2026-09-29T02:09:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rumah Mualaf di Kuningan Habis Terbakar, Alquran Ditemukan Tetap Utuh",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tm3rei393/rumah-mualaf-di-kuningan-habis-terbakar-alquran-ditemukan-tetap-utuh",
-      "published_date": "2026-09-29T01:42:18+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Daftar Penerima Bintang Mahaputera Adipurna dan Adiprana di Mabes TNI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmesu1484/daftar-penerima-bintang-mahaputera-adipurna-dan-adiprana-di-mabes-tni",
+      "published_date": "2026-10-05T00:46:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Daftar Enam Pangdam yang akan Dilantik saat HUT Ke-81 TNI di Cilangkap",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmeqfz484/daftar-enam-pangdam-yang-akan-dilantik-saat-hut-ke81-tni-di-cilangkap",
+      "published_date": "2026-10-04T23:55:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Daftar Enam Kodam Baru yang Diresmikan saat HUT Ke-81 TNI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmepbl484/daftar-enam-kodam-baru-yang-diresmikan-saat-hut-ke81-tni",
+      "published_date": "2026-10-04T23:30:57+00:00",
+      "category": "Military"
+    },
     {
       "title": "Densus 88 Antiteror Tangkap 12 Terduga Teroris, Peran Masing-Masing Tersangka Diungkap",
       "source": "Republika English",
@@ -218,34 +239,6 @@
       "url": "https://rejabar.republika.co.id/berita/tm30di282/kasus-influenza-a-naik-warga-diminta-kenali-gejala-dan-cara-penanganannya",
       "published_date": "2026-09-28T16:16:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Panglima TNI: OPM Harus Ditumpas!",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm1un2393/panglima-tni-opm-harus-ditumpas",
-      "published_date": "2026-09-28T00:57:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Negara Pasifik Dukung Israel, Tapi Juga Bicara Papua Merdeka: Apa yang Sebenarnya Terjadi?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm1sqi393/negara-pasifik-dukung-israel-tapi-juga-bicara-papua-merdeka-apa-yang-sebenarnya-terjadi",
-      "published_date": "2026-09-28T00:15:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TNI Selamatkan 11 Warga Papua Nugini yang Hanyut di Samudra Pasifik",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm1sog484/tni-selamatkan-11-warga-papua-nugini-yang-hanyut-di-samudra-pasifik",
-      "published_date": "2026-09-28T00:14:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Terima Laporan Pangkogabwilhan, Panglima: TNI Rebut 8 Pucuk Senjata OPM",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm1py0484/terima-laporan-pangkogabwilhan-panglima-tni-rebut-8-pucuk-senjata-opm",
-      "published_date": "2026-09-27T23:15:36+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -304,16 +297,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tm5jol490/kai-dukung-investigasi-knkt-dan-proses-hukum-terkait-kecelakaan-kereta-di-bekasi-timur",
       "published_date": "2026-09-30T00:50:45+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "John Herdman Tegaskan Timnas Indonesia Siap Hadapi Tekanan Besar Lawan Malaysia Malam Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm1rgd348/john-herdman-tegaskan-timnas-indonesia-siap-hadapi-tekanan-besar-lawan-malaysia-malam-ini",
-      "published_date": "2026-09-27T23:48:13+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Kementerian Baru Diminta Perkuat Strategi Hilirisasi dan Transisi Energi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmere8423/kementerian-baru-diminta-perkuat-strategi-hilirisasi-dan-transisi-energi",
+      "published_date": "2026-10-05T00:35:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Dari Batik hingga Rompi Antipeluru, BPDP Pamerkan Inovasi Berbasis Komoditas Kebun",
       "source": "Republika English",
@@ -334,16 +327,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tm30xx423/menpar-resmi-luncurkan-indonesia-tourism-outlook-20262027",
       "published_date": "2026-09-28T16:20:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BI Rate Tetap, Ekonom: BI Memperluas Instrumen Stabilisasi Rupiah di Luar Suku Bunga",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tlwwv7423/bi-rate-tetap-ekonom-bi-memperluas-instrumen-stabilisasi-rupiah-di-luar-suku-bunga",
-      "published_date": "2026-09-28T00:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Cara Berdoa Nabi Yunus kepada Allah: Tidak Meminta Secara Terang-terangan",
+      "source": "Republika English",
+      "url": "https://iqra.republika.co.id/berita/tmetql430/cara-berdoa-nabi-yunus-kepada-allah-tidak-meminta-secara-terangterangan",
+      "published_date": "2026-10-05T01:06:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hasil UEFA Nations League: Jerman Terpeleset, Portugal Segel Tiket 8 Besar, Belanda Kokoh di Puncak",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmep7w348/hasil-uefa-nations-league-jerman-terpeleset-portugal-segel-tiket-8-besar-belanda-kokoh-di-puncak",
+      "published_date": "2026-10-04T23:28:44+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Tutup Asian Games 2026, Indonesia Raih 39 Medali dan Tempati Posisi ke-16",
       "source": "Republika English",
@@ -468,20 +468,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmc4kb348/fpti-apresiasi-empat-atlet-indonesia-yang-tembus-final-lead-asian-games",
       "published_date": "2026-10-03T14:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menperin Sarmuji Diharapkan Perkuat Daya Saing Industri Nasional",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmc22e416/menperin-sarmuji-diharapkan-perkuat-daya-saing-industri-nasional",
-      "published_date": "2026-10-03T13:14:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARF: Rangkap Jabatan Menko Bahlil Perjelas Koordinasi dan Percepat Eksekusi Hilirisasi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmbtfd451/arf-rangkap-jabatan-menko-bahlil-perjelas-koordinasi-dan-percepat-eksekusi-hilirisasi",
-      "published_date": "2026-10-03T13:03:00+00:00",
       "category": "Local Events"
     }
   ]
