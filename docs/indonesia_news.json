@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Egy Maulana Vikri Bersyukur Akhirnya Bisa Antar Timnas Indonesia Juara",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmhwki730000/egy-maulana-vikri-bersyukur-akhirnya-bisa-antar-timnas-indonesia-juara",
+      "published_date": "2026-10-06T17:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rizky Ridho Bersyukur Timnas Indonesia Jadi Juara Bukan Mimpi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmhw04348/rizky-ridho-bersyukur-timnas-indonesia-jadi-juara-bukan-mimpi",
+      "published_date": "2026-10-06T16:48:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Israel Hougton Pernah Dapat Visa Pada Awal Tahun Ini, Jika Ajukan Permohonan Lagi akan Ditolak",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmgryj409/israel-hougton-pernah-dapat-visa-pada-awal-tahun-ini-jika-ajukan-permohonan-lagi-akan-ditolak",
@@ -125,20 +139,6 @@
       "url": "https://khazanah.republika.co.id/berita/tmabnj483/produksi-1800-tas-dari-kain-tenun-baduy-teman-disabilitas-siap-berpartisipasi-di-pameran-nasional",
       "published_date": "2026-10-02T14:45:19+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Final Hadapi Thailand, John Herdman Antusias Beradu Taktik dengan Anthony Hudson",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm9a7i348/final-hadapi-thailand-john-herdman-antusias-beradu-taktik-dengan-anthony-hudson",
-      "published_date": "2026-10-02T01:16:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ketika AI Datang, Siapa yang Harus Berubah",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tm8gj9451/ketika-ai-datang-siapa-yang-harus-berubah",
-      "published_date": "2026-10-02T01:08:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -229,6 +229,13 @@
   ],
   "Energy": [
     {
+      "title": "'Keep Going, Keep Impacting' Bergema dalam Tasayakuran HUT ke-26 PLN Icon Plus",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tmhngt483/keep-going-keep-impacting-bergema-dalam-tasayakuran-hut-ke-26-pln-icon-plus",
+      "published_date": "2026-10-06T16:29:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Dirjen Imigrasi Tegaskan Tolak Visa Israel Houghton Demi Keamanan Nasional",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmg3zj4630000/dirjen-imigrasi-tegaskan-tolak-visa-israel-houghton-demi-keamanan-nasional",
@@ -316,6 +323,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Refleksi HUT TNI, Ibas Tekankan Pentingnya Rawat Sejarah dan Jaga Persatuan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmhjkx320/refleksi-hut-tni-ibas-tekankan-pentingnya-rawat-sejarah-dan-jaga-persatuan",
+      "published_date": "2026-10-06T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sengketa Ijazah Gibran, MK Nyatakan Permohonan Tidak Dapat Diterima",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmhvow375/sengketa-ijazah-gibran-mk-nyatakan-permohonan-tidak-dapat-diterima",
+      "published_date": "2026-10-06T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tingkatkan Efisiensi Pembayaran Travel, DOKU-Sabre Jalin Kolaborasi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmhog0483/tingkatkan-efisiensi-pembayaran-travel-dokusabre-jalin-kolaborasi",
+      "published_date": "2026-10-06T16:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sekjen DPP Perbasi Sebut Pemerintah Dukung Penuh Perkembangan Bola Basket Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmhvb8348/sekjen-dpp-perbasi-sebut-pemerintah-dukung-penuh-perkembangan-bola-basket-indonesia",
+      "published_date": "2026-10-06T16:33:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sahid Raya Yogya Bawa Jikustik feat Pongki Barata Lebih Dekat dengan Penggemar Lewat Meet & Greet",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tmhv5s282/sahid-raya-yogya-bawa-jikustik-feat-pongki-barata-lebih-dekat-dengan-penggemar-lewat-meet-greet",
+      "published_date": "2026-10-06T16:29:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPAI Desak Terduga Pelaku Bullying di SD Pemalang Diproses Hukum",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tmhuz9282/kpai-desak-terduga-pelaku-bullying-di-sd-pemalang-diproses-hukum",
+      "published_date": "2026-10-06T16:25:57+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sering Minum Teh Hijau? Ternyata Ini Waktu Terbaik agar Jantung Tetap Sehat",
       "source": "Republika English",
@@ -412,48 +461,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmep7w348/hasil-uefa-nations-league-jerman-terpeleset-portugal-segel-tiket-8-besar-belanda-kokoh-di-puncak",
       "published_date": "2026-10-04T23:28:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tutup Asian Games 2026, Indonesia Raih 39 Medali dan Tempati Posisi ke-16",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmdtki375/tutup-asian-games-2026-indonesia-raih-39-medali-dan-tempati-posisi-ke16",
-      "published_date": "2026-10-04T15:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Percasi DKI Jakarta Gelar Kejuaraan Daerah Piala Gubernur DKI Jakarta 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmdwo2456/percasi-dki-jakarta-gelar-kejuaraan-daerah-piala-gubernur-dki-jakarta-2026",
-      "published_date": "2026-10-04T13:12:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemenag Benahi Sistem Pendataan Santri dan Pesantren",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmdwdt416/kemenag-benahi-sistem-pendataan-santri-dan-pesantren",
-      "published_date": "2026-10-04T13:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resmi Dilantik Jadi Ketua KORMI KBB, Syahnaz Sadiqah Ungkap Komitmen dan Harapannya",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tmdvmq425/resmi-dilantik-jadi-ketua-kormi-kbb-syahnaz-sadiqah-ungkap-komitmen-dan-harapannya",
-      "published_date": "2026-10-04T12:49:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Permainan Tradisional Meriahkan Festival Olahraga Rakyat Jakarta 2026",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmdso7375/permainan-tradisional-meriahkan-festival-olahraga-rakyat-jakarta-2026",
-      "published_date": "2026-10-04T11:45:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IZI dan PT Paragon Corp Resmikan Program Beasiswa Mahasiswa di ITB",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmdskp425/izi-dan-pt-paragon-corp-resmikan-program-beasiswa-mahasiswa-di-itb",
-      "published_date": "2026-10-04T11:43:37+00:00",
       "category": "Local Events"
     }
   ]
