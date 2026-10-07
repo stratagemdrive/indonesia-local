@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Usai Juara FIFA ASEAN Cup 2026, Peringkat FIFA Timnas Indonesia Naik Dua Posisi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjp81348/usai-juara-fifa-asean-cup-2026-peringkat-fifa-timnas-indonesia-naik-dua-posisi",
+      "published_date": "2026-10-07T16:16:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Tiga Tahun Genosida Gaza: Apa Artinya bagi Masyarakat Dunia?",
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tmijo9451/tiga-tahun-genosida-gaza-apa-artinya-bagi-masyarakat-dunia",
@@ -132,16 +139,23 @@
       "url": "https://ekonomi.republika.co.id/berita/tmeqin423/harga-emas-diprediksi-bergerak-fluktuatif-di-kisaran-rp-242rp-268-juta-per-gram-pada-pekan-ini",
       "published_date": "2026-10-04T23:56:47+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Ramainya IIBF dan Bangkitnya Minat Baca Generasi Muda",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmctjh393/ramainya-iibf-dan-bangkitnya-minat-baca-generasi-muda",
-      "published_date": "2026-10-03T23:08:41+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "BAM DPR Terima Aduan Warga Kebon Sirih Soal Tukar Guling Masjid Al Hurriyah, Soroti Lokasi Pengganti",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tmjprp320/bam-dpr-terima-aduan-warga-kebon-sirih-soal-tukar-guling-masjid-al-hurriyah-soroti-lokasi-pengganti",
+      "published_date": "2026-10-07T16:28:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ribuan Warga Mataram Tumpah Ruah Sambut Marc Marquez dan Bintang MotoGP",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjpmc348/ribuan-warga-mataram-tumpah-ruah-sambut-marc-marquez-dan-bintang-motogp",
+      "published_date": "2026-10-07T16:25:24+00:00",
+      "category": "Military"
+    },
     {
       "title": "Asked When the J-10 Will Arrive? Here's the Air Force Chief's Answer",
       "source": "Republika English",
@@ -297,13 +311,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tm7ez3370/daftar-lengkap-harga-bbm-pertamina-shell-dan-vivo-per-1-oktober-2026",
       "published_date": "2026-10-01T01:04:15+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Sumur BDA-004 Indramayu Tiba-tiba Keluarkan Asap Putih, Pertamina EP Beri Penjelasan",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tm6pc3282/sumur-bda004-indramayu-tibatiba-keluarkan-asap-putih-pertamina-ep-beri-penjelasan",
-      "published_date": "2026-09-30T15:50:27+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -330,6 +337,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Bene Dion Pamerkan Keindahan Sumatera Utara Lewat Medlei Film Musikal \"Pulang Kampung\"",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjr8k3830000/bene-dion-pamerkan-keindahan-sumatera-utara-lewat-medlei-film-musikal-pulang-kampung",
+      "published_date": "2026-10-07T17:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survei Adidaya Institute: Mayoritas Publik Dukung Keberlanjutan MBG",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjld0522/survei-adidaya-institute-mayoritas-publik-dukung-keberlanjutan-mbg",
+      "published_date": "2026-10-07T16:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSSI Harapkan League Cup Munculkan Pemain Potensial Perkuat Timnas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjqpm348/pssi-harapkan-league-cup-munculkan-pemain-potensial-perkuat-timnas",
+      "published_date": "2026-10-07T16:48:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beredar Pesan WA Gibran Segera Mundur dari Jabatan Wapres, Ketum Projo: Hoaks",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjoo1409/beredar-pesan-wa-gibran-segera-mundur-dari-jabatan-wapres-ketum-projo-hoaks",
+      "published_date": "2026-10-07T16:04:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dari Tradisi ke Inovasi, Wajah Baru Kerajinan Indonesia di INACRAFT",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmji3b375/dari-tradisi-ke-inovasi-wajah-baru-kerajinan-indonesia-di-inacraft",
+      "published_date": "2026-10-07T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riset Evident: Wamen dan Waka Badan Tak Sekadar Ban Serep",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmjlji522/riset-evident-wamen-dan-waka-badan-tak-sekadar-ban-serep",
+      "published_date": "2026-10-07T15:54:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Integrasi Berlanjut, Danamon dan MUFG Perkenalkan Nama Bank Baru",
       "source": "Republika English",
@@ -426,48 +475,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tmgrx2425/sering-minum-teh-hijau-ternyata-ini-waktu-terbaik-agar-jantung-tetap-sehat",
       "published_date": "2026-10-06T02:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nobu Bank dan Jalin Kembangkan Layanan QRIS Koridor Hong Kong",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmgqmj484/nobu-bank-dan-jalin-kembangkan-layanan-qris-koridor-hong-kong",
-      "published_date": "2026-10-06T01:54:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AS Kumpulkan Lingkar Kecil NATO, Inggris-Prancis dan Baltik tak Diundang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmgqko451/as-kumpulkan-lingkar-kecil-nato-inggrisprancis-dan-baltik-tak-diundang",
-      "published_date": "2026-10-06T01:53:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edukasi Penting dari Pakar agar Anak Terhindari dari Penculikan di Gerbang Sekolah",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tmgplf425/edukasi-penting-dari-pakar-agar-anak-terhindari-dari-penculikan-di-gerbang-sekolah",
-      "published_date": "2026-10-06T01:32:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemerintah tak Izinkan Israel Houghton Injak Kaki di Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmgosz430/pemerintah-tak-izinkan-israel-houghton-injak-kaki-di-indonesia",
-      "published_date": "2026-10-06T01:14:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua Macam Rezeki Menurut Syekh Ibnu Athaillah as Sakandari",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmgojd430/dua-macam-rezeki-menurut-syekh-ibnu-athaillah-as-sakandari",
-      "published_date": "2026-10-06T01:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atalia Praratya Desak KY Periksa Hakim yang Bebaskan Terdakwa Kekerasan Seks ke Balita",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tmgnfb282/atalia-praratya-desak-ky-periksa-hakim-yang-bebaskan-terdakwa-kekerasan-seks-ke-balita",
-      "published_date": "2026-10-06T00:45:11+00:00",
       "category": "Local Events"
     }
   ]
