@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ingin Bangun LRT Jakarta ke Dukuh Atas, Pramono Buat Dana Cadangan Daerah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmkc2q484/ingin-bangun-lrt-jakarta-ke-dukuh-atas-pramono-buat-dana-cadangan-daerah",
+      "published_date": "2026-10-08T00:30:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Usai Juara FIFA ASEAN Cup 2026, Peringkat FIFA Timnas Indonesia Naik Dua Posisi",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmjp81348/usai-juara-fifa-asean-cup-2026-peringkat-fifa-timnas-indonesia-naik-dua-posisi",
@@ -132,13 +139,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tmer7a423/menteri-perdagangan-g20-tolak-penggunaan-pangan-untuk-tekanan-geopolitik",
       "published_date": "2026-10-05T00:20:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Harga Emas Diprediksi Bergerak Fluktuatif di Kisaran Rp 2,42—Rp 2,68 Juta per Gram pada Pekan Ini",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmeqin423/harga-emas-diprediksi-bergerak-fluktuatif-di-kisaran-rp-242rp-268-juta-per-gram-pada-pekan-ini",
-      "published_date": "2026-10-04T23:56:47+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -243,6 +243,20 @@
   ],
   "Energy": [
     {
+      "title": "Tiket MotoGP Hampir Ludes Terjual, Pertegas Posisi Sport Tourism Mandalika",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmkg30423/tiket-motogp-hampir-ludes-terjual-pertegas-posisi-sport-tourism-mandalika",
+      "published_date": "2026-10-08T01:57:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Dokumenter Tayang Soroti Meningkatnya Permintaan Biofuel di Asia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmkdlm484/dokumenter-tayang-soroti-meningkatnya-permintaan-biofuel-di-asia",
+      "published_date": "2026-10-08T01:03:22+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Menaker: UU Pelindungan Ketenagakerjaan Atur 13 Ketentuan Baru, Termasuk Soal Pesangon PHK",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmikoj423/menaker-uu-pelindungan-ketenagakerjaan-atur-13-ketentuan-baru-termasuk-soal-pesangon-phk",
@@ -304,13 +318,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tm8jlu522/pertamina-patra-niaga-dukung-program-koperasi-desa-merah-putih-melalui-penyaluran-lpg",
       "published_date": "2026-10-01T15:41:54+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Daftar Lengkap Harga BBM Pertamina, Shell, dan Vivo Per 1 Oktober 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm7ez3370/daftar-lengkap-harga-bbm-pertamina-shell-dan-vivo-per-1-oktober-2026",
-      "published_date": "2026-10-01T01:04:15+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -337,6 +344,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Ilmuwan Pemburu 'Partikel Hantư' di Es Antartika Raih Nobel Fisika",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmkfwq425/ilmuwan-pemburu-partikel-hant-di-es-antartika-raih-nobel-fisika",
+      "published_date": "2026-10-08T01:53:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arah Baru Kebijakan Profesi Advokat: Pengaturan Regulator dalam Realisasi Jaminan Profesionalisme",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tmkfq8320/arah-baru-kebijakan-profesi-advokat-pengaturan-regulator-dalam-realisasi-jaminan-profesionalisme",
+      "published_date": "2026-10-08T01:49:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaikat atau Orang-Orang yang Saleh, Mana yang Lebih Utama?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmkenl320/malaikat-atau-orangorang-yang-saleh-mana-yang-lebih-utama",
+      "published_date": "2026-10-08T01:26:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EIGER Nature Restorasi Lahan Kritis di Puncak Bogor, Ini Kata Walhi Jabar",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tmkdqd430/eiger-nature-restorasi-lahan-kritis-di-puncak-bogor-ini-kata-walhi-jabar",
+      "published_date": "2026-10-08T01:06:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: disorder and the ‘preman state’",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-disorder-and-the-preman-state/",
+      "published_date": "2026-10-07T23:34:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Bene Dion Pamerkan Keindahan Sumatera Utara Lewat Medlei Film Musikal \"Pulang Kampung\"",
       "source": "Republika English",
@@ -440,41 +482,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tmhvow375/sengketa-ijazah-gibran-mk-nyatakan-permohonan-tidak-dapat-diterima",
       "published_date": "2026-10-06T16:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tingkatkan Efisiensi Pembayaran Travel, DOKU-Sabre Jalin Kolaborasi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmhog0483/tingkatkan-efisiensi-pembayaran-travel-dokusabre-jalin-kolaborasi",
-      "published_date": "2026-10-06T16:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sekjen DPP Perbasi Sebut Pemerintah Dukung Penuh Perkembangan Bola Basket Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmhvb8348/sekjen-dpp-perbasi-sebut-pemerintah-dukung-penuh-perkembangan-bola-basket-indonesia",
-      "published_date": "2026-10-06T16:33:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sahid Raya Yogya Bawa Jikustik feat Pongki Barata Lebih Dekat dengan Penggemar Lewat Meet & Greet",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tmhv5s282/sahid-raya-yogya-bawa-jikustik-feat-pongki-barata-lebih-dekat-dengan-penggemar-lewat-meet-greet",
-      "published_date": "2026-10-06T16:29:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPAI Desak Terduga Pelaku Bullying di SD Pemalang Diproses Hukum",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tmhuz9282/kpai-desak-terduga-pelaku-bullying-di-sd-pemalang-diproses-hukum",
-      "published_date": "2026-10-06T16:25:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sering Minum Teh Hijau? Ternyata Ini Waktu Terbaik agar Jantung Tetap Sehat",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tmgrx2425/sering-minum-teh-hijau-ternyata-ini-waktu-terbaik-agar-jantung-tetap-sehat",
-      "published_date": "2026-10-06T02:22:14+00:00",
       "category": "Local Events"
     }
   ]
