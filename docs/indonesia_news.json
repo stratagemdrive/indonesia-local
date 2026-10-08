@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Komunikasi Publik Dinilai Jadi Kunci Membangun Kepercayaan dan Perdamaian Papua",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmlkzv366/komunikasi-publik-dinilai-jadi-kunci-membangun-kepercayaan-dan-perdamaian-papua",
+      "published_date": "2026-10-08T16:40:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Ingin Bangun LRT Jakarta ke Dukuh Atas, Pramono Buat Dana Cadangan Daerah",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmkc2q484/ingin-bangun-lrt-jakarta-ke-dukuh-atas-pramono-buat-dana-cadangan-daerah",
@@ -132,16 +139,23 @@
       "url": "https://news.republika.co.id/berita/tmdzc9416/taruna-nusantara-mun-asah-kemampuan-diplomasi-pelajar-dari-31-provinsi",
       "published_date": "2026-10-05T01:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Menteri Perdagangan G20 Tolak Penggunaan Pangan untuk Tekanan Geopolitik",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmer7a423/menteri-perdagangan-g20-tolak-penggunaan-pangan-untuk-tekanan-geopolitik",
-      "published_date": "2026-10-05T00:20:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Pemprov Jabar Gandeng TNI AD Olah 1.000 Ton Sampah TPA Sarimukti Jadi Solar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmllwe8030000/pemprov-jabar-gandeng-tni-ad-olah-1000-ton-sampah-tpa-sarimukti-jadi-solar",
+      "published_date": "2026-10-08T17:00:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Khawarizmi, Saintis Muslim dan Warisan Keilmuan yang Mengubah Dunia",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmlk0f320/alkhawarizmi-saintis-muslim-dan-warisan-keilmuan-yang-mengubah-dunia",
+      "published_date": "2026-10-08T16:19:27+00:00",
+      "category": "Military"
+    },
     {
       "title": "BAM DPR Terima Aduan Warga Kebon Sirih Soal Tukar Guling Masjid Al Hurriyah, Soroti Lokasi Pengganti",
       "source": "Republika English",
@@ -225,20 +239,6 @@
       "url": "https://visual.republika.co.id/berita/tma9d2375/panji-tribrata-berpindah-tangan-suyudi-ario-seto-pimpin-polri",
       "published_date": "2026-10-02T15:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Mabes Pastikan Presiden Hadiri HUT Ke-81 TNI di Cilangkap",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm8ir7484/mabes-pastikan-presiden-hadiri-hut-ke81-tni-di-cilangkap",
-      "published_date": "2026-10-01T15:23:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Usai Raih Top Halal Award 2026, Produk Ini Bidik Pasar Luar Negeri",
-      "source": "Republika English",
-      "url": "https://sharia.republika.co.id/berita/tm8aoc349/usai-raih-top-halal-award-2026-produk-ini-bidik-pasar-luar-negeri",
-      "published_date": "2026-10-01T15:17:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -304,20 +304,6 @@
       "url": "https://news.republika.co.id/berita/tm97t0416/kader-hmi-didorong-terjemahkan-gagasan-menjadi-gerakan",
       "published_date": "2026-10-02T00:27:12+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Enlit Asia 2026 Hadirkan 11 Ribu Pelaku Industri Energi dari 27 Negara",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm8cpy349/enlit-asia-2026-hadirkan-11-ribu-pelaku-industri-energi-dari-27-negara",
-      "published_date": "2026-10-01T16:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Dukung Program Koperasi Desa Merah Putih melalui Penyaluran LPG",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm8jlu522/pertamina-patra-niaga-dukung-program-koperasi-desa-merah-putih-melalui-penyaluran-lpg",
-      "published_date": "2026-10-01T15:41:54+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -334,16 +320,65 @@
       "url": "https://ekonomi.republika.co.id/berita/tmaexq349/dari-batik-hingga-rompi-antipeluru-bpdp-pamerkan-inovasi-berbasis-komoditas-kebun",
       "published_date": "2026-10-02T15:56:14+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Hilirisasi Nikel Dorong Perubahan Struktur Ekonomi Sulawesi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tm8jo1522/hilirisasi-nikel-dorong-perubahan-struktur-ekonomi-sulawesi",
-      "published_date": "2026-10-01T15:43:13+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sertifikasi Halal Dinilai Bisa Tingkatkan Kepercayaan Wisatawan Muslim",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmllzb366/sertifikasi-halal-dinilai-bisa-tingkatkan-kepercayaan-wisatawan-muslim",
+      "published_date": "2026-10-08T17:01:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sebanyak 50 Siswa SMKN 39 Jakarta Pusat Dibekali Psikologi dan Keislaman Cegah Perundungan Siber",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmk9iv320/sebanyak-50-siswa-smkn-39-jakarta-pusat-dibekali-psikologi-dan-keislaman-cegah-perundungan-siber",
+      "published_date": "2026-10-08T16:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NPC Indonesia Gelar Doa Bersama untuk Kesuksesan di Asian Para Games dan IFCPF World Cup 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmlkc0348/npc-indonesia-gelar-doa-bersama-untuk-kesuksesan-di-asian-para-games-dan-ifcpf-world-cup-2026",
+      "published_date": "2026-10-08T16:26:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ratusan Santri Adu Bakat dan Prestasi pada Porsadin ke-7 DKI Jakarta",
+      "source": "Republika English",
+      "url": "https://republika.co.id/berita//tmlgq1291/ratusan-santri-adu-bakat-dan-prestasi-pada-porsadin-ke-7-dki-jakarta",
+      "published_date": "2026-10-08T16:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mengurai Hambatan Tata Kelola Royalti Musik Lintas Negara di Era Digital",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmlj49320/mengurai-hambatan-tata-kelola-royalti-musik-lintas-negara-di-era-digital",
+      "published_date": "2026-10-08T16:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perkuat Keterampilan SDM, PKSS Adakan Pelatihan Gada Pratama 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmlaj7370/perkuat-keterampilan-sdm-pkss-adakan-pelatihan-gada-pratama-2026",
+      "published_date": "2026-10-08T15:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menjelajah Alam Semesta di Pekan Astronomi Jakarta",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmld3j375/menjelajah-alam-semesta-di-pekan-astronomi-jakarta",
+      "published_date": "2026-10-08T15:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UGM Soroti Krisis Ekonomi-Politik Indonesia, Presiden Diminta tak Gengsi Koreksi Kebijakan",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tmlhec291/ugm-soroti-krisis-ekonomipolitik-indonesia-presiden-diminta-tak-gengsi-koreksi-kebijakan",
+      "published_date": "2026-10-08T15:23:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ilmuwan Pemburu 'Partikel Hantư' di Es Antartika Raih Nobel Fisika",
       "source": "Republika English",
@@ -426,62 +461,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmikir416/integrasi-berlanjut-danamon-dan-mufg-perkenalkan-nama-bank-baru",
       "published_date": "2026-10-07T01:38:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pramono Ingin Jadikan Pasar Baru sebagai Myeongdong-nya Jakarta",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmijow423/pramono-ingin-jadikan-pasar-baru-sebagai-myeongdongnya-jakarta",
-      "published_date": "2026-10-07T01:19:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Panggil Nusron Wahid Hari Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmij79409/kpk-panggil-nusron-wahid-hari-ini",
-      "published_date": "2026-10-07T01:09:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crystalin RunXperience 2026 Libatkan 9.500 Pelari di Jakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmiiym456/crystalin-runxperience-2026-libatkan-9500-pelari-di-jakarta",
-      "published_date": "2026-10-07T01:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CSR BUMD DKI Didorong Perkuat Kemandirian Masyarakat",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tmiibe416/csr-bumd-dki-didorong-perkuat-kemandirian-masyarakat",
-      "published_date": "2026-10-07T00:51:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anak tak Harus Unggul di Semua Bidang, Ini Kata Dokter Anak",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmiiaq423/anak-tak-harus-unggul-di-semua-bidang-ini-kata-dokter-anak",
-      "published_date": "2026-10-07T00:49:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INACRAFT October Vol. 5 2026 Hadirkan Konsep “Techno Craft”, Libatkan 19 Youthpreneurs",
-      "source": "Republika English",
-      "url": "https://republika.co.id/berita//tmiho5456/inacraft-october-vol-5-2026-hadirkan-konsep-%e2%80%9ctechno-craft%e2%80%9d-libatkan-19-youthpreneurs",
-      "published_date": "2026-10-07T00:36:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refleksi HUT TNI, Ibas Tekankan Pentingnya Rawat Sejarah dan Jaga Persatuan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmhjkx320/refleksi-hut-tni-ibas-tekankan-pentingnya-rawat-sejarah-dan-jaga-persatuan",
-      "published_date": "2026-10-06T16:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sengketa Ijazah Gibran, MK Nyatakan Permohonan Tidak Dapat Diterima",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmhvow375/sengketa-ijazah-gibran-mk-nyatakan-permohonan-tidak-dapat-diterima",
-      "published_date": "2026-10-06T16:55:00+00:00",
       "category": "Local Events"
     }
   ]
