@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "BPIH 2027: Antara Keterjangkauan Biaya, Keadilan Jamaah, dan Keberlanjutan Dana Haji",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tmll7d366/bpih-2027-antara-keterjangkauan-biaya-keadilan-jamaah-dan-keberlanjutan-dana-haji",
+      "published_date": "2026-10-09T02:01:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wajib Halal Dipastikan Tetap Berlaku 18 Oktober",
+      "source": "Republika English",
+      "url": "https://sharia.republika.co.id/berita/tmm523416/wajib-halal-dipastikan-tetap-berlaku-18-oktober",
+      "published_date": "2026-10-09T02:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Komunikasi Publik Dinilai Jadi Kunci Membangun Kepercayaan dan Perdamaian Papua",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmlkzv366/komunikasi-publik-dinilai-jadi-kunci-membangun-kepercayaan-dan-perdamaian-papua",
@@ -125,23 +139,23 @@
       "url": "https://news.republika.co.id/berita/tmfz0m348/indonesia-juara-fifa-asean-cup-2026-kalahkan-thailand-lewat-adu-penalti",
       "published_date": "2026-10-05T15:57:58+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Pentingnya Minum Air Putih Sebelum Ngopi Pagi",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tmetrq425/pentingnya-minum-air-putih-sebelum-ngopi-pagi",
-      "published_date": "2026-10-05T01:07:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Taruna Nusantara MUN Asah Kemampuan Diplomasi Pelajar dari 31 Provinsi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmdzc9416/taruna-nusantara-mun-asah-kemampuan-diplomasi-pelajar-dari-31-provinsi",
-      "published_date": "2026-10-05T01:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "KDM Warga Jabar Bisa Berobat Gratis di RS Jakarta",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tmmbl21591660774/kdm-warga-jabar-bisa-berobat-gratis-di-rs-jakarta",
+      "published_date": "2026-10-09T02:15:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Viral Tren Mukbang Mentega dan Margarin tanpa Diolah, Awas! Bahaya Ini Mengintai Tubuh",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmmbbz425/viral-tren-mukbang-mentega-dan-margarin-tanpa-diolah-awas-bahaya-ini-mengintai-tubuh",
+      "published_date": "2026-10-09T02:09:35+00:00",
+      "category": "Military"
+    },
     {
       "title": "Pemprov Jabar Gandeng TNI AD Olah 1.000 Ton Sampah TPA Sarimukti Jadi Solar",
       "source": "Republika English",
@@ -297,16 +311,16 @@
       "url": "https://news.republika.co.id/berita/tmaay6377/gabung-dalam-pemerintahan-sebagai-wantimpres-rocky-gerung-alasan-gua-menolak-apa",
       "published_date": "2026-10-02T14:30:06+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Kader HMI Didorong Terjemahkan Gagasan Menjadi Gerakan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tm97t0416/kader-hmi-didorong-terjemahkan-gagasan-menjadi-gerakan",
-      "published_date": "2026-10-02T00:27:12+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Nur Corner Book Club Hadir, Dorong Budaya Literasi dan Internalisasi Nilai Luhur",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmmbz4320/nur-corner-book-club-hadir-dorong-budaya-literasi-dan-internalisasi-nilai-luhur",
+      "published_date": "2026-10-09T02:23:28+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Kementerian Baru Diminta Perkuat Strategi Hilirisasi dan Transisi Energi",
       "source": "Republika English",
@@ -323,6 +337,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "BEI Perketat Syarat Perusahaan Melantai di Bursa",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmmcga423/bei-perketat-syarat-perusahaan-melantai-di-bursa",
+      "published_date": "2026-10-09T02:33:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kamila Andini Angkat Trauma dan Perjuangan Perempuan Lewat Metafora di Empat Musim Pertiwi",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmmcbv328/kamila-andini-angkat-trauma-dan-perjuangan-perempuan-lewat-metafora-di-empat-musim-pertiwi",
+      "published_date": "2026-10-09T02:31:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Film Berbasis AI Ini Nekat Incar Piala Oscar",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmmca4425/film-berbasis-ai-ini-nekat-incar-piala-oscar",
+      "published_date": "2026-10-09T02:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MV Khatulistiwa 8 Tenggelam di Tuban, Satu ABK Masih Dicari",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmmbvy423/mv-khatulistiwa-8-tenggelam-di-tuban-satu-abk-masih-dicari",
+      "published_date": "2026-10-09T02:21:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 Induk Kunci Ghaib yang Hanya Dimiliki Oleh Allah SWT dan Rahasianya",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmmaen320/5-induk-kunci-ghaib-yang-hanya-dimiliki-oleh-allah-swt-dan-rahasianya",
+      "published_date": "2026-10-09T01:49:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hadapi Ancaman Digital, Jamkrindo Perkuat Sistem Keamanan Siber",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmm9mk416/hadapi-ancaman-digital-jamkrindo-perkuat-sistem-keamanan-siber",
+      "published_date": "2026-10-09T01:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memudahkan Pasien Medis BookCabin Hadirkan Fitur Tandu Penerbangan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmm9ox423/memudahkan-pasien-medis-bookcabin-hadirkan-fitur-tandu-penerbangan",
+      "published_date": "2026-10-09T01:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahlil Sukses Jaga Ketahanan Energi Nasional, Ini Kata Pakar Energi ITS",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmm9oe522/bahlil-sukses-jaga-ketahanan-energi-nasional-ini-kata-pakar-energi-its",
+      "published_date": "2026-10-09T01:33:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sherly Disambut Meriah Prabowo Pemilu Masih Lama",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tmm9i21880672982/sherly-disambut-meriah-prabowo-pemilu-masih-lama",
+      "published_date": "2026-10-09T01:30:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sertifikasi Halal Dinilai Bisa Tingkatkan Kepercayaan Wisatawan Muslim",
       "source": "Republika English",
@@ -398,69 +475,6 @@
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tmkenl320/malaikat-atau-orangorang-yang-saleh-mana-yang-lebih-utama",
       "published_date": "2026-10-08T01:26:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EIGER Nature Restorasi Lahan Kritis di Puncak Bogor, Ini Kata Walhi Jabar",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tmkdqd430/eiger-nature-restorasi-lahan-kritis-di-puncak-bogor-ini-kata-walhi-jabar",
-      "published_date": "2026-10-08T01:06:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: disorder and the ‘preman state’",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-disorder-and-the-preman-state/",
-      "published_date": "2026-10-07T23:34:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bene Dion Pamerkan Keindahan Sumatera Utara Lewat Medlei Film Musikal \"Pulang Kampung\"",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmjr8k3830000/bene-dion-pamerkan-keindahan-sumatera-utara-lewat-medlei-film-musikal-pulang-kampung",
-      "published_date": "2026-10-07T17:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survei Adidaya Institute: Mayoritas Publik Dukung Keberlanjutan MBG",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmjld0522/survei-adidaya-institute-mayoritas-publik-dukung-keberlanjutan-mbg",
-      "published_date": "2026-10-07T16:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSSI Harapkan League Cup Munculkan Pemain Potensial Perkuat Timnas",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmjqpm348/pssi-harapkan-league-cup-munculkan-pemain-potensial-perkuat-timnas",
-      "published_date": "2026-10-07T16:48:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beredar Pesan WA Gibran Segera Mundur dari Jabatan Wapres, Ketum Projo: Hoaks",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmjoo1409/beredar-pesan-wa-gibran-segera-mundur-dari-jabatan-wapres-ketum-projo-hoaks",
-      "published_date": "2026-10-07T16:04:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dari Tradisi ke Inovasi, Wajah Baru Kerajinan Indonesia di INACRAFT",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmji3b375/dari-tradisi-ke-inovasi-wajah-baru-kerajinan-indonesia-di-inacraft",
-      "published_date": "2026-10-07T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riset Evident: Wamen dan Waka Badan Tak Sekadar Ban Serep",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmjlji522/riset-evident-wamen-dan-waka-badan-tak-sekadar-ban-serep",
-      "published_date": "2026-10-07T15:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Integrasi Berlanjut, Danamon dan MUFG Perkenalkan Nama Bank Baru",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmikir416/integrasi-berlanjut-danamon-dan-mufg-perkenalkan-nama-bank-baru",
-      "published_date": "2026-10-07T01:38:17+00:00",
       "category": "Local Events"
     }
   ]
