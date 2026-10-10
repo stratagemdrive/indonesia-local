@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Mengapa Hujan Belum Juga Turun Padahal Banyak yang Telah Laksanakan Sholat Istisqa?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmnzpg320/mengapa-hujan-belum-juga-turun-padahal-banyak-yang-telah-laksanakan-sholat-istisqa",
+      "published_date": "2026-10-09T23:53:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "BPIH 2027: Antara Keterjangkauan Biaya, Keadilan Jamaah, dan Keberlanjutan Dana Haji",
       "source": "Republika English",
       "url": "https://analisis.republika.co.id/berita/tmll7d366/bpih-2027-antara-keterjangkauan-biaya-keadilan-jamaah-dan-keberlanjutan-dana-haji",
@@ -132,16 +139,16 @@
       "url": "https://news.republika.co.id/berita/tmg1wn1030000/transisi-ekonomi-hijau-jadi-fondasi-strategis-kekuatan-industri-indonesia",
       "published_date": "2026-10-05T17:00:23+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia Juara FIFA ASEAN Cup 2026, Kalahkan Thailand Lewat Adu Penalti",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmfz0m348/indonesia-juara-fifa-asean-cup-2026-kalahkan-thailand-lewat-adu-penalti",
-      "published_date": "2026-10-05T15:57:58+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Panama Diguncang Gempa Magnitudo 7,7, Sejumlah Bangunan Roboh, Operasional Bandar Sempat Terhenti",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmny6z348/panama-diguncang-gempa-magnitudo-77-sejumlah-bangunan-roboh-operasional-bandar-sempat-terhenti",
+      "published_date": "2026-10-09T23:20:59+00:00",
+      "category": "Military"
+    },
     {
       "title": "Video ini Jadi Bukti Kalimantan Masih Tidak BaikBaik Saja",
       "source": "Republika English",
@@ -243,6 +250,20 @@
   ],
   "Energy": [
     {
+      "title": "Pertamina Hadirkan Pertamax Turbo Untuk Mendukung Mobilitas Safety Car di Pertamina Grand Prix",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmo4eb522/pertamina-hadirkan-pertamax-turbo-untuk-mendukung-mobilitas-safety-car-di-pertamina-grand-prix",
+      "published_date": "2026-10-10T01:34:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Percepat Reforma Agraria, BRAN dan Kementerian ATR/BPN Bagi Peran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmnysp370/percepat-reforma-agraria-bran-dan-kementerian-atrbpn-bagi-peran",
+      "published_date": "2026-10-09T23:34:01+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Operasi Narkoba di Tiga Daerah, Polisi Sita Sabu dan Amankan Puluhan Orang",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tmn9lb375/operasi-narkoba-di-tiga-daerah-polisi-sita-sabu-dan-amankan-puluhan-orang",
@@ -338,6 +359,62 @@
   ],
   "Local Events": [
     {
+      "title": "ASDP Andalkan Efisiensi Kapal dan Pelabuhan untuk Jaga Arus Logistik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmo458416/asdp-andalkan-efisiensi-kapal-dan-pelabuhan-untuk-jaga-arus-logistik",
+      "published_date": "2026-10-10T01:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hydroplus Soccer League 2026/2027, 110 Tim Beradu di Liga Sepakbola Putri U-15 dan U-18",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmo421456/hydroplus-soccer-league-20262027-110-tim-beradu-di-liga-sepakbola-putri-u15-dan-u18",
+      "published_date": "2026-10-10T01:27:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wuling Motors Pamerkan Empat Mobil Modifikasi di IMX 2026",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmo34d348/wuling-motors-pamerkan-empat-mobil-modifikasi-di-imx-2026",
+      "published_date": "2026-10-10T01:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dari Gengsi ke Fungsi, Sinyal Rapuhnya Ekonomi Kelas Menengah",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmo2u4370/dari-gengsi-ke-fungsi-sinyal-rapuhnya-ekonomi-kelas-menengah",
+      "published_date": "2026-10-10T01:01:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rio Ferdinand Kenang Rivalitas Panas Manchester United dan Arsenal",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmo2gl348/rio-ferdinand-kenang-rivalitas-panas-manchester-united-dan-arsenal",
+      "published_date": "2026-10-10T00:53:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ronaldo Terancam Hukuman Larangan Bela Portugal Hingga Enam Bulan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmo1lh348/ronaldo-terancam-hukuman-larangan-bela-portugal-hingga-enam-bulan",
+      "published_date": "2026-10-10T00:34:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemerintah Siapkan Peremajaan 9.000 Hektare Perkebunan Kelapa pada 2027",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmnyn0370/pemerintah-siapkan-peremajaan-9000-hektare-perkebunan-kelapa-pada-2027",
+      "published_date": "2026-10-09T23:30:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BUMDes Binaan MHU Catat Omzet Rp115 Miliar, Desa Kini Berstatus Maju",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tmnxy8416/bumdes-binaan-mhu-catat-omzet-rp115-miliar-desa-kini-berstatus-maju",
+      "published_date": "2026-10-09T23:15:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Menhub Kaji Tarif Batas Bawah Logistik Darat Demi Cegah Perang Harga",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmnh9n4030000/menhub-kaji-tarif-batas-bawah-logistik-darat-demi-cegah-perang-harga",
@@ -419,62 +496,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmmbvy423/mv-khatulistiwa-8-tenggelam-di-tuban-satu-abk-masih-dicari",
       "published_date": "2026-10-09T02:21:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 Induk Kunci Ghaib yang Hanya Dimiliki Oleh Allah SWT dan Rahasianya",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmmaen320/5-induk-kunci-ghaib-yang-hanya-dimiliki-oleh-allah-swt-dan-rahasianya",
-      "published_date": "2026-10-09T01:49:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hadapi Ancaman Digital, Jamkrindo Perkuat Sistem Keamanan Siber",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmm9mk416/hadapi-ancaman-digital-jamkrindo-perkuat-sistem-keamanan-siber",
-      "published_date": "2026-10-09T01:42:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memudahkan Pasien Medis BookCabin Hadirkan Fitur Tandu Penerbangan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmm9ox423/memudahkan-pasien-medis-bookcabin-hadirkan-fitur-tandu-penerbangan",
-      "published_date": "2026-10-09T01:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahlil Sukses Jaga Ketahanan Energi Nasional, Ini Kata Pakar Energi ITS",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmm9oe522/bahlil-sukses-jaga-ketahanan-energi-nasional-ini-kata-pakar-energi-its",
-      "published_date": "2026-10-09T01:33:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sherly Disambut Meriah Prabowo Pemilu Masih Lama",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tmm9i21880672982/sherly-disambut-meriah-prabowo-pemilu-masih-lama",
-      "published_date": "2026-10-09T01:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sertifikasi Halal Dinilai Bisa Tingkatkan Kepercayaan Wisatawan Muslim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmllzb366/sertifikasi-halal-dinilai-bisa-tingkatkan-kepercayaan-wisatawan-muslim",
-      "published_date": "2026-10-08T17:01:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sebanyak 50 Siswa SMKN 39 Jakarta Pusat Dibekali Psikologi dan Keislaman Cegah Perundungan Siber",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmk9iv320/sebanyak-50-siswa-smkn-39-jakarta-pusat-dibekali-psikologi-dan-keislaman-cegah-perundungan-siber",
-      "published_date": "2026-10-08T16:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NPC Indonesia Gelar Doa Bersama untuk Kesuksesan di Asian Para Games dan IFCPF World Cup 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmlkc0348/npc-indonesia-gelar-doa-bersama-untuk-kesuksesan-di-asian-para-games-dan-ifcpf-world-cup-2026",
-      "published_date": "2026-10-08T16:26:24+00:00",
       "category": "Local Events"
     }
   ]
