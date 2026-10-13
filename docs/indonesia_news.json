@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Bawa Senapan dalam Tas Gitar, Siswa 14 Tahun Tembaki Sekolah di Prancis",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmtoc7451/bawa-senapan-dalam-tas-gitar-siswa-14-tahun-tembaki-sekolah-di-prancis",
+      "published_date": "2026-10-13T03:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Evaluasi Tetap Jalan, Pieter Huistra Soroti Aspek Penting Usai PSS Sleman Raih Kemenangan Perdana",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmt7if7030000/evaluasi-tetap-jalan-pieter-huistra-soroti-aspek-penting-usai-pss-sleman-raih-kemenangan-perdana",
@@ -132,13 +139,6 @@
       "url": "https://news.republika.co.id/berita/tmhw04348/rizky-ridho-bersyukur-timnas-indonesia-jadi-juara-bukan-mimpi",
       "published_date": "2026-10-06T16:48:04+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Israel Hougton Pernah Dapat Visa Pada Awal Tahun Ini, Jika Ajukan Permohonan Lagi akan Ditolak",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmgryj409/israel-hougton-pernah-dapat-visa-pada-awal-tahun-ini-jika-ajukan-permohonan-lagi-akan-ditolak",
-      "published_date": "2026-10-06T02:23:07+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -260,23 +260,37 @@
       "url": "https://news.republika.co.id/berita/tmjpmc348/ribuan-warga-mataram-tumpah-ruah-sambut-marc-marquez-dan-bintang-motogp",
       "published_date": "2026-10-07T16:25:24+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Asked When the J-10 Will Arrive? Here's the Air Force Chief's Answer",
-      "source": "Republika English",
-      "url": "https://en.republika.co.id/berita/tmgpk2484/asked-when-the-j10-will-arrive-heres-the-air-force-chiefs-answer",
-      "published_date": "2026-10-06T01:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pangkogabwilhan III Pastikan TNI tidak Benci OPM",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmgmlq484/pangkogabwilhan-iii-pastikan-tni-tidak-benci-opm",
-      "published_date": "2026-10-06T00:27:26+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Ternyata Teh Jahe Punya Manfaat Mentereng Buat Ginjal",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmtr08425/ternyata-teh-jahe-punya-manfaat-mentereng-buat-ginjal",
+      "published_date": "2026-10-13T02:31:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Houthi Serang Bandara Riyadh, Waketum MUI Tegaskan Islam Melarang Kekerasan",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmtp24483/houthi-serang-bandara-riyadh-waketum-mui-tegaskan-islam-melarang-kekerasan",
+      "published_date": "2026-10-13T01:49:16+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Liga Champions: Hansi Flick tak Peduli Skor, yang Penting Barcelona Kalahkan Galatasaray",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmtogv348/liga-champions-hansi-flick-tak-peduli-skor-yang-penting-barcelona-kalahkan-galatasaray",
+      "published_date": "2026-10-13T01:36:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Indonesia Dorong Implementasi Target Iklim dalam Skala Besar di COP31",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tmtn4y490/indonesia-dorong-implementasi-target-iklim-dalam-skala-besar-di-cop31",
+      "published_date": "2026-10-13T01:07:46+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Bupati Malinau Tegaskan Hak Pendidikan Layak untuk Semua Anak",
       "source": "Republika English",
@@ -401,6 +415,55 @@
   ],
   "Local Events": [
     {
+      "title": "Perang Houthi dan Saudi, Begini Sikap Pemerintah Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmtrxf377/perang-houthi-dan-saudi-begini-sikap-pemerintah-indonesia",
+      "published_date": "2026-10-13T02:51:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menjemput Rezeki",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmtnfp451/menjemput-rezeki",
+      "published_date": "2026-10-13T02:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Agendakan Ulang Pemeriksaan Nusron Wahid Pekan Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmtp6f487/kpk-agendakan-ulang-pemeriksaan-nusron-wahid-pekan-ini",
+      "published_date": "2026-10-13T01:51:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal Pekan Kedua Liga Champions: Atletico Hadapi MU, Man City Tantang PSG",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmtp2t348/jadwal-pekan-kedua-liga-champions-atletico-hadapi-mu-man-city-tantang-psg",
+      "published_date": "2026-10-13T01:49:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelas Eksekutif Dibanderol Puluhan Ribu, KAI Daop 4 Semarang Banting Harga Optimalkan Kursi Kosong",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tmtoqp487/kelas-eksekutif-dibanderol-puluhan-ribu-kai-daop-4-semarang-banting-harga-optimalkan-kursi-kosong",
+      "published_date": "2026-10-13T01:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu Ngebet Bantu Saudi Serang Houthi, Ini Sikap Pangeran MBS",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmtokx483/netanyahu-ngebet-bantu-saudi-serang-houthi-ini-sikap-pangeran-mbs",
+      "published_date": "2026-10-13T01:38:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inovasi PLTS Atap Pupuk Kaltim Pangkas Emisi hingga 10 Ribu Ton CO2",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tmtnry490/inovasi-plts-atap-pupuk-kaltim-pangkas-emisi-hingga-10-ribu-ton-co2",
+      "published_date": "2026-10-13T01:21:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran Kaji Proposal AS, Selat Hormuz Jadi Syarat Perundingan",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmsuj7451/iran-kaji-proposal-as-selat-hormuz-jadi-syarat-perundingan",
@@ -489,55 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmrp1r348/max-verstappen-akhirnya-juara-gp-f1-singapura-setelah-sembilan-kali-gagal",
       "published_date": "2026-10-11T23:53:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houthi Serang Bandara Saudi, Begini Pesan Iran ke Riyadh",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmrot4377/houthi-serang-bandara-saudi-begini-pesan-iran-ke-riyadh",
-      "published_date": "2026-10-11T23:48:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Coconut Day 2026 Dibuka di Manado, Dorong Kesejahteraan Petani",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tmqut1456/world-coconut-day-2026-dibuka-di-manado-dorong-kesejahteraan-petani",
-      "published_date": "2026-10-11T13:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putusan MK: Yudisialisasi Politik dan Politisasi Yudisial?",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tmqs5o291/putusan-mk-yudisialisasi-politik-dan-politisasi-yudisial",
-      "published_date": "2026-10-11T12:03:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo Antar Langsung Kepulangan Presiden El-Sisi di Lanud Halim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmqr0y484/prabowo-antar-langsung-kepulangan-presiden-elsisi-di-lanud-halim",
-      "published_date": "2026-10-11T11:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dari Karhutla hingga Pengolahan Sampah, Kalteng Dorong Penanganan dan Pembangunan Berkelanjutan",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tmpuqu291/dari-karhutla-hingga-pengolahan-sampah-kalteng-dorong-penanganan-dan-pembangunan-berkelanjutan",
-      "published_date": "2026-10-11T00:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presiden Mesir Bertemu Prabowo, CFD Sudirman-Thamrin Berakhir Pukul 09.00 WIB",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmpvu9366/presiden-mesir-bertemu-prabowo-cfd-sudirmanthamrin-berakhir-pukul-0900-wib",
-      "published_date": "2026-10-11T00:25:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cambridge Dorong Pelibatan Guru dalam Penyusunan Kebijakan AI di Sekolah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmpvcv456/cambridge-dorong-pelibatan-guru-dalam-penyusunan-kebijakan-ai-di-sekolah",
-      "published_date": "2026-10-11T00:17:00+00:00",
       "category": "Local Events"
     }
   ]
