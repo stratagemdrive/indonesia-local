@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Bangun Pusat Ekonomi Baru, Pemerintah Tak Bisa Hanya Andalkan Infrastruktur",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmwhoi522/bangun-pusat-ekonomi-baru-pemerintah-tak-bisa-hanya-andalkan-infrastruktur",
+      "published_date": "2026-10-14T15:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pemerintah Belum Keluarkan Larangan Umrah Buntut Serangan Bandara Riyadh",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmwiq9320/pemerintah-belum-keluarkan-larangan-umrah-buntut-serangan-bandara-riyadh",
+      "published_date": "2026-10-14T14:25:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Mamdani Guncang Kepolisian New York, Kematian Pemuda 19 Tahun Picu Reformasi Besar",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmvdsz451/mamdani-guncang-kepolisian-new-york-kematian-pemuda-19-tahun-picu-reformasi-besar",
@@ -114,6 +128,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Teknisi Bom Polri Tiba di Lokasi Ledakan Pasar Cimanggis di Ciputat",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmwm0s393/teknisi-bom-polri-tiba-di-lokasi-ledakan-pasar-cimanggis-di-ciputat",
+      "published_date": "2026-10-14T15:36:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putri KW Balas Kekalahan dari Supanida, Modal Penting ke Babak 16 Besar Denmark Open 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmwijv348/putri-kw-balas-kekalahan-dari-supanida-modal-penting-ke-babak-16-besar-denmark-open-2026",
+      "published_date": "2026-10-14T14:21:31+00:00",
+      "category": "Military"
+    },
     {
       "title": "Danantara Umumkan 100 BUMN dengan Pelayanan Pelanggan Terbaik, Ini Daftarnya",
       "source": "Republika English",
@@ -239,23 +267,16 @@
       "url": "https://ameera.republika.co.id/berita/tmmbbz425/viral-tren-mukbang-mentega-dan-margarin-tanpa-diolah-awas-bahaya-ini-mengintai-tubuh",
       "published_date": "2026-10-09T02:09:35+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Pemprov Jabar Gandeng TNI AD Olah 1.000 Ton Sampah TPA Sarimukti Jadi Solar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmllwe8030000/pemprov-jabar-gandeng-tni-ad-olah-1000-ton-sampah-tpa-sarimukti-jadi-solar",
-      "published_date": "2026-10-08T17:00:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Khawarizmi, Saintis Muslim dan Warisan Keilmuan yang Mengubah Dunia",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmlk0f320/alkhawarizmi-saintis-muslim-dan-warisan-keilmuan-yang-mengubah-dunia",
-      "published_date": "2026-10-08T16:19:27+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "PHE Mulai Pengeboran Eksplorasi Sumur Tingkilan-001 di Kalimantan Utara",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmwil2522/phe-mulai-pengeboran-eksplorasi-sumur-tingkilan001-di-kalimantan-utara",
+      "published_date": "2026-10-14T14:22:14+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Ternyata Teh Jahe Punya Manfaat Mentereng Buat Ginjal",
       "source": "Republika English",
@@ -374,13 +395,6 @@
       "url": "https://news.republika.co.id/berita/tmkdlm484/dokumenter-tayang-soroti-meningkatnya-permintaan-biofuel-di-asia",
       "published_date": "2026-10-08T01:03:22+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Menaker: UU Pelindungan Ketenagakerjaan Atur 13 Ketentuan Baru, Termasuk Soal Pesangon PHK",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmikoj423/menaker-uu-pelindungan-ketenagakerjaan-atur-13-ketentuan-baru-termasuk-soal-pesangon-phk",
-      "published_date": "2026-10-07T01:41:07+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -400,6 +414,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "AZKO Andalkan Pemahaman Pelanggan untuk Hadapi Persaingan Ritel",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tmwhr1522/azko-andalkan-pemahaman-pelanggan-untuk-hadapi-persaingan-ritel",
+      "published_date": "2026-10-14T15:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Para Bulu Tangkis Indonesia Bidik 10 Medali di Asian Para Games 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmwjt0348/para-bulu-tangkis-indonesia-bidik-10-medali-di-asian-para-games-2026",
+      "published_date": "2026-10-14T14:48:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persib Bandung Menang Tipis atas Cong Viettel, Kokoh di Puncak Grup E",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmwjk1348/persib-bandung-menang-tipis-atas-cong-viettel-kokoh-di-puncak-grup-e",
+      "published_date": "2026-10-14T14:43:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kabut Asap Selimuti Bandara Tjilik Riwut, Penerbangan Dihentikan Sementara",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tmwja1375/kabut-asap-selimuti-bandara-tjilik-riwut-penerbangan-dihentikan-sementara",
+      "published_date": "2026-10-14T14:37:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RSUI dan ParagonCorp Resmikan Ruang Rawat Inap Lantai 9, Tambah Kapasitas 50 Tempat Tidur",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tmwirz425/rsui-dan-paragoncorp-resmikan-ruang-rawat-inap-lantai-9-tambah-kapasitas-50-tempat-tidur",
+      "published_date": "2026-10-14T14:26:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peraih Perak Asian Games 2026 Amri/Nita Tersingkir di Babak Pertama Denmark Open 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmwir2348/peraih-perak-asian-games-2026-amrinita-tersingkir-di-babak-pertama-denmark-open-2026",
+      "published_date": "2026-10-14T14:25:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PLTP Kamojang Gunakan Sistem Reinjeksi untuk Kelola Fluida Panas Bumi",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tmwihd522/pltp-kamojang-gunakan-sistem-reinjeksi-untuk-kelola-fluida-panas-bumi",
+      "published_date": "2026-10-14T14:20:01+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hashim Djojohadikusumo Jelaskan Peran MBG dalam Meningkatkan Kualitas SDM di Hadapan Peraih Nobel",
       "source": "Republika English",
@@ -489,55 +552,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tmun9d416/dokter-ungkap-faktor-penting-dalam-memilih-kaki-dan-tangan-palsu",
       "published_date": "2026-10-13T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dikabarkan Kena OTT KPK, BNPB: Kami akan Kooperatif",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmurwv393/dikabarkan-kena-ott-kpk-bnpb-kami-akan-kooperatif",
-      "published_date": "2026-10-13T15:48:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perang Houthi dan Saudi, Begini Sikap Pemerintah Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmtrxf377/perang-houthi-dan-saudi-begini-sikap-pemerintah-indonesia",
-      "published_date": "2026-10-13T02:51:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menjemput Rezeki",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmtnfp451/menjemput-rezeki",
-      "published_date": "2026-10-13T02:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Agendakan Ulang Pemeriksaan Nusron Wahid Pekan Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmtp6f487/kpk-agendakan-ulang-pemeriksaan-nusron-wahid-pekan-ini",
-      "published_date": "2026-10-13T01:51:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jadwal Pekan Kedua Liga Champions: Atletico Hadapi MU, Man City Tantang PSG",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmtp2t348/jadwal-pekan-kedua-liga-champions-atletico-hadapi-mu-man-city-tantang-psg",
-      "published_date": "2026-10-13T01:49:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelas Eksekutif Dibanderol Puluhan Ribu, KAI Daop 4 Semarang Banting Harga Optimalkan Kursi Kosong",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tmtoqp487/kelas-eksekutif-dibanderol-puluhan-ribu-kai-daop-4-semarang-banting-harga-optimalkan-kursi-kosong",
-      "published_date": "2026-10-13T01:42:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu Ngebet Bantu Saudi Serang Houthi, Ini Sikap Pangeran MBS",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmtokx483/netanyahu-ngebet-bantu-saudi-serang-houthi-ini-sikap-pangeran-mbs",
-      "published_date": "2026-10-13T01:38:57+00:00",
       "category": "Local Events"
     }
   ]
