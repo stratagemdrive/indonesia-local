@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Saksi Ungkap Terdakwa Kasus Pemerasan Pernah Dijemput Penyidik di Tempat Hiburan",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tmxbho320/saksi-ungkap-terdakwa-kasus-pemerasan-pernah-dijemput-penyidik-di-tempat-hiburan",
+      "published_date": "2026-10-15T00:46:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Bangun Pusat Ekonomi Baru, Pemerintah Tak Bisa Hanya Andalkan Infrastruktur",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmwhoi522/bangun-pusat-ekonomi-baru-pemerintah-tak-bisa-hanya-andalkan-infrastruktur",
@@ -111,23 +118,16 @@
       "url": "https://news.republika.co.id/berita/tmlkzv366/komunikasi-publik-dinilai-jadi-kunci-membangun-kepercayaan-dan-perdamaian-papua",
       "published_date": "2026-10-08T16:40:43+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Ingin Bangun LRT Jakarta ke Dukuh Atas, Pramono Buat Dana Cadangan Daerah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmkc2q484/ingin-bangun-lrt-jakarta-ke-dukuh-atas-pramono-buat-dana-cadangan-daerah",
-      "published_date": "2026-10-08T00:30:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Usai Juara FIFA ASEAN Cup 2026, Peringkat FIFA Timnas Indonesia Naik Dua Posisi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmjp81348/usai-juara-fifa-asean-cup-2026-peringkat-fifa-timnas-indonesia-naik-dua-posisi",
-      "published_date": "2026-10-07T16:16:49+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Peluang Panggil Ketua BNPB, Ketua KPK: Kalau tidak Diperlukan, tidak akan Dipaksakan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmxb9g487/peluang-panggil-ketua-bnpb-ketua-kpk-kalau-tidak-diperlukan-tidak-akan-dipaksakan",
+      "published_date": "2026-10-15T00:41:40+00:00",
+      "category": "Military"
+    },
     {
       "title": "Teknisi Bom Polri Tiba di Lokasi Ledakan Pasar Cimanggis di Ciputat",
       "source": "Republika English",
@@ -260,16 +260,16 @@
       "url": "https://republika.co.id/page/shorts/yt-tmmbl21591660774/kdm-warga-jabar-bisa-berobat-gratis-di-rs-jakarta",
       "published_date": "2026-10-09T02:15:02+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Viral Tren Mukbang Mentega dan Margarin tanpa Diolah, Awas! Bahaya Ini Mengintai Tubuh",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tmmbbz425/viral-tren-mukbang-mentega-dan-margarin-tanpa-diolah-awas-bahaya-ini-mengintai-tubuh",
-      "published_date": "2026-10-09T02:09:35+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Kemenag Rilis Safe Santri dan Satgas Anti-Kekerasan di Pesantren",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tmxadf483/kemenag-rilis-safe-santri-dan-satgas-antikekerasan-di-pesantren",
+      "published_date": "2026-10-15T00:22:27+00:00",
+      "category": "Energy"
+    },
     {
       "title": "PHE Mulai Pengeboran Eksplorasi Sumur Tingkilan-001 di Kalimantan Utara",
       "source": "Republika English",
@@ -415,6 +415,69 @@
   ],
   "Local Events": [
     {
+      "title": "Don Ritto: Emas 74 Kg Bukan Milik Febrie, Tapi untuk Kegiatan Sosial Keagamaan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmxbwe377/don-ritto-emas-74-kg-bukan-milik-febrie-tapi-untuk-kegiatan-sosial-keagamaan",
+      "published_date": "2026-10-15T00:55:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catat Azerbaijan: Dari Indonesia Sampai Iran Rezim Pelarang Hijab Pasti Tumbang!",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tmxbcn393/catat-azerbaijan-dari-indonesia-sampai-iran-rezim-pelarang-hijab-pasti-tumbang",
+      "published_date": "2026-10-15T00:43:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bela Pilot Indonesia, Kemenlu RI Tunjukkan Kesalahan Israel Usai Tolak Masuk Ethiopian Airlines",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmxaxb377/bela-pilot-indonesia-kemenlu-ri-tunjukkan-kesalahan-israel-usai-tolak-masuk-ethiopian-airlines",
+      "published_date": "2026-10-15T00:34:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ratusan Perusahaan Dilibatkan Tangani Karhutla di Kalsel",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tmxac3416/ratusan-perusahaan-dilibatkan-tangani-karhutla-di-kalsel",
+      "published_date": "2026-10-15T00:21:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Ingatkan UNESCO, Sains Terbuka Bukan Perlombaan Membuka Data",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmxa35451/indonesia-ingatkan-unesco-sains-terbuka-bukan-perlombaan-membuka-data",
+      "published_date": "2026-10-15T00:16:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nusron Wahid Diperiksa Hari Ini, Ketua KPK: Kesempatan untuk Klarifikasi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmx9lp377/nusron-wahid-diperiksa-hari-ini-ketua-kpk-kesempatan-untuk-klarifikasi",
+      "published_date": "2026-10-15T00:05:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hasil Pekan Kedua Liga Champions: PSG Bekuk City, Aston Villa Pesta Gol, Inter dan Napoli Terpuruk",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmx79z348/hasil-pekan-kedua-liga-champions-psg-bekuk-city-aston-villa-pesta-gol-inter-dan-napoli-terpuruk",
+      "published_date": "2026-10-14T23:15:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haaland Cetak Dua Gol dan Bukukan Rekor, tapi Manchester City Tersungkur di Kandang Sendiri oleh PSG",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tmx69z348/haaland-cetak-dua-gol-dan-bukukan-rekor-tapi-manchester-city-tersungkur-di-kandang-sendiri-oleh-psg",
+      "published_date": "2026-10-14T22:53:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two years on: is Prabowo bracing for a 2029 election showdown against Jokowi dynasty?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/two-years-on-is-prabowo-bracing-for-a-2029-election-showdown-against-jokowi-dynasty/",
+      "published_date": "2026-10-14T22:40:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "AZKO Andalkan Pemahaman Pelanggan untuk Hadapi Persaingan Ritel",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tmwhr1522/azko-andalkan-pemahaman-pelanggan-untuk-hadapi-persaingan-ritel",
@@ -489,69 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmvg1v377/bahlil-disudutkan-di-survei-celios-golkar-singgung-konspirasi-politik",
       "published_date": "2026-10-14T00:29:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lisandro Martinez Kritik Keras Petinggi MU: Investasi Pemain Jauh dari Harapan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmvep2348/lisandro-martinez-kritik-keras-petinggi-mu-investasi-pemain-jauh-dari-harapan",
-      "published_date": "2026-10-14T00:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Korupsi di Tengah Bencana, BNPB Kena Operasi Tangkap Tangan KPK, Uang Rp 1,4 M Disita",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmveoh377/korupsi-di-tengah-bencana-bnpb-kena-operasi-tangkap-tangan-kpk-uang-rp-14-m-disita",
-      "published_date": "2026-10-14T00:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester United Tumbang 0-2 dari Atletico Madrid, Tekanan terhadap Michael Carrick Meningkat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmvcyk348/manchester-united-tumbang-02-dari-atletico-madrid-tekanan-terhadap-michael-carrick-meningkat",
-      "published_date": "2026-10-13T23:23:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pegadaian Hadirkan ATM Emas di Manado, Transaksi Fisik Emas Kini Mudah dan Cepat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmuxbx7230000/pegadaian-hadirkan-atm-emas-di-manado-transaksi-fisik-emas-kini-mudah-dan-cepat",
-      "published_date": "2026-10-13T17:45:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polisi Periksa Saksi Kasus Petasan Maulid di Jaksel yang Bikin Anak Kejang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmuwmk930000/polisi-periksa-saksi-kasus-petasan-maulid-di-jaksel-yang-bikin-anak-kejang",
-      "published_date": "2026-10-13T17:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kabar Gembira, Kuliah Online Al-Azhar Mesir Kini akan Hadir di Indonesia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmuuc2320/kabar-gembira-kuliah-online-alazhar-mesir-kini-akan-hadir-di-indonesia",
-      "published_date": "2026-10-13T16:40:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penampakan Toyota Land Cruiser yang Disita KPK dari Tersangka Kasus ATR/BPN",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmur5u375/penampakan-toyota-land-cruiser-yang-disita-kpk-dari-tersangka-kasus-atrbpn",
-      "published_date": "2026-10-13T16:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saat Imam Al-Bukhari, Al-Maturidi, dan Al-Naqsyabandi ‘Menang’ Atas Uni Soviet",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmusyx320/saat-imam-albukhari-almaturidi-dan-alnaqsyabandi-menang-atas-uni-soviet",
-      "published_date": "2026-10-13T16:11:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dokter Ungkap Faktor Penting dalam Memilih Kaki dan Tangan Palsu",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tmun9d416/dokter-ungkap-faktor-penting-dalam-memilih-kaki-dan-tangan-palsu",
-      "published_date": "2026-10-13T16:00:00+00:00",
       "category": "Local Events"
     }
   ]
