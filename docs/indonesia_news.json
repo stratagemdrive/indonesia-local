@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Di Bawah Bayang-Bayang Rantemario: Epos Kemanusiaan, Luka Sejarah, dan Dialektika Kebudayaan Bugis",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn1yop370/di-bawah-bayangbayang-rantemario-epos-kemanusiaan-luka-sejarah-dan-dialektika-kebudayaan-bugis",
+      "published_date": "2026-10-17T12:58:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Jadi Tersangka, Bupati Klaten dan Kepala BPK Jateng Langsung Ditahan KPK",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tn0xol377/jadi-tersangka-bupati-klaten-dan-kepala-bpk-jateng-langsung-ditahan-kpk",
@@ -128,6 +135,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Aksi Bersih Situs Cagar Budaya, Langkah Menjaga Warisan Sejarah Indonesia",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tn1rve375/aksi-bersih-situs-cagar-budaya-langkah-menjaga-warisan-sejarah-indonesia",
+      "published_date": "2026-10-17T12:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "KPK: Kepala BPK Jateng Minta Rp 600 Juta, Bupati Klaten Tawar Rp400 juta",
       "source": "Republika English",
@@ -264,6 +278,13 @@
   ],
   "Energy": [
     {
+      "title": "Pertamina Patra Niaga Pastikan Pasokan Aman dan Penyaluran Kondusif Saat Penerapan Ganjil Genap",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn1wn0522/pertamina-patra-niaga-pastikan-pasokan-aman-dan-penyaluran-kondusif-saat-penerapan-ganjil-genap",
+      "published_date": "2026-10-17T12:13:48+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "MUI Keluarkan Surat Pernyataan Sikap soal Konser Andrea Bocelli di Indonesia",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tn0zvx425/mui-keluarkan-surat-pernyataan-sikap-soal-konser-andrea-bocelli-di-indonesia",
@@ -367,16 +388,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tmp6k5370/marpolex-2026-di-bitung-libatkan-tiga-negara-jaga-lingkungan-laut",
       "published_date": "2026-10-10T15:19:17+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Hadirkan Pertamax Turbo Untuk Mendukung Mobilitas Safety Car di Pertamina Grand Prix",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tmo4eb522/pertamina-hadirkan-pertamax-turbo-untuk-mendukung-mobilitas-safety-car-di-pertamina-grand-prix",
-      "published_date": "2026-10-10T01:34:59+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Mundur Lagi, Sertifikasi Halal Harus Jadi Agenda Strategis Ekonomi Nasional",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/tn1u77328/mundur-lagi-sertifikasi-halal-harus-jadi-agenda-strategis-ekonomi-nasional",
+      "published_date": "2026-10-17T11:21:07+00:00",
+      "category": "Economy"
+    },
     {
       "title": "MSCI Ancam Turunkan Level Bursa RI ke Standalone Market, Indonesia Bisa Setara Zimbabwe",
       "source": "Republika English",
@@ -400,6 +421,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Tak Hadiri Panggilan KPK, Nusron Wahid Sedang di Luar Negeri?",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn20pj487/tak-hadiri-panggilan-kpk-nusron-wahid-sedang-di-luar-negeri",
+      "published_date": "2026-10-17T13:41:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transformasi Organisasi Harus Diiringi Penguatan Kapabilitas Manusia",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tn208u328/transformasi-organisasi-harus-diiringi-penguatan-kapabilitas-manusia",
+      "published_date": "2026-10-17T13:31:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menhub Minta Maskapai Beri Penanganan Tepat ke Penumpang Imbas Riyadh Tutup",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn1yv7328/menhub-minta-maskapai-beri-penanganan-tepat-ke-penumpang-imbas-riyadh-tutup",
+      "published_date": "2026-10-17T13:01:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penanganan Karhutla Terus Dilakukan, Pemprov Kalteng Intensifkan Distribusi Air Bersih",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tn1u9t291/penanganan-karhutla-terus-dilakukan-pemprov-kalteng-intensifkan-distribusi-air-bersih",
+      "published_date": "2026-10-17T12:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antrean BBM di Bali Berangsur Melandai Berkat Sistem Ganjil Genap",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn1wc0370/antrean-bbm-di-bali-berangsur-melandai-berkat-sistem-ganjil-genap",
+      "published_date": "2026-10-17T12:07:12+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ekonom Ungkap Tiga Prinsip Penting dalam Penataan Ongkir Ojol",
       "source": "Republika English",
@@ -503,41 +559,6 @@
       "source": "Republika English",
       "url": "https://daerah.republika.co.id/berita/tn06vu282/jakarta-diselimuti-asap-karhutla-kalimantan-kualitas-udara-ibu-kota-makin-buruk",
       "published_date": "2026-10-16T13:59:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Di Forum MABIMS Malaysia, Kemenag Bagikan Praktik Baik Pemberdayaan Ekonomi Umat Berbasis Masjid",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tn04c9430/di-forum-mabims-malaysia-kemenag-bagikan-praktik-baik-pemberdayaan-ekonomi-umat-berbasis-masjid",
-      "published_date": "2026-10-16T13:04:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jelang Wajib Halal 18 Oktober, Ini Masukan HIPMI untuk Pemerintah",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/tn048o483/jelang-wajib-halal-18-oktober-ini-masukan-hipmi-untuk-pemerintah",
-      "published_date": "2026-10-16T13:02:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerman Goyah Dukung Ukraina, AfD: Ukraina Tidak Mungkin Menang Lawan Rusia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmz18d451/jerman-goyah-dukung-ukraina-afd-ukraina-tidak-mungkin-menang-lawan-rusia",
-      "published_date": "2026-10-16T00:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OTT Bupati Klaten, Kepala BPK Jateng Ikut Kena Ciduk",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmz4b2377/ott-bupati-klaten-kepala-bpk-jateng-ikut-kena-ciduk",
-      "published_date": "2026-10-16T00:06:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vitinha Berharap Ronaldo Kembali ke Timnas Portugal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmz34p348/vitinha-berharap-ronaldo-kembali-ke-timnas-portugal",
-      "published_date": "2026-10-15T23:50:00+00:00",
       "category": "Local Events"
     }
   ]
