@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Perayaan 10 Tahun BBW Indonesia Diwarnai Kehadiran Goldsboro Books",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4nnw484/perayaan-10-tahun-bbw-indonesia-diwarnai-kehadiran-goldsboro-books",
+      "published_date": "2026-10-18T23:52:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ekspor Tumbuh, Kebutuhan Logistik Internasional Ikut Menguat",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn3u2f416/ekspor-tumbuh-kebutuhan-logistik-internasional-ikut-menguat",
+      "published_date": "2026-10-18T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Inovasi Aksesibilitas Stasiun, Tim DISABI UNM Lolos PIMNAS ke-39",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tn3sjl490/inovasi-aksesibilitas-stasiun-tim-disabi-unm-lolos-pimnas-ke39",
@@ -103,13 +117,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmt7if7030000/evaluasi-tetap-jalan-pieter-huistra-soroti-aspek-penting-usai-pss-sleman-raih-kemenangan-perdana",
       "published_date": "2026-10-12T19:30:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Perkuat Peran Orang Tua dalam Pendidikan, UMJ Bangun Sinergi dengan Wali Mahasiswa Baru",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmqy9w425/perkuat-peran-orang-tua-dalam-pendidikan-umj-bangun-sinergi-dengan-wali-mahasiswa-baru",
-      "published_date": "2026-10-11T14:15:32+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -231,20 +238,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tmrrnm377/sukamta-heran-kok-markas-judol-pakai-puluhan-komputer-tak-terdeteksi-di-lingkungan-rumah-tni",
       "published_date": "2026-10-12T00:50:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berbulan-bulan Diselimuti Kabut Asap, Kualitas Udara Palangka Raya Masuk Kategori Berbahaya",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmqyjb375/berbulanbulan-diselimuti-kabut-asap-kualitas-udara-palangka-raya-masuk-kategori-berbahaya",
-      "published_date": "2026-10-12T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dua Bulan Kesulitan Air, Warga Sumedang Terima Bantuan Air Bersih",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tmqx3v375/dua-bulan-kesulitan-air-warga-sumedang-terima-bantuan-air-bersih",
-      "published_date": "2026-10-11T14:15:00+00:00",
       "category": "Military"
     }
   ],
@@ -394,6 +387,76 @@
   ],
   "Local Events": [
     {
+      "title": "Mahasiswa Gizi UMJ Borong Tiga Prestasi pada Health Educator & Health Leader Camp 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4mss430/mahasiswa-gizi-umj-borong-tiga-prestasi-pada-health-educator-health-leader-camp-2026",
+      "published_date": "2026-10-19T00:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jadwal Asian Para Games: Indonesia Mulai Kejar Emas Pertama",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4nwv348/jadwal-asian-para-games-indonesia-mulai-kejar-emas-pertama",
+      "published_date": "2026-10-18T23:58:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LASKUM FH UMJ Raih Juara 3 Kompetisi Legal Opinion ALSA Festival 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4mg6423/laskum-fh-umj-raih-juara-3-kompetisi-legal-opinion-alsa-festival-2026",
+      "published_date": "2026-10-18T23:26:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sekjen PBB Menginap di Rumah Pribadi Prabowo di Hambalang",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4mdh484/sekjen-pbb-menginap-di-rumah-pribadi-prabowo-di-hambalang",
+      "published_date": "2026-10-18T23:24:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mentrans Ungkap China Butuh Durian Banyak, Sulawesi Siap Pasok",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4l93484/mentrans-ungkap-china-butuh-durian-banyak-sulawesi-siap-pasok",
+      "published_date": "2026-10-18T23:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid Hajar Sevilla 4-1, Pangkas Jarak dari Barcelona",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4kow348/real-madrid-hajar-sevilla-41-pangkas-jarak-dari-barcelona",
+      "published_date": "2026-10-18T22:48:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pelatih Persija Women Tak Puas Ditahan Imbang FC Bekasi City di Liga Putri Indonesia",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4kjh2830000/pelatih-persija-women-tak-puas-ditahan-imbang-fc-bekasi-city-di-liga-putri-indonesia",
+      "published_date": "2026-10-18T22:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jaga Stabilitas Pasar, BEI Sesuaikan Aturan Auto Reject Bawah Saham Jadi 7 Persen",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn4kd5370/jaga-stabilitas-pasar-bei-sesuaikan-aturan-auto-reject-bawah-saham-jadi-7-persen",
+      "published_date": "2026-10-18T22:41:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sekjen PBB Apresiasi Kepemimpinan Prabowo dan Bantuan Nyata Indonesia untuk Palestina",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn4juk1930000/sekjen-pbb-apresiasi-kepemimpinan-prabowo-dan-bantuan-nyata-indonesia-untuk-palestina",
+      "published_date": "2026-10-18T22:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Borong Empat Medali di WJC Kairo, BNI Apresiasi Pembinaan Talenta Muda PBSI",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn4hum490/indonesia-borong-empat-medali-di-wjc-kairo-bni-apresiasi-pembinaan-talenta-muda-pbsi",
+      "published_date": "2026-10-18T21:47:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pakar Minta Edukasi Bahaya Karhutla Diperluas hingga ke Desa",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tn3wj8430/pakar-minta-edukasi-bahaya-karhutla-diperluas-hingga-ke-desa",
@@ -461,76 +524,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tn2pvd3730000/gubernur-sulsel-berpotensi-jadi-pusat-ekosistem-haji-dan-umrah-kti",
       "published_date": "2026-10-17T22:45:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kementerian PU Rehabilitasi 137 Prasarana Ibadah Pascabencana di Aceh",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn2ohg3630000/kementerian-pu-rehabilitasi-137-prasarana-ibadah-pascabencana-di-aceh",
-      "published_date": "2026-10-17T22:15:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tak Hadiri Panggilan KPK, Nusron Wahid Sedang di Luar Negeri?",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn20pj487/tak-hadiri-panggilan-kpk-nusron-wahid-sedang-di-luar-negeri",
-      "published_date": "2026-10-17T13:41:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transformasi Organisasi Harus Diiringi Penguatan Kapabilitas Manusia",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tn208u328/transformasi-organisasi-harus-diiringi-penguatan-kapabilitas-manusia",
-      "published_date": "2026-10-17T13:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menhub Minta Maskapai Beri Penanganan Tepat ke Penumpang Imbas Riyadh Tutup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn1yv7328/menhub-minta-maskapai-beri-penanganan-tepat-ke-penumpang-imbas-riyadh-tutup",
-      "published_date": "2026-10-17T13:01:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penanganan Karhutla Terus Dilakukan, Pemprov Kalteng Intensifkan Distribusi Air Bersih",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tn1u9t291/penanganan-karhutla-terus-dilakukan-pemprov-kalteng-intensifkan-distribusi-air-bersih",
-      "published_date": "2026-10-17T12:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antrean BBM di Bali Berangsur Melandai Berkat Sistem Ganjil Genap",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn1wc0370/antrean-bbm-di-bali-berangsur-melandai-berkat-sistem-ganjil-genap",
-      "published_date": "2026-10-17T12:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ekonom Ungkap Tiga Prinsip Penting dalam Penataan Ongkir Ojol",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn10xh416/ekonom-ungkap-tiga-prinsip-penting-dalam-penataan-ongkir-ojol",
-      "published_date": "2026-10-17T00:48:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menlu RI dan 18 Negara OKI Kutuk Pembukaan Kedubes Kolombia untuk Israel di Yerusalem",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn10pi377/menlu-ri-dan-18-negara-oki-kutuk-pembukaan-kedubes-kolombia-untuk-israel-di-yerusalem",
-      "published_date": "2026-10-17T00:44:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kado Hari Santri, Pagar Nusa Siapkan Beasiswa Pendidikan Advokat untuk Ribuan Kader",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn109g320/kado-hari-santri-pagar-nusa-siapkan-beasiswa-pendidikan-advokat-untuk-ribuan-kader",
-      "published_date": "2026-10-17T00:34:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soal Kasus BNPB, KPK Peringatkan Dana Siap Pakai Jangan Jadi Ajang Bancakan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn106a430/soal-kasus-bnpb-kpk-peringatkan-dana-siap-pakai-jangan-jadi-ajang-bancakan",
-      "published_date": "2026-10-17T00:32:34+00:00",
       "category": "Local Events"
     }
   ]
