@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Poltracking Rekam Penurunan Tingkat Kepuasan dan Kepercayaan Publik Terhadap Prabowo-Gibran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn6h0f409/poltracking-rekam-penurunan-tingkat-kepuasan-dan-kepercayaan-publik-terhadap-prabowogibran",
+      "published_date": "2026-10-20T00:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Es Kering Jadi Bahan Semai dalam Operasi Modifikasi Cuaca di Sumsel",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tn5v9x375/es-kering-jadi-bahan-semai-dalam-operasi-modifikasi-cuaca-di-sumsel",
+      "published_date": "2026-10-20T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dua Tahun Prabowo-Gibran, Mahasiswa Gelar Aksi di Tugu Tani Hari Ini",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn6gi8409/dua-tahun-prabowogibran-mahasiswa-gelar-aksi-di-tugu-tani-hari-ini",
+      "published_date": "2026-10-19T23:13:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "MUI Ingatkan Umat Islam tak Undang Habib Alwi Ceramah, Ini Sebabnya",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tn5y5i320/mui-ingatkan-umat-islam-tak-undang-habib-alwi-ceramah-ini-sebabnya",
@@ -118,23 +139,23 @@
       "url": "https://news.republika.co.id/berita/tmvdsz451/mamdani-guncang-kepolisian-new-york-kematian-pemuda-19-tahun-picu-reformasi-besar",
       "published_date": "2026-10-14T01:11:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Bawa Senapan dalam Tas Gitar, Siswa 14 Tahun Tembaki Sekolah di Prancis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmtoc7451/bawa-senapan-dalam-tas-gitar-siswa-14-tahun-tembaki-sekolah-di-prancis",
-      "published_date": "2026-10-13T03:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Evaluasi Tetap Jalan, Pieter Huistra Soroti Aspek Penting Usai PSS Sleman Raih Kemenangan Perdana",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmt7if7030000/evaluasi-tetap-jalan-pieter-huistra-soroti-aspek-penting-usai-pss-sleman-raih-kemenangan-perdana",
-      "published_date": "2026-10-12T19:30:15+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Indonesia Siap Buat Nuklir, Negara Mana Digandeng?",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn6ku6393/indonesia-siap-buat-nuklir-negara-mana-digandeng",
+      "published_date": "2026-10-20T00:46:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pemprov Jabar Raih Forest and Land Recovery Berkat Program Citarum Harum",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tn6h0c484/pemprov-jabar-raih-forest-and-land-recovery-berkat-program-citarum-harum",
+      "published_date": "2026-10-19T23:24:12+00:00",
+      "category": "Military"
+    },
     {
       "title": "5 Prioritas Kerja Sama Parlemen Antara Indonesia dan Australia",
       "source": "Republika English",
@@ -232,23 +253,16 @@
       "url": "https://rejogja.republika.co.id/berita/tmuv4g282/ada-mobil-tni-terparkir-di-lobi-bnpb-saat-ott-kpk-punya-siapa",
       "published_date": "2026-10-13T16:57:52+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Partai Ummat Dukung Kapolri Tes Narkoba Seluruh Pejabat, PNS, dan Wakil Rakyat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmsyo4484/partai-ummat-dukung-kapolri-tes-narkoba-seluruh-pejabat-pns-dan-wakil-rakyat",
-      "published_date": "2026-10-12T18:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Keselamatan Penerbangan Prioritas Bandara Rendani Manokwari di Tengah Gangguan Kabut Asap",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmt2nk1830000/keselamatan-penerbangan-prioritas-bandara-rendani-manokwari-di-tengah-gangguan-kabut-asap",
-      "published_date": "2026-10-12T17:45:20+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Menilik Rekrutmen Petugas Haji Indonesia",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tn6jlw483/menilik-rekrutmen-petugas-haji-indonesia",
+      "published_date": "2026-10-20T00:20:20+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Siap-siap! OJK Bakal Terbitkan Aturan Baru Dukung Keuangan Berkelanjutan",
       "source": "Republika English",
@@ -353,23 +367,16 @@
       "url": "https://news.republika.co.id/berita/tmtogv348/liga-champions-hansi-flick-tak-peduli-skor-yang-penting-barcelona-kalahkan-galatasaray",
       "published_date": "2026-10-13T01:36:31+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Indonesia Dorong Implementasi Target Iklim dalam Skala Besar di COP31",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tmtn4y490/indonesia-dorong-implementasi-target-iklim-dalam-skala-besar-di-cop31",
-      "published_date": "2026-10-13T01:07:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bupati Malinau Tegaskan Hak Pendidikan Layak untuk Semua Anak",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmt4qf9430000/bupati-malinau-tegaskan-hak-pendidikan-layak-untuk-semua-anak",
-      "published_date": "2026-10-12T18:30:15+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Prabowo’s two years in office: weighing the cost of Prabowonomics",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowos-two-years-in-office-weighing-the-cost-of-prabowonomics/",
+      "published_date": "2026-10-20T00:23:27+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Mundur Lagi, Sertifikasi Halal Harus Jadi Agenda Strategis Ekonomi Nasional",
       "source": "Republika English",
@@ -400,6 +407,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Jadwal Indonesia di Asian Para Games 2026: 11 Cabang Olahraga Bersaing Berebut Medali",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn6m4z348/jadwal-indonesia-di-asian-para-games-2026-11-cabang-olahraga-bersaing-berebut-medali",
+      "published_date": "2026-10-20T01:14:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menko Bahlil: Cadangan Nasional Pertalite 16 Hari, Pertamax 20 Hari",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn6iq1484/menko-bahlil-cadangan-nasional-pertalite-16-hari-pertamax-20-hari",
+      "published_date": "2026-10-20T00:01:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ferry Juliantono Terpilih Jadi Presiden Lajnah Tanfidziyah SI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn6fz7484/ferry-juliantono-terpilih-jadi-presiden-lajnah-tanfidziyah-si",
+      "published_date": "2026-10-19T23:01:55+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "SMAN 3 Palu Juara Nasional LCC BPJS Kesehatan, Siswinya Jadi Duta Muda",
       "source": "Republika English",
@@ -517,27 +545,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tn3wj8430/pakar-minta-edukasi-bahaya-karhutla-diperluas-hingga-ke-desa",
       "published_date": "2026-10-18T14:06:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemenhut Tambah Helikopter Padamkan Karhutla Tanjung Puting",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn3t6q416/kemenhut-tambah-helikopter-padamkan-karhutla-tanjung-puting",
-      "published_date": "2026-10-18T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wapres Sowan Pesantren, KH Marsudi Syuhud Tekankan Peran Santri dalam Pembangunan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tn3sf0430/wapres-sowan-pesantren-kh-marsudi-syuhud-tekankan-peran-santri-dalam-pembangunan",
-      "published_date": "2026-10-18T12:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cak Imin Kerahkan Ribuan Relawan PKB Tangani Karhutla di Berbagai Daerah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn3juv451/cak-imin-kerahkan-ribuan-relawan-pkb-tangani-karhutla-di-berbagai-daerah",
-      "published_date": "2026-10-18T12:30:00+00:00",
       "category": "Local Events"
     }
   ]
