@@ -211,16 +211,16 @@
       "url": "https://news.republika.co.id/berita/tn0y0r425/asap-karhutla-capai-atmosfer-jakarta-ini-panduan-penting-bmkg-untuk-warga",
       "published_date": "2026-10-16T23:46:03+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Peluang Panggil Ketua BNPB, Ketua KPK: Kalau tidak Diperlukan, tidak akan Dipaksakan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tmxb9g487/peluang-panggil-ketua-bnpb-ketua-kpk-kalau-tidak-diperlukan-tidak-akan-dipaksakan",
-      "published_date": "2026-10-15T00:41:40+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pasokan Gas Blok Masela Amankan Kebutuhan Energi Domestik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tna9pi423/pasokan-gas-blok-masela-amankan-kebutuhan-energi-domestik",
+      "published_date": "2026-10-22T00:55:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "KPAI Minta Percepat RUU Pengasuhan Anak, Cegah Kekerasan Anak Berulang",
       "source": "Republika English",
@@ -304,16 +304,16 @@
       "url": "https://visual.republika.co.id/berita/tmy9gh375/petugas-gabungan-gerebek-kampung-ambon-sita-sabu-hingga-senjata-tajam",
       "published_date": "2026-10-15T14:30:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Kemenag Rilis Safe Santri dan Satgas Anti-Kekerasan di Pesantren",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tmxadf483/kemenag-rilis-safe-santri-dan-satgas-antikekerasan-di-pesantren",
-      "published_date": "2026-10-15T00:22:27+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Trade Expo Indonesia, 16 UMK Binaan Rumah BUMN Gunungkidul Didorong Tembus Pasar Global",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tna23w291/trade-expo-indonesia-16-umk-binaan-rumah-bumn-gunungkidul-didorong-tembus-pasar-global",
+      "published_date": "2026-10-21T23:48:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Suku Bunga BI Diprediksi Tetap 5,75 Persen di Tengah Tekanan Rupiah",
       "source": "Republika English",
@@ -351,6 +351,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Museum Rudana Apresiasi Kiprah Tokoh Nasional dalam Seni dan Kebudayaan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tn9moy416/museum-rudana-apresiasi-kiprah-tokoh-nasional-dalam-seni-dan-kebudayaan",
+      "published_date": "2026-10-22T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terancam Iran dan Houthi, Pasukan AS Mulai Cabut dari Timur Tengah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tna9y4393/terancam-iran-dan-houthi-pasukan-as-mulai-cabut-dari-timur-tengah",
+      "published_date": "2026-10-22T00:42:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WALHI Sebut Karhutla Ekosida, Desak Negara dan Korporasi Tanggung Jawab",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tna9d0423/walhi-sebut-karhutla-ekosida-desak-negara-dan-korporasi-tanggung-jawab",
+      "published_date": "2026-10-22T00:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kitab Kuning di Tengah Algoritma: Siapa Mendidik Santri?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tn8zro366/kitab-kuning-di-tengah-algoritma-siapa-mendidik-santri",
+      "published_date": "2026-10-22T00:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Korban Keracunan MBG Cirebon Capai 270 Orang, Ada Balita yang Hilang Kesadaran",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tna8r7282/korban-keracunan-mbg-cirebon-capai-270-orang-ada-balita-yang-hilang-kesadaran",
+      "published_date": "2026-10-22T00:16:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tindak Lanjut Temuan BPK, BGN Kembalikan Rp 160,37 Miliar ke Kas Negara",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tna8ii393/tindak-lanjut-temuan-bpk-bgn-kembalikan-rp-16037-miliar-ke-kas-negara",
+      "published_date": "2026-10-22T00:11:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Misteri Pertemuan Tertutup Pentagon-Israel di Tengah Ancaman Netanyahu Menggulingkan Rezim Iran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tna7u7451/misteri-pertemuan-tertutup-pentagonisrael-di-tengah-ancaman-netanyahu-menggulingkan-rezim-iran",
+      "published_date": "2026-10-21T23:56:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kabinet Merah Putih Dituding Gemuk? Begini Jawaban Presiden RI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tna7eh484/kabinet-merah-putih-dituding-gemuk-begini-jawaban-presiden-ri",
+      "published_date": "2026-10-21T23:47:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inter Milan Tekuk Shakhtar 1-0 Meski Bermain dengan 10 Pemain",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tna7cx348/inter-milan-tekuk-shakhtar-10-meski-bermain-dengan-10-pemain",
+      "published_date": "2026-10-21T23:46:09+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "ICE BSD City Catat Lebih dari 3.300 Event Sejak 2015",
       "source": "Republika English",
@@ -426,69 +489,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tn7owq416/bank-jakarta-perkuat-tata-kelola-keuangan-dan-manajemen-risiko",
       "published_date": "2026-10-21T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kebijakan Pemerintah Jadi Peluang Baru Pasar Properti Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn8fzv484/kebijakan-pemerintah-jadi-peluang-baru-pasar-properti-indonesia",
-      "published_date": "2026-10-21T00:57:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jadwal Asian Para Games 2026 Hari ini: Indonesia Bidik Medali dari Para Anggar Sampai Boccia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn8fy5348/jadwal-asian-para-games-2026-hari-ini-indonesia-bidik-medali-dari-para-anggar-sampai-boccia",
-      "published_date": "2026-10-21T00:56:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pasar Modal Terguncang, BNI dan BTN Kompak Buyback Saham",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn8evq484/pasar-modal-terguncang-bni-dan-btn-kompak-buyback-saham",
-      "published_date": "2026-10-21T00:33:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dirjen Pesantren Bawa Pesantren Berjalan Selaras dengan Program Presiden",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tn7i31235798670/dirjen-pesantren-bawa-pesantren-berjalan-selaras-dengan-program-presiden",
-      "published_date": "2026-10-21T00:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Di Balik Lelahnya Malam, KRL Mengantar Pekerja Pulang",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tn7rsg375/di-balik-lelahnya-malam-krl-mengantar-pekerja-pulang",
-      "published_date": "2026-10-21T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relawan Karhutla Minta Dukungan Operasional, Pertemuan dengan Menhut Fokus Cari Solusi",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn7oc0416/relawan-karhutla-minta-dukungan-operasional-pertemuan-dengan-menhut-fokus-cari-solusi",
-      "published_date": "2026-10-21T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pelatih Vincent Kompany Sakit, Manuel Neuer dan Joshua Kimmich Diragukan Bela Bayern Lawan Arsenal",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn8d9m348/pelatih-vincent-kompany-sakit-manuel-neuer-dan-joshua-kimmich-diragukan-bela-bayern-lawan-arsenal",
-      "published_date": "2026-10-20T23:58:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Soroti Pembatasan Hijab di Azerbaijan, Puluhan Demonstran Ditahan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn7msx451/iran-soroti-pembatasan-hijab-di-azerbaijan-puluhan-demonstran-ditahan",
-      "published_date": "2026-10-20T15:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dorong Logistik Hijau, DHL Operasikan Wuling EV",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn7nnn370/dorong-logistik-hijau-dhl-operasikan-wuling-ev",
-      "published_date": "2026-10-20T14:45:23+00:00",
       "category": "Local Events"
     }
   ]
