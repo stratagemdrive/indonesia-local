@@ -132,16 +132,23 @@
       "url": "https://ameera.republika.co.id/berita/tn0xf2425/banyak-yang-cari-kerja-sampingan-demi-bertahan-hidup-linkedin-rilis-fitur-buat-uang-tambahan",
       "published_date": "2026-10-16T23:33:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Berbekal Pengalaman Kampus, Lulusan UNM Lolos Seleksi CPNS Kemenag",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn022z423/berbekal-pengalaman-kampus-lulusan-unm-lolos-seleksi-cpns-kemenag",
-      "published_date": "2026-10-16T13:13:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Pengamat: Peluang Santri Kuliah di Jurusan Umum dan Sains Terbuka Lebar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd4t7320/pengamat-peluang-santri-kuliah-di-jurusan-umum-dan-sains-terbuka-lebar",
+      "published_date": "2026-10-23T15:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putri KW dan Alwi Farhan Tersingkir di Perempat Final French Open 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd6qq348/putri-kw-dan-alwi-farhan-tersingkir-di-perempat-final-french-open-2026",
+      "published_date": "2026-10-23T14:25:38+00:00",
+      "category": "Military"
+    },
     {
       "title": "Panglima TNI Beri KPLB ke-136 Prajurit yang Berhasil Habisi OPM",
       "source": "Republika English",
@@ -243,6 +250,20 @@
   ],
   "Energy": [
     {
+      "title": "Wakil Menteri HAM: Pemajuan HAM bukan Urusan Satu Kementerian Saja",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd4mv320/wakil-menteri-ham-pemajuan-ham-bukan-urusan-satu-kementerian-saja",
+      "published_date": "2026-10-23T15:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Binatang yang Menyeret Tiga Golongan Manusia ke Neraka Jahanam",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tnd4g5320/binatang-yang-menyeret-tiga-golongan-manusia-ke-neraka-jahanam",
+      "published_date": "2026-10-23T14:28:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Arab Saudi Tegaskan Piala Asia 2027 Sesuai Rencana",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnbcwb348/arab-saudi-tegaskan-piala-asia-2027-sesuai-rencana",
@@ -329,6 +350,13 @@
   ],
   "Economy": [
     {
+      "title": "Mengenal Kidult Economy, Tren Orang Dewasa Rela Beli Mainan demi Lepas Stres",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnd75f425/mengenal-kidult-economy-tren-orang-dewasa-rela-beli-mainan-demi-lepas-stres",
+      "published_date": "2026-10-23T14:34:27+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Trade Expo Indonesia, 16 UMK Binaan Rumah BUMN Gunungkidul Didorong Tembus Pasar Global",
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/tna23w291/trade-expo-indonesia-16-umk-binaan-rumah-bumn-gunungkidul-didorong-tembus-pasar-global",
@@ -358,6 +386,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "'Negara Blok M' Dibahas di WCCE 2026, Pramono dan Teuku Riefky Bidik Pertumbuhan Ekraf",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnd3rl370/negara-blok-m-dibahas-di-wcce-2026-pramono-dan-teuku-riefky-bidik-pertumbuhan-ekraf",
+      "published_date": "2026-10-23T15:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dongkrak Ekonomi, Jakarta Ingin Jadi Episentrum Berbagai Kegiatan Internasional",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd8tv487/dongkrak-ekonomi-jakarta-ingin-jadi-episentrum-berbagai-kegiatan-internasional",
+      "published_date": "2026-10-23T15:10:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psikolog Ingatkan Bahaya Bentak dan Pukul Anak",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnd82t425/psikolog-ingatkan-bahaya-bentak-dan-pukul-anak",
+      "published_date": "2026-10-23T14:54:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ratri/Hikmat Cetak Quattrick, Emas Kesebelas Indonesia di Asian Para Games 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd7hq348/ratrihikmat-cetak-quattrick-emas-kesebelas-indonesia-di-asian-para-games-2026",
+      "published_date": "2026-10-23T14:41:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peserta JRF Gratis Naik Transports Publik, MRT Beroperasi Mulai Pukul 03.00 WIB",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd7do484/peserta-jrf-gratis-naik-transports-publik-mrt-beroperasi-mulai-pukul-0300-wib",
+      "published_date": "2026-10-23T14:39:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "11 Perguruan Tinggi Bahas Infrastruktur Tahan Bencana di Bandung",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tnd628416/11-perguruan-tinggi-bahas-infrastruktur-tahan-bencana-di-bandung",
+      "published_date": "2026-10-23T14:30:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aset Militer Jerman Diduga Jadi Sasaran Sabotase, Bundeswehr Siaga Hadapi Ancaman",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd6z9451/aset-militer-jerman-diduga-jadi-sasaran-sabotase-bundeswehr-siaga-hadapi-ancaman",
+      "published_date": "2026-10-23T14:30:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinjau RDMP Balikpapan, Bahlil Dorong Percepatan Kilang, Ditargetkan Penuhi 25 Persen BBM Nasional",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnd6ss483/tinjau-rdmp-balikpapan-bahlil-dorong-percepatan-kilang-ditargetkan-penuhi-25-persen-bbm-nasional",
+      "published_date": "2026-10-23T14:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mendiktisaintek Ungkap Pentingnya Perkuat Kepemimpinan Kampus",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnd63t490/mendiktisaintek-ungkap-pentingnya-perkuat-kepemimpinan-kampus",
+      "published_date": "2026-10-23T14:11:53+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sejarah Santri dan Pesantren",
       "source": "Republika English",
@@ -433,69 +524,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnbyis1630000/dhl-express-operasikan-58-kendaraan-listrik-demi-perkuat-jaringan-logistik-ramah-lingkungan",
       "published_date": "2026-10-22T22:30:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dompet Dhuafa Hadirkan Safe House, Penanganan Cepat Kesehatan Dampak Asap Karhutla",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/tnbf1b490/dompet-dhuafa-hadirkan-safe-house-penanganan-cepat-kesehatan-dampak-asap-karhutla",
-      "published_date": "2026-10-22T15:29:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mereka yang Berburu Peluang Kerja di Bursa Kerja Jakarta",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnbdtv375/mereka-yang-berburu-peluang-kerja-di-bursa-kerja-jakarta",
-      "published_date": "2026-10-22T15:03:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ekonomi RI Ditargetkan Tumbuh 6 Persen pada 2027, Investasi Swasta Jadi Kunci",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnbczd416/ekonomi-ri-ditargetkan-tumbuh-6-persen-pada-2027-investasi-swasta-jadi-kunci",
-      "published_date": "2026-10-22T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amri/Nita Melaju ke Perempat Final French Open 2026, Modal Pola Permainan dari Kejuaraan Dunia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnbd7d348/amrinita-melaju-ke-perempat-final-french-open-2026-modal-pola-permainan-dari-kejuaraan-dunia",
-      "published_date": "2026-10-22T14:50:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kalahkan Wakil Jepang, Ubed Tembus Perempat Final French Open 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnbcay348/kalahkan-wakil-jepang-ubed-tembus-perempat-final-french-open-2026",
-      "published_date": "2026-10-22T14:30:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pengamat: Kepemilikan Nasional Penting untuk Jaga Kedaulatan SDA",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnbawe522/pengamat-kepemilikan-nasional-penting-untuk-jaga-kedaulatan-sda",
-      "published_date": "2026-10-22T14:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temui Mahasiswa Semarang, Kapolda: Saya Khawatir Aksi Ini Ditunggangi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnbaft377/temui-mahasiswa-semarang-kapolda-saya-khawatir-aksi-ini-ditunggangi",
-      "published_date": "2026-10-22T13:50:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GODA Perluas Pilihan Motor Listrik Lewat Galactic Series",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnb9st328/goda-perluas-pilihan-motor-listrik-lewat-galactic-series",
-      "published_date": "2026-10-22T13:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prabowo: Saya tidak Mau Jadi Presiden Kalau Rakyat Saya Miskin Terus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnb9pl487/prabowo-saya-tidak-mau-jadi-presiden-kalau-rakyat-saya-miskin-terus",
-      "published_date": "2026-10-22T13:34:33+00:00",
       "category": "Local Events"
     }
   ]
