@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "UNM dan PWU Filipina Jalin Kerja Sama Internasional di Kongres AFEBSI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnexsq425/unm-dan-pwu-filipina-jalin-kerja-sama-internasional-di-kongres-afebsi",
+      "published_date": "2026-10-24T13:07:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Mensos Pasang Target 48 Juta Keluarga Terdaftar Perlinsos Akhir Tahun Ini",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tndxf5484/mensos-pasang-target-48-juta-keluarga-terdaftar-perlinsos-akhir-tahun-ini",
@@ -118,16 +125,37 @@
       "url": "https://ekonomi.republika.co.id/berita/tn21ct416/analis-likuiditas-dan-ukuran-pasar-modal-ri-jauh-melampaui-standalone",
       "published_date": "2026-10-18T00:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Di Bawah Bayang-Bayang Rantemario: Epos Kemanusiaan, Luka Sejarah, dan Dialektika Kebudayaan Bugis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn1yop370/di-bawah-bayangbayang-rantemario-epos-kemanusiaan-luka-sejarah-dan-dialektika-kebudayaan-bugis",
-      "published_date": "2026-10-17T12:58:01+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Hukuman Kolektif, Israel Usir 2.500  Warga Palestina di Hebron",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnezvs393/hukuman-kolektif-israel-usir-2500-warga-palestina-di-hebron",
+      "published_date": "2026-10-24T13:52:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Penggerebekan Narkoba di Jayapura, Polisi Sita 10 Kg Ganja Kering di Kampung Vietnam",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnetjm375/penggerebekan-narkoba-di-jayapura-polisi-sita-10-kg-ganja-kering-di-kampung-vietnam",
+      "published_date": "2026-10-24T13:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puluhan UMKM IMA Awards Pamerkan Produk Unggulannya di Braga City Walk",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/tnexbr425/puluhan-umkm-ima-awards-pamerkan-produk-unggulannya-di-braga-city-walk",
+      "published_date": "2026-10-24T12:57:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Aktris Palestina Hiam Abbass akan Dianugerahi European Achievement in World Cinema",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnevy2425/aktris-palestina-hiam-abbass-akan-dianugerahi-european-achievement-in-world-cinema",
+      "published_date": "2026-10-24T12:27:38+00:00",
+      "category": "Military"
+    },
     {
       "title": "Kapolri Apresiasi Gubernur Sumut Jadi yang Pertama Larang ASN Pakai Vape",
       "source": "Republika English",
@@ -231,13 +259,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tn3wli425/penampilan-tribute-to-warkop-dki-di-synchronize-fest-2026-diwarnai-tawa-dan-haru",
       "published_date": "2026-10-18T14:12:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aksi Bersih Situs Cagar Budaya, Langkah Menjaga Warisan Sejarah Indonesia",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tn1rve375/aksi-bersih-situs-cagar-budaya-langkah-menjaga-warisan-sejarah-indonesia",
-      "published_date": "2026-10-17T12:00:00+00:00",
       "category": "Military"
     }
   ],
@@ -346,13 +367,6 @@
       "url": "https://news.republika.co.id/berita/tn2oaf483/empat-petugas-gugur-saat-tangani-karhutla-di-bromo-bnpb-soroti-keselamatan-personel",
       "published_date": "2026-10-17T22:11:03+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Pastikan Pasokan Aman dan Penyaluran Kondusif Saat Penerapan Ganjil Genap",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn1wn0522/pertamina-patra-niaga-pastikan-pasokan-aman-dan-penyaluran-kondusif-saat-penerapan-ganjil-genap",
-      "published_date": "2026-10-17T12:13:48+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -383,16 +397,72 @@
       "url": "https://indonesiaatmelbourne.unimelb.edu.au/prabowos-two-years-in-office-weighing-the-cost-of-prabowonomics/",
       "published_date": "2026-10-20T00:23:27+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Mundur Lagi, Sertifikasi Halal Harus Jadi Agenda Strategis Ekonomi Nasional",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/tn1u77328/mundur-lagi-sertifikasi-halal-harus-jadi-agenda-strategis-ekonomi-nasional",
-      "published_date": "2026-10-17T11:21:07+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Program Sapa UMK, Banyak Kesuksesan Berasal dari Dapur Rumah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnf09x484/program-sapa-umk-banyak-kesuksesan-berasal-dari-dapur-rumah",
+      "published_date": "2026-10-24T14:01:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perjuangan Perempuan pada Masa Kolonial Diangkat ke Panggung Teater",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnermi416/perjuangan-perempuan-pada-masa-kolonial-diangkat-ke-panggung-teater",
+      "published_date": "2026-10-24T14:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ahmad Ali: PSI Butuh Tokoh yang Benar-Benar Dicintai Masyarakat",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnezli377/ahmad-ali-psi-butuh-tokoh-yang-benarbenar-dicintai-masyarakat",
+      "published_date": "2026-10-24T13:46:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemimpin Zaman Digital tak Bisa Antiperubahan",
+      "source": "Republika English",
+      "url": "https://opini.republika.co.id/berita/tneyhc425/pemimpin-zaman-digital-tak-bisa-antiperubahan",
+      "published_date": "2026-10-24T13:22:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bali ‘Disulap’ Jadi Malaya 1948 untuk syuting film The Ghost and the Gun",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnewzj425/bali-disulap-jadi-malaya-1948-untuk-syuting-film-the-ghost-and-the-gun",
+      "published_date": "2026-10-24T12:50:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laut Bercerita, Upaya Merawat Ingatan Sejarah Kelam pada Masa Orde Baru",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tnewk0291/laut-bercerita-upaya-merawat-ingatan-sejarah-kelam-pada-masa-orde-baru",
+      "published_date": "2026-10-24T12:40:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hadiri Rakorda PSI Bogor, Jokowi Didesak Masuk Kepengurusan Partai",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnevrm377/hadiri-rakorda-psi-bogor-jokowi-didesak-masuk-kepengurusan-partai",
+      "published_date": "2026-10-24T12:23:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survei IPO Tempatkan Bahlil sebagai Menteri Paling Diingat Publik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tneu9m522/survei-ipo-tempatkan-bahlil-sebagai-menteri-paling-diingat-publik",
+      "published_date": "2026-10-24T11:51:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Siswa SMP Kembangkan Alat Bantu Pengelolaan Emosi, Raih Emas ISIF 2026",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tneu6w522/siswa-smp-kembangkan-alat-bantu-pengelolaan-emosi-raih-emas-isif-2026",
+      "published_date": "2026-10-24T11:49:44+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Arab Saudi Diam-Diam Perluas Pabrik Rudal Balistik, Teknologi China Jadi Sorotan",
       "source": "Republika English",
@@ -468,69 +538,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnd7hq348/ratrihikmat-cetak-quattrick-emas-kesebelas-indonesia-di-asian-para-games-2026",
       "published_date": "2026-10-23T14:41:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peserta JRF Gratis Naik Transports Publik, MRT Beroperasi Mulai Pukul 03.00 WIB",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd7do484/peserta-jrf-gratis-naik-transports-publik-mrt-beroperasi-mulai-pukul-0300-wib",
-      "published_date": "2026-10-23T14:39:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "11 Perguruan Tinggi Bahas Infrastruktur Tahan Bencana di Bandung",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tnd628416/11-perguruan-tinggi-bahas-infrastruktur-tahan-bencana-di-bandung",
-      "published_date": "2026-10-23T14:30:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aset Militer Jerman Diduga Jadi Sasaran Sabotase, Bundeswehr Siaga Hadapi Ancaman",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd6z9451/aset-militer-jerman-diduga-jadi-sasaran-sabotase-bundeswehr-siaga-hadapi-ancaman",
-      "published_date": "2026-10-23T14:30:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinjau RDMP Balikpapan, Bahlil Dorong Percepatan Kilang, Ditargetkan Penuhi 25 Persen BBM Nasional",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnd6ss483/tinjau-rdmp-balikpapan-bahlil-dorong-percepatan-kilang-ditargetkan-penuhi-25-persen-bbm-nasional",
-      "published_date": "2026-10-23T14:26:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mendiktisaintek Ungkap Pentingnya Perkuat Kepemimpinan Kampus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd63t490/mendiktisaintek-ungkap-pentingnya-perkuat-kepemimpinan-kampus",
-      "published_date": "2026-10-23T14:11:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sejarah Santri dan Pesantren",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnc4w5430/sejarah-santri-dan-pesantren",
-      "published_date": "2026-10-23T00:48:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MoU Badar Empat Negara Picu Kekhawatiran India Soal Rudal Brahmos",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnc4nr484/mou-badar-empat-negara-picu-kekhawatiran-india-soal-rudal-brahmos",
-      "published_date": "2026-10-23T00:43:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hari Santri 2026, Ombudsman: Pesantren Harus Merdeka dari Segala Bentuk Kekerasan",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnc4a3430/hari-santri-2026-ombudsman-pesantren-harus-merdeka-dari-segala-bentuk-kekerasan",
-      "published_date": "2026-10-23T00:34:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tips Aman Lari Saat Kualitas Udara Buruk",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnc3tf425/tips-aman-lari-saat-kualitas-udara-buruk",
-      "published_date": "2026-10-23T00:24:51+00:00",
       "category": "Local Events"
     }
   ]
