@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Prediksi Harga Emas Pekan Depan: Bisa Turun ke Rp 2,39 Juta per Gram",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tngun0423/prediksi-harga-emas-pekan-depan-bisa-turun-ke-rp-239-juta-per-gram",
+      "published_date": "2026-10-25T14:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "UNM dan PWU Filipina Jalin Kerja Sama Internasional di Kongres AFEBSI",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnexsq425/unm-dan-pwu-filipina-jalin-kerja-sama-internasional-di-kongres-afebsi",
@@ -104,16 +111,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tn3u2f416/ekspor-tumbuh-kebutuhan-logistik-internasional-ikut-menguat",
       "published_date": "2026-10-18T23:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Inovasi Aksesibilitas Stasiun, Tim DISABI UNM Lolos PIMNAS ke-39",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn3sjl490/inovasi-aksesibilitas-stasiun-tim-disabi-unm-lolos-pimnas-ke39",
-      "published_date": "2026-10-18T12:40:33+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "MITTE Bintaro Resmi Dibuka, 90 Persen Karyawan Warga Tangsel",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/tngvnk451/mitte-bintaro-resmi-dibuka-90-persen-karyawan-warga-tangsel",
+      "published_date": "2026-10-25T14:16:32+00:00",
+      "category": "Military"
+    },
     {
       "title": "Kenangan Letjen Suryo Prabowo terhadap Almarhum Laksamana Widodo AS",
       "source": "Republika English",
@@ -246,13 +253,6 @@
       "url": "https://news.republika.co.id/berita/tn5xed320/5-prioritas-kerja-sama-parlemen-antara-indonesia-dan-australia",
       "published_date": "2026-10-19T16:20:37+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Daur Ulang Life Jacket, PELNI Raih Penghargaan ESG Now Republika",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn5vup490/daur-ulang-life-jacket-pelni-raih-penghargaan-esg-now-republika",
-      "published_date": "2026-10-19T15:47:13+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -332,13 +332,6 @@
       "url": "https://esgnow.republika.co.id/berita/tn5wsg490/siapsiap-ojk-bakal-terbitkan-aturan-baru-dukung-keuangan-berkelanjutan",
       "published_date": "2026-10-19T16:07:28+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Gak Kapok, Residivis Kembali Bobol Rumah dan Gasak Emas Batangan di Garut",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tn3uzh282/gak-kapok-residivis-kembali-bobol-rumah-dan-gasak-emas-batangan-di-garut",
-      "published_date": "2026-10-18T13:33:17+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -372,6 +365,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Moestar Ajak Bangsa Indonesia Perkuat Dialog dan Kedewasaan Demokrasi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tngw03451/moestar-ajak-bangsa-indonesia-perkuat-dialog-dan-kedewasaan-demokrasi",
+      "published_date": "2026-10-25T14:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Napak Tilas Sumpah Pemuda, Merawat Semangat Persatuan Generasi Muda",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tngvjm375/napak-tilas-sumpah-pemuda-merawat-semangat-persatuan-generasi-muda",
+      "published_date": "2026-10-25T14:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bicara Udara Ajak Pelari Soroti Risiko Polusi dan Hak atas Udara Bersih",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tngvwo522/bicara-udara-ajak-pelari-soroti-risiko-polusi-dan-hak-atas-udara-bersih",
+      "published_date": "2026-10-25T14:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JK di Yale: Senjata Canggih Tak Menjamin Kemenangan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnggz0451/jk-di-yale-senjata-canggih-tak-menjamin-kemenangan",
+      "published_date": "2026-10-25T13:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mahasiswa Perlu Latih Kemampuan Problem Solving Sejak Kuliah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tngtx4423/mahasiswa-perlu-latih-kemampuan-problem-solving-sejak-kuliah",
+      "published_date": "2026-10-25T13:39:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forum Bahtsul Masail Ulas Hukum 'Menanam Sawit di Bekas Karhutla yang Disengaja'",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tngt82483/forum-bahtsul-masail-ulas-hukum-menanam-sawit-di-bekas-karhutla-yang-disengaja",
+      "published_date": "2026-10-25T13:24:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SDN Pondok Kacang Timur 04 dan SDN Cakung Barat 05 Juara MLSC Jakarta Jaya",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tngsl1456/sdn-pondok-kacang-timur-04-dan-sdn-cakung-barat-05-juara-mlsc-jakarta-jaya",
+      "published_date": "2026-10-25T13:10:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bantah Isu Kunjungan Dino Patti Djalal dan Saiful Mujani, Kedubes Singapura: Disinformasi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tngshs409/bantah-isu-kunjungan-dino-patti-djalal-dan-saiful-mujani-kedubes-singapura-disinformasi",
+      "published_date": "2026-10-25T13:08:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Creativillage 2026, Ruang Menjelajahi Ide dan Karya Ekonomi Kreatif",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tngr4o375/creativillage-2026-ruang-menjelajahi-ide-dan-karya-ekonomi-kreatif",
+      "published_date": "2026-10-25T12:38:48+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Dewa United Bekuk Pelita Jaya 61-59 pada Hari Pertama IBL All Indonesian 2026",
       "source": "Republika English",
@@ -447,69 +503,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tnermi416/perjuangan-perempuan-pada-masa-kolonial-diangkat-ke-panggung-teater",
       "published_date": "2026-10-24T14:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahmad Ali: PSI Butuh Tokoh yang Benar-Benar Dicintai Masyarakat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnezli377/ahmad-ali-psi-butuh-tokoh-yang-benarbenar-dicintai-masyarakat",
-      "published_date": "2026-10-24T13:46:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemimpin Zaman Digital tak Bisa Antiperubahan",
-      "source": "Republika English",
-      "url": "https://opini.republika.co.id/berita/tneyhc425/pemimpin-zaman-digital-tak-bisa-antiperubahan",
-      "published_date": "2026-10-24T13:22:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bali ‘Disulap’ Jadi Malaya 1948 untuk syuting film The Ghost and the Gun",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnewzj425/bali-disulap-jadi-malaya-1948-untuk-syuting-film-the-ghost-and-the-gun",
-      "published_date": "2026-10-24T12:50:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laut Bercerita, Upaya Merawat Ingatan Sejarah Kelam pada Masa Orde Baru",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tnewk0291/laut-bercerita-upaya-merawat-ingatan-sejarah-kelam-pada-masa-orde-baru",
-      "published_date": "2026-10-24T12:40:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hadiri Rakorda PSI Bogor, Jokowi Didesak Masuk Kepengurusan Partai",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnevrm377/hadiri-rakorda-psi-bogor-jokowi-didesak-masuk-kepengurusan-partai",
-      "published_date": "2026-10-24T12:23:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survei IPO Tempatkan Bahlil sebagai Menteri Paling Diingat Publik",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tneu9m522/survei-ipo-tempatkan-bahlil-sebagai-menteri-paling-diingat-publik",
-      "published_date": "2026-10-24T11:51:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Siswa SMP Kembangkan Alat Bantu Pengelolaan Emosi, Raih Emas ISIF 2026",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tneu6w522/siswa-smp-kembangkan-alat-bantu-pengelolaan-emosi-raih-emas-isif-2026",
-      "published_date": "2026-10-24T11:49:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab Saudi Diam-Diam Perluas Pabrik Rudal Balistik, Teknologi China Jadi Sorotan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tne0dk451/arab-saudi-diamdiam-perluas-pabrik-rudal-balistik-teknologi-china-jadi-sorotan",
-      "published_date": "2026-10-24T01:05:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemendikdasmen Ungkap Jadwal Pelaksanaan TKA 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndz52484/kemendikdasmen-ungkap-jadwal-pelaksanaan-tka-2026",
-      "published_date": "2026-10-24T00:39:02+00:00",
       "category": "Local Events"
     }
   ]
