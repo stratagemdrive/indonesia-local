@@ -111,23 +111,23 @@
       "url": "https://news.republika.co.id/berita/tn3sjl490/inovasi-aksesibilitas-stasiun-tim-disabi-unm-lolos-pimnas-ke39",
       "published_date": "2026-10-18T12:40:33+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia dan Rusia Jajaki Kolaborasi Sektor Perkapalan dan Penerbangan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn2tvi423/indonesia-dan-rusia-jajaki-kolaborasi-sektor-perkapalan-dan-penerbangan",
-      "published_date": "2026-10-18T00:20:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Analis: Likuiditas dan Ukuran Pasar Modal RI Jauh Melampaui Standalone",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn21ct416/analis-likuiditas-dan-ukuran-pasar-modal-ri-jauh-melampaui-standalone",
-      "published_date": "2026-10-18T00:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Kenangan Letjen Suryo Prabowo terhadap Almarhum Laksamana Widodo AS",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfrwz484/kenangan-letjen-suryo-prabowo-terhadap-almarhum-laksamana-widodo-as",
+      "published_date": "2026-10-24T23:58:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Innalillahi, Panglima TNI Pertama dari AL Laksamana Widodo AS Wafat",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfrkp484/innalillahi-panglima-tni-pertama-dari-al-laksamana-widodo-as-wafat",
+      "published_date": "2026-10-24T23:50:49+00:00",
+      "category": "Military"
+    },
     {
       "title": "Hukuman Kolektif, Israel Usir 2.500  Warga Palestina di Hebron",
       "source": "Republika English",
@@ -253,13 +253,6 @@
       "url": "https://esgnow.republika.co.id/berita/tn5vup490/daur-ulang-life-jacket-pelni-raih-penghargaan-esg-now-republika",
       "published_date": "2026-10-19T15:47:13+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Penampilan Tribute to Warkop DKI di Synchronize Fest 2026 Diwarnai Tawa dan Haru",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tn3wli425/penampilan-tribute-to-warkop-dki-di-synchronize-fest-2026-diwarnai-tawa-dan-haru",
-      "published_date": "2026-10-18T14:12:44+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -346,27 +339,6 @@
       "url": "https://rejabar.republika.co.id/berita/tn3uzh282/gak-kapok-residivis-kembali-bobol-rumah-dan-gasak-emas-batangan-di-garut",
       "published_date": "2026-10-18T13:33:17+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Turki Tegaskan Komitmen Iklim Jelang Pertemuan COP31",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn2tj4423/turki-tegaskan-komitmen-iklim-jelang-pertemuan-cop31",
-      "published_date": "2026-10-18T00:04:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wali Kota Pontianak: Petugas Kebersihan Berperan Strategis Wujudkan Gerakan Indonesia Asri",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn2p6g9530000/wali-kota-pontianak-petugas-kebersihan-berperan-strategis-wujudkan-gerakan-indonesia-asri",
-      "published_date": "2026-10-17T22:30:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Empat Petugas Gugur Saat Tangani Karhutla di Bromo, BNPB Soroti Keselamatan Personel",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn2oaf483/empat-petugas-gugur-saat-tangani-karhutla-di-bromo-bnpb-soroti-keselamatan-personel",
-      "published_date": "2026-10-17T22:11:03+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -400,6 +372,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Dewa United Bekuk Pelita Jaya 61-59 pada Hari Pertama IBL All Indonesian 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfsx2348/dewa-united-bekuk-pelita-jaya-6159-pada-hari-pertama-ibl-all-indonesian-2026",
+      "published_date": "2026-10-25T00:19:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PENSA 2026 Bahas Pemanfaatan Kecerdasan Buatan dalam Manajemen Nutrisi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfsea320/pensa-2026-bahas-pemanfaatan-kecerdasan-buatan-dalam-manajemen-nutrisi",
+      "published_date": "2026-10-25T00:08:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masih Kantongi Didukung Mayoritas Anggota Federasi, Infantino Siap Kembali Pimpin FIFA",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfsbs348/masih-kantongi-didukung-mayoritas-anggota-federasi-infantino-siap-kembali-pimpin-fifa",
+      "published_date": "2026-10-25T00:07:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menjalani Hari di Tengah Kabut Asap Karhutla",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnf6mc375/menjalani-hari-di-tengah-kabut-asap-karhutla",
+      "published_date": "2026-10-25T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ubed SIkat Alex Lanier, Tantang Christo Popov di Final French Open 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfqmq348/ubed-sikat-alex-lanier-tantang-christo-popov-di-final-french-open-2026",
+      "published_date": "2026-10-24T23:30:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masih Ingat Wasiat Rasulullah SAW Melihat Orang yang Hidup di Bawah Kita? Ternyata Ini Rahasianya",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tnfppt320/masih-ingat-wasiat-rasulullah-saw-melihat-orang-yang-hidup-di-bawah-kita-ternyata-ini-rahasianya",
+      "published_date": "2026-10-24T23:10:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Risiko Iklim Meningkat, Pelaku Usaha Perlu Siapkan Langkah Antisipasi",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tneqeu416/risiko-iklim-meningkat-pelaku-usaha-perlu-siapkan-langkah-antisipasi",
+      "published_date": "2026-10-24T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pameran UMKM PKK Makassar Jadi Ruang Promosi dan Penguatan Ekonomi Keluarga",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfmgc5130000/pameran-umkm-pkk-makassar-jadi-ruang-promosi-dan-penguatan-ekonomi-keluarga",
+      "published_date": "2026-10-24T22:00:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menpora Apresiasi dan Bangga atas Capaian Indonesia Raih 15 Emas dan Tembus 8 Besar Asian Para Games",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnfdxl348/menpora-apresiasi-dan-bangga-atas-capaian-indonesia-raih-15-emas-dan-tembus-8-besar-asian-para-games",
+      "published_date": "2026-10-24T18:56:09+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Program Sapa UMK, Banyak Kesuksesan Berasal dari Dapur Rumah",
       "source": "Republika English",
@@ -475,69 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tndz52484/kemendikdasmen-ungkap-jadwal-pelaksanaan-tka-2026",
       "published_date": "2026-10-24T00:39:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Efisiensi dan Kualitas Aset Dongkrak Kinerja Bank Mandiri",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tncu89416/efisiensi-dan-kualitas-aset-dongkrak-kinerja-bank-mandiri",
-      "published_date": "2026-10-24T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ada Jakarta Running Festival, Cek Penyesuaian Rute Transjakarta",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndw2v370/ada-jakarta-running-festival-cek-penyesuaian-rute-transjakarta",
-      "published_date": "2026-10-23T23:32:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sebanyak 21 Charity Runners Dilibatkan TBS Foundation dalam Kampanye Rebuilding Hope pada JRF 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndv8m291/sebanyak-21-charity-runners-dilibatkan-tbs-foundation-dalam-kampanye-rebuilding-hope-pada-jrf-2026",
-      "published_date": "2026-10-23T23:14:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Johannis Winar Optimistis Pelita Jaya Kalahkan Dewa United di Laga Pembuka IBL All Indonesian",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndgor348/johannis-winar-optimistis-pelita-jaya-kalahkan-dewa-united-di-laga-pembuka-ibl-all-indonesian",
-      "published_date": "2026-10-23T22:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Periklindo Minta Insentif Kendaraan Listrik tak Terpaku Baterai Nikel",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tndgb8348/periklindo-minta-insentif-kendaraan-listrik-tak-terpaku-baterai-nikel",
-      "published_date": "2026-10-23T22:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Negara Blok M' Dibahas di WCCE 2026, Pramono dan Teuku Riefky Bidik Pertumbuhan Ekraf",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnd3rl370/negara-blok-m-dibahas-di-wcce-2026-pramono-dan-teuku-riefky-bidik-pertumbuhan-ekraf",
-      "published_date": "2026-10-23T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dongkrak Ekonomi, Jakarta Ingin Jadi Episentrum Berbagai Kegiatan Internasional",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd8tv487/dongkrak-ekonomi-jakarta-ingin-jadi-episentrum-berbagai-kegiatan-internasional",
-      "published_date": "2026-10-23T15:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Psikolog Ingatkan Bahaya Bentak dan Pukul Anak",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnd82t425/psikolog-ingatkan-bahaya-bentak-dan-pukul-anak",
-      "published_date": "2026-10-23T14:54:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ratri/Hikmat Cetak Quattrick, Emas Kesebelas Indonesia di Asian Para Games 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd7hq348/ratrihikmat-cetak-quattrick-emas-kesebelas-indonesia-di-asian-para-games-2026",
-      "published_date": "2026-10-23T14:41:50+00:00",
       "category": "Local Events"
     }
   ]
