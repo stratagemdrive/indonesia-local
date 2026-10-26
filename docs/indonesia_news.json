@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "JPU Komentari Dua Saksi Sahabat Terdakwa Kasus Pemerasan Pengusaha",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tnipyt320/jpu-komentari-dua-saksi-sahabat-terdakwa-kasus-pemerasan-pengusaha",
+      "published_date": "2026-10-26T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "IHSG Rebound, Investor Asing Jual Saham Rp8 Triliun",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnhobl490/ihsg-rebound-investor-asing-jual-saham-rp8-triliun",
@@ -104,23 +111,23 @@
       "url": "https://news.republika.co.id/berita/tn6gi8409/dua-tahun-prabowogibran-mahasiswa-gelar-aksi-di-tugu-tani-hari-ini",
       "published_date": "2026-10-19T23:13:20+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "MUI Ingatkan Umat Islam tak Undang Habib Alwi Ceramah, Ini Sebabnya",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn5y5i320/mui-ingatkan-umat-islam-tak-undang-habib-alwi-ceramah-ini-sebabnya",
-      "published_date": "2026-10-19T16:36:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pemkot Banda Aceh Raih Penghargaan ESG Now Berkat Inovasi Qanun Pengelolaan Sampah",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn5v7v490/pemkot-banda-aceh-raih-penghargaan-esg-now-berkat-inovasi-qanun-pengelolaan-sampah",
-      "published_date": "2026-10-19T15:33:31+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Penyelundupan 1,16 Ton Ketamin Digagalkan, 1 WN Taiwan Jadi Tersangka",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnix6c375/penyelundupan-116-ton-ketamin-digagalkan-1-wn-taiwan-jadi-tersangka",
+      "published_date": "2026-10-26T16:44:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Program TJSL Berdampak Luas, Pertagas Raih 5 Penghargaan Internasional pada Asian Impact Awards 2026",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tniwal522/program-tjsl-berdampak-luas-pertagas-raih-5-penghargaan-internasional-pada-asian-impact-awards-2026",
+      "published_date": "2026-10-26T16:25:33+00:00",
+      "category": "Military"
+    },
     {
       "title": "Tiga Dekade Warnai Dunia Fotografi, RICOH GR Rilis Kamera Edisi Spesial 30th Anniversary",
       "source": "Republika English",
@@ -246,23 +253,23 @@
       "url": "https://news.republika.co.id/berita/tn7m4n451/inggris-kerahkan-jet-tempur-typhoon-ke-saudi-hadang-serangan-rudal-dan-drone-houthi",
       "published_date": "2026-10-20T14:12:23+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Indonesia Siap Buat Nuklir, Negara Mana Digandeng?",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn6ku6393/indonesia-siap-buat-nuklir-negara-mana-digandeng",
-      "published_date": "2026-10-20T00:46:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pemprov Jabar Raih Forest and Land Recovery Berkat Program Citarum Harum",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/tn6h0c484/pemprov-jabar-raih-forest-and-land-recovery-berkat-program-citarum-harum",
-      "published_date": "2026-10-19T23:24:12+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertagas Salurkan Bantuan dan Kerahkan Tim Tanggap Darurat di Palembang",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tniw5m522/pertagas-salurkan-bantuan-dan-kerahkan-tim-tanggap-darurat-di-palembang",
+      "published_date": "2026-10-26T16:22:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Patra Niaga Perkuat Ekosistem Energi Bersih Pengolahan Minyak Jelantah Menjadi Avtur",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnitvc522/pertamina-patra-niaga-perkuat-ekosistem-energi-bersih-pengolahan-minyak-jelantah-menjadi-avtur",
+      "published_date": "2026-10-26T15:33:12+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Dewa United Bidik Gelar Juara IBL All Indonesian 2026, Sebut Pelita Jaya dan Satria Muda Rival Berat",
       "source": "Republika English",
@@ -332,13 +339,6 @@
       "url": "https://khazanah.republika.co.id/berita/tn6jlw483/menilik-rekrutmen-petugas-haji-indonesia",
       "published_date": "2026-10-20T00:20:20+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Siap-siap! OJK Bakal Terbitkan Aturan Baru Dukung Keuangan Berkelanjutan",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tn5wsg490/siapsiap-ojk-bakal-terbitkan-aturan-baru-dukung-keuangan-berkelanjutan",
-      "published_date": "2026-10-19T16:07:28+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -379,6 +379,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Keluarga yang Diinginkan Alquran: Bagaimana Seharusnya Anak yang Ideal?",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tnipbm320/keluarga-yang-diinginkan-alquran-bagaimana-seharusnya-anak-yang-ideal",
+      "published_date": "2026-10-26T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hari Ketiga IBL All Indonesian 2026: Satria Muda dan Rans Bukukan Kemenangan Kedua",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tniucc348/hari-ketiga-ibl-all-indonesian-2026-satria-muda-dan-rans-bukukan-kemenangan-kedua",
+      "published_date": "2026-10-26T15:43:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KNMP Dinilai Bisa Kurangi Ketergantungan Nelayan pada Tengkulak",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnitmm416/knmp-dinilai-bisa-kurangi-ketergantungan-nelayan-pada-tengkulak",
+      "published_date": "2026-10-26T15:29:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pusat Perbelanjaan Jadi Ruang Promosi Produk Kreatif Lokal",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tniifv416/pusat-perbelanjaan-jadi-ruang-promosi-produk-kreatif-lokal",
+      "published_date": "2026-10-26T15:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Dari Peta Jalan ke Mesin Pertumbuhan: Arsitektur Baru Keuangan Syariah Nasional",
       "source": "Republika English",
@@ -489,34 +517,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tngsl1456/sdn-pondok-kacang-timur-04-dan-sdn-cakung-barat-05-juara-mlsc-jakarta-jaya",
       "published_date": "2026-10-25T13:10:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bantah Isu Kunjungan Dino Patti Djalal dan Saiful Mujani, Kedubes Singapura: Disinformasi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tngshs409/bantah-isu-kunjungan-dino-patti-djalal-dan-saiful-mujani-kedubes-singapura-disinformasi",
-      "published_date": "2026-10-25T13:08:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Creativillage 2026, Ruang Menjelajahi Ide dan Karya Ekonomi Kreatif",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tngr4o375/creativillage-2026-ruang-menjelajahi-ide-dan-karya-ekonomi-kreatif",
-      "published_date": "2026-10-25T12:38:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dewa United Bekuk Pelita Jaya 61-59 pada Hari Pertama IBL All Indonesian 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnfsx2348/dewa-united-bekuk-pelita-jaya-6159-pada-hari-pertama-ibl-all-indonesian-2026",
-      "published_date": "2026-10-25T00:19:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PENSA 2026 Bahas Pemanfaatan Kecerdasan Buatan dalam Manajemen Nutrisi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnfsea320/pensa-2026-bahas-pemanfaatan-kecerdasan-buatan-dalam-manajemen-nutrisi",
-      "published_date": "2026-10-25T00:08:34+00:00",
       "category": "Local Events"
     }
   ]
