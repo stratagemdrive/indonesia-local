@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "IHSG Rebound, Investor Asing Jual Saham Rp8 Triliun",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnhobl490/ihsg-rebound-investor-asing-jual-saham-rp8-triliun",
+      "published_date": "2026-10-26T00:35:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dakwah Digital Santri di Tengah Krisis Kepakaran",
+      "source": "Republika English",
+      "url": "https://opini.republika.co.id/berita/tnhmaf451/dakwah-digital-santri-di-tengah-krisis-kepakaran",
+      "published_date": "2026-10-26T00:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kejar-Kejaran Membangun Pembangkit Nuklir di Singapura dan Indonesia",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/tnho08475/kejarkejaran-membangun-pembangkit-nuklir-di-singapura-dan-indonesia",
+      "published_date": "2026-10-26T00:28:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Prediksi Harga Emas Pekan Depan: Bisa Turun ke Rp 2,39 Juta per Gram",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tngun0423/prediksi-harga-emas-pekan-depan-bisa-turun-ke-rp-239-juta-per-gram",
@@ -97,23 +118,16 @@
       "url": "https://esgnow.republika.co.id/berita/tn5v7v490/pemkot-banda-aceh-raih-penghargaan-esg-now-berkat-inovasi-qanun-pengelolaan-sampah",
       "published_date": "2026-10-19T15:33:31+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Perayaan 10 Tahun BBW Indonesia Diwarnai Kehadiran Goldsboro Books",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn4nnw484/perayaan-10-tahun-bbw-indonesia-diwarnai-kehadiran-goldsboro-books",
-      "published_date": "2026-10-18T23:52:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ekspor Tumbuh, Kebutuhan Logistik Internasional Ikut Menguat",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tn3u2f416/ekspor-tumbuh-kebutuhan-logistik-internasional-ikut-menguat",
-      "published_date": "2026-10-18T23:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Tiga Dekade Warnai Dunia Fotografi, RICOH GR Rilis Kamera Edisi Spesial 30th Anniversary",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnhnfe425/tiga-dekade-warnai-dunia-fotografi-ricoh-gr-rilis-kamera-edisi-spesial-30th-anniversary",
+      "published_date": "2026-10-26T00:16:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "MITTE Bintaro Resmi Dibuka, 90 Persen Karyawan Warga Tangsel",
       "source": "Republika English",
@@ -246,13 +260,6 @@
       "url": "https://rejabar.republika.co.id/berita/tn6h0c484/pemprov-jabar-raih-forest-and-land-recovery-berkat-program-citarum-harum",
       "published_date": "2026-10-19T23:24:12+00:00",
       "category": "Military"
-    },
-    {
-      "title": "5 Prioritas Kerja Sama Parlemen Antara Indonesia dan Australia",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tn5xed320/5-prioritas-kerja-sama-parlemen-antara-indonesia-dan-australia",
-      "published_date": "2026-10-19T16:20:37+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -336,6 +343,13 @@
   ],
   "Economy": [
     {
+      "title": "BI Rate Tetap 5,75 Persen, Ekonom: Langkah Terukur Jaga Stabilitas dan Pertumbuhan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tncyc3502/bi-rate-tetap-575-persen-ekonom-langkah-terukur-jaga-stabilitas-dan-pertumbuhan",
+      "published_date": "2026-10-26T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mengenal Kidult Economy, Tren Orang Dewasa Rela Beli Mainan demi Lepas Stres",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tnd75f425/mengenal-kidult-economy-tren-orang-dewasa-rela-beli-mainan-demi-lepas-stres",
@@ -365,6 +379,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Dari Peta Jalan ke Mesin Pertumbuhan: Arsitektur Baru Keuangan Syariah Nasional",
+      "source": "Republika English",
+      "url": "https://opini.republika.co.id/berita/tncob5475/dari-peta-jalan-ke-mesin-pertumbuhan-arsitektur-baru-keuangan-syariah-nasional",
+      "published_date": "2026-10-26T00:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ini Minuman Terbaik untuk Kesehatan Ginjal, Bukan Hanya Air Putih",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnhoax425/ini-minuman-terbaik-untuk-kesehatan-ginjal-bukan-hanya-air-putih",
+      "published_date": "2026-10-26T00:35:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waketum MUI: Santri Harus Kuasai Ruang Digital, Jangan Jadi Penonton",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnhn9t483/waketum-mui-santri-harus-kuasai-ruang-digital-jangan-jadi-penonton",
+      "published_date": "2026-10-26T00:13:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hasil Pekan Kedelapan Liga Italia: Inter Milan Menang Dramatis, Como Terus Merangsek ke Papan Atas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnhn9s348/hasil-pekan-kedelapan-liga-italia-inter-milan-menang-dramatis-como-terus-merangsek-ke-papan-atas",
+      "published_date": "2026-10-26T00:13:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hasil Pekan Kedelapan Liga Inggris: Duo Manchester Tumbang, Liverpool dan Arsenal Petik Kemenangan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnhmwe348/hasil-pekan-kedelapan-liga-inggris-duo-manchester-tumbang-liverpool-dan-arsenal-petik-kemenangan",
+      "published_date": "2026-10-26T00:05:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pantang Bungkam! Setelah Dicoret dari Tur Ed Sheeran, Macklemore Tetap Vokal Bela Palestina",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnhmsb425/pantang-bungkam-setelah-dicoret-dari-tur-ed-sheeran-macklemore-tetap-vokal-bela-palestina",
+      "published_date": "2026-10-26T00:02:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dulu Bergantung pada Barat, Kini Senjata Turki Dipakai Militer Eropa",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnh1fg451/dulu-bergantung-pada-barat-kini-senjata-turki-dipakai-militer-eropa",
+      "published_date": "2026-10-26T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Duet Maut Udara dan Laut, Drone Turki Sukses Kendalikan Kapal Kamikaze PİRANA",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnh0qh451/duet-maut-udara-dan-laut-drone-turki-sukses-kendalikan-kapal-kamikaze-prana",
+      "published_date": "2026-10-25T22:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ubed Akui Gugup Hadapi Tekanan Tuan Rumah Saat Ladeni Christo Popov di Final French Open",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnhjt9348/ubed-akui-gugup-hadapi-tekanan-tuan-rumah-saat-ladeni-christo-popov-di-final-french-open",
+      "published_date": "2026-10-25T22:58:21+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Moestar Ajak Bangsa Indonesia Perkuat Dialog dan Kedewasaan Demokrasi",
       "source": "Republika English",
@@ -440,69 +517,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnfsea320/pensa-2026-bahas-pemanfaatan-kecerdasan-buatan-dalam-manajemen-nutrisi",
       "published_date": "2026-10-25T00:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masih Kantongi Didukung Mayoritas Anggota Federasi, Infantino Siap Kembali Pimpin FIFA",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnfsbs348/masih-kantongi-didukung-mayoritas-anggota-federasi-infantino-siap-kembali-pimpin-fifa",
-      "published_date": "2026-10-25T00:07:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menjalani Hari di Tengah Kabut Asap Karhutla",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnf6mc375/menjalani-hari-di-tengah-kabut-asap-karhutla",
-      "published_date": "2026-10-25T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ubed SIkat Alex Lanier, Tantang Christo Popov di Final French Open 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnfqmq348/ubed-sikat-alex-lanier-tantang-christo-popov-di-final-french-open-2026",
-      "published_date": "2026-10-24T23:30:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masih Ingat Wasiat Rasulullah SAW Melihat Orang yang Hidup di Bawah Kita? Ternyata Ini Rahasianya",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnfppt320/masih-ingat-wasiat-rasulullah-saw-melihat-orang-yang-hidup-di-bawah-kita-ternyata-ini-rahasianya",
-      "published_date": "2026-10-24T23:10:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Risiko Iklim Meningkat, Pelaku Usaha Perlu Siapkan Langkah Antisipasi",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tneqeu416/risiko-iklim-meningkat-pelaku-usaha-perlu-siapkan-langkah-antisipasi",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pameran UMKM PKK Makassar Jadi Ruang Promosi dan Penguatan Ekonomi Keluarga",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnfmgc5130000/pameran-umkm-pkk-makassar-jadi-ruang-promosi-dan-penguatan-ekonomi-keluarga",
-      "published_date": "2026-10-24T22:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menpora Apresiasi dan Bangga atas Capaian Indonesia Raih 15 Emas dan Tembus 8 Besar Asian Para Games",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnfdxl348/menpora-apresiasi-dan-bangga-atas-capaian-indonesia-raih-15-emas-dan-tembus-8-besar-asian-para-games",
-      "published_date": "2026-10-24T18:56:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Program Sapa UMK, Banyak Kesuksesan Berasal dari Dapur Rumah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnf09x484/program-sapa-umk-banyak-kesuksesan-berasal-dari-dapur-rumah",
-      "published_date": "2026-10-24T14:01:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perjuangan Perempuan pada Masa Kolonial Diangkat ke Panggung Teater",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnermi416/perjuangan-perempuan-pada-masa-kolonial-diangkat-ke-panggung-teater",
-      "published_date": "2026-10-24T14:00:00+00:00",
       "category": "Local Events"
     }
   ]
