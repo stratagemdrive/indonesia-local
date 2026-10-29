@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Indonesia Youth Summit 2026, Ajak Generasi Muda Tentukan Masa Depan Bangsa",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnohbt375/indonesia-youth-summit-2026-ajak-generasi-muda-tentukan-masa-depan-bangsa",
+      "published_date": "2026-10-29T16:47:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Nicky Astria Gelar Konser Rayakan 42 Tahun di Industri Musik",
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tnnbij425/nicky-astria-gelar-konser-rayakan-42-tahun-di-industri-musik",
@@ -125,23 +132,23 @@
       "url": "https://news.republika.co.id/berita/tndxf5484/mensos-pasang-target-48-juta-keluarga-terdaftar-perlinsos-akhir-tahun-ini",
       "published_date": "2026-10-24T00:01:53+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Lima Hal yang Perlu Diperhatikan Kreator Konten Pemula",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnbaja328/lima-hal-yang-perlu-diperhatikan-kreator-konten-pemula",
-      "published_date": "2026-10-22T13:52:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "2 Tahun Prabowo-Gibran, Mahasiswa Semarang Soroti Karhutla: Bayi ISPA, Satwa Lari ke Luar Negeri",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tnbahg487/2-tahun-prabowogibran-mahasiswa-semarang-soroti-karhutla-bayi-ispa-satwa-lari-ke-luar-negeri",
-      "published_date": "2026-10-22T13:51:16+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Pangdam XIII/Merdeka dan Bupati Boalemo Perkuat Sinergi Pertahanan Wilayah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnohwf1930000/pangdam-xiiimerdeka-dan-bupati-boalemo-perkuat-sinergi-pertahanan-wilayah",
+      "published_date": "2026-10-29T17:00:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Muslim Madani Dukung Upaya Polri Berantas Narkoba dan Judol",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnnzdo349/muslim-madani-dukung-upaya-polri-berantas-narkoba-dan-judol",
+      "published_date": "2026-10-29T15:16:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Strategi Mixue Jaga Kualitas Lewat Teknologi",
       "source": "Republika English",
@@ -267,23 +274,37 @@
       "url": "https://news.republika.co.id/berita/tnc0g8484/panglima-tni-beri-kplb-ke136-prajurit-yang-berhasil-habisi-opm",
       "published_date": "2026-10-22T23:12:08+00:00",
       "category": "Military"
-    },
-    {
-      "title": "AMI Ungkap Pentingnya Pembaruan Museum di Era Digital",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnbapp416/ami-ungkap-pentingnya-pembaruan-museum-di-era-digital",
-      "published_date": "2026-10-22T23:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Waspada, Karhutla di Kalsel Dekati Kediaman Warga",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnbygb393/waspada-karhutla-di-kalsel-dekati-kediaman-warga",
-      "published_date": "2026-10-22T22:28:59+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Hadiri IYS 2026 Menko PMK Sugiono: Masa Depan Bangsa Ditentukan Keberhasilan Generasi Muda",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnoga3348/hadiri-iys-2026-menko-pmk-sugiono-masa-depan-bangsa-ditentukan-keberhasilan-generasi-muda",
+      "published_date": "2026-10-29T17:02:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Kedubes Ajak Mahasiswa Sampaikan Gagasan Hubungan RI-Korsel",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnogjq484/kedubes-ajak-mahasiswa-sampaikan-gagasan-hubungan-rikorsel",
+      "published_date": "2026-10-29T16:31:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Perkuat Transisi Energi, Langkah Menuju Kontribusi 1 GW Solarisasi Masjid Disiapkan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnodx5483/perkuat-transisi-energi-langkah-menuju-kontribusi-1-gw-solarisasi-masjid-disiapkan",
+      "published_date": "2026-10-29T15:34:17+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pertamina Patra Niaga Uji Coba Pengumpulan Minyak Jelantah di KDKMP",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnoc1t522/pertamina-patra-niaga-uji-coba-pengumpulan-minyak-jelantah-di-kdkmp",
+      "published_date": "2026-10-29T14:53:53+00:00",
+      "category": "Energy"
+    },
     {
       "title": "PSSI Tegaskan Dukungan untuk Gianni Infantino Tetap Pimpin FIFA",
       "source": "Republika English",
@@ -395,37 +416,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tnduxa484/bei-catat-9-perusahaan-antre-ipo-25-emisi-obligasi-masuk-pipeline",
       "published_date": "2026-10-23T23:07:58+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "SGER Lunasi Obligasi Rp273,64 Miliar, Perkuat Kepercayaan Pasar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndtvl2730000/sger-lunasi-obligasi-rp27364-miliar-perkuat-kepercayaan-pasar",
-      "published_date": "2026-10-23T22:45:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wakil Menteri HAM: Pemajuan HAM bukan Urusan Satu Kementerian Saja",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd4mv320/wakil-menteri-ham-pemajuan-ham-bukan-urusan-satu-kementerian-saja",
-      "published_date": "2026-10-23T15:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Binatang yang Menyeret Tiga Golongan Manusia ke Neraka Jahanam",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnd4g5320/binatang-yang-menyeret-tiga-golongan-manusia-ke-neraka-jahanam",
-      "published_date": "2026-10-23T14:28:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Arab Saudi Tegaskan Piala Asia 2027 Sesuai Rencana",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnbcwb348/arab-saudi-tegaskan-piala-asia-2027-sesuai-rencana",
-      "published_date": "2026-10-22T14:43:23+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Sebelas Desa Wisata RI Ikuti Wonderful Indonesia Tourism Fair 2026",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tno709483/sebelas-desa-wisata-ri-ikuti-wonderful-indonesia-tourism-fair-2026",
+      "published_date": "2026-10-29T14:53:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Sentuh Level Terendah, Airlangga Optimistis Rupiah tak Tembus Rp19.000 per Dolar AS",
       "source": "Republika English",
@@ -456,6 +456,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Perluas Akses Sertifikasi, Perprindo Gelar Uji Kompetensi Perdana Teknisi Pendingin",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnog57349/perluas-akses-sertifikasi-perprindo-gelar-uji-kompetensi-perdana-teknisi-pendingin",
+      "published_date": "2026-10-29T16:22:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Buat yang Penasaran dengan Industri Tambang, Minerba Convex 2026 akan Digelar",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnoeua483/buat-yang-penasaran-dengan-industri-tambang-minerba-convex-2026-akan-digelar",
+      "published_date": "2026-10-29T15:54:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mendagri Perkuat Pencegahan Karhutla, Pengamat Tekankan Sinergi Pemda",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnodad484/mendagri-perkuat-pencegahan-karhutla-pengamat-tekankan-sinergi-pemda",
+      "published_date": "2026-10-29T15:20:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eks Wamen Imipas Silmy Karim Jalani Sidang Perdana, Didakwa Terima Gratifikasi Rp33,94 Miliar",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tno41e375/eks-wamen-imipas-silmy-karim-jalani-sidang-perdana-didakwa-terima-gratifikasi-rp3394-miliar",
+      "published_date": "2026-10-29T14:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peraih Perak Asian Games dan Asian Para Games 2026 Juga Terima Bonus Besar, Ini Nilainya",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnoaxc348/peraih-perak-asian-games-dan-asian-para-games-2026-juga-terima-bonus-besar-ini-nilainya",
+      "published_date": "2026-10-29T14:29:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TKDN Drone Lokal Capai 66 Persen, Komponen Utama Masih Impor",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnoauo416/tkdn-drone-lokal-capai-66-persen-komponen-utama-masih-impor",
+      "published_date": "2026-10-29T14:28:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Wawancara Menlu Singapura Vivian Balakrishnan: Masalah Asap Sudah Tiga Dekade, Harus Ada Solusi",
       "source": "Republika English",
@@ -552,48 +594,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tnmjnz375/deretan-foto-aksi-mahasiswa-peringati-sumpah-pemuda-di-thamrin-dan-bundaran-hi",
       "published_date": "2026-10-28T15:43:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masyarakat Makin Gemar Olahraga, Bisnis Sepatu Lari Ikut Tumbuh",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnm9l8416/masyarakat-makin-gemar-olahraga-bisnis-sepatu-lari-ikut-tumbuh",
-      "published_date": "2026-10-28T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tolak Usulan Wakil Ketua KPK, Sahroni Anggap Rampas Aset tak Terdata di LHKPN Bisa Langgar HAM",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnlge4487/tolak-usulan-wakil-ketua-kpk-sahroni-anggap-rampas-aset-tak-terdata-di-lhkpn-bisa-langgar-ham",
-      "published_date": "2026-10-28T01:34:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kopdes Merah Putih Jadi Pusat Distribusi Barang Subsidi, Ini Persiapan BUMN",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnlfto490/kopdes-merah-putih-jadi-pusat-distribusi-barang-subsidi-ini-persiapan-bumn",
-      "published_date": "2026-10-28T01:22:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sejarah yang Belum Selesai",
-      "source": "Republika English",
-      "url": "https://opini.republika.co.id/berita/tnleax415/sejarah-yang-belum-selesai",
-      "published_date": "2026-10-28T00:49:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BEM UI Gelar Aksi di Bundaran Hari Ini, Pramono Harap 'Happy-Happy'",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnlctl393/bem-ui-gelar-aksi-di-bundaran-hari-ini-pramono-harap-happyhappy",
-      "published_date": "2026-10-28T00:17:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Benarkah Nusron Wahid Diperiksa Hari Ini? Begini Jawaban KPK",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnlcne377/benarkah-nusron-wahid-diperiksa-hari-ini-begini-jawaban-kpk",
-      "published_date": "2026-10-28T00:14:02+00:00",
       "category": "Local Events"
     }
   ]
