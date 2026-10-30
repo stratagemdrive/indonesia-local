@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "MHU Tekan Emisi, Perkuat Transparansi ESG",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tnptdj416/mhu-tekan-emisi-perkuat-transparansi-esg",
+      "published_date": "2026-10-30T15:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Indonesia Youth Summit 2026, Ajak Generasi Muda Tentukan Masa Depan Bangsa",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tnohbt375/indonesia-youth-summit-2026-ajak-generasi-muda-tentukan-masa-depan-bangsa",
@@ -136,6 +143,20 @@
   ],
   "Military": [
     {
+      "title": "Upaya Pemenuhan Gizi  Anak-anak di Pelosok Papua Selatan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnpzdl393/upaya-pemenuhan-gizi-anakanak-di-pelosok-papua-selatan",
+      "published_date": "2026-10-30T15:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Berdayakan Masyarakat Papua, Billy Mambrasar Raih TOYP Indonesia",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnq3sm416/berdayakan-masyarakat-papua-billy-mambrasar-raih-toyp-indonesia",
+      "published_date": "2026-10-30T14:50:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Tiga Tokoh Bangsa Raih Lifetime Achievement Award",
       "source": "Republika English",
       "url": "https://daerah.republika.co.id/berita/tnjx0p456/tiga-tokoh-bangsa-raih-lifetime-achievement-award",
@@ -260,23 +281,16 @@
       "url": "https://news.republika.co.id/berita/tndvfo484/kontak-tembak-koops-tni-habema-tewaskan-dua-opm-di-nduga",
       "published_date": "2026-10-23T23:19:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Pengamat: Peluang Santri Kuliah di Jurusan Umum dan Sains Terbuka Lebar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd4t7320/pengamat-peluang-santri-kuliah-di-jurusan-umum-dan-sains-terbuka-lebar",
-      "published_date": "2026-10-23T15:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putri KW dan Alwi Farhan Tersingkir di Perempat Final French Open 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnd6qq348/putri-kw-dan-alwi-farhan-tersingkir-di-perempat-final-french-open-2026",
-      "published_date": "2026-10-23T14:25:38+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Jelang Seabad Sumpah Pemuda, Wamen Fajar Ungkap Pentingnya Pendidikan Karakter Holistik",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnq6nv483/jelang-seabad-sumpah-pemuda-wamen-fajar-ungkap-pentingnya-pendidikan-karakter-holistik",
+      "published_date": "2026-10-30T14:52:43+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Hadiri IYS 2026 Menko PMK Sugiono: Masa Depan Bangsa Ditentukan Keberhasilan Generasi Muda",
       "source": "Republika English",
@@ -409,13 +423,6 @@
       "url": "https://news.republika.co.id/berita/tndh2f348/dewa-united-bidik-gelar-juara-ibl-all-indonesian-2026-sebut-pelita-jaya-dan-satria-muda-rival-berat",
       "published_date": "2026-10-23T23:10:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "BEI Catat 9 Perusahaan Antre IPO, 25 Emisi Obligasi Masuk Pipeline",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnduxa484/bei-catat-9-perusahaan-antre-ipo-25-emisi-obligasi-masuk-pipeline",
-      "published_date": "2026-10-23T23:07:58+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -453,16 +460,37 @@
       "url": "https://ekonomi.republika.co.id/berita/tncyc3502/bi-rate-tetap-575-persen-ekonom-langkah-terukur-jaga-stabilitas-dan-pertumbuhan",
       "published_date": "2026-10-26T00:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Mengenal Kidult Economy, Tren Orang Dewasa Rela Beli Mainan demi Lepas Stres",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnd75f425/mengenal-kidult-economy-tren-orang-dewasa-rela-beli-mainan-demi-lepas-stres",
-      "published_date": "2026-10-23T14:34:27+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Kapasitas Manufaktur Jadi Kunci Daya Saing Industri Teknologi Nasional",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tn7aer456/kapasitas-manufaktur-jadi-kunci-daya-saing-industri-teknologi-nasional",
+      "published_date": "2026-10-30T16:31:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenali Perbedaan Teknologi Layar TV, Precise Dimming Jadi Faktor Penting",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnpml0522/kenali-perbedaan-teknologi-layar-tv-precise-dimming-jadi-faktor-penting",
+      "published_date": "2026-10-30T14:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRIN Dorong Muhammadiyah Jadi Mitra Transisi Energi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnq4vf423/brin-dorong-muhammadiyah-jadi-mitra-transisi-energi",
+      "published_date": "2026-10-30T14:14:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kualitas Udara dan Arah Transisi Energi Indonesia",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tnpryf416/kualitas-udara-dan-arah-transisi-energi-indonesia",
+      "published_date": "2026-10-30T14:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "BPK Berikan Penghormatan Terakhir bagi Anggota VI BPK Almarhum Fathan Subchi",
       "source": "Republika English",
@@ -573,34 +601,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnoaxc348/peraih-perak-asian-games-dan-asian-para-games-2026-juga-terima-bonus-besar-ini-nilainya",
       "published_date": "2026-10-29T14:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TKDN Drone Lokal Capai 66 Persen, Komponen Utama Masih Impor",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnoauo416/tkdn-drone-lokal-capai-66-persen-komponen-utama-masih-impor",
-      "published_date": "2026-10-29T14:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wawancara Menlu Singapura Vivian Balakrishnan: Masalah Asap Sudah Tiga Dekade, Harus Ada Solusi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnnc2s475/wawancara-menlu-singapura-vivian-balakrishnan-masalah-asap-sudah-tiga-dekade-harus-ada-solusi",
-      "published_date": "2026-10-29T01:56:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Terbitkan Sprindik Pengembangan Kasus Bea Cukai Terkait Cukai PT Djarum",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnnbk0487/kpk-terbitkan-sprindik-pengembangan-kasus-bea-cukai-terkait-cukai-pt-djarum",
-      "published_date": "2026-10-29T01:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pesanan Rp557 T, Raksasa Pertahanan Turki Cetak Rekor",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnn9uo451/pesanan-rp557-t-raksasa-pertahanan-turki-cetak-rekor",
-      "published_date": "2026-10-29T01:33:00+00:00",
       "category": "Local Events"
     }
   ]
