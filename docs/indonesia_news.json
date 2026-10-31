@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "MPMX Cetak Laba Rp539 Miliar, Naik 23 Persen",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnq2bh416/mpmx-cetak-laba-rp539-miliar-naik-23-persen",
+      "published_date": "2026-10-30T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "MHU Tekan Emisi, Perkuat Transparansi ESG",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tnptdj416/mhu-tekan-emisi-perkuat-transparansi-esg",
@@ -132,13 +139,6 @@
       "url": "https://news.republika.co.id/berita/tnexsq425/unm-dan-pwu-filipina-jalin-kerja-sama-internasional-di-kongres-afebsi",
       "published_date": "2026-10-24T13:07:38+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Mensos Pasang Target 48 Juta Keluarga Terdaftar Perlinsos Akhir Tahun Ini",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndxf5484/mensos-pasang-target-48-juta-keluarga-terdaftar-perlinsos-akhir-tahun-ini",
-      "published_date": "2026-10-24T00:01:53+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -266,20 +266,6 @@
       "source": "Republika English",
       "url": "https://ameera.republika.co.id/berita/tnevy2425/aktris-palestina-hiam-abbass-akan-dianugerahi-european-achievement-in-world-cinema",
       "published_date": "2026-10-24T12:27:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kapolri Apresiasi Gubernur Sumut Jadi yang Pertama Larang ASN Pakai Vape",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndxwk484/kapolri-apresiasi-gubernur-sumut-jadi-yang-pertama-larang-asn-pakai-vape",
-      "published_date": "2026-10-24T00:12:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kontak Tembak, Koops TNI Habema Tewaskan Dua OPM di Nduga",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndvfo484/kontak-tembak-koops-tni-habema-tewaskan-dua-opm-di-nduga",
-      "published_date": "2026-10-23T23:19:00+00:00",
       "category": "Military"
     }
   ],
@@ -416,16 +402,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tnitvc522/pertamina-patra-niaga-perkuat-ekosistem-energi-bersih-pengolahan-minyak-jelantah-menjadi-avtur",
       "published_date": "2026-10-26T15:33:12+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Dewa United Bidik Gelar Juara IBL All Indonesian 2026, Sebut Pelita Jaya dan Satria Muda Rival Berat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tndh2f348/dewa-united-bidik-gelar-juara-ibl-all-indonesian-2026-sebut-pelita-jaya-dan-satria-muda-rival-berat",
-      "published_date": "2026-10-23T23:10:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Rupiah Masih Berkutat di Rp 18.100-an, Ketegangan Politik Dalam Negeri Turut Beri Tekanan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnqu5m423/rupiah-masih-berkutat-di-rp-18100an-ketegangan-politik-dalam-negeri-turut-beri-tekanan",
+      "published_date": "2026-10-30T23:20:11+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Sorotan MSCI, Hashim Ingatkan Risiko Rupiah Melemah hingga Rp 21 Ribu",
       "source": "Republika English",
@@ -463,6 +449,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Tak Laporkan Penggunaan Dana Harian, BGN Suspend 6.097 SPPG",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnr0jj393/tak-laporkan-penggunaan-dana-harian-bgn-suspend-6097-sppg",
+      "published_date": "2026-10-31T01:38:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank Jakarta Kembangkan Sentra Layanan Mikro",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnqvhf416/bank-jakarta-kembangkan-sentra-layanan-mikro",
+      "published_date": "2026-10-31T01:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tolak Kargo Senjata ke Israel, Buruh 113 Pelabuhan di 22 Negara Bergerak",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnqxl8451/tolak-kargo-senjata-ke-israel-buruh-113-pelabuhan-di-22-negara-bergerak",
+      "published_date": "2026-10-31T00:34:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terjadi 'Kudeta', Presiden Polandia Sedang Menuju Senegal Pesawatnya Putar Balik",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnqwc6484/terjadi-kudeta-presiden-polandia-sedang-menuju-senegal-pesawatnya-putar-balik",
+      "published_date": "2026-10-31T00:07:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kemenhub Perkuat Angkutan Perintis dan Akses Wilayah 3TP",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnlfiw423/kemenhub-perkuat-angkutan-perintis-dan-akses-wilayah-3tp",
+      "published_date": "2026-10-31T00:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suahasil Jamin APBN Tetap Kredibel di Tengah Kenaikan Imbal Hasil SBN",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnqw5t423/suahasil-jamin-apbn-tetap-kredibel-di-tengah-kenaikan-imbal-hasil-sbn",
+      "published_date": "2026-10-31T00:03:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wisata Kuliner Jadi Strategi Pusat Perbelanjaan Tarik Pengunjung",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnqv7e416/wisata-kuliner-jadi-strategi-pusat-perbelanjaan-tarik-pengunjung",
+      "published_date": "2026-10-30T23:42:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kinerja Indofood Menguat, Laba Usaha Tumbuh 15 Persen",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnqu49490/kinerja-indofood-menguat-laba-usaha-tumbuh-15-persen",
+      "published_date": "2026-10-30T23:19:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Ungkap Ada Pihak yang Ajukan Naming Rights di JIS",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnqtjh484/pramono-ungkap-ada-pihak-yang-ajukan-naming-rights-di-jis",
+      "published_date": "2026-10-30T23:06:53+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Kapasitas Manufaktur Jadi Kunci Daya Saing Industri Teknologi Nasional",
       "source": "Republika English",
@@ -538,69 +587,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnp59k377/denny-indrayana-cabut-gugatan-di-ptun-kuasa-hukum-gibran-menolak-siapkan-bukti-pendidikan",
       "published_date": "2026-10-30T01:24:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ditjen Bea Cukai Respons Penggeledahan KPK di Kudus yang Seret PT Djarum",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnp56k487/ditjen-bea-cukai-respons-penggeledahan-kpk-di-kudus-yang-seret-pt-djarum",
-      "published_date": "2026-10-30T01:23:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baznas Tambah 300 Beasiswa di Timteng, Mahasiswa Palestina Jadi Perhatian",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnp556366/baznas-tambah-300-beasiswa-di-timteng-mahasiswa-palestina-jadi-perhatian",
-      "published_date": "2026-10-30T01:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ellenka Barista Festival 2026 Dorong Daya Saing Industri Kopi Indonesia",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tno0tf456/ellenka-barista-festival-2026-dorong-daya-saing-industri-kopi-indonesia",
-      "published_date": "2026-10-30T01:21:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perumnas-BTN Kenalkan Program Nabung DP untuk Rumah Pertama",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnp477416/perumnasbtn-kenalkan-program-nabung-dp-untuk-rumah-pertama",
-      "published_date": "2026-10-30T01:03:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perluas Akses Sertifikasi, Perprindo Gelar Uji Kompetensi Perdana Teknisi Pendingin",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnog57349/perluas-akses-sertifikasi-perprindo-gelar-uji-kompetensi-perdana-teknisi-pendingin",
-      "published_date": "2026-10-29T16:22:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Buat yang Penasaran dengan Industri Tambang, Minerba Convex 2026 akan Digelar",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnoeua483/buat-yang-penasaran-dengan-industri-tambang-minerba-convex-2026-akan-digelar",
-      "published_date": "2026-10-29T15:54:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mendagri Perkuat Pencegahan Karhutla, Pengamat Tekankan Sinergi Pemda",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnodad484/mendagri-perkuat-pencegahan-karhutla-pengamat-tekankan-sinergi-pemda",
-      "published_date": "2026-10-29T15:20:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eks Wamen Imipas Silmy Karim Jalani Sidang Perdana, Didakwa Terima Gratifikasi Rp33,94 Miliar",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tno41e375/eks-wamen-imipas-silmy-karim-jalani-sidang-perdana-didakwa-terima-gratifikasi-rp3394-miliar",
-      "published_date": "2026-10-29T14:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peraih Perak Asian Games dan Asian Para Games 2026 Juga Terima Bonus Besar, Ini Nilainya",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnoaxc348/peraih-perak-asian-games-dan-asian-para-games-2026-juga-terima-bonus-besar-ini-nilainya",
-      "published_date": "2026-10-29T14:29:36+00:00",
       "category": "Local Events"
     }
   ]
