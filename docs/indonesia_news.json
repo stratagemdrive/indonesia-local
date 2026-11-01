@@ -143,6 +143,13 @@
   ],
   "Military": [
     {
+      "title": "Penggerebekan Sarang Narkoba di Kampung Bahari, 27 Orang Diamankan",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tntsjw375/penggerebekan-sarang-narkoba-di-kampung-bahari-27-orang-diamankan",
+      "published_date": "2026-11-01T14:30:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Krisis Konstitusi Polandia Memuncak, Presiden Tuding Mahkamah Konstitusi Direbut Paksa",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnrv00451/krisis-konstitusi-polandia-memuncak-presiden-tuding-mahkamah-konstitusi-direbut-paksa",
@@ -225,16 +232,23 @@
       "url": "https://ameera.republika.co.id/berita/tnhnfe425/tiga-dekade-warnai-dunia-fotografi-ricoh-gr-rilis-kamera-edisi-spesial-30th-anniversary",
       "published_date": "2026-10-26T00:16:26+00:00",
       "category": "Military"
-    },
-    {
-      "title": "MITTE Bintaro Resmi Dibuka, 90 Persen Karyawan Warga Tangsel",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/tngvnk451/mitte-bintaro-resmi-dibuka-90-persen-karyawan-warga-tangsel",
-      "published_date": "2026-10-25T14:16:32+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Antisipasi Bentrok Susulan, Petugas Gabungan Gelar Razia Senjata Tajam di Palu",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnttyp375/antisipasi-bentrok-susulan-petugas-gabungan-gelar-razia-senjata-tajam-di-palu",
+      "published_date": "2026-11-01T16:15:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Petugas Gabungan Berjibaku Padamkan Kebakaran TPA Degayu Pekalongan",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tntstk375/petugas-gabungan-berjibaku-padamkan-kebakaran-tpa-degayu-pekalongan",
+      "published_date": "2026-11-01T15:30:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Perintah Mojtaba Khamenei di Hadapan Pemimpin Militer Iran: Pastikan Aset AS dalam Jangkauan",
       "source": "Republika English",
@@ -360,20 +374,6 @@
       "url": "https://news.republika.co.id/berita/tnkovk475/ri-gandeng-singapura-bentuk-satuan-tugas-bersama-atasi-kebakaran-hutan",
       "published_date": "2026-10-27T15:40:32+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "HLN ke-81, PLN Perkuat Peran Listrik sebagai Penggerak Kehidupan dan Kemandirian Bangsa.",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnko7w423/hln-ke81-pln-perkuat-peran-listrik-sebagai-penggerak-kehidupan-dan-kemandirian-bangsa",
-      "published_date": "2026-10-27T15:26:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Danantara Ungkap Keseriusan Investasi di Industri Tekstil, Ini yang Diincar",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnji5k490/danantara-ungkap-keseriusan-investasi-di-industri-tekstil-ini-yang-diincar",
-      "published_date": "2026-10-27T00:17:44+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -421,6 +421,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Como 1907 Menang Tipis atas Venezia, Kembali ke Empat Besar Klasemen Serie A",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnu092348/como-1907-menang-tipis-atas-venezia-kembali-ke-empat-besar-klasemen-serie-a",
+      "published_date": "2026-11-01T16:24:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rakornas SP Pegadaian Bahas Strategi Dukung Target Pegadaian 2030",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tntu88416/rakornas-sp-pegadaian-bahas-strategi-dukung-target-pegadaian-2030",
+      "published_date": "2026-11-01T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marc Marquez Ungkap Kunci Kemenangan di Sepang, Kini Bidik Gelar Juara MotoGP 2026 di Qatar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnty4s348/marc-marquez-ungkap-kunci-kemenangan-di-sepang-kini-bidik-gelar-juara-motogp-2026-di-qatar",
+      "published_date": "2026-11-01T15:38:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hilirisasi Nikel Diklaim Menuju Produksi Baterei Kendaraan Listrik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnts44483/hilirisasi-nikel-diklaim-menuju-produksi-baterei-kendaraan-listrik",
+      "published_date": "2026-11-01T15:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yamaha Putuskan Mundur dari MotoGP Qatar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tntx08348/yamaha-putuskan-mundur-dari-motogp-qatar",
+      "published_date": "2026-11-01T15:14:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Inilah Alasan Mengapa Rasulullah SAW Sangat Berwasiat: Lakukan Semaumu Jika Putus Urat Malumu!",
       "source": "Republika English",
@@ -524,41 +559,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tns0bh483/usai-pemilu-israel-mui-eisenkot-tak-seperti-netanyahu",
       "published_date": "2026-10-31T14:30:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kala Santri Bertanya tentang 'Mahalnya' Sebuah Cita-Cita",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnrzpa483/kala-santri-bertanya-tentang-mahalnya-sebuah-citacita",
-      "published_date": "2026-10-31T14:17:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sertifikasi Green Key Dorong Praktik Ramah Lingkungan di Industri Perhotelan Bali",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tnr5d2370/sertifikasi-green-key-dorong-praktik-ramah-lingkungan-di-industri-perhotelan-bali",
-      "published_date": "2026-10-31T14:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tak Laporkan Penggunaan Dana Harian, BGN Suspend 6.097 SPPG",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnr0jj393/tak-laporkan-penggunaan-dana-harian-bgn-suspend-6097-sppg",
-      "published_date": "2026-10-31T01:38:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bank Jakarta Kembangkan Sentra Layanan Mikro",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnqvhf416/bank-jakarta-kembangkan-sentra-layanan-mikro",
-      "published_date": "2026-10-31T01:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tolak Kargo Senjata ke Israel, Buruh 113 Pelabuhan di 22 Negara Bergerak",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnqxl8451/tolak-kargo-senjata-ke-israel-buruh-113-pelabuhan-di-22-negara-bergerak",
-      "published_date": "2026-10-31T00:34:20+00:00",
       "category": "Local Events"
     }
   ]
