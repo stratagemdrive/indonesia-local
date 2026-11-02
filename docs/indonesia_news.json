@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Pemerintah Cairkan BSU Rp 900 Ribu, Simak Ketentuan Penerimanya",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnunme423/pemerintah-cairkan-bsu-rp-900-ribu-simak-ketentuan-penerimanya",
+      "published_date": "2026-11-02T01:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IMF: PDB per Kapita Vietnam Diproyeksi Salip Indonesia Tahun Ini",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnung8502/imf-pdb-per-kapita-vietnam-diproyeksi-salip-indonesia-tahun-ini",
+      "published_date": "2026-11-02T00:45:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Perubahan Iklim Percepat Keruntuhan Sistem Es Bumi",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tnuli8423/perubahan-iklim-percepat-keruntuhan-sistem-es-bumi",
+      "published_date": "2026-11-02T00:03:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "AFS Indonesia Rayakan 70 Tahun Lewat Kegiatan Lari dan Jalan Santai",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnso6v370/afs-indonesia-rayakan-70-tahun-lewat-kegiatan-lari-dan-jalan-santai",
@@ -118,27 +139,6 @@
       "url": "https://news.republika.co.id/berita/tnjggj348/harry-kane-raih-ballon-dor-2026-akhiri-penantian-25-tahun-inggris",
       "published_date": "2026-10-26T23:41:07+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "JPU Komentari Dua Saksi Sahabat Terdakwa Kasus Pemerasan Pengusaha",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tnipyt320/jpu-komentari-dua-saksi-sahabat-terdakwa-kasus-pemerasan-pengusaha",
-      "published_date": "2026-10-26T16:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IHSG Rebound, Investor Asing Jual Saham Rp8 Triliun",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnhobl490/ihsg-rebound-investor-asing-jual-saham-rp8-triliun",
-      "published_date": "2026-10-26T00:35:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dakwah Digital Santri di Tengah Krisis Kepakaran",
-      "source": "Republika English",
-      "url": "https://opini.republika.co.id/berita/tnhmaf451/dakwah-digital-santri-di-tengah-krisis-kepakaran",
-      "published_date": "2026-10-26T00:35:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -224,13 +224,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tniwal522/program-tjsl-berdampak-luas-pertagas-raih-5-penghargaan-internasional-pada-asian-impact-awards-2026",
       "published_date": "2026-10-26T16:25:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tiga Dekade Warnai Dunia Fotografi, RICOH GR Rilis Kamera Edisi Spesial 30th Anniversary",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnhnfe425/tiga-dekade-warnai-dunia-fotografi-ricoh-gr-rilis-kamera-edisi-spesial-30th-anniversary",
-      "published_date": "2026-10-26T00:16:26+00:00",
       "category": "Military"
     }
   ],
@@ -411,16 +404,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tnkj1u416/ai-bisa-bantu-analisis-pasar-trader-tetap-perlu-kelola-risiko",
       "published_date": "2026-10-27T16:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BI Rate Tetap 5,75 Persen, Ekonom: Langkah Terukur Jaga Stabilitas dan Pertumbuhan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tncyc3502/bi-rate-tetap-575-persen-ekonom-langkah-terukur-jaga-stabilitas-dan-pertumbuhan",
-      "published_date": "2026-10-26T00:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "MLSC 2026/2027, SDN ini Pertahankan Gelar di Surabaya, Bandung Lahirkan Dua Juara Baru",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnuq9g456/mlsc-20262027-sdn-ini-pertahankan-gelar-di-surabaya-bandung-lahirkan-dua-juara-baru",
+      "published_date": "2026-11-02T01:46:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prakiraan Cuaca BMKG: Jakarta dan Bandung Hujan Ringan, Semarang Hujan Sedang, Yogya Berkabut",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tnupok282/prakiraan-cuaca-bmkg-jakarta-dan-bandung-hujan-ringan-semarang-hujan-sedang-yogya-berkabut",
+      "published_date": "2026-11-02T01:33:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soal Pajak Pembalut, Ini Respons Menteri PPPA",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnup53423/soal-pajak-pembalut-ini-respons-menteri-pppa",
+      "published_date": "2026-11-02T01:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OJK Dongkrak Inklusi Keuangan Syariah, SYAFIF 2026 Catat 10.598 Rekening Baru",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/tnulqt423/ojk-dongkrak-inklusi-keuangan-syariah-syafif-2026-catat-10598-rekening-baru",
+      "published_date": "2026-11-02T00:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dampak Perubahan Iklim terhadap Kesehatan Kian Memburuk, Dunia Didesak Bertindak",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tnul0u416/dampak-perubahan-iklim-terhadap-kesehatan-kian-memburuk-dunia-didesak-bertindak",
+      "published_date": "2026-11-02T00:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menkop Ajak ICMI Dampingi Koperasi dan Perkuat Ekonomi Kerakyatan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnukp7416/menkop-ajak-icmi-dampingi-koperasi-dan-perkuat-ekonomi-kerakyatan",
+      "published_date": "2026-11-02T00:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Film Gak Masuk Akal Soroti Fenomena Nekat Ambil Jalan Pintas demi Cuan",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnult9425/film-gak-masuk-akal-soroti-fenomena-nekat-ambil-jalan-pintas-demi-cuan",
+      "published_date": "2026-11-02T00:10:21+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Como 1907 Menang Tipis atas Venezia, Kembali ke Empat Besar Klasemen Serie A",
       "source": "Republika English",
@@ -510,55 +545,6 @@
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tns321284164386/kelindan-karhutla-dan-israel",
       "published_date": "2026-10-31T15:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Konferensi Internasional di Turki, Kiai Cholil: Persatuan Umat tak Harus Menyatukan Doktrin",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tns2v0483/konferensi-internasional-di-turki-kiai-cholil-persatuan-umat-tak-harus-menyatukan-doktrin",
-      "published_date": "2026-10-31T15:25:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jadwal Live Balapan Moto3 GP Malaysia, Veda Ega Start dari Baris Ketiga",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tns2oj409/jadwal-live-balapan-moto3-gp-malaysia-veda-ega-start-dari-baris-ketiga",
-      "published_date": "2026-10-31T15:21:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resah Pohon Dipaku Dosen ini Sudah Cabut Ratusan Paku",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tns2d6505389290/resah-pohon-dipaku-dosen-ini-sudah-cabut-ratusan-paku",
-      "published_date": "2026-10-31T15:15:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Duo Bahlul Bicara Pengalaman Debu Film di Gak Masuk Akal",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tns220425/duo-bahlul-bicara-pengalaman-debu-film-di-gak-masuk-akal",
-      "published_date": "2026-10-31T15:08:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bungkam Persija 2-1, Dewa United Pangkas Jarak Jadi Selisih Satu Poin di Puncak Klasemen",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tns15h409/bungkam-persija-21-dewa-united-pangkas-jarak-jadi-selisih-satu-poin-di-puncak-klasemen",
-      "published_date": "2026-10-31T14:48:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gelar Acara Bareng Raffi Ahmad di Bundaran HI Sehari Setelah Demo Mahasiswa, Polisi Minta Maaf",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tns0du409/gelar-acara-bareng-raffi-ahmad-di-bundaran-hi-sehari-setelah-demo-mahasiswa-polisi-minta-maaf",
-      "published_date": "2026-10-31T14:32:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Usai Pemilu Israel, MUI: Eisenkot tak Seperti Netanyahu",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tns0bh483/usai-pemilu-israel-mui-eisenkot-tak-seperti-netanyahu",
-      "published_date": "2026-10-31T14:30:53+00:00",
       "category": "Local Events"
     }
   ]
