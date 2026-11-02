@@ -143,6 +143,27 @@
   ],
   "Military": [
     {
+      "title": "Lelang Proyek Pusat Pemerintahan Papua Pegunungan Diundur ke November 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnw2te6930000/lelang-proyek-pusat-pemerintahan-papua-pegunungan-diundur-ke-november-2026",
+      "published_date": "2026-11-02T19:15:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polisi dan Warga Bersatu Padamkan Kebakaran Lahan di Merauke",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnw1fc2130000/polisi-dan-warga-bersatu-padamkan-kebakaran-lahan-di-merauke",
+      "published_date": "2026-11-02T18:45:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pemprov Papua Pegunungan Klarifikasi Anggaran Jembatan Wollo Rp10,3 Miliar, Bukan Rp39 Miliar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnw0qf9730000/pemprov-papua-pegunungan-klarifikasi-anggaran-jembatan-wollo-rp103-miliar-bukan-rp39-miliar",
+      "published_date": "2026-11-02T18:30:15+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Penggerebekan Sarang Narkoba di Kampung Bahari, 27 Orang Diamankan",
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/tntsjw375/penggerebekan-sarang-narkoba-di-kampung-bahari-27-orang-diamankan",
@@ -210,20 +231,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnjix7490/penuh-energi-dan-warna-no-na-bawa-keseruan-baru-lewat-iklan-shopee-1111-big-sale",
       "published_date": "2026-10-27T00:35:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Penyelundupan 1,16 Ton Ketamin Digagalkan, 1 WN Taiwan Jadi Tersangka",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnix6c375/penyelundupan-116-ton-ketamin-digagalkan-1-wn-taiwan-jadi-tersangka",
-      "published_date": "2026-10-26T16:44:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Program TJSL Berdampak Luas, Pertagas Raih 5 Penghargaan Internasional pada Asian Impact Awards 2026",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tniwal522/program-tjsl-berdampak-luas-pertagas-raih-5-penghargaan-internasional-pada-asian-impact-awards-2026",
-      "published_date": "2026-10-26T16:25:33+00:00",
       "category": "Military"
     }
   ],
@@ -408,6 +415,48 @@
   ],
   "Local Events": [
     {
+      "title": "Prakiraan Cuaca Jakarta Selasa: Pagi Cerah Berawan, Siang hingga Malam Diguyur Hujan Ringan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnw6aa3930000/prakiraan-cuaca-jakarta-selasa-pagi-cerah-berawan-siang-hingga-malam-diguyur-hujan-ringan",
+      "published_date": "2026-11-02T20:30:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wakapolda Sulut Ajak Pelajar Jauhi Narkoba dan Judi Daring Demi Masa Depan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnw4801630000/wakapolda-sulut-ajak-pelajar-jauhi-narkoba-dan-judi-daring-demi-masa-depan",
+      "published_date": "2026-11-02T19:45:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi, Ronaldo, dan Kane Masuk Nominasi FIFPRO World 11 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnw3ij230000/messi-ronaldo-dan-kane-masuk-nominasi-fifpro-world-11-2026",
+      "published_date": "2026-11-02T19:30:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 Wisatawan Korban Longsor Glamping Badung Belum Ditemukan, Kapolda Minta Pencarian Dimaksimalkan",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tnvyuo282/2-wisatawan-korban-longsor-glamping-badung-belum-ditemukan-kapolda-minta-pencarian-dimaksimalkan",
+      "published_date": "2026-11-02T18:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "YPMAK Perketat Pengawasan Akademik Mahasiswa Penerima Beasiswa Freeport",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnvzch3130000/ypmak-perketat-pengawasan-akademik-mahasiswa-penerima-beasiswa-freeport",
+      "published_date": "2026-11-02T18:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Longsor di Glamping Pelaga Badung Bali, Dua Wisatawan Hilang",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tnvym6282/longsor-di-glamping-pelaga-badung-bali-dua-wisatawan-hilang",
+      "published_date": "2026-11-02T17:44:30+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "MLSC 2026/2027, SDN ini Pertahankan Gelar di Surabaya, Bandung Lahirkan Dua Juara Baru",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnuq9g456/mlsc-20262027-sdn-ini-pertahankan-gelar-di-surabaya-bandung-lahirkan-dua-juara-baru",
@@ -503,48 +552,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tnsssh377/bagaimana-nasib-keabsahan-pencalonan-gibran-setelah-putusan-ma-ini-pendapat-mahfud-md",
       "published_date": "2026-11-01T00:45:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHSG Anjlok ke 5.057, BEI Tetap Perkuat Reformasi Pasar Modal",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnsrtj370/ihsg-anjlok-ke-5057-bei-tetap-perkuat-reformasi-pasar-modal",
-      "published_date": "2026-11-01T00:24:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mengantar Orangutan Korban Karhutla Kembali ke Habitat Alami",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnsrom375/mengantar-orangutan-korban-karhutla-kembali-ke-habitat-alami",
-      "published_date": "2026-11-01T00:21:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fraksi PKS Desak Pemprov DKI Tinjau Ulang Konser Andrea Bocelli",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnsm16370/fraksi-pks-desak-pemprov-dki-tinjau-ulang-konser-andrea-bocelli",
-      "published_date": "2026-10-31T23:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Innalillahi, Pemilik Rumah Makan Ayam Goreng Legendaris di Yogyakarta Suharti Berpulang",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/tnsmw0291/innalillahi-pemilik-rumah-makan-ayam-goreng-legendaris-di-yogyakarta-suharti-berpulang",
-      "published_date": "2026-10-31T22:38:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Danantara Ungkap Latar Belakang Pencantuman Logo di TIME100 Next 2026",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tns4t2416/danantara-ungkap-latar-belakang-pencantuman-logo-di-time100-next-2026",
-      "published_date": "2026-10-31T16:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelindan Karhutla dan Israel",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tns321284164386/kelindan-karhutla-dan-israel",
-      "published_date": "2026-10-31T15:30:01+00:00",
       "category": "Local Events"
     }
   ]
