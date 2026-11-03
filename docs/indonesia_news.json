@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "5 Penyakit Lisan Sangat Berbahaya dan Diperingatkan Rasulullah SAW, Namun Banyak Diabaikan",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tnwpcq320/5-penyakit-lisan-sangat-berbahaya-dan-diperingatkan-rasulullah-saw-namun-banyak-diabaikan",
+      "published_date": "2026-11-03T03:22:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pemerintah Cairkan BSU Rp 900 Ribu, Simak Ketentuan Penerimanya",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnunme423/pemerintah-cairkan-bsu-rp-900-ribu-simak-ketentuan-penerimanya",
@@ -125,23 +132,16 @@
       "url": "https://ekonomi.republika.co.id/berita/tnki0m423/terdengar-suara-ledakan-di-atas-gerbong-krl-kai-akibat-pantograf",
       "published_date": "2026-10-27T13:12:22+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Danantara Bidik Mitra Global untuk Bangun Industri Hilir Nikel di Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnjhlx522/danantara-bidik-mitra-global-untuk-bangun-industri-hilir-nikel-di-indonesia",
-      "published_date": "2026-10-27T00:05:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Harry Kane Raih Ballon d'Or 2026, Akhiri Penantian 25 Tahun Inggris",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnjggj348/harry-kane-raih-ballon-dor-2026-akhiri-penantian-25-tahun-inggris",
-      "published_date": "2026-10-26T23:41:07+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Jalan Wisata di Bangli Amblas, Akses Penghubung Ditutup Sementara",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnwnu7375/jalan-wisata-di-bangli-amblas-akses-penghubung-ditutup-sementara",
+      "published_date": "2026-11-03T02:49:19+00:00",
+      "category": "Military"
+    },
     {
       "title": "Lelang Proyek Pusat Pemerintahan Papua Pegunungan Diundur ke November 2026",
       "source": "Republika English",
@@ -225,16 +225,16 @@
       "url": "https://news.republika.co.id/berita/tnkiry484/malaysia-tawarkan-ke-ri-pesawat-amfibi-dan-helikopter-atasi-karhutla",
       "published_date": "2026-10-27T13:28:46+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Penuh Energi dan Warna, no na Bawa Keseruan Baru Lewat Iklan Shopee 11.11 Big Sale!",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnjix7490/penuh-energi-dan-warna-no-na-bawa-keseruan-baru-lewat-iklan-shopee-1111-big-sale",
-      "published_date": "2026-10-27T00:35:45+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Program Energi Mengajar Negeri Sambangi Siswa",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnwnpa370/program-energi-mengajar-negeri-sambangi-siswa",
+      "published_date": "2026-11-03T02:46:22+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Antisipasi Bentrok Susulan, Petugas Gabungan Gelar Razia Senjata Tajam di Palu",
       "source": "Republika English",
@@ -367,13 +367,6 @@
       "url": "https://visual.republika.co.id/berita/tnkozv375/indonesiasingapura-perkuat-kerja-sama-penanganan-karhutla-bahas-satgas-bersama",
       "published_date": "2026-10-27T15:43:07+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "RI Gandeng Singapura Bentuk Satuan Tugas Bersama Atasi Kebakaran Hutan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnkovk475/ri-gandeng-singapura-bentuk-satuan-tugas-bersama-atasi-kebakaran-hutan",
-      "published_date": "2026-10-27T15:40:32+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -414,6 +407,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Kemenhub Siapkan Langkah Antisipasi Kecelakaan Selama Nataru 2026/2027",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnwopr423/kemenhub-siapkan-langkah-antisipasi-kecelakaan-selama-nataru-20262027",
+      "published_date": "2026-11-03T03:08:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serba-serbi Mood Swing pada Perempuan dan Cara Mengatasinya",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnwond425/serbaserbi-mood-swing-pada-perempuan-dan-cara-mengatasinya",
+      "published_date": "2026-11-03T03:06:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPK Terbuka Hadirkan Ahmad Dhani dalam Sidang Kasus Bea Cukai",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnwode484/kpk-terbuka-hadirkan-ahmad-dhani-dalam-sidang-kasus-bea-cukai",
+      "published_date": "2026-11-03T03:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jelang Zero ODOL 2027, Ini Pelanggaran yang Paling Banyak Ditemukan",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnwo4p416/jelang-zero-odol-2027-ini-pelanggaran-yang-paling-banyak-ditemukan",
+      "published_date": "2026-11-03T02:55:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saksi Penyidik Polres Jakarta Pusat Dihadirkan dalam Sidang Dugaan Pemerasan Pengusaha",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tnwnvm320/saksi-penyidik-polres-jakarta-pusat-dihadirkan-dalam-sidang-dugaan-pemerasan-pengusaha",
+      "published_date": "2026-11-03T02:50:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Negara-Negara Arab dengan Utang Tertinggi dan Risiko Gagal Bayar",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnwn3v320/negaranegara-arab-dengan-utang-tertinggi-dan-risiko-gagal-bayar",
+      "published_date": "2026-11-03T02:33:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRAN Gandeng KKP Atasi Persoalan Lahan di Kawasan Pesisir",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnwn17416/bran-gandeng-kkp-atasi-persoalan-lahan-di-kawasan-pesisir",
+      "published_date": "2026-11-03T02:31:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dari Kehilangan Jadi Kekuatan: Film Pasukan 1000 Janda Angkat Ketangguhan Perempuan Aceh",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnwmm8425/dari-kehilangan-jadi-kekuatan-film-pasukan-1000-janda-angkat-ketangguhan-perempuan-aceh",
+      "published_date": "2026-11-03T02:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerit Terakhir Balita SF dari Bilik Toilet, Ketika Nyawa Hilang 'Dirampas' Orang Tuanya",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnwlwc425/jerit-terakhir-balita-sf-dari-bilik-toilet-ketika-nyawa-hilang-dirampas-orang-tuanya",
+      "published_date": "2026-11-03T02:07:24+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Prakiraan Cuaca Jakarta Selasa: Pagi Cerah Berawan, Siang hingga Malam Diguyur Hujan Ringan",
       "source": "Republika English",
@@ -489,69 +545,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tnul0u416/dampak-perubahan-iklim-terhadap-kesehatan-kian-memburuk-dunia-didesak-bertindak",
       "published_date": "2026-11-02T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menkop Ajak ICMI Dampingi Koperasi dan Perkuat Ekonomi Kerakyatan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnukp7416/menkop-ajak-icmi-dampingi-koperasi-dan-perkuat-ekonomi-kerakyatan",
-      "published_date": "2026-11-02T00:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Film Gak Masuk Akal Soroti Fenomena Nekat Ambil Jalan Pintas demi Cuan",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnult9425/film-gak-masuk-akal-soroti-fenomena-nekat-ambil-jalan-pintas-demi-cuan",
-      "published_date": "2026-11-02T00:10:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Como 1907 Menang Tipis atas Venezia, Kembali ke Empat Besar Klasemen Serie A",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnu092348/como-1907-menang-tipis-atas-venezia-kembali-ke-empat-besar-klasemen-serie-a",
-      "published_date": "2026-11-01T16:24:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rakornas SP Pegadaian Bahas Strategi Dukung Target Pegadaian 2030",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tntu88416/rakornas-sp-pegadaian-bahas-strategi-dukung-target-pegadaian-2030",
-      "published_date": "2026-11-01T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marc Marquez Ungkap Kunci Kemenangan di Sepang, Kini Bidik Gelar Juara MotoGP 2026 di Qatar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnty4s348/marc-marquez-ungkap-kunci-kemenangan-di-sepang-kini-bidik-gelar-juara-motogp-2026-di-qatar",
-      "published_date": "2026-11-01T15:38:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hilirisasi Nikel Diklaim Menuju Produksi Baterei Kendaraan Listrik",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnts44483/hilirisasi-nikel-diklaim-menuju-produksi-baterei-kendaraan-listrik",
-      "published_date": "2026-11-01T15:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yamaha Putuskan Mundur dari MotoGP Qatar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tntx08348/yamaha-putuskan-mundur-dari-motogp-qatar",
-      "published_date": "2026-11-01T15:14:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inilah Alasan Mengapa Rasulullah SAW Sangat Berwasiat: Lakukan Semaumu Jika Putus Urat Malumu!",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnsumq320/inilah-alasan-mengapa-rasulullah-saw-sangat-berwasiat-lakukan-semaumu-jika-putus-urat-malumu",
-      "published_date": "2026-11-01T01:25:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bagaimana Nasib Keabsahan Pencalonan Gibran Setelah Putusan MA, Ini Pendapat Mahfud MD",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnsssh377/bagaimana-nasib-keabsahan-pencalonan-gibran-setelah-putusan-ma-ini-pendapat-mahfud-md",
-      "published_date": "2026-11-01T00:45:53+00:00",
       "category": "Local Events"
     }
   ]
