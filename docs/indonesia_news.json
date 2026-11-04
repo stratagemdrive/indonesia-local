@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "KAI Tambah Pemberhentian Kereta Jarak Jauh di Bekasi, Cikarang, dan Jatinegara",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnygcy416/kai-tambah-pemberhentian-kereta-jarak-jauh-di-bekasi-cikarang-dan-jatinegara",
+      "published_date": "2026-11-04T02:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "5 Penyakit Lisan Sangat Berbahaya dan Diperingatkan Rasulullah SAW, Namun Banyak Diabaikan",
       "source": "Republika English",
       "url": "https://khazanah.republika.co.id/berita/tnwpcq320/5-penyakit-lisan-sangat-berbahaya-dan-diperingatkan-rasulullah-saw-namun-banyak-diabaikan",
@@ -97,23 +104,44 @@
       "url": "https://news.republika.co.id/berita/tnmixu416/legislator-desak-hukuman-berat-bagi-pelaku-pembunuhan-ibu-dan-anak-di-madiun",
       "published_date": "2026-10-28T15:27:30+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Putin Siap Bantu Akhiri Konflik AS-Iran, Qatar Minta Rusia Turun Tangan di Hormuz",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnldhm451/putin-siap-bantu-akhiri-konflik-asiran-qatar-minta-rusia-turun-tangan-di-hormuz",
-      "published_date": "2026-10-28T00:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Riset Oxford: 12 Protein Darah Ungkap Risiko Kanker Prostat Lebih dari 15 Tahun Lebih Awal",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnlbym451/riset-oxford-12-protein-darah-ungkap-risiko-kanker-prostat-lebih-dari-15-tahun-lebih-awal",
-      "published_date": "2026-10-27T23:59:10+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Di Jayawijaya, Kendaraan Wajib Lunas Pajak untuk Beli BBM Subsidi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnyhmx423/di-jayawijaya-kendaraan-wajib-lunas-pajak-untuk-beli-bbm-subsidi",
+      "published_date": "2026-11-04T02:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia’s haze crisis: when patriotism means demanding government accountability",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-haze-crisis-when-patriotism-means-demanding-government-accountability/",
+      "published_date": "2026-11-04T02:35:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puluhan Ribu TNI Dikerahkan ke Jakarta, Kapuspen: Menjaga Keutuhan NKRI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnyhfw484/puluhan-ribu-tni-dikerahkan-ke-jakarta-kapuspen-menjaga-keutuhan-nkri",
+      "published_date": "2026-11-04T02:26:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mahfud MD: Eks Kapolri Listyo Jadi TSK Kejahatan Terjahat di Sejarah Polri, Sadap Presiden, Gilaa!",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnyh1q377/mahfud-md-eks-kapolri-listyo-jadi-tsk-kejahatan-terjahat-di-sejarah-polri-sadap-presiden-gilaa",
+      "published_date": "2026-11-04T02:17:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yusril Kapolri Sudah Lapor Presiden terkait Penyadapan",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tnyg812033665173/yusril-kapolri-sudah-lapor-presiden-terkait-penyadapan",
+      "published_date": "2026-11-04T02:00:01+00:00",
+      "category": "Military"
+    },
     {
       "title": "KWI Sambut Baik Program Minggu Kasih Polri untuk Perkuat Sinergi Keamanan",
       "source": "Republika English",
@@ -218,16 +246,23 @@
       "url": "https://news.republika.co.id/berita/tnohwf1930000/pangdam-xiiimerdeka-dan-bupati-boalemo-perkuat-sinergi-pertahanan-wilayah",
       "published_date": "2026-10-29T17:00:15+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Muslim Madani Dukung Upaya Polri Berantas Narkoba dan Judol",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnnzdo349/muslim-madani-dukung-upaya-polri-berantas-narkoba-dan-judol",
-      "published_date": "2026-10-29T15:16:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Menkeu Tegaskan Transfer Antarbank dan Dompet Digital Bebas PPN",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnygz8423/menkeu-tegaskan-transfer-antarbank-dan-dompet-digital-bebas-ppn",
+      "published_date": "2026-11-04T02:16:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Galang Aliansi Keumatan Global, MUI Temui Menteri Wakaf, Dar Al-Ifta, dan Al-Azhar Mesir",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnygqe320/galang-aliansi-keumatan-global-mui-temui-menteri-wakaf-dar-alifta-dan-alazhar-mesir",
+      "published_date": "2026-11-04T02:11:02+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Golkar Apresiasi Kebijakan Menteri Bahlil yang Prioritaskan Pengusaha Daerah hingga BUMD",
       "source": "Republika English",
@@ -353,20 +388,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tnmjod483/impor-migas-lewat-lemigas-masih-transisi-bahlil-tidak-pakai-apbn",
       "published_date": "2026-10-28T15:43:25+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Ingatkan Pemegang Blok Migas Bahlil Kalau tak Mampu Serahkan ke Negara",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-tnmj211966313645/ingatkan-pemegang-blok-migas-bahlil-kalau-tak-mampu-serahkan-ke-negara",
-      "published_date": "2026-10-28T15:30:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pertamina Patra Niaga Perkuat Ketahanan Energi dan Pastikan Keandalan Layanan bagi Masyarakat",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnmhqt522/pertamina-patra-niaga-perkuat-ketahanan-energi-dan-pastikan-keandalan-layanan-bagi-masyarakat",
-      "published_date": "2026-10-28T15:01:41+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -400,6 +421,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Syarat Johnny Depp untuk Kembali ke Pirates of the Caribbean",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnyhfx328/syarat-johnny-depp-untuk-kembali-ke-pirates-of-the-caribbean",
+      "published_date": "2026-11-04T02:26:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pasar Kripto Kembali Bergejolak, Ini Faktor yang Perlu Dicermati",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnygo2416/pasar-kripto-kembali-bergejolak-ini-faktor-yang-perlu-dicermati",
+      "published_date": "2026-11-04T02:09:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jangan Asal Kasih Pisang! Dokter Ungkap Bahaya Fatal MPASI Bayi di Bawah 6 Bulan",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/tnygh3425/jangan-asal-kasih-pisang-dokter-ungkap-bahaya-fatal-mpasi-bayi-di-bawah-6-bulan",
+      "published_date": "2026-11-04T02:05:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carrick Puji Mentalitas MU, Bruno Fernandes Berharap Kemenangan Atas Roma Jadi Awal Kebangkitan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnyg9l348/carrick-puji-mentalitas-mu-bruno-fernandes-berharap-kemenangan-atas-roma-jadi-awal-kebangkitan",
+      "published_date": "2026-11-04T02:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Studi Ungkap Pekerja dengan Resilience Tinggi Lebih Produktif",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnyaxv416/studi-ungkap-pekerja-dengan-resilience-tinggi-lebih-produktif",
+      "published_date": "2026-11-04T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stok Minyak Sawit Malaysia Diproyeksi Capai Rekor Tertinggi Baru",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnyg51502/stok-minyak-sawit-malaysia-diproyeksi-capai-rekor-tertinggi-baru",
+      "published_date": "2026-11-04T01:58:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hotspot Karhutla Melonjak 89 Titik dalam Sehari, Pemerintah Perluas Operasi Modifikasi Cuaca",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tnyftr423/hotspot-karhutla-melonjak-89-titik-dalam-sehari-pemerintah-perluas-operasi-modifikasi-cuaca",
+      "published_date": "2026-11-04T01:55:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "DPR Desak Pemerintah Kaji Ulang PPN Pembalut demi Kesehatan Reproduksi Perempuan",
       "source": "Republika English",
@@ -489,55 +559,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnwn17416/bran-gandeng-kkp-atasi-persoalan-lahan-di-kawasan-pesisir",
       "published_date": "2026-11-03T02:31:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dari Kehilangan Jadi Kekuatan: Film Pasukan 1000 Janda Angkat Ketangguhan Perempuan Aceh",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnwmm8425/dari-kehilangan-jadi-kekuatan-film-pasukan-1000-janda-angkat-ketangguhan-perempuan-aceh",
-      "published_date": "2026-11-03T02:22:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerit Terakhir Balita SF dari Bilik Toilet, Ketika Nyawa Hilang 'Dirampas' Orang Tuanya",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnwlwc425/jerit-terakhir-balita-sf-dari-bilik-toilet-ketika-nyawa-hilang-dirampas-orang-tuanya",
-      "published_date": "2026-11-03T02:07:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prakiraan Cuaca Jakarta Selasa: Pagi Cerah Berawan, Siang hingga Malam Diguyur Hujan Ringan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnw6aa3930000/prakiraan-cuaca-jakarta-selasa-pagi-cerah-berawan-siang-hingga-malam-diguyur-hujan-ringan",
-      "published_date": "2026-11-02T20:30:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wakapolda Sulut Ajak Pelajar Jauhi Narkoba dan Judi Daring Demi Masa Depan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnw4801630000/wakapolda-sulut-ajak-pelajar-jauhi-narkoba-dan-judi-daring-demi-masa-depan",
-      "published_date": "2026-11-02T19:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Messi, Ronaldo, dan Kane Masuk Nominasi FIFPRO World 11 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnw3ij230000/messi-ronaldo-dan-kane-masuk-nominasi-fifpro-world-11-2026",
-      "published_date": "2026-11-02T19:30:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 Wisatawan Korban Longsor Glamping Badung Belum Ditemukan, Kapolda Minta Pencarian Dimaksimalkan",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tnvyuo282/2-wisatawan-korban-longsor-glamping-badung-belum-ditemukan-kapolda-minta-pencarian-dimaksimalkan",
-      "published_date": "2026-11-02T18:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "YPMAK Perketat Pengawasan Akademik Mahasiswa Penerima Beasiswa Freeport",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnvzch3130000/ypmak-perketat-pengawasan-akademik-mahasiswa-penerima-beasiswa-freeport",
-      "published_date": "2026-11-02T18:00:17+00:00",
       "category": "Local Events"
     }
   ]
