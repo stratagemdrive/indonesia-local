@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Literasi Tinggi, Inklusi Rendah di IIFS 2026: Paradoks Keuangan Syariah",
+      "source": "Republika English",
+      "url": "https://opini.republika.co.id/berita/tnznjs282/literasi-tinggi-inklusi-rendah-di-iifs-2026-paradoks-keuangan-syariah",
+      "published_date": "2026-11-04T17:35:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "KAI Tambah Pemberhentian Kereta Jarak Jauh di Bekasi, Cikarang, dan Jatinegara",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnygcy416/kai-tambah-pemberhentian-kereta-jarak-jauh-di-bekasi-cikarang-dan-jatinegara",
@@ -90,23 +97,30 @@
       "url": "https://news.republika.co.id/berita/tnn8wc430/peringatan-sumpah-pemuda-harus-menjadi-momentum-membangun-kesadaran-generasi-muda",
       "published_date": "2026-10-29T00:49:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Alquran Ungkap Salah Satu Nikmat Terbesar untuk Quraisy Namun Mereka Ingkari",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/tnlisk320/alquran-ungkap-salah-satu-nikmat-terbesar-untuk-quraisy-namun-mereka-ingkari",
-      "published_date": "2026-10-28T16:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Legislator Desak Hukuman Berat bagi Pelaku Pembunuhan Ibu dan Anak di Madiun",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnmixu416/legislator-desak-hukuman-berat-bagi-pelaku-pembunuhan-ibu-dan-anak-di-madiun",
-      "published_date": "2026-10-28T15:27:30+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Puskesau Gelar Pembinaan Kesehatan Mental 180 Personel Lanud Iswahjudi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnznzf7430000/puskesau-gelar-pembinaan-kesehatan-mental-180-personel-lanud-iswahjudi",
+      "published_date": "2026-11-04T17:45:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dinkes Papua Pegunungan Rumuskan Strategi Percepat Pembangunan Kesehatan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnzlwf830000/dinkes-papua-pegunungan-rumuskan-strategi-percepat-pembangunan-kesehatan",
+      "published_date": "2026-11-04T17:00:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latihan Garuda Shakti 2026, Prajurit TNI AD dan India Simulasikan Penyergapan",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tnze02375/latihan-garuda-shakti-2026-prajurit-tni-ad-dan-india-simulasikan-penyergapan",
+      "published_date": "2026-11-04T16:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Di Jayawijaya, Kendaraan Wajib Lunas Pajak untuk Beli BBM Subsidi",
       "source": "Republika English",
@@ -225,30 +239,16 @@
       "url": "https://news.republika.co.id/berita/tnpzdl393/upaya-pemenuhan-gizi-anakanak-di-pelosok-papua-selatan",
       "published_date": "2026-10-30T15:10:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Berdayakan Masyarakat Papua, Billy Mambrasar Raih TOYP Indonesia",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnq3sm416/berdayakan-masyarakat-papua-billy-mambrasar-raih-toyp-indonesia",
-      "published_date": "2026-10-30T14:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tiga Tokoh Bangsa Raih Lifetime Achievement Award",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tnjx0p456/tiga-tokoh-bangsa-raih-lifetime-achievement-award",
-      "published_date": "2026-10-30T01:03:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pangdam XIII/Merdeka dan Bupati Boalemo Perkuat Sinergi Pertahanan Wilayah",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnohwf1930000/pangdam-xiiimerdeka-dan-bupati-boalemo-perkuat-sinergi-pertahanan-wilayah",
-      "published_date": "2026-10-29T17:00:15+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Berdayakan Penyintas Skizofrenia Mandiri Ekonomi",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/tnzj0e522/pertamina-berdayakan-penyintas-skizofreniamandiri-ekonomi",
+      "published_date": "2026-11-04T15:57:50+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Menkeu Tegaskan Transfer Antarbank dan Dompet Digital Bebas PPN",
       "source": "Republika English",
@@ -381,13 +381,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tnnaer490/ruu-migas-hampir-rampung-bahlil-ungkap-kewenangan-besar-buk-yang-bakal-dibentuk",
       "published_date": "2026-10-29T01:20:51+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Impor Migas lewat Lemigas Masih Transisi, Bahlil: Tidak Pakai APBN",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnmjod483/impor-migas-lewat-lemigas-masih-transisi-bahlil-tidak-pakai-apbn",
-      "published_date": "2026-10-28T15:43:25+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -421,6 +414,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Hasil Wakil Indonesia di Korea Open: Ginting dan Alwi Tampil Meyakinkan, Thalita Comeback Dramatis",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnzldz348/hasil-wakil-indonesia-di-korea-open-ginting-dan-alwi-tampil-meyakinkan-thalita-comeback-dramatis",
+      "published_date": "2026-11-04T17:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia Political Review Minta Aparat Penegak Hukum Usut Tuntas Kasus Dugaan Penyadapan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnz9wo320/indonesia-political-review-minta-aparat-penegak-hukum-usut-tuntas-kasus-dugaan-penyadapan",
+      "published_date": "2026-11-04T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SAJID Kecam Penyadapan Jurnalis dalam Kasus Listyo Sigit, Sebut Ancaman Demokrasi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tnzkju451/sajid-kecam-penyadapan-jurnalis-dalam-kasus-listyo-sigit-sebut-ancaman-demokrasi",
+      "published_date": "2026-11-04T16:31:06+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Syarat Johnny Depp untuk Kembali ke Pirates of the Caribbean",
       "source": "Republika English",
@@ -538,27 +552,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnwo4p416/jelang-zero-odol-2027-ini-pelanggaran-yang-paling-banyak-ditemukan",
       "published_date": "2026-11-03T02:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saksi Penyidik Polres Jakarta Pusat Dihadirkan dalam Sidang Dugaan Pemerasan Pengusaha",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/tnwnvm320/saksi-penyidik-polres-jakarta-pusat-dihadirkan-dalam-sidang-dugaan-pemerasan-pengusaha",
-      "published_date": "2026-11-03T02:50:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Negara-Negara Arab dengan Utang Tertinggi dan Risiko Gagal Bayar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnwn3v320/negaranegara-arab-dengan-utang-tertinggi-dan-risiko-gagal-bayar",
-      "published_date": "2026-11-03T02:33:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BRAN Gandeng KKP Atasi Persoalan Lahan di Kawasan Pesisir",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnwn17416/bran-gandeng-kkp-atasi-persoalan-lahan-di-kawasan-pesisir",
-      "published_date": "2026-11-03T02:31:55+00:00",
       "category": "Local Events"
     }
   ]
