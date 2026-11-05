@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "JPU Sebut Keterangan Terdakwa Dugaan Pemerasan Pengusaha Berbeda dengan Saksi",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/to05qh320/jpu-sebut-keterangan-terdakwa-dugaan-pemerasan-pengusaha-berbeda-dengan-saksi",
+      "published_date": "2026-11-05T01:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Literasi Tinggi, Inklusi Rendah di IIFS 2026: Paradoks Keuangan Syariah",
       "source": "Republika English",
       "url": "https://opini.republika.co.id/berita/tnznjs282/literasi-tinggi-inklusi-rendah-di-iifs-2026-paradoks-keuangan-syariah",
@@ -83,23 +90,23 @@
       "url": "https://visual.republika.co.id/berita/tnohbt375/indonesia-youth-summit-2026-ajak-generasi-muda-tentukan-masa-depan-bangsa",
       "published_date": "2026-10-29T16:47:53+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Nicky Astria Gelar Konser Rayakan 42 Tahun di Industri Musik",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnnbij425/nicky-astria-gelar-konser-rayakan-42-tahun-di-industri-musik",
-      "published_date": "2026-10-29T01:44:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Peringatan Sumpah Pemuda Harus Menjadi Momentum Membangun Kesadaran Generasi Muda",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnn8wc430/peringatan-sumpah-pemuda-harus-menjadi-momentum-membangun-kesadaran-generasi-muda",
-      "published_date": "2026-10-29T00:49:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Daftar Lengkap Pemenang AMI Awards 2026",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/to0bjh425/daftar-lengkap-pemenang-ami-awards-2026",
+      "published_date": "2026-11-05T02:14:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PN Jaktim Dijaga Ketat Jelang Persidangan Ijazah Jokowi",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-to09i12084822207/pn-jaktim-dijaga-ketat-jelang-persidangan-ijazah-jokowi",
+      "published_date": "2026-11-05T01:30:01+00:00",
+      "category": "Military"
+    },
     {
       "title": "Puskesau Gelar Pembinaan Kesehatan Mental 180 Personel Lanud Iswahjudi",
       "source": "Republika English",
@@ -225,20 +232,6 @@
       "url": "https://visual.republika.co.id/berita/tntsjw375/penggerebekan-sarang-narkoba-di-kampung-bahari-27-orang-diamankan",
       "published_date": "2026-11-01T14:30:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Krisis Konstitusi Polandia Memuncak, Presiden Tuding Mahkamah Konstitusi Direbut Paksa",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnrv00451/krisis-konstitusi-polandia-memuncak-presiden-tuding-mahkamah-konstitusi-direbut-paksa",
-      "published_date": "2026-10-31T14:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Upaya Pemenuhan Gizi  Anak-anak di Pelosok Papua Selatan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnpzdl393/upaya-pemenuhan-gizi-anakanak-di-pelosok-papua-selatan",
-      "published_date": "2026-10-30T15:10:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -360,27 +353,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tnoc1t522/pertamina-patra-niaga-uji-coba-pengumpulan-minyak-jelantah-di-kdkmp",
       "published_date": "2026-10-29T14:53:53+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "PSSI Tegaskan Dukungan untuk Gianni Infantino Tetap Pimpin FIFA",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnnbd1348/pssi-tegaskan-dukungan-untuk-gianni-infantino-tetap-pimpin-fifa",
-      "published_date": "2026-10-29T01:41:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Film AI Menjamur, Oscar Tegaskan Hanya Manusia yang Berhak Sabet Piala",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnnafd425/film-ai-menjamur-oscar-tegaskan-hanya-manusia-yang-berhak-sabet-piala",
-      "published_date": "2026-10-29T01:21:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "RUU Migas Hampir Rampung, Bahlil Ungkap Kewenangan Besar BUK yang Bakal Dibentuk",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnnaer490/ruu-migas-hampir-rampung-bahlil-ungkap-kewenangan-besar-buk-yang-bakal-dibentuk",
-      "published_date": "2026-10-29T01:20:51+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -404,16 +376,93 @@
       "url": "https://daerah.republika.co.id/berita/tno709483/sebelas-desa-wisata-ri-ikuti-wonderful-indonesia-tourism-fair-2026",
       "published_date": "2026-10-29T14:53:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Sentuh Level Terendah, Airlangga Optimistis Rupiah tak Tembus Rp19.000 per Dolar AS",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnn95q490/sentuh-level-terendah-airlangga-optimistis-rupiah-tak-tembus-rp19000-per-dolar-as",
-      "published_date": "2026-10-29T00:53:50+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Dituding Terkait Ikhwan, Dikhianati Rekan Demokrat, El-Sayed Justru Menang di Michigan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to0dfx451/dituding-terkait-ikhwan-dikhianati-rekan-demokrat-elsayed-justru-menang-di-michigan",
+      "published_date": "2026-11-05T02:55:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jokowi Mengaku Dapat 31 Video yang Permasalahkan Ijazahnya, Salah Satunya Roy Suryo",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to0dfw409/jokowi-mengaku-dapat-31-video-yang-permasalahkan-ijazahnya-salah-satunya-roy-suryo",
+      "published_date": "2026-11-05T02:55:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UMJ Masuk Peringkat 78 Indonesia dalam QS Asia University Rankings 2027",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to0d0n416/umj-masuk-peringkat-78-indonesia-dalam-qs-asia-university-rankings-2027",
+      "published_date": "2026-11-05T02:47:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiba di PN Jakarta Timur Roy Suryo Semoga Rakyat Bisa Dapat Jawaban Dari Jokowi",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-to0cz41584135672/tiba-di-pn-jakarta-timur-roy-suryo-semoga-rakyat-bisa-dapat-jawaban-dari-jokowi",
+      "published_date": "2026-11-05T02:45:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pendukung Jokowi Padati Area Sekitar PN Jaktim Jelang Persidangan",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-to0cz12025896202/pendukung-jokowi-padati-area-sekitar-pn-jaktim-jelang-persidangan",
+      "published_date": "2026-11-05T02:45:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jokowi Bungkam Ditanya Kasus Penyadapan Jenderal Listyo",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to0b9j484/jokowi-bungkam-ditanya-kasus-penyadapan-jenderal-listyo",
+      "published_date": "2026-11-05T02:08:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Simpatisan Cekcok dengan Perempuan Ngaku dari BIN di PN Jaktim",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to0b4b393/simpatisan-cekcok-dengan-perempuan-ngaku-dari-bin-di-pn-jaktim",
+      "published_date": "2026-11-05T02:04:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pengembangan B50 dan E20 Perkuat Ketahanan Energi",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to0awv522/pengembangan-b50-dan-e20-perkuat-ketahanan-energi",
+      "published_date": "2026-11-05T02:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MSC Poesia Gagal Berlayar, Perusahaan Ungkap Alasan Masalah Tak Kunjung Tuntas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to08dz451/msc-poesia-gagal-berlayar-perusahaan-ungkap-alasan-masalah-tak-kunjung-tuntas",
+      "published_date": "2026-11-05T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peternak Ayam di Parigi Moutong Dilatih Tingkatkan Produksi Telur",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tnzi7u416/peternak-ayam-di-parigi-moutong-dilatih-tingkatkan-produksi-telur",
+      "published_date": "2026-11-05T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SCG Kantongi Sertifikat Halal untuk 453 Produk Kimia dan Jasa Logistik",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/to05ya416/scg-kantongi-sertifikat-halal-untuk-453-produk-kimia-dan-jasa-logistik",
+      "published_date": "2026-11-05T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talking Indonesia: modernity, ambiguity and transcendence in Muhammadiyah and Nahdlatul Ulama",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-modernity-ambiguity-and-transcendence-in-muhammadiyah-and-nahdlatul-ulama/",
+      "published_date": "2026-11-04T23:47:47+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hasil Wakil Indonesia di Korea Open: Ginting dan Alwi Tampil Meyakinkan, Thalita Comeback Dramatis",
       "source": "Republika English",
@@ -468,90 +517,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnyaxv416/studi-ungkap-pekerja-dengan-resilience-tinggi-lebih-produktif",
       "published_date": "2026-11-04T02:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stok Minyak Sawit Malaysia Diproyeksi Capai Rekor Tertinggi Baru",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnyg51502/stok-minyak-sawit-malaysia-diproyeksi-capai-rekor-tertinggi-baru",
-      "published_date": "2026-11-04T01:58:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hotspot Karhutla Melonjak 89 Titik dalam Sehari, Pemerintah Perluas Operasi Modifikasi Cuaca",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tnyftr423/hotspot-karhutla-melonjak-89-titik-dalam-sehari-pemerintah-perluas-operasi-modifikasi-cuaca",
-      "published_date": "2026-11-04T01:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DPR Desak Pemerintah Kaji Ulang PPN Pembalut demi Kesehatan Reproduksi Perempuan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnxsmt3830000/dpr-desak-pemerintah-kaji-ulang-ppn-pembalut-demi-kesehatan-reproduksi-perempuan",
-      "published_date": "2026-11-03T17:30:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Periksa Direksi Summarecon Terkait SDM Perusahaan dan Anak Usaha",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnxrxl8130000/kpk-periksa-direksi-summarecon-terkait-sdm-perusahaan-dan-anak-usaha",
-      "published_date": "2026-11-03T17:15:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Igor Tolic Sebut Laga Tandang Persib Lawan Melbourne Victory Sangat Menantang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnxpml348/igor-tolic-sebut-laga-tandang-persib-lawan-melbourne-victory-sangat-menantang",
-      "published_date": "2026-11-03T16:25:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia Bidik Kejuaraan Dunia Skateboard di Bali, Presiden World Skate Merespons",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnxmp8451/indonesia-bidik-kejuaraan-dunia-skateboard-di-bali-presiden-world-skate-merespons",
-      "published_date": "2026-11-03T16:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gol Phillerson Buyarkan Kemenangan Persija, PSMS Selamat dari Kekalahan di I.League Cup",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnxorl348/gol-phillerson-buyarkan-kemenangan-persija-psms-selamat-dari-kekalahan-di-ileague-cup",
-      "published_date": "2026-11-03T16:06:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Silent Killer di Balik Junk Food Favoritmu",
-      "source": "Republika English",
-      "url": "https://retizen.republika.co.id/posts/791118/silent-killer-di-balik-junk-food-favoritmu",
-      "published_date": "2026-11-03T15:56:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemenhub Siapkan Langkah Antisipasi Kecelakaan Selama Nataru 2026/2027",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnwopr423/kemenhub-siapkan-langkah-antisipasi-kecelakaan-selama-nataru-20262027",
-      "published_date": "2026-11-03T03:08:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serba-serbi Mood Swing pada Perempuan dan Cara Mengatasinya",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/tnwond425/serbaserbi-mood-swing-pada-perempuan-dan-cara-mengatasinya",
-      "published_date": "2026-11-03T03:06:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Terbuka Hadirkan Ahmad Dhani dalam Sidang Kasus Bea Cukai",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnwode484/kpk-terbuka-hadirkan-ahmad-dhani-dalam-sidang-kasus-bea-cukai",
-      "published_date": "2026-11-03T03:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jelang Zero ODOL 2027, Ini Pelanggaran yang Paling Banyak Ditemukan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnwo4p416/jelang-zero-odol-2027-ini-pelanggaran-yang-paling-banyak-ditemukan",
-      "published_date": "2026-11-03T02:55:37+00:00",
       "category": "Local Events"
     }
   ]
