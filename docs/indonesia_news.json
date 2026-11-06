@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Indef Wanti-Wanti Lonjakan Harga Pangan Jelang Natal dan Tahun Baru 2027",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to24rd423/indef-wantiwanti-lonjakan-harga-pangan-jelang-natal-dan-tahun-baru-2027",
+      "published_date": "2026-11-06T01:42:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Partai Ummat Dukung Kebijakan Presiden Awasi Penggunaan APBN",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to23ax484/partai-ummat-dukung-kebijakan-presiden-awasi-penggunaan-apbn",
+      "published_date": "2026-11-06T01:11:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Kemenhub Beri Stimulus Tiket Pesawat Natal 2026 dan Tahun Baru 2027, Harga Turun 12 Persen",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to1k1h7030000/kemenhub-beri-stimulus-tiket-pesawat-natal-2026-dan-tahun-baru-2027-harga-turun-12-persen",
@@ -243,6 +257,20 @@
   ],
   "Energy": [
     {
+      "title": "BAPPISUS dan PLN Perkuat Sinergi Jaga Keandalan Listrik Nasional",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to27pn416/bappisus-dan-pln-perkuat-sinergi-jaga-keandalan-listrik-nasional",
+      "published_date": "2026-11-06T02:46:35+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PKT Kembangkan Inovasi Pacu Produktivitas dan Daya Saing",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to27c5416/pkt-kembangkan-inovasi-pacu-produktivitas-dan-daya-saing",
+      "published_date": "2026-11-06T02:38:29+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Pertamina Berdayakan Penyintas Skizofrenia Mandiri Ekonomi",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/tnzj0e522/pertamina-berdayakan-penyintas-skizofreniamandiri-ekonomi",
@@ -336,6 +364,13 @@
   ],
   "Economy": [
     {
+      "title": "Peretasan Binance Rugikan Triliunan Rupiah, OJK Ingatkan Industri Kripto RI",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to21y6423/peretasan-binance-rugikan-triliunan-rupiah-ojk-ingatkan-industri-kripto-ri",
+      "published_date": "2026-11-06T00:45:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Stimulus Fiskal Pemerintah Topang Konsumsi Rumah Tangga, Ekonomi RI Tumbuh 5,47%",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to1jcg1530000/stimulus-fiskal-pemerintah-topang-konsumsi-rumah-tangga-ekonomi-ri-tumbuh-547",
@@ -348,16 +383,58 @@
       "url": "https://ekonomi.republika.co.id/berita/tnqu5m423/rupiah-masih-berkutat-di-rp-18100an-ketegangan-politik-dalam-negeri-turut-beri-tekanan",
       "published_date": "2026-10-30T23:20:11+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Sorotan MSCI, Hashim Ingatkan Risiko Rupiah Melemah hingga Rp 21 Ribu",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnp6g4490/sorotan-msci-hashim-ingatkan-risiko-rupiah-melemah-hingga-rp-21-ribu",
-      "published_date": "2026-10-30T01:50:28+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "5 Cara yang Ditempuh Orang-Orang Munafik untuk Membenci dan Memusuhi Sesama Muslim",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/to26ay320/5-cara-yang-ditempuh-orangorang-munafik-untuk-membenci-dan-memusuhi-sesama-muslim",
+      "published_date": "2026-11-06T02:16:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luas Karhutla Capai 2.835 Hektare, Komnas HAM Keluarkan Enam Rekomendasi",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/to25bx423/luas-karhutla-capai-2835-hektare-komnas-ham-keluarkan-enam-rekomendasi",
+      "published_date": "2026-11-06T02:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menggeser Paradigma Digitalisasi Syariah: Dari Sekadar Efisiensi Menuju Digital Trust",
+      "source": "Republika English",
+      "url": "https://opini.republika.co.id/berita/tnyz4g502/menggeser-paradigma-digitalisasi-syariah-dari-sekadar-efisiensi-menuju-digital-trust",
+      "published_date": "2026-11-06T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riset Indonesia-Australia Olah Limbah Udang dan Lalat Jadi Inovasi Ekonomi Biru",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/to22c0416/riset-indonesiaaustralia-olah-limbah-udang-dan-lalat-jadi-inovasi-ekonomi-biru",
+      "published_date": "2026-11-06T01:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "USS Roosevelt Menuju Laut Arab, AS Dikhawatirkan Kembali Serang Iran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to21xx393/uss-roosevelt-menuju-laut-arab-as-dikhawatirkan-kembali-serang-iran",
+      "published_date": "2026-11-06T00:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berasal dari Keluarga Miskin, Akta Kelahiran Jokowi Ternyata tak Langsung Diurus",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to21sn484/berasal-dari-keluarga-miskin-akta-kelahiran-jokowi-ternyata-tak-langsung-diurus",
+      "published_date": "2026-11-06T00:38:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bidik Nasabah Premium, Bank BSN Perluas Jaringan Layanan Prioritas",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/to1zqg416/bidik-nasabah-premium-bank-bsn-perluas-jaringan-layanan-prioritas",
+      "published_date": "2026-11-06T00:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pemanah Indonesia Rigaluh Tanresila Raih Perak di Kejuaraan Dunia Panahan Tradisional Korea",
       "source": "Republika English",
@@ -447,55 +524,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to0b9j484/jokowi-bungkam-ditanya-kasus-penyadapan-jenderal-listyo",
       "published_date": "2026-11-05T02:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Simpatisan Cekcok dengan Perempuan Ngaku dari BIN di PN Jaktim",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to0b4b393/simpatisan-cekcok-dengan-perempuan-ngaku-dari-bin-di-pn-jaktim",
-      "published_date": "2026-11-05T02:04:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pengembangan B50 dan E20 Perkuat Ketahanan Energi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to0awv522/pengembangan-b50-dan-e20-perkuat-ketahanan-energi",
-      "published_date": "2026-11-05T02:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MSC Poesia Gagal Berlayar, Perusahaan Ungkap Alasan Masalah Tak Kunjung Tuntas",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to08dz451/msc-poesia-gagal-berlayar-perusahaan-ungkap-alasan-masalah-tak-kunjung-tuntas",
-      "published_date": "2026-11-05T02:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peternak Ayam di Parigi Moutong Dilatih Tingkatkan Produksi Telur",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnzi7u416/peternak-ayam-di-parigi-moutong-dilatih-tingkatkan-produksi-telur",
-      "published_date": "2026-11-05T02:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SCG Kantongi Sertifikat Halal untuk 453 Produk Kimia dan Jasa Logistik",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/to05ya416/scg-kantongi-sertifikat-halal-untuk-453-produk-kimia-dan-jasa-logistik",
-      "published_date": "2026-11-05T02:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talking Indonesia: modernity, ambiguity and transcendence in Muhammadiyah and Nahdlatul Ulama",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/talking-indonesia-modernity-ambiguity-and-transcendence-in-muhammadiyah-and-nahdlatul-ulama/",
-      "published_date": "2026-11-04T23:47:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hasil Wakil Indonesia di Korea Open: Ginting dan Alwi Tampil Meyakinkan, Thalita Comeback Dramatis",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnzldz348/hasil-wakil-indonesia-di-korea-open-ginting-dan-alwi-tampil-meyakinkan-thalita-comeback-dramatis",
-      "published_date": "2026-11-04T17:02:00+00:00",
       "category": "Local Events"
     }
   ]
