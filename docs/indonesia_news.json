@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Pemerintah Terbitkan Sukuk Global 3 Miliar Dolar AS",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/to3zap490/pemerintah-terbitkan-sukuk-global-3-miliar-dolar-as",
+      "published_date": "2026-11-07T01:40:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mertua Pangeran Harry Ditangkap FBI, Terancam 20 Tahun Penjara",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to3spk451/mertua-pangeran-harry-ditangkap-fbi-terancam-20-tahun-penjara",
+      "published_date": "2026-11-06T23:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Jorge Jesus Kecewa Cristiano Ronaldo Pensiun dari Timnas Portugal: Saya Memintanya Bertahan",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to38w3348/jorge-jesus-kecewa-cristiano-ronaldo-pensiun-dari-timnas-portugal-saya-memintanya-bertahan",
@@ -104,16 +118,16 @@
       "url": "https://ameera.republika.co.id/berita/tns1in425/ungu-rayakan-30-tahun-berkarya-cliquers-vintage-hingga-gen-z-nyanyi-bareng",
       "published_date": "2026-10-31T14:56:47+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "MPMX Cetak Laba Rp539 Miliar, Naik 23 Persen",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnq2bh416/mpmx-cetak-laba-rp539-miliar-naik-23-persen",
-      "published_date": "2026-10-30T23:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Di Tengah Gelombang Islamofobia, Seratus Politikus Muslim Berjaya dalam Pemilu Sela AS",
+      "source": "Republika English",
+      "url": "https://analisis.republika.co.id/berita/to3wsk393/di-tengah-gelombang-islamofobia-seratus-politikus-muslim-berjaya-dalam-pemilu-sela-as",
+      "published_date": "2026-11-07T00:45:56+00:00",
+      "category": "Military"
+    },
     {
       "title": "Akreditasi Internasional Fakultas Kedokteran Antar UMS Raih CNN Indonesia Awards 2026",
       "source": "Republika English",
@@ -246,16 +260,16 @@
       "url": "https://visual.republika.co.id/berita/tnwnu7375/jalan-wisata-di-bangli-amblas-akses-penghubung-ditutup-sementara",
       "published_date": "2026-11-03T02:49:19+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Lelang Proyek Pusat Pemerintahan Papua Pegunungan Diundur ke November 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnw2te6930000/lelang-proyek-pusat-pemerintahan-papua-pegunungan-diundur-ke-november-2026",
-      "published_date": "2026-11-02T19:15:14+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "KAI Uji Coba KRL INKA, Tegaskan tak Impor KRL Jepang",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to3v9x502/kai-uji-coba-krl-inka-tegaskan-tak-impor-krl-jepang",
+      "published_date": "2026-11-07T00:13:09+00:00",
+      "category": "Energy"
+    },
     {
       "title": "KPK Periksa Plt Bupati Klaten Terkait Hasil Penggeledahan Kasus Korupsi Hamenang",
       "source": "Republika English",
@@ -371,6 +385,13 @@
   ],
   "Economy": [
     {
+      "title": "Maybank Indonesia Perkuat Literasi Keuangan Jurnalis Lewat Fellowship",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to3yeg490/maybank-indonesia-perkuat-literasi-keuangan-jurnalis-lewat-fellowship",
+      "published_date": "2026-11-07T01:20:40+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Peretasan Binance Rugikan Triliunan Rupiah, OJK Ingatkan Industri Kripto RI",
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/to21y6423/peretasan-binance-rugikan-triliunan-rupiah-ojk-ingatkan-industri-kripto-ri",
@@ -383,16 +404,79 @@
       "url": "https://news.republika.co.id/berita/to1jcg1530000/stimulus-fiskal-pemerintah-topang-konsumsi-rumah-tangga-ekonomi-ri-tumbuh-547",
       "published_date": "2026-11-05T18:00:16+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Rupiah Masih Berkutat di Rp 18.100-an, Ketegangan Politik Dalam Negeri Turut Beri Tekanan",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnqu5m423/rupiah-masih-berkutat-di-rp-18100an-ketegangan-politik-dalam-negeri-turut-beri-tekanan",
-      "published_date": "2026-10-30T23:20:11+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Masyarakat Diajak Rutin Konsumsi Ikan Tuna Domestik",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to3aai416/masyarakat-diajak-rutin-konsumsi-ikan-tuna-domestik",
+      "published_date": "2026-11-07T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bagaimana Prosedur Ekspor SDA Setelah 1 Januari 2027? Ini Penjelasan Kemendag",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to3yvh490/bagaimana-prosedur-ekspor-sda-setelah-1-januari-2027-ini-penjelasan-kemendag",
+      "published_date": "2026-11-07T01:30:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aset Tembus Rp1.108,45 Triliun, Pangsa Pasar Perbankan Syariah Naik jadi 7,53 Persen",
+      "source": "Republika English",
+      "url": "https://halalhub.republika.co.id/berita/to3xnj502/aset-tembus-rp110845-triliun-pangsa-pasar-perbankan-syariah-naik-jadi-753-persen",
+      "published_date": "2026-11-07T01:04:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perlindungan Pekerja Migran Perlu Diperkuat Sejak Tingkat Desa",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to37mz416/perlindungan-pekerja-migran-perlu-diperkuat-sejak-tingkat-desa",
+      "published_date": "2026-11-07T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bukan Suara Bos Sungguhan, Taktik Deepfake AI Ini Kuras Duit Perusahaan Rp2 T",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to3txr451/bukan-suara-bos-sungguhan-taktik-deepfake-ai-ini-kuras-duit-perusahaan-rp2-t",
+      "published_date": "2026-11-07T00:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPPK Paruh Waktu Akan Diangkat Jadi Penuh Waktu pada 2027, Belum Jadi PNS",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to3vzg502/pppk-paruh-waktu-akan-diangkat-jadi-penuh-waktu-pada-2027-belum-jadi-pns",
+      "published_date": "2026-11-07T00:28:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MU Bertekad Pertahankan Momentum Kebangkitan Saat Ladeni Aston Villa di Liga Inggris",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to3vba348/mu-bertekad-pertahankan-momentum-kebangkitan-saat-ladeni-aston-villa-di-liga-inggris",
+      "published_date": "2026-11-07T00:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pesawat Hercules dari Australia Mulai Water Bombing di Samarinda",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to3uw9483/pesawat-hercules-dari-australia-mulai-water-bombing-di-samarinda",
+      "published_date": "2026-11-07T00:04:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holding Perkebunan Nusantara Perkuat Program TJSL Berbasis Dampak",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/to33lq416/holding-perkebunan-nusantara-perkuat-program-tjsl-berbasis-dampak",
+      "published_date": "2026-11-07T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TikTok Dorong Ekonomi Kreator Indonesia Tembus Pasar Asia Tenggara",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to3uam483/tiktok-dorong-ekonomi-kreator-indonesia-tembus-pasar-asia-tenggara",
+      "published_date": "2026-11-06T23:51:58+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "KPK Dalami Aliran Suap di Kantor Pertanahan Bogor I",
       "source": "Republika English",
@@ -461,76 +545,6 @@
       "source": "Republika English",
       "url": "https://opini.republika.co.id/berita/tnyz4g502/menggeser-paradigma-digitalisasi-syariah-dari-sekadar-efisiensi-menuju-digital-trust",
       "published_date": "2026-11-06T02:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riset Indonesia-Australia Olah Limbah Udang dan Lalat Jadi Inovasi Ekonomi Biru",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/to22c0416/riset-indonesiaaustralia-olah-limbah-udang-dan-lalat-jadi-inovasi-ekonomi-biru",
-      "published_date": "2026-11-06T01:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USS Roosevelt Menuju Laut Arab, AS Dikhawatirkan Kembali Serang Iran",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to21xx393/uss-roosevelt-menuju-laut-arab-as-dikhawatirkan-kembali-serang-iran",
-      "published_date": "2026-11-06T00:41:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berasal dari Keluarga Miskin, Akta Kelahiran Jokowi Ternyata tak Langsung Diurus",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to21sn484/berasal-dari-keluarga-miskin-akta-kelahiran-jokowi-ternyata-tak-langsung-diurus",
-      "published_date": "2026-11-06T00:38:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bidik Nasabah Premium, Bank BSN Perluas Jaringan Layanan Prioritas",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/to1zqg416/bidik-nasabah-premium-bank-bsn-perluas-jaringan-layanan-prioritas",
-      "published_date": "2026-11-06T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemanah Indonesia Rigaluh Tanresila Raih Perak di Kejuaraan Dunia Panahan Tradisional Korea",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to1keg348/pemanah-indonesia-rigaluh-tanresila-raih-perak-di-kejuaraan-dunia-panahan-tradisional-korea",
-      "published_date": "2026-11-05T21:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KBAM 2026 Zona Barat Lahirkan Juara Baru",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to1jsn348/kbam-2026-zona-barat-lahirkan-juara-baru",
-      "published_date": "2026-11-05T21:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dicecar Dokter Tifa, Jokowi Ingin Beri Pelajaran Orang yang Tuduh Ijazahnya Palsu",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to1faz487/dicecar-dokter-tifa-jokowi-ingin-beri-pelajaran-orang-yang-tuduh-ijazahnya-palsu",
-      "published_date": "2026-11-05T17:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KKP Targetkan 97,5 Juta Hektare Kawasan Konservasi Laut pada 2045",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to1gkg5430000/kkp-targetkan-975-juta-hektare-kawasan-konservasi-laut-pada-2045",
-      "published_date": "2026-11-05T17:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Update Kasus Penyadapan Terhadap Presiden",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-to1fv91076819247/update-kasus-penyadapan-terhadap-presiden",
-      "published_date": "2026-11-05T16:45:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alasan Jokowi Tolak Pemeriksaan Ulang Ijazah",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-to1fv7110779252/alasan-jokowi-tolak-pemeriksaan-ulang-ijazah",
-      "published_date": "2026-11-05T16:45:07+00:00",
       "category": "Local Events"
     }
   ]
