@@ -1,6 +1,34 @@
 {
   "Diplomacy": [
     {
+      "title": "KPK: Penyitaan Rp 2 Miliar dari Dirut KAI Sudah Sejak Agustus 2025",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to5uke487/kpk-penyitaan-rp-2-miliar-dari-dirut-kai-sudah-sejak-agustus-2025",
+      "published_date": "2026-11-08T01:53:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Menhaj Imbau Jamaah Umrah Santun dan Bijak di Tanah Suci",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/to5s2h430/menhaj-imbau-jamaah-umrah-santun-dan-bijak-di-tanah-suci",
+      "published_date": "2026-11-08T00:59:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Danareksa Kantongi Komitmen Investasi Rp2,5 Triliun dari Investor Inggris dan Belanda",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to51as416/danareksa-kantongi-komitmen-investasi-rp25-triliun-dari-investor-inggris-dan-belanda",
+      "published_date": "2026-11-07T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cinta Laura Bagikan Kiat Bangun Startup, Tekankan Pentingnya Pengalaman Kerja Sebelum Jadi Bos",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/to5l2l425/cinta-laura-bagikan-kiat-bangun-startup-tekankan-pentingnya-pengalaman-kerja-sebelum-jadi-bos",
+      "published_date": "2026-11-07T22:27:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Ruang Panel Listrik Stasiun Gambir Terbakar",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to52gx370/ruang-panel-listrik-stasiun-gambir-terbakar",
@@ -111,16 +139,23 @@
       "url": "https://esgnow.republika.co.id/berita/tnuli8423/perubahan-iklim-percepat-keruntuhan-sistem-es-bumi",
       "published_date": "2026-11-02T00:03:44+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "AFS Indonesia Rayakan 70 Tahun Lewat Kegiatan Lari dan Jalan Santai",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnso6v370/afs-indonesia-rayakan-70-tahun-lewat-kegiatan-lari-dan-jalan-santai",
-      "published_date": "2026-10-31T23:06:31+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Sejumlah Pebulutangkis Muda Diganjar Penghargaan atas Prestasi di World Junior Championships 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to5u52456/sejumlah-pebulutangkis-muda-diganjar-penghargaan-atas-prestasi-di-world-junior-championships-2026",
+      "published_date": "2026-11-08T01:43:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sapma Pemuda Pancasila Dukung Program Polri Bersama Masyarakat",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to5kc1484/sapma-pemuda-pancasila-dukung-program-polri-bersama-masyarakat",
+      "published_date": "2026-11-07T22:12:01+00:00",
+      "category": "Military"
+    },
     {
       "title": "Polda Jateng Jamin Proyektil di Tubuh Bocah Kendal Bukan dari Senjata Organik Polri",
       "source": "Republika English",
@@ -246,20 +281,6 @@
       "url": "https://news.republika.co.id/berita/tnxr8g4730000/menko-yusril-imbau-publik-percayakan-polri-usut-kasus-sadap-ilegal",
       "published_date": "2026-11-03T17:00:16+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Bareskrim Tetapkan Tiga Anggota Polri Tersangka Kasus Dugaan Penyadapan Presiden",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnxjir375/bareskrim-tetapkan-tiga-anggota-polri-tersangka-kasus-dugaan-penyadapan-presiden",
-      "published_date": "2026-11-03T16:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Penyadapan Presiden Terjadi Setelah Polri Dilaporkan Beli Alat Buatan Israel",
-      "source": "Republika English",
-      "url": "https://analisis.republika.co.id/berita/tnxol2393/penyadapan-presiden-terjadi-setelah-polri-dilaporkan-beli-alat-buatan-israel",
-      "published_date": "2026-11-03T16:03:02+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -360,27 +381,6 @@
       "url": "https://visual.republika.co.id/berita/tntstk375/petugas-gabungan-berjibaku-padamkan-kebakaran-tpa-degayu-pekalongan",
       "published_date": "2026-11-01T15:30:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Perintah Mojtaba Khamenei di Hadapan Pemimpin Militer Iran: Pastikan Aset AS dalam Jangkauan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnsrc5377/perintah-mojtaba-khamenei-di-hadapan-pemimpin-militer-iran-pastikan-aset-as-dalam-jangkauan",
-      "published_date": "2026-11-01T00:14:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nama dan Logo Tercantum di TIME100 Next Gala, Danantara Beri Klarifikasi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnsm5t370/nama-dan-logo-tercantum-di-time100-next-gala-danantara-beri-klarifikasi",
-      "published_date": "2026-10-31T22:22:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Munaslub IWAPI Disebut Sah dan Mengikat, Tegaskan Pemberhentian 26 DPD Cacat Hukum",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnrt43320/munaslub-iwapi-disebut-sah-dan-mengikat-tegaskan-pemberhentian-26-dpd-cacat-hukum",
-      "published_date": "2026-10-31T20:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -407,6 +407,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "338 Mahasiwa dari 41 Kampus Unjuk Kebolehan di Kejuaraan Peruri Chip Hackathon 2026",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/to5uhy456/338-mahasiwa-dari-41-kampus-unjuk-kebolehan-di-kejuaraan-peruri-chip-hackathon-2026",
+      "published_date": "2026-11-08T01:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pramono Sebut Tawuran di Kampung Melayu Berkurang Sejak Ada Arena Tinju di Bawah Flyover",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to5rpt487/pramono-sebut-tawuran-di-kampung-melayu-berkurang-sejak-ada-arena-tinju-di-bawah-flyover",
+      "published_date": "2026-11-08T00:51:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Merayakan Delapan Hari Sinema Asia di Jogja: JAFF Bakal Tayangkan 254 Film dari 34 Negara",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/to5pb4425/merayakan-delapan-hari-sinema-asia-di-jogja-jaff-bakal-tayangkan-254-film-dari-34-negara",
+      "published_date": "2026-11-07T23:59:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aktor Fatih Unru Ajak Anak Muda Berhenti Jadi People Pleaser",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/to5mdm425/aktor-fatih-unru-ajak-anak-muda-berhenti-jadi-people-pleaser",
+      "published_date": "2026-11-07T22:56:10+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Unai Emery Sebut Manchester United Setara Barcelona, Aston Villa Waspadai Ancaman Carrick",
       "source": "Republika English",
@@ -517,34 +545,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/to32ot375/lindungi-ternak-dari-pmk-vaksinasi-sapi-digencarkan-di-jakarta",
       "published_date": "2026-11-06T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prasetyo, Sugiono, hingga Jokowi-Gibran Hadiri Resepsi Pernikahan Pura Mangkunegaran",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to371l487/prasetyo-sugiono-hingga-jokowigibran-hadiri-resepsi-pernikahan-pura-mangkunegaran",
-      "published_date": "2026-11-06T15:29:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pokok Perkara Penyadapan Presiden Jangan Dikaburkan",
-      "source": "Republika English",
-      "url": "https://opini.republika.co.id/berita/to36u7320/pokok-perkara-penyadapan-presiden-jangan-dikaburkan",
-      "published_date": "2026-11-06T15:25:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 Cara yang Ditempuh Orang-Orang Munafik untuk Membenci dan Memusuhi Sesama Muslim",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/to26ay320/5-cara-yang-ditempuh-orangorang-munafik-untuk-membenci-dan-memusuhi-sesama-muslim",
-      "published_date": "2026-11-06T02:16:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luas Karhutla Capai 2.835 Hektare, Komnas HAM Keluarkan Enam Rekomendasi",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/to25bx423/luas-karhutla-capai-2835-hektare-komnas-ham-keluarkan-enam-rekomendasi",
-      "published_date": "2026-11-06T02:09:00+00:00",
       "category": "Local Events"
     }
   ]
