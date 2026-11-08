@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Kebakaran Stasiun Gambir Diduga akibat Fenomena Kelistrikan, Kerugian Rp 200 Juta",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to6uag370/kebakaran-stasiun-gambir-diduga-akibat-fenomena-kelistrikan-kerugian-rp-200-juta",
+      "published_date": "2026-11-08T14:44:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Garuda dan Citilink Siapkan Satu Juta Kursi Libur Akhir Tahun",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to6te2370/garuda-dan-citilink-siapkan-satu-juta-kursi-libur-akhir-tahun",
+      "published_date": "2026-11-08T14:25:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "KPK: Penyitaan Rp 2 Miliar dari Dirut KAI Sudah Sejak Agustus 2025",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to5uke487/kpk-penyitaan-rp-2-miliar-dari-dirut-kai-sudah-sejak-agustus-2025",
@@ -124,20 +138,6 @@
       "source": "Republika English",
       "url": "https://ekonomi.republika.co.id/berita/tnunme423/pemerintah-cairkan-bsu-rp-900-ribu-simak-ketentuan-penerimanya",
       "published_date": "2026-11-02T01:13:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IMF: PDB per Kapita Vietnam Diproyeksi Salip Indonesia Tahun Ini",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnung8502/imf-pdb-per-kapita-vietnam-diproyeksi-salip-indonesia-tahun-ini",
-      "published_date": "2026-11-02T00:45:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Perubahan Iklim Percepat Keruntuhan Sistem Es Bumi",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tnuli8423/perubahan-iklim-percepat-keruntuhan-sistem-es-bumi",
-      "published_date": "2026-11-02T00:03:44+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -367,20 +367,6 @@
       "url": "https://news.republika.co.id/berita/tnwnpa370/program-energi-mengajar-negeri-sambangi-siswa",
       "published_date": "2026-11-03T02:46:22+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Antisipasi Bentrok Susulan, Petugas Gabungan Gelar Razia Senjata Tajam di Palu",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnttyp375/antisipasi-bentrok-susulan-petugas-gabungan-gelar-razia-senjata-tajam-di-palu",
-      "published_date": "2026-11-01T16:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petugas Gabungan Berjibaku Padamkan Kebakaran TPA Degayu Pekalongan",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tntstk375/petugas-gabungan-berjibaku-padamkan-kebakaran-tpa-degayu-pekalongan",
-      "published_date": "2026-11-01T15:30:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -407,6 +393,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Evakuasi Korban Helikopter Jatuh di Sungai Barito, Satu Kru Dilaporkan Tewas",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/to6wlc375/evakuasi-korban-helikopter-jatuh-di-sungai-barito-satu-kru-dilaporkan-tewas",
+      "published_date": "2026-11-08T16:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Upaya Perkuat Teknologi Chip dan Penguatan Talenta Semikonduktor Indonesia Terus Dilakukan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to6bnx456/upaya-perkuat-teknologi-chip-dan-penguatan-talenta-semikonduktor-indonesia-terus-dilakukan",
+      "published_date": "2026-11-08T16:02:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soal Isu Pemakzulan Gibran, Surya Paloh: Tak Ada Jalan Lain Kalau Semua Persyaratan Terpenuhi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to6w3n377/soal-isu-pemakzulan-gibran-surya-paloh-tak-ada-jalan-lain-kalau-semua-persyaratan-terpenuhi",
+      "published_date": "2026-11-08T15:23:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menjangkau Komunitas Lewat Event Olahraga, Strategi Baru Perusahaan Ritel?",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/to6uen522/menjangkau-komunitas-lewat-event-olahraga-strategi-baru-perusahaan-ritel",
+      "published_date": "2026-11-08T14:47:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PAN Usul DPR Gunakan Hak Menyatakan Pendapat Soal Posisi Gibran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to6tbd522/pan-usul-dpr-gunakan-hak-menyatakan-pendapat-soal-posisi-gibran",
+      "published_date": "2026-11-08T14:23:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veda Ega Pratama Finish Empat Besar di Moto3 GP Qatar Meski Start dari Posisi 14",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to6r8g409/veda-ega-pratama-finish-empat-besar-di-moto3-gp-qatar-meski-start-dari-posisi-14",
+      "published_date": "2026-11-08T13:38:40+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "338 Mahasiwa dari 41 Kampus Unjuk Kebolehan di Kejuaraan Peruri Chip Hackathon 2026",
       "source": "Republika English",
@@ -503,48 +531,6 @@
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/to33lq416/holding-perkebunan-nusantara-perkuat-program-tjsl-berbasis-dampak",
       "published_date": "2026-11-07T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TikTok Dorong Ekonomi Kreator Indonesia Tembus Pasar Asia Tenggara",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to3uam483/tiktok-dorong-ekonomi-kreator-indonesia-tembus-pasar-asia-tenggara",
-      "published_date": "2026-11-06T23:51:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KPK Dalami Aliran Suap di Kantor Pertanahan Bogor I",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to3cmh8130000/kpk-dalami-aliran-suap-di-kantor-pertanahan-bogor-i",
-      "published_date": "2026-11-06T17:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemenkum Kaltim Dorong Pemda Bentuk Tim Asesor Indeks Reformasi Hukum",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to3bxh130000/kemenkum-kaltim-dorong-pemda-bentuk-tim-asesor-indeks-reformasi-hukum",
-      "published_date": "2026-11-06T17:15:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asosiasi Museum Indonesia Dorong Monas Jadi Pusat Edukasi Sejarah dan Peradaban Nusantara",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to33l7522/asosiasi-museum-indonesia-dorong-monas-jadi-pusat-edukasi-sejarah-dan-peradaban-nusantara",
-      "published_date": "2026-11-06T16:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atlet Muda Shidokan Indonesia Torehkan Pencapaian Apik di Kejuaraan Dunia Karate Jepang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to38ne348/atlet-muda-shidokan-indonesia-torehkan-pencapaian-apik-di-kejuaraan-dunia-karate-jepang",
-      "published_date": "2026-11-06T16:04:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lindungi Ternak dari PMK, Vaksinasi Sapi Digencarkan di Jakarta",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/to32ot375/lindungi-ternak-dari-pmk-vaksinasi-sapi-digencarkan-di-jakarta",
-      "published_date": "2026-11-06T16:00:00+00:00",
       "category": "Local Events"
     }
   ]
