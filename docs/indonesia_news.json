@@ -143,6 +143,13 @@
   ],
   "Military": [
     {
+      "title": "Siap Teken HMP Terkait Polemik Wapres, Politisi PKS: Jangan Sampai Aspirasi Warga tak Dapat Saluran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9qa4483/siap-teken-hmp-terkait-polemik-wapres-politisi-pks-jangan-sampai-aspirasi-warga-tak-dapat-saluran",
+      "published_date": "2026-11-10T04:10:52+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bawa Cerita Emak-  Emak dari Kalimantan hingga Papua, Pendiri Peri Bumi Bersuara di COP31",
       "source": "Republika English",
       "url": "https://esgnow.republika.co.id/berita/to8c6i475/bawa-cerita-emak-emak-dari-kalimantan-hingga-papua-pendiri-peri-bumi-bersuara-di-cop31",
@@ -274,13 +281,6 @@
       "url": "https://republika.co.id/page/shorts/yt-tnyg812033665173/yusril-kapolri-sudah-lapor-presiden-terkait-penyadapan",
       "published_date": "2026-11-04T02:00:01+00:00",
       "category": "Military"
-    },
-    {
-      "title": "KWI Sambut Baik Program Minggu Kasih Polri untuk Perkuat Sinergi Keamanan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnxu0i5230000/kwi-sambut-baik-program-minggu-kasih-polri-untuk-perkuat-sinergi-keamanan",
-      "published_date": "2026-11-03T18:00:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -374,16 +374,16 @@
       "url": "https://news.republika.co.id/berita/tnxtbj1330000/searah-mulai-produksi-gas-perdana-di-lapangan-maha-dukung-ketahanan-energi-nasional",
       "published_date": "2026-11-03T17:45:19+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Program Energi Mengajar Negeri Sambangi Siswa",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnwnpa370/program-energi-mengajar-negeri-sambangi-siswa",
-      "published_date": "2026-11-03T02:46:22+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Marak Sentimen Positif, IHSG dan Rupiah Kompak Menguat",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to9quv490/marak-sentimen-positif-ihsg-dan-rupiah-kompak-menguat",
+      "published_date": "2026-11-10T04:23:19+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Maybank Indonesia Perkuat Literasi Keuangan Jurnalis Lewat Fellowship",
       "source": "Republika English",
@@ -407,6 +407,90 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Gaangguan Lutut, Lamine Yamal Absen Bela Spanyol Lawan Republik Ceko di UEFA Nations League",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9qtp348/gaangguan-lutut-lamine-yamal-absen-bela-spanyol-lawan-republik-ceko-di-uefa-nations-league",
+      "published_date": "2026-11-10T04:22:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lulus dengan IPK Sempurna 4.00, Konsistensi Antar Wadzifa Jadi Terbaik",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/to9qou430/lulus-dengan-ipk-sempurna-400-konsistensi-antar-wadzifa-jadi-terbaik",
+      "published_date": "2026-11-10T04:19:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PKB Sedang Finalisasi Hak Menyatakan Pendapat soal Ijazah Wapres Gibran",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9qlq487/pkb-sedang-finalisasi-hak-menyatakan-pendapat-soal-ijazah-wapres-gibran",
+      "published_date": "2026-11-10T04:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wali Kota Bandung Dukung Fatwa MUI Vape Haram",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/to9qiv282/wali-kota-bandung-dukung-fatwa-mui-vape-haram",
+      "published_date": "2026-11-10T04:16:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pradi Supriatna Ajak Masyarakat Perkuat Persatuan dan Kesatuan",
+      "source": "Republika English",
+      "url": "https://rejabar.republika.co.id/berita/to9qfx490/pradi-supriatna-ajak-masyarakat-perkuat-persatuan-dan-kesatuan",
+      "published_date": "2026-11-10T04:14:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ketua BTN PSSI Sumardji Jelaskan Alasan Timnas Indonesia tak Jalani FIFA Matchday",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9qdg348/ketua-btn-pssi-sumardji-jelaskan-alasan-timnas-indonesia-tak-jalani-fifa-matchday",
+      "published_date": "2026-11-10T04:12:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kemendikdasmen Targetkan 14.000 Desa Miliki TK hingga Akhir 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9qao490/kemendikdasmen-targetkan-14000-desa-miliki-tk-hingga-akhir-2026",
+      "published_date": "2026-11-10T04:11:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/to9ppd490/percepat-streamlining-telkom-rampingkan-anak-usaha-lewat-dua-merger-sekaligus",
+      "published_date": "2026-11-10T03:58:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Mau Setop Bantu Militer Israel, El Sayed: Jangan Lindungi Genosida Mereka",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9npj451/trump-mau-setop-bantu-militer-israel-el-sayed-jangan-lindungi-genosida-mereka",
+      "published_date": "2026-11-10T03:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jamaah Masjid Diserang Hingga Terluka, Rais Syuriah PBNU Desak Polisi Ungkap Motif Pelaku",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9mz9483/jamaah-masjid-diserang-hingga-terluka-rais-syuriah-pbnu-desak-polisi-ungkap-motif-pelaku",
+      "published_date": "2026-11-10T02:59:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bapak AURI dan Kiai Modjo Bakal Dianugerahkan Pahlawan Nasional 2026",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/to9msk484/bapak-auri-dan-kiai-modjo-bakal-dianugerahkan-pahlawan-nasional-2026",
+      "published_date": "2026-11-10T02:55:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Constitutional Court decision on Gibran’s high school diploma shows judicial activism. But did it go far enough?",
+      "source": "Indonesia at Melbourne",
+      "url": "https://indonesiaatmelbourne.unimelb.edu.au/constitutional-court-decision-on-gibrans-high-school-diploma-shows-judicial-activism-but-did-it-go-far-enough/",
+      "published_date": "2026-11-09T23:12:16+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Jetour Ajak Awak Media Uji T-Series, Perlihatkan Kemampuan T1 dan T2 Libas Beragam Rute Kota Jakarta",
       "source": "Republika English",
@@ -461,90 +545,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to7o8l348/hasil-dan-klasemen-liga-italia-duo-milan-pesta-kemenangan-juventus-dan-lazio-tertahan",
       "published_date": "2026-11-09T01:31:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "200 Ribu Massa Berbaju Merah Penuhi Amsterdam, Desak Sanksi terhadap Israel",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to7lv7451/200-ribu-massa-berbaju-merah-penuhi-amsterdam-desak-sanksi-terhadap-israel",
-      "published_date": "2026-11-09T01:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Post-Quantum Cryptography Dorong Kesiapan Indonesia Hadapi Ancaman Keamanan Digital",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/to7mz7456/postquantum-cryptography-dorong-kesiapan-indonesia-hadapi-ancaman-keamanan-digital",
-      "published_date": "2026-11-09T01:04:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHSG Masih Rentan, Ini Prediksi Pergerakan Indeks Jelang Pengumuman Review MSCI",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to7mxw490/ihsg-masih-rentan-ini-prediksi-pergerakan-indeks-jelang-pengumuman-review-msci",
-      "published_date": "2026-11-09T01:03:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kata-Kata Veda Ega Pratama Usai Finish Empat Besar di Moto3 GP Qatar",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to7lpi409/katakata-veda-ega-pratama-usai-finish-empat-besar-di-moto3-gp-qatar",
-      "published_date": "2026-11-09T00:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evakuasi Korban Helikopter Jatuh di Sungai Barito, Satu Kru Dilaporkan Tewas",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/to6wlc375/evakuasi-korban-helikopter-jatuh-di-sungai-barito-satu-kru-dilaporkan-tewas",
-      "published_date": "2026-11-08T16:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upaya Perkuat Teknologi Chip dan Penguatan Talenta Semikonduktor Indonesia Terus Dilakukan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to6bnx456/upaya-perkuat-teknologi-chip-dan-penguatan-talenta-semikonduktor-indonesia-terus-dilakukan",
-      "published_date": "2026-11-08T16:02:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soal Isu Pemakzulan Gibran, Surya Paloh: Tak Ada Jalan Lain Kalau Semua Persyaratan Terpenuhi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to6w3n377/soal-isu-pemakzulan-gibran-surya-paloh-tak-ada-jalan-lain-kalau-semua-persyaratan-terpenuhi",
-      "published_date": "2026-11-08T15:23:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Menjangkau Komunitas Lewat Event Olahraga, Strategi Baru Perusahaan Ritel?",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/to6uen522/menjangkau-komunitas-lewat-event-olahraga-strategi-baru-perusahaan-ritel",
-      "published_date": "2026-11-08T14:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PAN Usul DPR Gunakan Hak Menyatakan Pendapat Soal Posisi Gibran",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to6tbd522/pan-usul-dpr-gunakan-hak-menyatakan-pendapat-soal-posisi-gibran",
-      "published_date": "2026-11-08T14:23:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veda Ega Pratama Finish Empat Besar di Moto3 GP Qatar Meski Start dari Posisi 14",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to6r8g409/veda-ega-pratama-finish-empat-besar-di-moto3-gp-qatar-meski-start-dari-posisi-14",
-      "published_date": "2026-11-08T13:38:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "338 Mahasiwa dari 41 Kampus Unjuk Kebolehan di Kejuaraan Peruri Chip Hackathon 2026",
-      "source": "Republika English",
-      "url": "https://ameera.republika.co.id/berita/to5uhy456/338-mahasiwa-dari-41-kampus-unjuk-kebolehan-di-kejuaraan-peruri-chip-hackathon-2026",
-      "published_date": "2026-11-08T01:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pramono Sebut Tawuran di Kampung Melayu Berkurang Sejak Ada Arena Tinju di Bawah Flyover",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to5rpt487/pramono-sebut-tawuran-di-kampung-melayu-berkurang-sejak-ada-arena-tinju-di-bawah-flyover",
-      "published_date": "2026-11-08T00:51:29+00:00",
       "category": "Local Events"
     }
   ]
