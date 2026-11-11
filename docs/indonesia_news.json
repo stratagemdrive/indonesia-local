@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Kabakom Bantah Presiden Sarankan Gibran Fight di PTUN",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tobfl2581146058/kabakom-bantah-presiden-sarankan-gibran-fight-di-ptun",
+      "published_date": "2026-11-11T02:15:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Setelah Tiga Tahun Vakum, Kota Bima Kembali Dapat DAK Jalan Rp2,28 Miliar untuk 2027",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/toason030000/setelah-tiga-tahun-vakum-kota-bima-kembali-dapat-dak-jalan-rp228-miliar-untuk-2027",
@@ -132,16 +139,23 @@
       "url": "https://halalhub.republika.co.id/berita/to3zap490/pemerintah-terbitkan-sukuk-global-3-miliar-dolar-as",
       "published_date": "2026-11-07T01:40:01+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Mertua Pangeran Harry Ditangkap FBI, Terancam 20 Tahun Penjara",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to3spk451/mertua-pangeran-harry-ditangkap-fbi-terancam-20-tahun-penjara",
-      "published_date": "2026-11-06T23:51:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "8 Tuduhan Hantui Hegseth: dari Perang Iran hingga Serangan Sekolah",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tobfea451/8-tuduhan-hantui-hegseth-dari-perang-iran-hingga-serangan-sekolah",
+      "published_date": "2026-11-11T02:10:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kapolri: Pelaku Kericuhan di Malioboro Sengaja Bawa Barang-Barang Berbahaya",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/tobe94282/kapolri-pelaku-kericuhan-di-malioboro-sengaja-bawa-barangbarang-berbahaya",
+      "published_date": "2026-11-11T01:46:16+00:00",
+      "category": "Military"
+    },
     {
       "title": "DPMKA Mimika Dorong 133 Kampung Tertibkan Data Aset Cegah Konflik",
       "source": "Republika English",
@@ -267,20 +281,6 @@
       "url": "https://ekonomi.republika.co.id/berita/tnyhmx423/di-jayawijaya-kendaraan-wajib-lunas-pajak-untuk-beli-bbm-subsidi",
       "published_date": "2026-11-04T02:40:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Indonesia’s haze crisis: when patriotism means demanding government accountability",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/indonesias-haze-crisis-when-patriotism-means-demanding-government-accountability/",
-      "published_date": "2026-11-04T02:35:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puluhan Ribu TNI Dikerahkan ke Jakarta, Kapuspen: Menjaga Keutuhan NKRI",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnyhfw484/puluhan-ribu-tni-dikerahkan-ke-jakarta-kapuspen-menjaga-keutuhan-nkri",
-      "published_date": "2026-11-04T02:26:20+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -346,20 +346,6 @@
       "url": "https://esgnow.republika.co.id/berita/tnzj0e522/pertamina-berdayakan-penyintas-skizofreniamandiri-ekonomi",
       "published_date": "2026-11-04T15:57:50+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Menkeu Tegaskan Transfer Antarbank dan Dompet Digital Bebas PPN",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnygz8423/menkeu-tegaskan-transfer-antarbank-dan-dompet-digital-bebas-ppn",
-      "published_date": "2026-11-04T02:16:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Galang Aliansi Keumatan Global, MUI Temui Menteri Wakaf, Dar Al-Ifta, dan Al-Azhar Mesir",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnygqe320/galang-aliansi-keumatan-global-mui-temui-menteri-wakaf-dar-alifta-dan-alazhar-mesir",
-      "published_date": "2026-11-04T02:11:02+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -393,6 +379,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Penipuan Haji dan Umrah Kian Marak, Kemenhaj akan Perkuat Penyidik PNS",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tobfsr483/penipuan-haji-dan-umrah-kian-marak-kemenhaj-akan-perkuat-penyidik-pns",
+      "published_date": "2026-11-11T02:19:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gerakan LGBT di Aksi Women's March, Kemenag Ajak Jaga Nilai dan Etika Bangsa",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tobesv430/gerakan-lgbt-di-aksi-womens-march-kemenag-ajak-jaga-nilai-dan-etika-bangsa",
+      "published_date": "2026-11-11T01:58:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menhaj Ungkap Sejumlah Usulan Diterima Saudi dalam MoU Persiapan Haji 2027",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/tobejn483/menhaj-ungkap-sejumlah-usulan-diterima-saudi-dalam-mou-persiapan-haji-2027",
+      "published_date": "2026-11-11T01:52:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahlil Buka Suara soal Saran Prabowo kepada Gibran tentang Niat Pengunduran Diri",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tobdxa487/bahlil-buka-suara-soal-saran-prabowo-kepada-gibran-tentang-niat-pengunduran-diri",
+      "published_date": "2026-11-11T01:39:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Demi Ukraina, Kanselir Jerman Dituduh Memeras Negara Sahabat",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tobdvz451/demi-ukraina-kanselir-jerman-dituduh-memeras-negara-sahabat",
+      "published_date": "2026-11-11T01:38:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BEI Perluas Daftar Saham HSC, dari 83 Menjadi 383 Saham",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tobdkp490/bei-perluas-daftar-saham-hsc-dari-83-menjadi-383-saham",
+      "published_date": "2026-11-11T01:31:37+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ana/Trias Awali Kumamoto Masters 2026 dengan Kemenangan, Fajar/Fikri dan Sabar/Reza Tersingkir",
       "source": "Republika English",
@@ -489,48 +517,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/to9npj451/trump-mau-setop-bantu-militer-israel-el-sayed-jangan-lindungi-genosida-mereka",
       "published_date": "2026-11-10T03:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jamaah Masjid Diserang Hingga Terluka, Rais Syuriah PBNU Desak Polisi Ungkap Motif Pelaku",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9mz9483/jamaah-masjid-diserang-hingga-terluka-rais-syuriah-pbnu-desak-polisi-ungkap-motif-pelaku",
-      "published_date": "2026-11-10T02:59:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bapak AURI dan Kiai Modjo Bakal Dianugerahkan Pahlawan Nasional 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9msk484/bapak-auri-dan-kiai-modjo-bakal-dianugerahkan-pahlawan-nasional-2026",
-      "published_date": "2026-11-10T02:55:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Constitutional Court decision on Gibran’s high school diploma shows judicial activism. But did it go far enough?",
-      "source": "Indonesia at Melbourne",
-      "url": "https://indonesiaatmelbourne.unimelb.edu.au/constitutional-court-decision-on-gibrans-high-school-diploma-shows-judicial-activism-but-did-it-go-far-enough/",
-      "published_date": "2026-11-09T23:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jetour Ajak Awak Media Uji T-Series, Perlihatkan Kemampuan T1 dan T2 Libas Beragam Rute Kota Jakarta",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to8sh5348/jetour-ajak-awak-media-uji-tseries-perlihatkan-kemampuan-t1-dan-t2-libas-beragam-rute-kota-jakarta",
-      "published_date": "2026-11-09T20:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mendagri Minta Percepatan Pemulihan 12 Pasar Rusak Akibat Bencana di Aceh",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to93no4730000/mendagri-minta-percepatan-pemulihan-12-pasar-rusak-akibat-bencana-di-aceh",
-      "published_date": "2026-11-09T20:02:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahlil Limpahkan Izin Galian C ke Pemda untuk Percepat Normalisasi Sungai Pascabencana Sumatera",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to92y74430000/bahlil-limpahkan-izin-galian-c-ke-pemda-untuk-percepat-normalisasi-sungai-pascabencana-sumatera",
-      "published_date": "2026-11-09T19:46:55+00:00",
       "category": "Local Events"
     }
   ]
