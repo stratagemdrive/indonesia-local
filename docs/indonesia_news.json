@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Stockbit Raih Dua Penghargaan BEI, Pertahankan Prestasi Dua Tahun Beruntun",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/tocj7h349/stockbit-raih-dua-penghargaan-bei-pertahankan-prestasi-dua-tahun-beruntun",
+      "published_date": "2026-11-11T16:30:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Kabakom Bantah Presiden Sarankan Gibran Fight di PTUN",
       "source": "Republika English",
       "url": "https://republika.co.id/page/shorts/yt-tobfl2581146058/kabakom-bantah-presiden-sarankan-gibran-fight-di-ptun",
@@ -132,16 +139,16 @@
       "url": "https://ameera.republika.co.id/berita/to50so416/saraswati-fellowship-luluskan-30-peserta-bangun-jejaring-kepemimpinan-perempuan",
       "published_date": "2026-11-07T15:12:42+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Pemerintah Terbitkan Sukuk Global 3 Miliar Dolar AS",
-      "source": "Republika English",
-      "url": "https://halalhub.republika.co.id/berita/to3zap490/pemerintah-terbitkan-sukuk-global-3-miliar-dolar-as",
-      "published_date": "2026-11-07T01:40:01+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Kala Sagu Fakfak Ikut Hilirisasi dari Patriot Unpad",
+      "source": "Republika English",
+      "url": "https://daerah.republika.co.id/berita/tocj26483/kala-sagu-fakfak-ikut-hilirisasi-dari-patriot-unpad",
+      "published_date": "2026-11-11T16:27:42+00:00",
+      "category": "Military"
+    },
     {
       "title": "8 Tuduhan Hantui Hegseth: dari Perang Iran hingga Serangan Sekolah",
       "source": "Republika English",
@@ -253,34 +260,6 @@
       "url": "https://republika.co.id/page/shorts/yt-to09i12084822207/pn-jaktim-dijaga-ketat-jelang-persidangan-ijazah-jokowi",
       "published_date": "2026-11-05T01:30:01+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Puskesau Gelar Pembinaan Kesehatan Mental 180 Personel Lanud Iswahjudi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnznzf7430000/puskesau-gelar-pembinaan-kesehatan-mental-180-personel-lanud-iswahjudi",
-      "published_date": "2026-11-04T17:45:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dinkes Papua Pegunungan Rumuskan Strategi Percepat Pembangunan Kesehatan",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tnzlwf830000/dinkes-papua-pegunungan-rumuskan-strategi-percepat-pembangunan-kesehatan",
-      "published_date": "2026-11-04T17:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latihan Garuda Shakti 2026, Prajurit TNI AD dan India Simulasikan Penyergapan",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/tnze02375/latihan-garuda-shakti-2026-prajurit-tni-ad-dan-india-simulasikan-penyergapan",
-      "published_date": "2026-11-04T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Di Jayawijaya, Kendaraan Wajib Lunas Pajak untuk Beli BBM Subsidi",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/tnyhmx423/di-jayawijaya-kendaraan-wajib-lunas-pajak-untuk-beli-bbm-subsidi",
-      "published_date": "2026-11-04T02:40:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -339,13 +318,6 @@
       "url": "https://ekonomi.republika.co.id/berita/to27c5416/pkt-kembangkan-inovasi-pacu-produktivitas-dan-daya-saing",
       "published_date": "2026-11-06T02:38:29+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Pertamina Berdayakan Penyintas Skizofrenia Mandiri Ekonomi",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/tnzj0e522/pertamina-berdayakan-penyintas-skizofreniamandiri-ekonomi",
-      "published_date": "2026-11-04T15:57:50+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -379,6 +351,76 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Pemkot Ambon Luncurkan Enam Inovasi Proyek Perubahan demi Pelayanan Publik",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tocnch2830000/pemkot-ambon-luncurkan-enam-inovasi-proyek-perubahan-demi-pelayanan-publik",
+      "published_date": "2026-11-11T18:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fadli Zon Ajak Generasi Muda Teladani 19 Pahlawan Nasional Baru",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/toclyj4630000/fadli-zon-ajak-generasi-muda-teladani-19-pahlawan-nasional-baru",
+      "published_date": "2026-11-11T17:30:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Danantara Ubah Danareksa Jadi Holding Kawasan Industri, Kembalikan Nama ke Bisnis Investasi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tocl9g8730000/danantara-ubah-danareksa-jadi-holding-kawasan-industri-kembalikan-nama-ke-bisnis-investasi",
+      "published_date": "2026-11-11T17:15:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia dan Norwegia Sepakati Kontrak Perdagangan Karbon Pertama di COP31",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tockkj2630000/indonesia-dan-norwegia-sepakati-kontrak-perdagangan-karbon-pertama-di-cop31",
+      "published_date": "2026-11-11T17:00:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bawa 15 Ribu Liter Air, Pesawat Australia Bantu Padamkan 18 Titik Api di Kaltim",
+      "source": "Republika English",
+      "url": "https://visual.republika.co.id/berita/tocj1h375/bawa-15-ribu-liter-air-pesawat-australia-bantu-padamkan-18-titik-api-di-kaltim",
+      "published_date": "2026-11-11T16:27:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemetaan Pendidikan Muadalah dan Diniyah Dinilai Harus Berangkat dari Kebutuhan Riil Pesantren",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tociox483/pemetaan-pendidikan-muadalah-dan-diniyah-dinilai-harus-berangkat-dari-kebutuhan-riil-pesantren",
+      "published_date": "2026-11-11T16:19:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presiden Prabowo Peradaban Manusia Penuh Pengkhianatan",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-tochs2194674318/presiden-prabowo-peradaban-manusia-penuh-pengkhianatan",
+      "published_date": "2026-11-11T16:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BSM Kembangkan Varietas Baru untuk Tingkatkan Efektivitas Panen",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/toc6b7416/bsm-kembangkan-varietas-baru-untuk-tingkatkan-efektivitas-panen",
+      "published_date": "2026-11-11T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inovasi Hijau ParagonCorp ‘Sihir’ Limbah Jadi Karya Global",
+      "source": "Republika English",
+      "url": "https://ameera.republika.co.id/berita/toch30425/inovasi-hijau-paragoncorp-sihir-limbah-jadi-karya-global",
+      "published_date": "2026-11-11T15:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dalam RDPU, Organisasi Ini Dorong Percepatan Pembahasan RUU Perampasan Aset",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/toc5qy349/dalam-rdpu-organisasi-ini-dorong-percepatan-pembahasan-ruu-perampasan-aset",
+      "published_date": "2026-11-11T15:36:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Penipuan Haji dan Umrah Kian Marak, Kemenhaj akan Perkuat Penyidik PNS",
       "source": "Republika English",
@@ -447,76 +489,6 @@
       "source": "Republika English",
       "url": "https://visual.republika.co.id/berita/toao2q375/22-pemain-timnas-indonesia-jalani-pemusatan-latihan-di-pulau-dewata",
       "published_date": "2026-11-10T16:20:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proyek Energi Baru Terbarukan Dinilai tak Bisa Berjalan tanpa Peran Daerah",
-      "source": "Republika English",
-      "url": "https://daerah.republika.co.id/berita/toan48483/proyek-energi-baru-terbarukan-dinilai-tak-bisa-berjalan-tanpa-peran-daerah",
-      "published_date": "2026-11-10T16:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaangguan Lutut, Lamine Yamal Absen Bela Spanyol Lawan Republik Ceko di UEFA Nations League",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9qtp348/gaangguan-lutut-lamine-yamal-absen-bela-spanyol-lawan-republik-ceko-di-uefa-nations-league",
-      "published_date": "2026-11-10T04:22:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lulus dengan IPK Sempurna 4.00, Konsistensi Antar Wadzifa Jadi Terbaik",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/to9qou430/lulus-dengan-ipk-sempurna-400-konsistensi-antar-wadzifa-jadi-terbaik",
-      "published_date": "2026-11-10T04:19:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PKB Sedang Finalisasi Hak Menyatakan Pendapat soal Ijazah Wapres Gibran",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9qlq487/pkb-sedang-finalisasi-hak-menyatakan-pendapat-soal-ijazah-wapres-gibran",
-      "published_date": "2026-11-10T04:17:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wali Kota Bandung Dukung Fatwa MUI Vape Haram",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/to9qiv282/wali-kota-bandung-dukung-fatwa-mui-vape-haram",
-      "published_date": "2026-11-10T04:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pradi Supriatna Ajak Masyarakat Perkuat Persatuan dan Kesatuan",
-      "source": "Republika English",
-      "url": "https://rejabar.republika.co.id/berita/to9qfx490/pradi-supriatna-ajak-masyarakat-perkuat-persatuan-dan-kesatuan",
-      "published_date": "2026-11-10T04:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ketua BTN PSSI Sumardji Jelaskan Alasan Timnas Indonesia tak Jalani FIFA Matchday",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9qdg348/ketua-btn-pssi-sumardji-jelaskan-alasan-timnas-indonesia-tak-jalani-fifa-matchday",
-      "published_date": "2026-11-10T04:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kemendikdasmen Targetkan 14.000 Desa Miliki TK hingga Akhir 2026",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9qao490/kemendikdasmen-targetkan-14000-desa-miliki-tk-hingga-akhir-2026",
-      "published_date": "2026-11-10T04:11:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to9ppd490/percepat-streamlining-telkom-rampingkan-anak-usaha-lewat-dua-merger-sekaligus",
-      "published_date": "2026-11-10T03:58:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Mau Setop Bantu Militer Israel, El Sayed: Jangan Lindungi Genosida Mereka",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to9npj451/trump-mau-setop-bantu-militer-israel-el-sayed-jangan-lindungi-genosida-mereka",
-      "published_date": "2026-11-10T03:15:19+00:00",
       "category": "Local Events"
     }
   ]
