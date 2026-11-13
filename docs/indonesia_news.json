@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Terungkap WNI Tentara Bayaran Rusia Dikontrak Mati atau Sampai Masa Perang Ukraina Berakhir",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tog6al320/terungkap-wni-tentara-bayaran-rusia-dikontrak-mati-atau-sampai-masa-perang-ukraina-berakhir",
+      "published_date": "2026-11-13T15:42:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Diduga Selingkuh dengan Mata-Mata China, Jensen Huang Mundur dari CEO Nvida, Rapat Darurat Digelar",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tof1t3377/diduga-selingkuh-dengan-matamata-china-jensen-huang-mundur-dari-ceo-nvida-rapat-darurat-digelar",
@@ -132,16 +139,16 @@
       "url": "https://news.republika.co.id/berita/to5uke487/kpk-penyitaan-rp-2-miliar-dari-dirut-kai-sudah-sejak-agustus-2025",
       "published_date": "2026-11-08T01:53:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Menhaj Imbau Jamaah Umrah Santun dan Bijak di Tanah Suci",
-      "source": "Republika English",
-      "url": "https://khazanah.republika.co.id/berita/to5s2h430/menhaj-imbau-jamaah-umrah-santun-dan-bijak-di-tanah-suci",
-      "published_date": "2026-11-08T00:59:05+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Gubernur Khofifah Perkuat Sinergi TNI-Polri-Ulama untuk Ketahanan Bangsa",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togdfp2630000/gubernur-khofifah-perkuat-sinergi-tnipolriulama-untuk-ketahanan-bangsa",
+      "published_date": "2026-11-13T18:16:37+00:00",
+      "category": "Military"
+    },
     {
       "title": "Bos Palantir Borong 15.000 Hektare Hutan Swedia, Warga Curiga",
       "source": "Republika English",
@@ -274,16 +281,16 @@
       "url": "https://news.republika.co.id/berita/to5kc1484/sapma-pemuda-pancasila-dukung-program-polri-bersama-masyarakat",
       "published_date": "2026-11-07T22:12:01+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Polda Jateng Jamin Proyektil di Tubuh Bocah Kendal Bukan dari Senjata Organik Polri",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/to54am282/polda-jateng-jamin-proyektil-di-tubuh-bocah-kendal-bukan-dari-senjata-organik-polri",
-      "published_date": "2026-11-07T16:25:34+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Cak Imin: Sosialisme Islam Jalan Ubah Takdir Kemiskinan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togaln6230000/cak-imin-sosialisme-islam-jalan-ubah-takdir-kemiskinan",
+      "published_date": "2026-11-13T17:15:23+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Studi: Sanksi Ekonomi AS Sebabkan 38 Juta Kematian Sejak 1971",
       "source": "Republika English",
@@ -332,23 +339,16 @@
       "url": "https://ekonomi.republika.co.id/berita/to3v9x502/kai-uji-coba-krl-inka-tegaskan-tak-impor-krl-jepang",
       "published_date": "2026-11-07T00:13:09+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "KPK Periksa Plt Bupati Klaten Terkait Hasil Penggeledahan Kasus Korupsi Hamenang",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to3b8g130000/kpk-periksa-plt-bupati-klaten-terkait-hasil-penggeledahan-kasus-korupsi-hamenang",
-      "published_date": "2026-11-06T17:00:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hadiri Pelantikan PP Hikmahbudhi, Menpora Erick Ajak Pemuda Fokus Penguatan SDM dan Ekonomi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to37o1348/hadiri-pelantikan-pp-hikmahbudhi-menpora-erick-ajak-pemuda-fokus-penguatan-sdm-dan-ekonomi",
-      "published_date": "2026-11-06T15:43:13+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Agile Conference Indonesia 2026 Dorong Transformasi Berdampak Nyata",
+      "source": "Republika English",
+      "url": "https://ekonomi.republika.co.id/berita/togb5p483/agile-conference-indonesia-2026-dorong-transformasi-berdampak-nyata",
+      "published_date": "2026-11-13T17:27:25+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Gibran plans to resign as VP. Is the end nigh for Jokowi’s dynasty?",
       "source": "Indonesia at Melbourne",
@@ -372,6 +372,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Kimia Farma dan RSCM Perluas Layanan Sel Punca ke RSUD Tarakan",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togcq55630000/kimia-farma-dan-rscm-perluas-layanan-sel-punca-ke-rsud-tarakan",
+      "published_date": "2026-11-13T18:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kominfo Sulbar Ikuti Pelatihan Tata Kelola TIK Internasional untuk Perkuat Pemerintahan Digital",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togc0h3230000/kominfo-sulbar-ikuti-pelatihan-tata-kelola-tik-internasional-untuk-perkuat-pemerintahan-digital",
+      "published_date": "2026-11-13T17:45:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menko Airlangga Optimistis Prospek Ekonomi Indonesia 2027 Tetap Kuat",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togbaj4130000/menko-airlangga-optimistis-prospek-ekonomi-indonesia-2027-tetap-kuat",
+      "published_date": "2026-11-13T17:30:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survei LRP: Amran dan Yusril Teratas dalam Klaster Menteri sebagai Kandidat Wapres",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tofuc2522/survei-lrp-amran-dan-yusril-teratas-dalam-klaster-menteri-sebagai-kandidat-wapres",
+      "published_date": "2026-11-13T15:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSP Cup 2026 Jadi Ajang Silaturahmi dan Regenerasi Basket Putri Antarkomunitas",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/tog4zh348/csp-cup-2026-jadi-ajang-silaturahmi-dan-regenerasi-basket-putri-antarkomunitas",
+      "published_date": "2026-11-13T15:14:05+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ricuh Yogya Sampai Kampus UGM, Komnas HAM: Ada Indikasi Kuat Pelanggaran Polisi",
       "source": "Republika English",
@@ -475,41 +510,6 @@
       "source": "Republika English",
       "url": "https://rejogja.republika.co.id/berita/todd7b291/ums-jadi-pts-terproduktif-bidang-stem-seindonesia-menurut-diktisaintek-2026",
       "published_date": "2026-11-12T03:18:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presiden Prabowo Kebenaran Akhirnya Akan Terlihat",
-      "source": "Republika English",
-      "url": "https://republika.co.id/page/shorts/yt-todcc7642326194/presiden-prabowo-kebenaran-akhirnya-akan-terlihat",
-      "published_date": "2026-11-12T03:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wakaf Butuh Profesional, tetapi dari Mana Biaya untuk Membayar Mereka?",
-      "source": "Republika English",
-      "url": "https://opini.republika.co.id/berita/todbgj370/wakaf-butuh-profesional-tetapi-dari-mana-biaya-untuk-membayar-mereka",
-      "published_date": "2026-11-12T02:41:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemkot Ambon Luncurkan Enam Inovasi Proyek Perubahan demi Pelayanan Publik",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tocnch2830000/pemkot-ambon-luncurkan-enam-inovasi-proyek-perubahan-demi-pelayanan-publik",
-      "published_date": "2026-11-11T18:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fadli Zon Ajak Generasi Muda Teladani 19 Pahlawan Nasional Baru",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/toclyj4630000/fadli-zon-ajak-generasi-muda-teladani-19-pahlawan-nasional-baru",
-      "published_date": "2026-11-11T17:30:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Danantara Ubah Danareksa Jadi Holding Kawasan Industri, Kembalikan Nama ke Bisnis Investasi",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/tocl9g8730000/danantara-ubah-danareksa-jadi-holding-kawasan-industri-kembalikan-nama-ke-bisnis-investasi",
-      "published_date": "2026-11-11T17:15:16+00:00",
       "category": "Local Events"
     }
   ]
