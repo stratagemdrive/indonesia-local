@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "ARBI 15 November Lanjut, UBN: 10 Ribu Massa Bakal Kepung Tugu Proklamasi",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togyue451/arbi-15-november-lanjut-ubn-10-ribu-massa-bakal-kepung-tugu-proklamasi",
+      "published_date": "2026-11-14T01:59:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sejak 7 Abad Lalu, Teori Ibnu Khaldun Jelaskan Indikasi Israel Semakin Dekat dengan Kehancuran",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/togwja320/sejak-7-abad-lalu-teori-ibnu-khaldun-jelaskan-indikasi-israel-semakin-dekat-dengan-kehancuran",
+      "published_date": "2026-11-14T01:09:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Terungkap WNI Tentara Bayaran Rusia Dikontrak Mati atau Sampai Masa Perang Ukraina Berakhir",
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/tog6al320/terungkap-wni-tentara-bayaran-rusia-dikontrak-mati-atau-sampai-masa-perang-ukraina-berakhir",
@@ -125,23 +139,16 @@
       "url": "https://news.republika.co.id/berita/to6uag370/kebakaran-stasiun-gambir-diduga-akibat-fenomena-kelistrikan-kerugian-rp-200-juta",
       "published_date": "2026-11-08T14:44:40+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Garuda dan Citilink Siapkan Satu Juta Kursi Libur Akhir Tahun",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to6te2370/garuda-dan-citilink-siapkan-satu-juta-kursi-libur-akhir-tahun",
-      "published_date": "2026-11-08T14:25:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KPK: Penyitaan Rp 2 Miliar dari Dirut KAI Sudah Sejak Agustus 2025",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to5uke487/kpk-penyitaan-rp-2-miliar-dari-dirut-kai-sudah-sejak-agustus-2025",
-      "published_date": "2026-11-08T01:53:02+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Rio Capella Pompa Semangat Kader Hanura di Papua Barat Daya, Optimistis Lolos Parlemen 2029",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togxq6320/rio-capella-pompa-semangat-kader-hanura-di-papua-barat-daya-optimistis-lolos-parlemen-2029",
+      "published_date": "2026-11-14T01:34:54+00:00",
+      "category": "Military"
+    },
     {
       "title": "Gubernur Khofifah Perkuat Sinergi TNI-Polri-Ulama untuk Ketahanan Bangsa",
       "source": "Republika English",
@@ -274,16 +281,23 @@
       "url": "https://news.republika.co.id/berita/to5u52456/sejumlah-pebulutangkis-muda-diganjar-penghargaan-atas-prestasi-di-world-junior-championships-2026",
       "published_date": "2026-11-08T01:43:50+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sapma Pemuda Pancasila Dukung Program Polri Bersama Masyarakat",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/to5kc1484/sapma-pemuda-pancasila-dukung-program-polri-bersama-masyarakat",
-      "published_date": "2026-11-07T22:12:01+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Pertamina Trans Kontinental Beri Dukungan bagi Pejuang Karhutla",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/toh07a522/pertamina-trans-kontinental-beri-dukungan-bagi-pejuang-karhutla",
+      "published_date": "2026-11-14T02:28:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Presiden Berikan Tanda Kehormatan untuk Relawan Karhutla yang Gugur dan Cedera",
+      "source": "Republika English",
+      "url": "https://republika.co.id/page/shorts/yt-togxi1878874406/presiden-berikan-tanda-kehormatan-untuk-relawan-karhutla-yang-gugur-dan-cedera",
+      "published_date": "2026-11-14T01:30:01+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Cak Imin: Sosialisme Islam Jalan Ubah Takdir Kemiskinan",
       "source": "Republika English",
@@ -332,13 +346,6 @@
       "url": "https://khazanah.republika.co.id/berita/to50oh320/kemenhaj-dukung-arab-saudi-berantas-makelar-ilegal-perhajian",
       "published_date": "2026-11-07T15:07:29+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "KAI Uji Coba KRL INKA, Tegaskan tak Impor KRL Jepang",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to3v9x502/kai-uji-coba-krl-inka-tegaskan-tak-impor-krl-jepang",
-      "published_date": "2026-11-07T00:13:09+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -362,16 +369,51 @@
       "url": "https://ekonomi.republika.co.id/berita/to9quv490/marak-sentimen-positif-ihsg-dan-rupiah-kompak-menguat",
       "published_date": "2026-11-10T04:23:19+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Maybank Indonesia Perkuat Literasi Keuangan Jurnalis Lewat Fellowship",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/to3yeg490/maybank-indonesia-perkuat-literasi-keuangan-jurnalis-lewat-fellowship",
-      "published_date": "2026-11-07T01:20:40+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Terapkan Materi Go Green : Ubah Limbah Tekstil Jadi Produk Bernilai, EconiQ Siap Tembus Pasar Global",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/toh0k0522/terapkan-materi-go-green-ubah-limbah-tekstil-jadi-produk-bernilai-econiq-siap-tembus-pasar-global",
+      "published_date": "2026-11-14T02:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RI-Brasil Jajaki Pembiayaan Konservasi Hutan dan Sertifikasi Karbon",
+      "source": "Republika English",
+      "url": "https://esgnow.republika.co.id/berita/toh07u416/ribrasil-jajaki-pembiayaan-konservasi-hutan-dan-sertifikasi-karbon",
+      "published_date": "2026-11-14T02:28:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rasa Takut kepada Allah SWT yang Mulai Hilang Saat Ini, Berikut 9 Perkara untuk Menumbuhkannya",
+      "source": "Republika English",
+      "url": "https://khazanah.republika.co.id/berita/togy4g320/rasa-takut-kepada-allah-swt-yang-mulai-hilang-saat-ini-berikut-9-perkara-untuk-menumbuhkannya",
+      "published_date": "2026-11-14T02:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asuransi Kredit Indonesia Bantu Pengembangan Usaha di Purwokerto",
+      "source": "Republika English",
+      "url": "https://rejogja.republika.co.id/berita/togyz8456/asuransi-kredit-indonesia-bantu-pengembangan-usaha-di-purwokerto",
+      "published_date": "2026-11-14T02:01:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disiplin Ketat dan Sentuhan Personal, Rahasia Metode Kepelatihan Pochettino yang akan Tangani MU",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togyyd348/disiplin-ketat-dan-sentuhan-personal-rahasia-metode-kepelatihan-pochettino-yang-akan-tangani-mu",
+      "published_date": "2026-11-14T02:01:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dubes Palestina, Suriah, dan Perwakilan Somalia Paparkan Situasi Terkini di Hadapan MUI",
+      "source": "Republika English",
+      "url": "https://news.republika.co.id/berita/togw1j366/dubes-palestina-suriah-dan-perwakilan-somalia-paparkan-situasi-terkini-di-hadapan-mui",
+      "published_date": "2026-11-14T01:38:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Kimia Farma dan RSCM Perluas Layanan Sel Punca ke RSUD Tarakan",
       "source": "Republika English",
@@ -468,48 +510,6 @@
       "source": "Republika English",
       "url": "https://news.republika.co.id/berita/toei1b5730000/dubes-jerman-penurunan-tarif-kunci-pacu-investasi-di-industri-dan-energi-ri",
       "published_date": "2026-11-12T18:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BPOM Targetkan Kemandirian Bahan Baku Obat, Lepas dari Ketergantungan Impor 90 Persen",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/toefxg8830000/bpom-targetkan-kemandirian-bahan-baku-obat-lepas-dari-ketergantungan-impor-90-persen",
-      "published_date": "2026-11-12T17:15:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gibran's Last Day, Hari Panjang Wapres Sebelum Mundur",
-      "source": "Republika English",
-      "url": "https://visual.republika.co.id/berita/toedwm375/gibrans-last-day-hari-panjang-wapres-sebelum-mundur",
-      "published_date": "2026-11-12T16:31:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MMSGI Integrasikan Data dan Layanan SDM dengan Teknologi Digital",
-      "source": "Republika English",
-      "url": "https://esgnow.republika.co.id/berita/toe8dq416/mmsgi-integrasikan-data-dan-layanan-sdm-dengan-teknologi-digital",
-      "published_date": "2026-11-12T16:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PII Desat Aparat Usut Kasus Penyadapan tanpa Tebang Pilih",
-      "source": "Republika English",
-      "url": "https://news.republika.co.id/berita/todddt483/pii-desat-aparat-usut-kasus-penyadapan-tanpa-tebang-pilih",
-      "published_date": "2026-11-12T03:22:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemerintah Pastikan Pasokan Listrik dan Air Batam Cukup untuk Industri Pusat Data",
-      "source": "Republika English",
-      "url": "https://ekonomi.republika.co.id/berita/todd9m490/pemerintah-pastikan-pasokan-listrik-dan-air-batam-cukup-untuk-industri-pusat-data",
-      "published_date": "2026-11-12T03:20:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UMS Jadi PTS Terproduktif Bidang STEM Se-Indonesia Menurut Diktisaintek 2026",
-      "source": "Republika English",
-      "url": "https://rejogja.republika.co.id/berita/todd7b291/ums-jadi-pts-terproduktif-bidang-stem-seindonesia-menurut-diktisaintek-2026",
-      "published_date": "2026-11-12T03:18:47+00:00",
       "category": "Local Events"
     }
   ]
